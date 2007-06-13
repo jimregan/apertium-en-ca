@@ -1,5 +1,4 @@
 * text=auto !eol
-/.tagger_unsupervised -text
 /AUTHORS -text
 /COPYING -text
 /ChangeLog -text
