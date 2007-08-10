@@ -23,12 +23,14 @@
 /autogen.sh -text
 /buscaPar.xsl -text
 /ca-en-supervised.make -text
+/ca-en-unicode.prob -text svneol=unset#unset
 /ca-en-unsupervised.make -text
 /ca-en.lextor -text
 /ca-en.prob -text svneol=unset#unset
 ca-tagger-data/README -text
 /configure.ac -text
 /en-ca-supervised.make -text
+/en-ca-unicode.prob -text svneol=unset#unset
 /en-ca-unsupervised.make -text
 /en-ca.lextor -text
 /en-ca.prob -text
