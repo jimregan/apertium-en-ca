@@ -1,0 +1,42 @@
+* text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/apertium-en-ca.ca-en.t1x -text
+/apertium-en-ca.ca-en.t2x -text
+/apertium-en-ca.ca-en.t3x -text
+/apertium-en-ca.ca.dix -text
+/apertium-en-ca.ca.tsx -text
+/apertium-en-ca.en-ca.dix -text
+/apertium-en-ca.en-ca.t1x -text
+/apertium-en-ca.en-ca.t2x -text
+/apertium-en-ca.en-ca.t3x -text
+/apertium-en-ca.en.metadix -text
+/apertium-en-ca.en.tsx -text
+/apertium-en-ca.post-ca.dix -text
+/apertium-en-ca.post-en.dix -text
+/apertium-en-ca.trules-ca-en.xml -text
+/apertium-en-ca.trules-en-ca.xml -text
+/autogen.sh -text
+/buscaPar.xsl -text
+/ca-en-latin1.prob -text svneol=unset#unset
+/ca-en-supervised.make -text
+/ca-en-unsupervised.make -text
+/ca-en.lextor -text
+/ca-en.prob -text svneol=unset#unset
+ca-tagger-data/README -text
+/configure.ac -text
+/en-ca-latin1.prob -text
+/en-ca-supervised.make -text
+/en-ca-unsupervised.make -text
+/en-ca.lextor -text
+/en-ca.prob -text
+en-tagger-data/README -text
+lextor-data/README -text
+/lextor.make -text
+/modes.xml -text
+/principal.xsl -text
+/translate-to-default-equivalent.xsl -text
