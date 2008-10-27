@@ -18,8 +18,6 @@
 /apertium-en-ca.en.tsx -text
 /apertium-en-ca.post-ca.dix -text
 /apertium-en-ca.post-en.dix -text
-/apertium-en-ca.trules-ca-en.xml -text
-/apertium-en-ca.trules-en-ca.xml -text
 /autogen.sh -text
 /buscaPar.xsl -text
 /ca-en-latin1.prob -text svneol=unset#unset
