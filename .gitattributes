@@ -41,4 +41,5 @@ lextor-data/README -text
 /lextor.make -text
 /modes.xml -text
 /principal.xsl -text
+/testvoc-en-ca -text
 /translate-to-default-equivalent.xsl -text
