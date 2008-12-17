@@ -31,6 +31,7 @@
 /ca-en.prob -text svneol=unset#unset
 ca-tagger-data/README -text
 /configure.ac -text
+/empty.t1x -text
 /en-ca-latin1.prob -text
 /en-ca-supervised.make -text
 /en-ca-unsupervised.make -text
