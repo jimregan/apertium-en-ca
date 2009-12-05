@@ -5,6 +5,7 @@
 /Makefile.am -text
 /NEWS -text
 /README -text
+/alt.xsl -text
 /apertium-en-ca.ca-en-poly.dix -text
 /apertium-en-ca.ca-en.t1x -text
 /apertium-en-ca.ca-en.t2x -text
