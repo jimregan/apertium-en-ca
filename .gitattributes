@@ -40,6 +40,8 @@ ca-tagger-data/README -text
 /en-ca.lextor -text
 /en-ca.prob -text
 en-tagger-data/README -text
+/filter.sh -text
+/filter.xsl -text
 lextor-data/README -text
 /lextor.make -text
 /modes.xml -text
