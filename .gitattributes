@@ -45,7 +45,6 @@ en-tagger-data/README -text
 lextor-data/README -text
 /lextor.make -text
 /modes.xml -text
-/pluck-missing.sh -text
 /principal.xsl -text
 /testvoc-en-ca -text
 /translate-to-default-equivalent.xsl -text
