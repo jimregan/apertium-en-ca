@@ -44,6 +44,7 @@ en-tagger-data/README -text
 /filter.xsl -text
 lextor-data/README -text
 /lextor.make -text
+/metadix.dtd -text
 /modes.xml -text
 /principal.xsl -text
 /testvoc-en-ca -text
