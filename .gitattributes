@@ -42,6 +42,7 @@ ca-tagger-data/README -text
 en-tagger-data/README -text
 /filter.sh -text
 /filter.xsl -text
+/filterbil.xsl -text
 lextor-data/README -text
 /lextor.make -text
 /metadix.dtd -text
