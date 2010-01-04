@@ -98,10 +98,6 @@
     <sdef n="apos" /> 
     <sdef n="percent" /> 
     <sdef n="mon" /> 
-    <sdef n=":0" /> 
-    <sdef n=":1" /> 
-    <sdef n=":2" /> 
-    <sdef n=":3" /> 
   </sdefs>
   <pardefs>
 
@@ -23674,7 +23670,7 @@
 <e>       <p><l>corporatism<s n="n"/></l>         <r>corporativisme<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>gluttony<s n="n"/></l>            <r>golosia<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>paronymy<s n="n"/></l>            <r>paronímia<s n="n"/><s n="f"/></r></p></e>
-<e>       <p><l>anesthesiology<s n="n"/></l>      <r>anestesiologia<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>anaesthesiology<s n="n"/></l>      <r>anestesiologia<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>fibroma<s n="n"/></l>             <r>fibroma<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>pultrusion<s n="n"/></l>          <r>pultrusió<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>spinel<s n="n"/></l>              <r>espinel·la<s n="n"/><s n="f"/></r></p></e>
@@ -45103,7 +45099,7 @@
 <e slr="adonar-se de D"><p><l>realise<s n="vblex"/></l><r>adonar-se<g><b/>de</g><s n="vblex"/><s n="pron"/></r></p></e>
 <e slr="advertència"><p><l>warning<s n="n"/></l>  <r>advertència<s n="n"/><s n="f"/></r></p></e>
 <e slr="afeitament"><p><l>shaving<s n="n"/></l>   <r>afaitament<s n="n"/><s n="m"/></r></p></e>
-<e slr="aficionat D"><p><l>fan<s n="n"/></l><r>aficionat<s n="n"/><s n="m"/></r></p></e>
+ <e slr="aficionat D" srl="fan D"><p><l>fan<s n="n"/></l><r>aficionat<s n="n"/><s n="m"/></r></p></e>
 <e slr="afusellament"><p><l>shooting<s n="n"/></l><r>afusellament<s n="n"/><s n="m"/></r></p></e>
 <e slr="agafament"><p><l>hold<s n="n"/></l>       <r>agafament<s n="n"/><s n="m"/></r></p></e>
 <e slr="agafar D"><p><l>take<s n="vblex"/></l>    <r>agafar<s n="vblex"/></r></p></e>
@@ -45830,18 +45826,10 @@
 
 <e r="LR"><p><l>abuse<s n="n"/></l>               <r>abús<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>misuse<s n="n"/></l>              <r>abús<s n="n"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>abuse<s n="n"/></l>               <r>abús<s n="n"/><s n=":0"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>misuse<s n="n"/></l>              <r>abús<s n="n"/><s n=":1"/><s n="m"/></r></p></e>
 
 <e srl="adoration D"><p><l>adoration<s n="n"/></l><r>adoració<s n="n"/><s n="f"/></r></p></e>
 <e srl="worship"><p><l>worship<s n="n"/></l>      <r>adoració<s n="n"/><s n="f"/></r></p></e>
 
-<e r="LR"><p><l>adoration<s n="n"/></l>           <r>adoració<s n="n"/><s n="f"/></r></p></e>
-<e r="LR"><p><l>worship<s n="n"/></l>             <r>adoració<s n="n"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>adoration<s n="n"/></l>           <r>adoració<s n="n"/><s n=":0"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>worship<s n="n"/></l>             <r>adoració<s n="n"/><s n=":1"/><s n="f"/></r></p></e>
-
-<e srl="fan D"><p><l>fan<s n="n"/></l>             <r>aficionat<s n="n"/><s n="m"/></r></p></e>
 <e srl="amateur"><p><l>amateur<s n="n"/></l>       <r>aficionat<s n="n"/><s n="m"/></r></p></e>
 <e r="RL" srl="fan D"><p><l>fan<s n="n"/></l>      <r>aficionat<s n="n"/><s n="f"/></r></p></e>
 <e r="RL" srl="amateur"><p><l>amateur<s n="n"/></l><r>aficionat<s n="n"/><s n="f"/></r></p></e>
@@ -45858,34 +45846,24 @@
 <e r="LR"><p><l>notice<s n="n"/></l>         <r>anunci<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>commercial<s n="n"/></l>     <r>anunci<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>advert<s n="n"/></l>         <r>anunci<s n="n"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>announcement<s n="n"/></l>   <r>anunci<s n="n"/><s n=":0"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>notice<s n="n"/></l>         <r>anunci<s n="n"/><s n=":1"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>commercial<s n="n"/></l>     <r>anunci<s n="n"/><s n=":2"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>advert<s n="n"/></l>         <r>anunci<s n="n"/><s n=":3"/><s n="m"/></r></p></e>
 
 <e srl="arrival D"><p><l>arrival<s n="n"/></l>    <r>arribada<s n="n"/><s n="f"/></r></p></e>
 <e srl="finish"><p><l>finish<s n="n"/></l><r>arribada<s n="n"/><s n="f"/></r></p></e>
 
 <e r="RL"><p><l>arrival<s n="n"/></l>        <r>arribada<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>finish<s n="n"/></l>         <r>arribada<s n="n"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>arrival<s n="n"/></l>        <r>arribada<s n="n"/><s n=":0"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>finish<s n="n"/></l>         <r>arribada<s n="n"/><s n=":1"/><s n="f"/></r></p></e>
 
 <e srl="aspect D"><p><l>aspect<s n="n"/></l>      <r>aspecte<s n="n"/><s n="m"/></r></p></e>
 <e srl="appearance"><p><l>appearance<s n="n"/></l><r>aspecte<s n="n"/><s n="m"/></r></p></e>
 
 <e r="LR"><p><l>aspect<s n="n"/></l>         <r>aspecte<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>appearance<s n="n"/></l>     <r>aspecte<s n="n"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>aspect<s n="n"/></l>         <r>aspecte<s n="n"/><s n=":0"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>appearance<s n="n"/></l>     <r>aspecte<s n="n"/><s n=":1"/><s n="m"/></r></p></e>
 
 <e srl="council D"><p><l>council<s n="n"/></l>    <r>consell<s n="n"/><s n="m"/></r></p></e>
 <e srl="advice"><p><l>advice<s n="n"/></l>        <r>consell<s n="n"/><s n="m"/></r></p></e>
 
 <e r="LR"><p><l>council<s n="n"/></l>        <r>consell<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>advice<s n="n"/></l>         <r>consell<s n="n"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>council<s n="n"/></l>        <r>consell<s n="n"/><s n=":0"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>advice<s n="n"/></l>         <r>consell<s n="n"/><s n=":1"/><s n="m"/></r></p></e>
 
 <e srl="anger D"><p><l>anger<s n="n"/></l>        <r>ràbia<s n="n"/><s n="f"/></r></p></e>
 <e srl="rabies"><p><l>rabies<s n="n"/></l>        <r>ràbia<s n="n"/><s n="f"/></r></p></e>
@@ -45894,17 +45872,12 @@
 <e r="LR"><p><l>anger<s n="n"/></l>          <r>ràbia<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>rabies<s n="n"/></l>         <r>ràbia<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>rage<s n="n"/></l>           <r>ràbia<s n="n"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>anger<s n="n"/></l>          <r>ràbia<s n="n"/><s n=":0"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>rabies<s n="n"/></l>         <r>ràbia<s n="n"/><s n=":1"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>rage<s n="n"/></l>           <r>ràbia<s n="n"/><s n=":2"/><s n="f"/></r></p></e>
 
 <e srl="answer D"><p><l>answer<s n="n"/></l>      <r>resposta<s n="n"/><s n="f"/></r></p></e>
 <e srl="response"><p><l>response<s n="n"/></l>    <r>resposta<s n="n"/><s n="f"/></r></p></e>
 
 <e r="LR"><p><l>answer<s n="n"/></l>         <r>resposta<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>response<s n="n"/></l>       <r>resposta<s n="n"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>answer<s n="n"/></l>         <r>resposta<s n="n"/><s n=":0"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>response<s n="n"/></l>       <r>resposta<s n="n"/><s n=":1"/><s n="f"/></r></p></e>
 
 <e srl="audience D"><p><l>audience<s n="n"/></l>  <r>audiència<s n="n"/><s n="f"/></r></p></e>
 <e srl="hearing"><p><l>hearing<s n="n"/></l><r>audiència<s n="n"/><s n="f"/></r></p></e>

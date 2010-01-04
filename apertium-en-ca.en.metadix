@@ -21867,10 +21867,8 @@
     <e lm="painter"><i>painter</i><par n="house__n"/>    </e>
     <e lm="painting"><i>painting</i><par n="house__n"/>    </e>
     <e lm="pair"><i>pair</i><par n="house__n"/>    </e>
-    <e lm="pyjamas" r="LR"><i>pyjamas</i><par n="politics__n"/>    </e>
-    <e lm="pyjamas" r="LR"><p><l>pajamas</l><r>pyjamas</r></p><par n="politics__n"/>    </e>
-    <e lm="pyjamas" r="RL" alt="en_GB"><i>pyjamas</i><par n="politics__n"/>    </e>
-    <e lm="pyjamas" r="RL" alt="en_US"><p><l>pajamas</l><r>pyjamas</r></p><par n="politics__n"/>    </e>
+    <e lm="pyjamas"><i>pyjamas</i><par n="politics__n"/>    </e>
+    <e lm="pajamas"><i>pajamas</i><par n="politics__n"/>    </e>
     <e lm="palace"><i>palace</i><par n="house__n"/>    </e>
     <e lm="palaeontologist"><i>pal</i><par n="e_ae"/><i>ontologist</i><par n="house__n"/>    </e>
     <e lm="palate"><i>palate</i><par n="house__n"/>    </e>
