@@ -37496,7 +37496,7 @@
 <e lm="anemometry"><i>anemometr</i><par n="bab/y__n"/></e>
 <e lm="anemoscope"><i>anemoscope</i><par n="house__n"/></e>
 <e lm="anergy"><i>anerg</i><par n="bab/y__n"/></e>
-<e lm="anesthesiology"><i>anesthesiolog</i><par n="bab/y__n"/></e>
+<e lm="anesthesiology"><i>an</i><par n="e_ae"/><i>sthesiolog</i><par n="bab/y__n"/></e>
 <e lm="dill"><i>dill</i><par n="house__n"/></e>
 <e lm="anethole"><i>anethole</i><par n="house__n"/></e>
 <e lm="Àngela"><i>Àngela</i><par n="Mary__np"/></e>
