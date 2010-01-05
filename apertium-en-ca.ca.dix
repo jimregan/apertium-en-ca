@@ -83982,7 +83982,21 @@
 <e lm="xarxa en estrella"><i>xarx</i><par n="abell/a__n"/><p><l><b/>en<b/>estrella</l><r><g><b/>en<b/>estrella</g></r></p></e>
 <e lm="xarxa troncal"><p><l>xarxa<b/>troncal</l><r>xarxa<b/>troncal<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="xarxa troncal"><p><l>xarxes<b/>troncals</l><r>xarxa<b/>troncal<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-
+<e lm="xarxa troncal multimèdia"><p><l>xarxa<b/>troncal<b/>multimèdia</l><r>xarxa<b/>troncal<b/>multimèdia<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="arquitectura de xarxa"><i>arquitectur</i><par n="abell/a__n"/><p><l><b/>de<b/>xarxa</l><r><g><b/>de<b/>xarxa</g></r></p></e>
+<e lm="capa de xarxa"><i>cap</i><par n="abell/a__n"/><p><l><b/>de<b/>xarxa</l><r><g><b/>de<b/>xarxa</g></r></p></e>
+<e lm="capçalera de xarxa"><i>capçaler</i><par n="abell/a__n"/><p><l><b/>de<b/>xarxa</l><r><g><b/>de<b/>xarxa</g></r></p></e>
+<e lm="centre d'informació de xarxa"><i>centre</i><par n="abric__n"/><p><l><b/>d'informació<b/>de<b/>xarxa</l><r><g><b/>d'informació<b/>de<b/>xarxa</g></r></p></e>
+<e lm="xarxa de microones"><i>xarx</i><par n="abell/a__n"/><p><l><b/>de<b/>microones</l><r><g><b/>de<b/>microones</g></r></p></e>
+<e lm="màscara de xarxa"><i>màscar</i><par n="abell/a__n"/><p><l><b/>de<b/>xarxa</l><r><g><b/>de<b/>xarxa</g></r></p></e>
+<e lm="planificació de xarxa"><i>planificaci</i><par n="acci/ó__n"/><p><l><b/>de<b/>xarxa</l><r><g><b/>de<b/>xarxa</g></r></p></e>
+<e lm="proveïdor de serveis de xarxa"><i>proveïdor</i><par n="abric__n"/><p><l><b/>de<b/>serveis<b/>de<b/>xarxa</l><r><g><b/>de<b/>serveis<b/>de<b/>xarxa</g></r></p></e>
+<e lm="punt d'accés a la xarxa"><i>punt</i><par n="abric__n"/><p><l><b/>d'accés<b/>a<b/>la<b/>xarxa</l><r><g><b/>d'accés<b/>a<b/>la<b/>xarxa</g></r></p></e>
+<e lm="punt de terminació de xarxa"><i>punt</i><par n="abric__n"/><p><l><b/>de<b/>terminació<b/>de<b/>xarxa</l><r><g><b/>de<b/>terminació<b/>de<b/>xarxa</g></r></p></e>
+<e lm="subxarxa"><i>subxarx</i><par n="abell/a__n"/></e>
+<e lm="targeta de xarxa"><i>target</i><par n="abell/a__n"/><p><l><b/>de<b/>xarxa</l><r><g><b/>de<b/>xarxa</g></r></p></e>
+<e lm="terminació de xarxa"><i>terminaci</i><par n="acci/ó__n"/><p><l><b/>de<b/>xarxa</l><r><g><b/>de<b/>xarxa</g></r></p></e>
+<e lm="traductor d'adreces de xarxa"><i>proveïdor</i><par n="abric__n"/><p><l><b/>d'adreces<b/>de<b/>xarxa</l><r><g><b/>d'adreces<b/>de<b/>xarxa</g></r></p></e>
 
 <e lm="guardià"><i>guardi</i><par n="americ/à__n"/></e>
 <e lm="exponencial"><i>exponencial</i><par n="abdominal__adj"/></e>

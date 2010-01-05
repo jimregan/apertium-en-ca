@@ -670,6 +670,23 @@
 <e a="termcat"><p><l>tokenbus<b/>network<s n="n"/></l><r>xarxa<g><b/>en<b/>bus<b/>de<b/>testimoni</g><s n="n"/><s n="f"/></r></p></e>
 <e a="termcat"><p><l>star<b/>network<s n="n"/></l><r>xarxa<g><b/>en<b/>estrella</g><s n="n"/><s n="f"/></r></p></e>
 <e a="termcat"><p><l>backbone<b/>network<s n="n"/></l><r>xarxa<b/>troncal<s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>mbone<s n="n"/></l><r>xarxa<b/>troncal<b/>multimèdia<s n="n"/><s n="f"/></r></p></e>
+<e a="termcat" r="LR"><p><l>multicast<b/>backbone<s n="n"/></l><r>xarxa<b/>troncal<b/>multimèdia<s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>network<b/>architecture<s n="n"/></l><r>arquitectura<g><b/>de<b/>xarxa</g><s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>network<b/>layer<s n="n"/></l><r>capa<g><b/>de<b/>xarxa</g><s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>network<b/>header<s n="n"/></l><r>capçalera<g><b/>de<b/>xarxa</g><s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>network<b/>information<b/>centre<s n="n"/></l><r>centre<g><b/>d'informació<b/>de<b/>xarxa</g><s n="n"/><s n="m"/></r></p></e>
+<e a="termcat"><p><l>microwave<b/>network<s n="n"/></l><r>xarxa<g><b/>de<b/>microones</g><s n="n"/><s n="f"/></r></p></e>
+<e a="termcat" r="LR"><p><l>microwave<b/>circuit<s n="n"/></l><r>xarxa<g><b/>de<b/>microones</g><s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>network<b/>mask<s n="n"/></l><r>màscara<g><b/>de<b/>xarxa</g><s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>network<b/>planning<s n="n"/></l><r>planificació<g><b/>de<b/>xarxa</g><s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>network<b/>service<b/>provider<s n="n"/></l><r>proveïdor<g><b/>de<b/>serveis<b/>de<b/>xarxa</g><s n="n"/><s n="m"/></r></p></e>
+<e a="termcat"><p><l>network<b/>access<b/>point<s n="n"/></l><r>punt<g><b/>d'accés<b/>a<b/>la<b/>xarxa</g><s n="n"/><s n="m"/></r></p></e>
+<e a="termcat"><p><l>network<b/>interface<b/>device<s n="n"/></l><r>punt<g><b/>de<b/>terminació<b/>de<b/>xarxa</g><s n="n"/><s n="m"/></r></p></e>
+<e a="termcat"><p><l>network<b/>interface<b/>card<s n="n"/></l><r>targeta<g><b/>de<b/>xarxa</g><s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>network<b/>termination<s n="n"/></l><r>terminació<g><b/>de<b/>xarxa</g><s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>subnetwork<s n="n"/></l><r>subxarxa<s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>network<b/>service<b/>provider<s n="n"/></l><r>traductor<g><b/>d'adreces<b/>de<b/>xarxa</g><s n="n"/><s n="m"/></r></p></e>
 
 
 <!-- ADJECTIUS -->

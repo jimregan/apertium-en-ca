@@ -22426,6 +22426,23 @@
     <e lm="tokenbus network"><i>tokenbus<b/>network</i><par n="house__n"/>    </e>
     <e lm="star network"><i>star<b/>network</i><par n="house__n"/>    </e>
     <e lm="backbone network"><i>backbone<b/>network</i><par n="house__n"/>    </e>
+    <e lm="mbone"><i>mbone</i><par n="east__n"/>    </e>
+    <e lm="multicase backbone"><i>multicast<b/>backbone</i><par n="east__n"/>    </e>
+    <e lm="network architecture"><i>network<b/>architecture</i><par n="house__n"/>    </e>
+    <e lm="network layer"><i>network<b/>layer</i><par n="house__n"/>    </e>
+    <e lm="network header"><i>network<b/>header</i><par n="house__n"/>    </e>
+    <e lm="network mask"><i>network<b/>mask</i><par n="house__n"/>    </e>
+    <e lm="network planning"><i>network<b/>planning</i><par n="house__n"/>    </e>
+    <e lm="network service provider"><i>network<b/>service<b/>provider</i><par n="house__n"/>    </e>
+    <e lm="network access provider"><i>network<b/>access<b/>provider</i><par n="house__n"/>    </e>
+    <e lm="network information centre"><i>network<b/>information<b/>cent</i><par n="cent/re__n"/>    </e>
+    <e lm="network interface device"><i>network<b/>interface<b/>device</i><par n="house__n"/>    </e>
+    <e lm="network interface card"><i>network<b/>interface<b/>card</i><par n="house__n"/>    </e>
+    <e lm="microwave network"><i>microwave<b/>network</i><par n="house__n"/>    </e>
+    <e lm="microwave circuit"><i>microwave<b/>circuit</i><par n="house__n"/>    </e>
+    <e lm="network termination"><i>network<b/>termination</i><par n="house__n"/>    </e>
+    <e lm="network address translator"><i>network<b/>address<b/>translator</i><par n="house__n"/>    </e>
+    <e lm="subnetwork"><i>subnetwork</i><par n="house__n"/>    </e>
     <e lm="lost in time"><i>lost<b/>in<b/>time</i><par n="expensive__adj"/>    </e>
     <e lm="railway junction"><i>railway<b/>junction</i><par n="house__n"/>    </e>
     <e lm="road junction"><i>road<b/>junction</i><par n="house__n"/>    </e>
