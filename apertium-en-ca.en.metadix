@@ -22394,6 +22394,10 @@
     <e lm="redeemable share"><i>redeemable<b/>share</i><par n="house__n"/>    </e>
     <e lm="convertible share"><i>convertible<b/>share</i><par n="house__n"/>    </e>
     <e lm="golden share"><i>golden<b/>share</i><par n="house__n"/>    </e>
+    <e lm="founding shareholder"><i>founding<b/>shareholder</i><par n="house__n"/>    </e>
+    <e lm="majority shareholder"><i>majority<b/>shareholder</i><par n="house__n"/>    </e>
+    <e lm="minority shareholder"><i>minority<b/>shareholder</i><par n="house__n"/>    </e>
+    <e lm="founder shareholder"><i>founder<b/>shareholder</i><par n="house__n"/>    </e>
     <e lm="railway junction"><i>railway<b/>junction</i><par n="house__n"/>    </e>
     <e lm="road junction"><i>road<b/>junction</i><par n="house__n"/>    </e>
     <e lm="dry season"><i>dry<b/>season</i><par n="house__n"/>    </e>

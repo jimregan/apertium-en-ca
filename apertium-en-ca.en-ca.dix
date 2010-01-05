@@ -631,6 +631,13 @@
 <e a="termcat"><p><l>redeemable<b/>share<s n="n"/></l><r>acció<b/>amortitzable<s n="n"/><s n="f"/></r></p></e>
 <e a="termcat"><p><l>convertible<b/>share<s n="n"/></l><r>acció<b/>convertible<s n="n"/><s n="f"/></r></p></e>
 <e a="termcat"><p><l>golden<b/>share<s n="n"/></l><r>acció<g><b/>d'or</g><s n="n"/><s n="f"/></r></p></e>
+<e a="termcat" r="LR"><p><l>founder<b/>shareholder<s n="n"/></l><r>accionista<b/>fundador<s n="n"/><s n="GD"/></r></p></e>
+<e a="termcat" r="LR"><p><l>founding<b/>shareholder<s n="n"/></l><r>accionista<b/>fundador<s n="n"/><s n="GD"/></r></p></e>
+<e a="termcat" r="RL"><p><l>founding<b/>shareholder<s n="n"/></l><r>accionista<b/>fundador<s n="n"/></r></p></e>
+<e a="termcat" r="LR"><p><l>majority<b/>shareholder<s n="n"/></l><r>accionista<b/>majoritari<s n="n"/><s n="GD"/></r></p></e>
+<e a="termcat" r="RL"><p><l>majority<b/>shareholder<s n="n"/></l><r>accionista<b/>majoritari<s n="n"/></r></p></e>
+<e a="termcat" r="LR"><p><l>minority<b/>shareholder<s n="n"/></l><r>accionista<b/>minoritari<s n="n"/><s n="GD"/></r></p></e>
+<e a="termcat" r="RL"><p><l>minority<b/>shareholder<s n="n"/></l><r>accionista<b/>minoritari<s n="n"/></r></p></e>
 
 
 <!-- ADJECTIUS -->

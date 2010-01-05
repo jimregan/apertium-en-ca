@@ -83932,6 +83932,18 @@
 <e lm="acció convertible"><p><l>acció<b/>convertible</l><r>acció<b/>convertible<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="acció convertible"><p><l>accions<b/>convertibles</l><r>acció<b/>convertible<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="acció d'or"><i>acci</i><par n="acci/ó__n"/><p><l><b/>d'or</l><r><g><b/>d'or</g></r></p></e>
+<e lm="accionista fundador"><p><l>accionista<b/>fundador</l><r>accionista<b/>fundador<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="accionista fundador"><p><l>accionistes<b/>fundadors</l><r>accionista<b/>fundador<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="accionista fundador"><p><l>accionista<b/>fundadora</l><r>accionista<b/>fundador<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="accionista fundador"><p><l>accionistes<b/>fundadores</l><r>accionista<b/>fundador<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="accionista majoritari"><p><l>accionista<b/>majoritari</l><r>accionista<b/>majoritari<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="accionista majoritari"><p><l>accionistes<b/>majoritaris</l><r>accionista<b/>majoritari<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="accionista majoritari"><p><l>accionista<b/>majoritària</l><r>accionista<b/>majoritari<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="accionista majoritari"><p><l>accionistes<b/>majoritàries</l><r>accionista<b/>majoritari<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="accionista minoritari"><p><l>accionista<b/>minoritari</l><r>accionista<b/>minoritari<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="accionista minoritari"><p><l>accionistes<b/>minoritaris</l><r>accionista<b/>minoritari<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="accionista minoritari"><p><l>accionista<b/>minoritària</l><r>accionista<b/>minoritari<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="accionista minoritari"><p><l>accionistes<b/>minoritàries</l><r>accionista<b/>minoritari<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 
 
 <e lm="guardià"><i>guardi</i><par n="americ/à__n"/></e>
