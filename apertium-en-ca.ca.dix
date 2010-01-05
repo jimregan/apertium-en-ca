@@ -83944,6 +83944,18 @@
 <e lm="accionista minoritari"><p><l>accionistes<b/>minoritaris</l><r>accionista<b/>minoritari<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="accionista minoritari"><p><l>accionista<b/>minoritària</l><r>accionista<b/>minoritari<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="accionista minoritari"><p><l>accionistes<b/>minoritàries</l><r>accionista<b/>minoritari<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="acció pròpia"><p><l>acció<b/>pròpia</l><r>acció<b/>pròpia<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="acció pròpia"><p><l>accions<b/>pròpies</l><r>acció<b/>pròpia<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="acció sense dret de vot"><i>acci</i><par n="acci/ó__n"/><p><l><b/>sense<b/>dret<b/>de<b/>vot</l><r><g><b/>sense<b/>dret<b/>de<b/>vot</g></r></p></e>
+<e lm="acció sense vot"><i>acci</i><par n="acci/ó__n"/><p><l><b/>sense<b/>vot</l><r><g><b/>sense<b/>vot</g></r></p></e>
+<e lm="acció sindicada"><p><l>acció<b/>sindicada</l><r>acció<b/>sindicada<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="acció sindicada"><p><l>accions<b/>sindicades</l><r>acció<b/>sindicada<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="acció vella"><p><l>acció<b/>vella</l><r>acció<b/>vella<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="acció vella"><p><l>accions<b/>velles</l><r>acció<b/>vella<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="acció excupó"><p><l>acció<b/>excupó</l><r>acció<b/>excupó<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="acció excupó"><p><l>accions<b/>excupons</l><r>acció<b/>excupó<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="acció exdret"><p><l>acció<b/>exdret</l><r>acció<b/>exdret<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="acció exdret"><p><l>accions<b/>exdrets</l><r>acció<b/>exdret<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 
 
 <e lm="guardià"><i>guardi</i><par n="americ/à__n"/></e>

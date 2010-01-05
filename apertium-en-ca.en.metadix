@@ -22398,6 +22398,11 @@
     <e lm="majority shareholder"><i>majority<b/>shareholder</i><par n="house__n"/>    </e>
     <e lm="minority shareholder"><i>minority<b/>shareholder</i><par n="house__n"/>    </e>
     <e lm="founder shareholder"><i>founder<b/>shareholder</i><par n="house__n"/>    </e>
+    <e lm="non-voting share"><i>non-voting<b/>share</i><par n="house__n"/>    </e>
+    <e lm="own share"><i>own<b/>share</i><par n="house__n"/>    </e>
+    <e lm="syndicated share"><i>syndicated<b/>share</i><par n="house__n"/>    </e>
+    <e lm="old share"><i>old<b/>share</i><par n="house__n"/>    </e>
+    <e lm="ex-rights"><i>ex-rights</i><par n="politics__n"/>    </e>
     <e lm="railway junction"><i>railway<b/>junction</i><par n="house__n"/>    </e>
     <e lm="road junction"><i>road<b/>junction</i><par n="house__n"/>    </e>
     <e lm="dry season"><i>dry<b/>season</i><par n="house__n"/>    </e>

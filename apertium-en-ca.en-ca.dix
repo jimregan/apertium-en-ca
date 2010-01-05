@@ -638,6 +638,13 @@
 <e a="termcat" r="RL"><p><l>majority<b/>shareholder<s n="n"/></l><r>accionista<b/>majoritari<s n="n"/></r></p></e>
 <e a="termcat" r="LR"><p><l>minority<b/>shareholder<s n="n"/></l><r>accionista<b/>minoritari<s n="n"/><s n="GD"/></r></p></e>
 <e a="termcat" r="RL"><p><l>minority<b/>shareholder<s n="n"/></l><r>accionista<b/>minoritari<s n="n"/></r></p></e>
+<e a="termcat"><p><l>non-voting<b/>share<s n="n"/></l><r>acció<g><b/>sense<b/>dret<b/>de<b/>vot</g><s n="n"/><s n="f"/></r></p></e>
+<e a="termcat" r="RL"><p><l>non-voting<b/>share<s n="n"/></l><r>acció<g><b/>sense<b/>vot</g><s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>own<b/>share<s n="n"/></l><r>acció<b/>pròpia<s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>syndicated<b/>share<s n="n"/></l><r>acció<b/>sindicada<s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>old<b/>share<s n="n"/></l><r>acció<b/>vella<s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>ex-rights<s n="n"/></l><r>acció<b/>excupó<s n="n"/><s n="f"/></r></p></e>
+<e a="termcat" r="RL"><p><l>ex-rights<s n="n"/></l><r>acció<b/>exdret<s n="n"/><s n="f"/></r></p></e>
 
 
 <!-- ADJECTIUS -->
