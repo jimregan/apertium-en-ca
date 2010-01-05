@@ -83921,6 +83921,18 @@
 <e lm="estació nodal"><p><l>estacions<b/>nodals</l><r>estació<b/>nodal<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="estació base"><i>estaci</i><par n="acci/ó__n"/><p><l><b/>base</l><r><g><b/>base</g></r></p></e>
 <e lm="estació d'acoblament"><i>estaci</i><par n="acci/ó__n"/><p><l><b/>d'acoblament</l><r><g><b/>d'acoblament</g></r></p></e>
+<e lm="acció alliberada"><p><l>acció<b/>alliberada</l><r>acció<b/>alliberada<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="acció alliberada"><p><l>accions<b/>alliberades</l><r>acció<b/>alliberada<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="acció gratuïta"><p><l>acció<b/>gratuïta</l><r>acció<b/>gratuïta<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="acció gratuïta"><p><l>accions<b/>gratuïtes</l><r>acció<b/>gratuïta<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="acció al portador"><i>acci</i><par n="acci/ó__n"/><p><l><b/>al<b/>portador</l><r><g><b/>al<b/>portador</g></r></p></e>
+<e lm="acció amb prima"><i>acci</i><par n="acci/ó__n"/><p><l><b/>amb<b/>prima</l><r><g><b/>amb<b/>prima</g></r></p></e>
+<e lm="acció amortitzable"><p><l>acció<b/>amortitzable</l><r>acció<b/>amortitzable<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="acció amortitzable"><p><l>accions<b/>amortitzables</l><r>acció<b/>amortitzable<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="acció convertible"><p><l>acció<b/>convertible</l><r>acció<b/>convertible<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="acció convertible"><p><l>accions<b/>convertibles</l><r>acció<b/>convertible<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="acció d'or"><i>acci</i><par n="acci/ó__n"/><p><l><b/>d'or</l><r><g><b/>d'or</g></r></p></e>
+
 
 <e lm="guardià"><i>guardi</i><par n="americ/à__n"/></e>
 <e lm="exponencial"><i>exponencial</i><par n="abdominal__adj"/></e>

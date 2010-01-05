@@ -22386,6 +22386,14 @@
     <e lm="travel time"><i>travel<b/>time</i><par n="house__n"/>    </e>
     <e lm="departure time"><i>departure<b/>time</i><par n="house__n"/>    </e>
     <e lm="time travel"><i>time<b/>travel</i><par n="house__n"/>    </e>
+    <e lm="bearer share"><i>bearer<b/>share</i><par n="house__n"/>    </e>
+    <e lm="free share"><i>free<b/>share</i><par n="house__n"/>    </e>
+    <e lm="bonus share"><i>bonus<b/>share</i><par n="house__n"/>    </e>
+    <e lm="premium share"><i>premium<b/>share</i><par n="house__n"/>    </e>
+    <e lm="callable share"><i>callable<b/>share</i><par n="house__n"/>    </e>
+    <e lm="redeemable share"><i>redeemable<b/>share</i><par n="house__n"/>    </e>
+    <e lm="convertible share"><i>convertible<b/>share</i><par n="house__n"/>    </e>
+    <e lm="golden share"><i>golden<b/>share</i><par n="house__n"/>    </e>
     <e lm="railway junction"><i>railway<b/>junction</i><par n="house__n"/>    </e>
     <e lm="road junction"><i>road<b/>junction</i><par n="house__n"/>    </e>
     <e lm="dry season"><i>dry<b/>season</i><par n="house__n"/>    </e>

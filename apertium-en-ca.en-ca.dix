@@ -623,6 +623,15 @@
 <e><p><l>time<b/>travel<s n="n"/></l>              <r>viatge<g><b/>en<b/>el<b/>temps</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>travel<b/>time<s n="n"/></l>              <r>temps<b/>de<b/>viatge<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>departure<b/>time<s n="n"/></l>              <r>hora<g><b/>de<b/>sortida</g><s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>premium<b/>share<s n="n"/></l><r>acció<g><b/>amb<b/>prima</g><s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>bearer<b/>share<s n="n"/></l><r>acció<g><b/>al<b/>portador</g><s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>bonus<b/>share<s n="n"/></l><r>acció<b/>alliberada<s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>free<b/>share<s n="n"/></l><r>acció<b/>gratuïta<s n="n"/><s n="f"/></r></p></e>
+<e a="termcat" r="LR"><p><l>callable<b/>share<s n="n"/></l><r>acció<b/>amortitzable<s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>redeemable<b/>share<s n="n"/></l><r>acció<b/>amortitzable<s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>convertible<b/>share<s n="n"/></l><r>acció<b/>convertible<s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>golden<b/>share<s n="n"/></l><r>acció<g><b/>d'or</g><s n="n"/><s n="f"/></r></p></e>
+
 
 <!-- ADJECTIUS -->
 
