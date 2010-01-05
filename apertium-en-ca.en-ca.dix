@@ -645,6 +645,16 @@
 <e a="termcat"><p><l>old<b/>share<s n="n"/></l><r>acció<b/>vella<s n="n"/><s n="f"/></r></p></e>
 <e a="termcat"><p><l>ex-rights<s n="n"/></l><r>acció<b/>excupó<s n="n"/><s n="f"/></r></p></e>
 <e a="termcat" r="RL"><p><l>ex-rights<s n="n"/></l><r>acció<b/>exdret<s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>dividend<b/>share<s n="n"/></l><r>acció<g><b/>de<b/>gaudi</g><s n="n"/><s n="f"/></r></p></e>
+<e a="termcat" r="RL"><p><l>dividend<b/>share<s n="n"/></l><r>bo<g><b/>de<b/>gaudi</g><s n="n"/><s n="m"/></r></p></e>
+<e a="termcat"><p><l>blue<b/>chip<b/>stock<s n="n"/></l><r>acció<g><b/>de<b/>primera</g><s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>nominal<b/>share<s n="n"/></l><r>acció<b/>nominal<s n="n"/><s n="f"/></r></p></e>
+<e a="termcat" r="LR"><p><l>registered<b/>share<s n="n"/></l><r>acció<b/>nominal<s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>ordinary<b/>share<s n="n"/></l><r>acció<b/>ordinària<s n="n"/><s n="f"/></r></p></e>
+<e a="termcat" r="LR"><p><l>common<b/>share<s n="n"/></l><r>acció<b/>ordinària<s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>new<b/>share<s n="n"/></l><r>acció<b/>nova<s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>preferred<b/>share<s n="n"/></l><r>acció<b/>preferent<s n="n"/><s n="f"/></r></p></e>
+<e a="termcat" r="LR"><p><l>preference<b/>share<s n="n"/></l><r>acció<b/>preferent<s n="n"/><s n="f"/></r></p></e>
 
 
 <!-- ADJECTIUS -->

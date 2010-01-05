@@ -83953,9 +83953,20 @@
 <e lm="acció vella"><p><l>acció<b/>vella</l><r>acció<b/>vella<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="acció vella"><p><l>accions<b/>velles</l><r>acció<b/>vella<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="acció excupó"><p><l>acció<b/>excupó</l><r>acció<b/>excupó<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-<e lm="acció excupó"><p><l>accions<b/>excupons</l><r>acció<b/>excupó<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="acció excupó" c="check"><p><l>accions<b/>excupons</l><r>acció<b/>excupó<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="acció exdret"><p><l>acció<b/>exdret</l><r>acció<b/>exdret<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-<e lm="acció exdret"><p><l>accions<b/>exdrets</l><r>acció<b/>exdret<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="acció exdret" c="check"><p><l>accions<b/>exdrets</l><r>acció<b/>exdret<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="acció de gaudi"><i>acci</i><par n="acci/ó__n"/><p><l><b/>de<b/>gaudi</l><r><g><b/>de<b/>gaudi</g></r></p></e>
+<e lm="bo de gaudi"><i>bo</i><par n="pa__n"/><p><l><b/>de<b/>gaudi</l><r><g><b/>de<b/>gaudi</g></r></p></e>
+<e lm="acció de primera"><i>acci</i><par n="acci/ó__n"/><p><l><b/>de<b/>primera</l><r><g><b/>de<b/>primera</g></r></p></e>
+<e lm="acció nominal"><p><l>acció<b/>nominal</l><r>acció<b/>nominal<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="acció nominal"><p><l>accions<b/>nominals</l><r>acció<b/>nominal<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="acció ordinària"><p><l>acció<b/>ordinària</l><r>acció<b/>ordinària<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="acció ordinària"><p><l>accions<b/>ordinàries</l><r>acció<b/>ordinària<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="acció nova"><p><l>acció<b/>nova</l><r>acció<b/>nova<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="acció nova"><p><l>accions<b/>noves</l><r>acció<b/>nova<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="acció preferent"><p><l>acció<b/>preferent</l><r>acció<b/>preferent<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="acció preferent"><p><l>accions<b/>preferents</l><r>acció<b/>preferent<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 
 
 <e lm="guardià"><i>guardi</i><par n="americ/à__n"/></e>

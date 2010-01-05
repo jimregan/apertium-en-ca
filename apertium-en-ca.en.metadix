@@ -22403,6 +22403,15 @@
     <e lm="syndicated share"><i>syndicated<b/>share</i><par n="house__n"/>    </e>
     <e lm="old share"><i>old<b/>share</i><par n="house__n"/>    </e>
     <e lm="ex-rights"><i>ex-rights</i><par n="politics__n"/>    </e>
+    <e lm="dividend share"><i>dividend<b/>share</i><par n="house__n"/>    </e>
+    <e lm="blue chip stock"><i>blue<b/>chip<b/>stock</i><par n="house__n"/>    </e>
+    <e lm="nominal share"><i>nominal<b/>share</i><par n="house__n"/>    </e>
+    <e lm="registered share"><i>registered<b/>share</i><par n="house__n"/>    </e>
+    <e lm="common share"><i>common<b/>share</i><par n="house__n"/>    </e>
+    <e lm="ordinary share"><i>ordinary<b/>share</i><par n="house__n"/>    </e>
+    <e lm="new share"><i>new<b/>share</i><par n="house__n"/>    </e>
+    <e lm="preferred share"><i>preferred<b/>share</i><par n="house__n"/>    </e>
+    <e lm="preference share"><i>preference<b/>share</i><par n="house__n"/>    </e>
     <e lm="railway junction"><i>railway<b/>junction</i><par n="house__n"/>    </e>
     <e lm="road junction"><i>road<b/>junction</i><par n="house__n"/>    </e>
     <e lm="dry season"><i>dry<b/>season</i><par n="house__n"/>    </e>
