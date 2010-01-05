@@ -83967,6 +83967,11 @@
 <e lm="acció nova"><p><l>accions<b/>noves</l><r>acció<b/>nova<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="acció preferent"><p><l>acció<b/>preferent</l><r>acció<b/>preferent<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="acció preferent"><p><l>accions<b/>preferents</l><r>acció<b/>preferent<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="llengua materna"><p><l>llengua<b/>materna</l><r>llengua<b/>materna<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="llengua materna"><p><l>llengües<b/>maternes</l><r>llengua<b/>materna<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="estreta llengua"><p><l>estreta<b/>llengua</l><r>estreta<b/>llengua<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="estreta llengua"><p><l>estretes<b/>llengües</l><r>estreta<b/>llengua<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="estació de treball"><i>estaci</i><par n="acci/ó__n"/><p><l><b/>de<b/>treball</l><r><g><b/>de<b/>treball</g></r></p></e>
 
 
 <e lm="guardià"><i>guardi</i><par n="americ/à__n"/></e>
@@ -86772,6 +86777,7 @@
 <e lm="metalingüístic"><i>metalingüísti</i><par n="acadèmi/c__adj"/></e>
 
 <e lm="perdut"><i>perdu</i><par n="afortuna/t__adj"/></e>
+<e lm="perdut en el temps"><i>perdu</i><par n="afortuna/t__adj"/><p><l><b/>en<b/>el<b/>temps</l><r><g><b/>en<b/>el<b/>temps</g></r></p></e>
 
 <e lm="visible"><i>visible</i><par n="abdominal__adj"/></e>
 

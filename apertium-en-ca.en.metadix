@@ -22412,6 +22412,12 @@
     <e lm="new share"><i>new<b/>share</i><par n="house__n"/>    </e>
     <e lm="preferred share"><i>preferred<b/>share</i><par n="house__n"/>    </e>
     <e lm="preference share"><i>preference<b/>share</i><par n="house__n"/>    </e>
+    <e lm="mother tongue"><i>mother<b/>tongue</i><par n="house__n"/>    </e>
+    <e lm="native language"><i>native<b/>language</i><par n="house__n"/>    </e>
+    <e lm="narrow strip"><i>narrow<b/>strip</i><par n="house__n"/>    </e>
+    <e lm="work station"><i>work<b/>station</i><par n="house__n"/>    </e>
+    <e lm="workstation"><i>workstation</i><par n="house__n"/>    </e>
+    <e lm="lost in time"><i>lost<b/>in<b/>time</i><par n="expensive__adj"/>    </e>
     <e lm="railway junction"><i>railway<b/>junction</i><par n="house__n"/>    </e>
     <e lm="road junction"><i>road<b/>junction</i><par n="house__n"/>    </e>
     <e lm="dry season"><i>dry<b/>season</i><par n="house__n"/>    </e>

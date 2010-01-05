@@ -655,10 +655,16 @@
 <e a="termcat"><p><l>new<b/>share<s n="n"/></l><r>acció<b/>nova<s n="n"/><s n="f"/></r></p></e>
 <e a="termcat"><p><l>preferred<b/>share<s n="n"/></l><r>acció<b/>preferent<s n="n"/><s n="f"/></r></p></e>
 <e a="termcat" r="LR"><p><l>preference<b/>share<s n="n"/></l><r>acció<b/>preferent<s n="n"/><s n="f"/></r></p></e>
-
+<e r="LR"><p><l>time<s n="n"/></l>                <r>temps<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>native<b/>language<s n="n"/></l>                <r>llengua<b/>materna<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>mother<b/>tongue<s n="n"/></l>                <r>llengua<b/>materna<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>narrow<b/>strip<s n="n"/></l>                <r>estreta<b/>llengua<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>workstation<s n="n"/></l><r>estació<g><b/>de<b/>treball</g><s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>work<b/>station<s n="n"/></l><r>estació<g><b/>de<b/>treball</g><s n="n"/><s n="f"/></r></p></e>
 
 <!-- ADJECTIUS -->
 
+<e>       <p><l>lost<b/>in<b/>time<s n="adj"/></l>         <r>perdut<g><b/>en<b/>el<b/>temps</g><s n="adj"/></r></p></e>
 <e>       <p><l>inspired<b/>by<s n="adj"/></l>         <r>inspirat<g><b/>en</g><s n="adj"/></r></p></e>
 <e>       <p><l>formative<s n="adj"/></l>         <r>formatiu<s n="adj"/></r></p></e>
 <e>       <p><l>supported<s n="adj"/></l>         <r>suportat<s n="adj"/></r></p></e>
