@@ -83972,6 +83972,16 @@
 <e lm="estreta llengua"><p><l>estreta<b/>llengua</l><r>estreta<b/>llengua<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="estreta llengua"><p><l>estretes<b/>llengües</l><r>estreta<b/>llengua<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="estació de treball"><i>estaci</i><par n="acci/ó__n"/><p><l><b/>de<b/>treball</l><r><g><b/>de<b/>treball</g></r></p></e>
+<e lm="treball en xarxa"><i>treball</i><par n="abric__n"/><p><l><b/>en<b/>xarxa</l><r><g><b/>en<b/>xarxa</g></r></p></e>
+<e lm="xarxa d'emmagatzematge"><i>xarx</i><par n="abell/a__n"/><p><l><b/>d'emmagatzematge</l><r><g><b/>d'emmagatzematge</g></r></p></e>
+<e lm="xarxa d'entroncament"><i>xarx</i><par n="abell/a__n"/><p><l><b/>d'entroncament</l><r><g><b/>d'entroncament</g></r></p></e>
+<e lm="xarxa en anell"><i>xarx</i><par n="abell/a__n"/><p><l><b/>en<b/>anell</l><r><g><b/>en<b/>anell</g></r></p></e>
+<e lm="xarxa en anell de testimoni"><i>xarx</i><par n="abell/a__n"/><p><l><b/>en<b/>anell<b/>de<b/>testimoni</l><r><g><b/>en<b/>anell<b/>de<b/>testimoni</g></r></p></e>
+<e lm="xarxa en bus"><i>xarx</i><par n="abell/a__n"/><p><l><b/>en<b/>bus</l><r><g><b/>en<b/>bus</g></r></p></e>
+<e lm="xarxa en bus de testimoni"><i>xarx</i><par n="abell/a__n"/><p><l><b/>en<b/>bus<b/>de<b/>testimoni</l><r><g><b/>en<b/>bus<b/>de<b/>testimoni</g></r></p></e>
+<e lm="xarxa en estrella"><i>xarx</i><par n="abell/a__n"/><p><l><b/>en<b/>estrella</l><r><g><b/>en<b/>estrella</g></r></p></e>
+<e lm="xarxa troncal"><p><l>xarxa<b/>troncal</l><r>xarxa<b/>troncal<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="xarxa troncal"><p><l>xarxes<b/>troncals</l><r>xarxa<b/>troncal<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 
 
 <e lm="guardià"><i>guardi</i><par n="americ/à__n"/></e>

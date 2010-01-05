@@ -22417,6 +22417,15 @@
     <e lm="narrow strip"><i>narrow<b/>strip</i><par n="house__n"/>    </e>
     <e lm="work station"><i>work<b/>station</i><par n="house__n"/>    </e>
     <e lm="workstation"><i>workstation</i><par n="house__n"/>    </e>
+    <e lm="networking"><i>networking</i><par n="house__n"/>    </e>
+    <e lm="storage area network"><i>storage<b/>area<b/>network</i><par n="house__n"/>    </e>
+    <e lm="token ring network"><i>token<b/>ring<b/>network</i><par n="house__n"/>    </e>
+    <e lm="ring network"><i>ring<b/>network</i><par n="house__n"/>    </e>
+    <e lm="trunking system"><i>trunking<b/>system</i><par n="house__n"/>    </e>
+    <e lm="bus network"><i>bus<b/>network</i><par n="house__n"/>    </e>
+    <e lm="tokenbus network"><i>tokenbus<b/>network</i><par n="house__n"/>    </e>
+    <e lm="star network"><i>star<b/>network</i><par n="house__n"/>    </e>
+    <e lm="backbone network"><i>backbone<b/>network</i><par n="house__n"/>    </e>
     <e lm="lost in time"><i>lost<b/>in<b/>time</i><par n="expensive__adj"/>    </e>
     <e lm="railway junction"><i>railway<b/>junction</i><par n="house__n"/>    </e>
     <e lm="road junction"><i>road<b/>junction</i><par n="house__n"/>    </e>

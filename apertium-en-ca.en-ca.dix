@@ -661,6 +661,16 @@
 <e><p><l>narrow<b/>strip<s n="n"/></l>                <r>estreta<b/>llengua<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>workstation<s n="n"/></l><r>estació<g><b/>de<b/>treball</g><s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>work<b/>station<s n="n"/></l><r>estació<g><b/>de<b/>treball</g><s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>networking<s n="n"/></l><r>treball<g><b/>en<b/>xarxa</g><s n="n"/><s n="m"/></r></p></e>
+<e a="termcat"><p><l>storage<b/>area<b/>network<s n="n"/></l><r>xarxa<g><b/>d'emmagatzematge</g><s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>trunking<b/>system<s n="n"/></l><r>xarxa<g><b/>d'entroncament</g><s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>ring<b/>network<s n="n"/></l><r>xarxa<g><b/>en<b/>anell</g><s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>token<b/>ring<b/>network<s n="n"/></l><r>xarxa<g><b/>en<b/>anell<b/>de<b/>testimoni</g><s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>bus<b/>network<s n="n"/></l><r>xarxa<g><b/>en<b/>bus</g><s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>tokenbus<b/>network<s n="n"/></l><r>xarxa<g><b/>en<b/>bus<b/>de<b/>testimoni</g><s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>star<b/>network<s n="n"/></l><r>xarxa<g><b/>en<b/>estrella</g><s n="n"/><s n="f"/></r></p></e>
+<e a="termcat"><p><l>backbone<b/>network<s n="n"/></l><r>xarxa<b/>troncal<s n="n"/><s n="f"/></r></p></e>
+
 
 <!-- ADJECTIUS -->
 
