@@ -93114,6 +93114,7 @@
 <e lm="càtedra"><i>càtedr</i><par n="abell/a__n"/></e>
 <e lm="desafiament"><i>desafiament</i><par n="abric__n"/></e>
 <e lm="cambra"><i>cambr</i><par n="abell/a__n"/></e>
+<e lm="Cambra de Representats"><i>cambr</i><par n="abell/a__n"/><p><l><b/>de<b/>Representats</l><r><g><b/>de<b/>Representats</g></r></p></e>
 <e lm="canal"><i>canal</i><par n="abric__n"/></e>
 <e lm="caritat"><i>caritat</i><par n="accessibilitat__n"/></e>
 <e lm="gràfic"><i>gràfic</i><par n="abric__n"/></e>
@@ -105858,6 +105859,7 @@
 <e lm="20th Century Fox"><i>20th<b/>Century<b/>Fox</i><par n="ABC__np"/>    </e>
 <e lm="GNU"><i>GNU</i><par n="ABC__np"/></e>
 <e lm="Linux"><i>Linux</i><par n="ABC__np"/></e>
+<e lm="RAID"><i>RAID</i><par n="ABC__np"/></e>
 <e lm="Unix"><i>Unix</i><par n="ABC__np"/></e>
 <e lm="Microsoft"><i>Microsoft</i><par n="ABC__np"/></e>
 <e lm="Barça"><i>Barça</i><par n="ABC__np"/></e>

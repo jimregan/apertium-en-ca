@@ -35000,6 +35000,7 @@
     <e lm="trustworthy" a="greenbreen"><i>trustworthy</i><par n="expensive__adj"/></e>
     <e lm="efficacy" a="greenbreen"><i>efficac</i><par n="bab/y__n"/></e>
     <e lm="Los Alamos National Laboratory" a="greenbreen"><i>Los<b/>Alamos<b/>National<b/>Laboratory</i><par n="Linux__np"/></e>
+    <e lm="RAID"><i>RAID</i><par n="Linux__np"/></e>
     <e lm="unconditionally" a="greenbreen"><i>unconditionally</i><par n="maybe__adv"/></e>
     <e lm="conditionally" a="greenbreen"><i>conditionally</i><par n="maybe__adv"/></e>
     <e lm="advertising" a="greenbreen"><i>advertising</i><par n="expensive__adj"/></e>
