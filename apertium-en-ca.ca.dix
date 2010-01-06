@@ -100151,6 +100151,7 @@
 <e lm="romboide"><i>romboide</i><par n="abric__n"/></e>
 <e lm="oficialitat"><i>oficialitat</i><par n="accessibilitat__n"/></e>
 <e lm="metallenguatge"><i>metallenguatge</i><par n="abric__n"/></e>
+<e lm="llenguatge"><i>llenguatge</i><par n="abric__n"/></e>
 <e lm="llenguatge de programació"><i>llenguatge</i><par n="abric__n"/><p><l><b/>de<b/>programació</l><r><g><b/>de<b/>programació</g></r></p></e>
 <e lm="sèrum"><i>sèrum</i><par n="abric__n"/></e>
 <e lm="tecnetró"><i>tecnetr</i><par n="aband/ó__n"/></e>
@@ -105867,6 +105868,7 @@
 <e lm="Telefónica"><i>Telefónica</i><par n="Telefónica__np"/></e>
 <e lm="Organització Mundial de la Salut"><i>Organització<b/>Mundial<b/>de<b/>la<b/>Salut</i><par n="Telefónica__np"/></e>
 <e lm="Sinn Féin"><i>Sinn<b/>Féin</i><par n="ABC__np"/></e>
+<e lm="Laboratori National de Los Alamos"><i>Laboratori<b/>National<b/>de<b/>Los<b/>Alamos</i><par n="ABC__np"/></e>
 <e lm="Tractat pel qual s'establix una Constitució per a Europa"><i>Tractat<b/>pel<b/>qual<b/>s'establix<b/>una<b/>Constitució<b/>per<b/>a<b/>Europa</i><par n="ABC__np"/></e>
 <e lm="Banc Internacional de Reconstrucció i Foment"><i>Banc<b/>Internacional<b/>de<b/>Reconstrucció<b/>i<b/>Foment</i><par n="ABC__np"/></e>
 <e lm="Banc Internacional per a la Reconstrucció i el Foment"><i>Banc<b/>Internacional<b/>per<b/>a<b/>la<b/>Reconstrucció<b/>i<b/>el<b/>Foment</i><par n="ABC__np"/></e>
@@ -117912,7 +117914,7 @@
 <e lm="vaporitzar"><i>vaporitz</i><par n="abander/ar__vblex"/></e>
 <e lm="sublimar"><i>sublim</i><par n="abander/ar__vblex"/></e>
 <e lm="rocós" a="prompsit2adn"><i>roc</i><par n="aliment/ós__adj"/></e>
-<e lm="XML"><i>XML</i><par n="ABC__np"/></e>
+<e lm="XML"><i>XML</i><par n="ADN__n"/></e>
 <e lm="ISO" a="prompsit"><i>ISO</i><par n="BBC__n"/></e>
 <e lm="glàsnost"><i>glàsnost</i><par n="atletisme__n"/></e>
 <e lm="perestroika"><i>perestroika</i><par n="q__n"/></e>

@@ -4169,6 +4169,7 @@
 <e>       <p><l>journalistic<s n="adj"/></l>      <r>periodístic<s n="adj"/></r></p></e>
 
 <e>       <p><l>extraterrestrial<s n="adj"/></l>  <r>extraterrestre<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>extrasolar<s n="adj"/></l>  <r>extrasolar<s n="adj"/><s n="mf"/></r></p></e>
 
 <e>       <p><l>remaining<s n="adj"/></l>         <r>restant<s n="adj"/><s n="mf"/></r></p></e>
 
@@ -6930,6 +6931,7 @@
 <e>       <p><l>strong<s n="adj"/><s n="sint"/></l><r>fort<s n="adj"/></r></p></e>
 
 <e>       <p><l>territorial<s n="adj"/></l>       <r>territorial<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>extraterritorial<s n="adj"/></l>       <r>extraterritorial<s n="adj"/><s n="mf"/></r></p></e>
 
 <e r="LR" c="traducció per defecte ca-en és per ara 'his'"><p><l>theirs<s n="adj"/></l><r>seu<s n="adj"/></r></p></e>
 
@@ -9456,10 +9458,6 @@
 
 
 
-<e>       <p><l>with<b/>great<b/>dificulty<s n="adv"/></l><r>amb<b/>prou<b/>feines<s n="adv"/></r></p></e>
-
-
-
 <e>       <p><l>with<b/>good<b/>reason<s n="adv"/></l><r>amb<b/>raó<s n="adv"/></r></p></e>
 
 
@@ -11877,6 +11875,7 @@
 
 
 <e>       <p><l>in<b/>the<b/>least<s n="adv"/></l><r>en<b/>absolut<s n="adv"/></r></p></e>
+ <e r="LR"><p><l>absolutely<b/>not<s n="adv"/></l><r>en<b/>absolut<s n="adv"/></r></p></e>
 
 
 
@@ -23121,6 +23120,7 @@
 <e>       <p><l>upraising<s n="n"/></l>           <r>alçament<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>microlanguage<s n="n"/></l>       <r>microllenguatge<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>programming<b/>language<s n="n"/></l>       <r>llenguatge<g><b/>de<b/>programació</g><s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>language<s n="n"/></l>       <r>llenguatge<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>self-determination<s n="n"/></l>  <r>autodeterminació<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>lithiasis<s n="n"/></l>           <r>litiasi<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>radioisotope<s n="n"/></l>        <r>radioisòtop<s n="n"/><s n="m"/></r></p></e>
@@ -30179,7 +30179,7 @@
 <e>       <p><l>damascene<s n="n"/></l>           <r>damasquí<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>beautician<s n="n"/></l>          <r>esteticista<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>sportsman<s n="n"/></l>           <r>esportista<s n="n"/><s n="mf"/></r></p></e>
-<e>       <p><l>sporty<s n="adj"/></l>           <r>esportista<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>sporty<s n="adj"/><s n="sint"/></l>           <r>esportista<s n="adj"/><s n="mf"/></r></p></e>
 <e>       <p><l>traditionalist<s n="n"/></l>      <r>tradicionalista<s n="n"/><s n="mf"/></r></p></e>
 <e r="LR">       <p><l>invalid<s n="n"/></l>             <r>invàlid<s n="n"/><s n="GD"/></r></p></e>
 <e>       <p><l>oligopolist<s n="n"/></l>         <r>oligopolista<s n="n"/><s n="mf"/></r></p></e>
@@ -30335,6 +30335,7 @@
 <e r="RL"><p><l>sculptor<s n="n"/></l>            <r>escultor<s n="n"/></r></p></e>
 <e r="RL"><p><l>modeller<s n="n"/></l>            <r>modelador<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>millionaire<s n="n"/></l>         <r>milionari<s n="n"/></r></p></e>
+<e r="RL"><p><l>multimillionaire<s n="n"/></l>    <r>multimilionari<s n="n"/></r></p></e>
 <e r="RL"><p><l>rebounder<s n="n"/></l>           <r>rebotador<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>sprinter<s n="n"/></l>            <r>esprintador<s n="n"/></r></p></e>
 <e r="RL"><p><l>misanthrope<s n="n"/></l>         <r>misantrop<s n="n"/><s n="f"/></r></p></e>
@@ -32807,6 +32808,7 @@
     <e>  <p><l>20th<b/>Century<b/>Fox<s n="np"/><s n="al"/></l><r>20th<b/>Century<b/>Fox<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e>       <p><l>Linux<s n="np"/><s n="al"/></l>   <r>Linux<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e>       <p><l>RAID<s n="np"/><s n="al"/></l>   <r>RAID<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+<e>       <p><l>Los<b/>Alamos<b/>National<b/>Laboratory<s n="np"/><s n="al"/></l>   <r>Laboratori<b/>National<b/>de<b/>Los<b/>Alamos<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e>       <p><l>Unix<s n="np"/><s n="al"/></l>    <r>Unix<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e>       <p><l>GNU<s n="np"/><s n="al"/></l>     <r>GNU<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e>       <p><l>Microsoft<s n="np"/><s n="al"/></l><r>Microsoft<s n="np"/><s n="al"/><s n="m"/></r></p></e>
@@ -44591,7 +44593,6 @@
 <e>       <p><l>rocky<s n="adj"/><s n="sint"/></l>          <r>rocós<s n="adj"/></r></p></e>
 <e r="LR">       <p><l>hardy<s n="adj"/><s n="sint"/></l>          <r>fort<s n="adj"/></r></p></e>
 
-<e><p><l>absolutely<b/>not<s n="adv"/></l><r>en<b/>absolut<s n="adv"/></r></p></e>
 <e><p><l>by<b/>fair<b/>means<b/>or<b/>foul<s n="adv"/></l><r>per<b/>les<b/>bones<b/>o<b/>per<b/>les<b/>dolentes<s n="adv"/></r></p></e>
 <e><p><l><s n="adv"/></l><r><s n="adv"/></r></p></e>
 <e><p><l>God<b/>willing<s n="adv"/></l><r>si<b/>Déu<b/>vol<s n="adv"/></r></p></e>
@@ -44599,6 +44600,7 @@
 <e><p><l>long-windedly<s n="adv"/></l><r>prolixament<s n="adv"/></r></p></e>
 <e r="LR"><p><l>all<b/>in<b/>one<b/>breath<s n="adv"/></l><r>de<b/>memòria<s n="adv"/></r></p></e>
 <e><p><l>amid<b/>a<b/>lot<b/>of<b/>hype<s n="adv"/></l><r>a<b/>so<b/>de<b/>bombo<b/>i<b/>platerets<s n="adv"/></r></p></e>
+<e r="LR"><p><l>with<b/>great<b/>difficulty<s n="adv"/></l><r>amb<b/>prou<b/>feines<s n="adv"/></r></p></e>
 <e><p><l>as<b/>soon<b/>as<s n="adv"/></l><r>amb<b/>prou<b/>feines<s n="adv"/></r></p></e>
 <e><p><l>askance<s n="adv"/></l><r>de<b/>reüll<s n="adv"/></r></p></e>
 <e><p><l>at<b/>one<b/>stroke<s n="adv"/></l><r>d'un<b/>cop<b/>de<b/>ploma<s n="adv"/></r></p></e>
@@ -44691,7 +44693,8 @@
 <e><p><l>e.g.<s n="adv"/></l><r>p.<b/>ex.<s n="adv"/></r></p></e>
 <e><p><l>infinitely<s n="adv"/></l><r>infinitament<s n="adv"/></r></p></e>
 <e><p><l>empirically<s n="adv"/></l><r>empíricament<s n="adv"/></r></p></e>
-<e><p><l>rigorously<s n="adv"/></l><r>rigorosament<s n="adv"/></r></p></e>
+<e r="LR"><p><l>rigorously<s n="adv"/></l><r>rigorosament<s n="adv"/></r></p></e>
+<e r="RL"><p><l>strictly<s n="adv"/></l><r>rigorosament<s n="adv"/></r></p></e>
 <e><p><l>weakly<s n="adv"/></l><r>feblement<s n="adv"/></r></p></e>
 <e r="LR"><p><l>loosely<b/>speaking<s n="adv"/></l><r>en<b/>termes<b/>generals<s n="adv"/></r></p></e>
 <e r="LR"><p><l>presently<s n="adv"/></l><r>actualment<s n="adv"/></r></p></e>
@@ -44706,7 +44709,7 @@
 <e><p><l>chequebook<s n="n"/></l><r>talonari<g><b/>de<b/>xecs</g><s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>book<s n="n"/></l><r>talonari<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>ISO<s n="n"/><s n="acr"/></l><r>ISO<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
-<e><p><l>XML<s n="np"/><s n="al"/></l><r>XML<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+<e><p><l>XML<s n="n"/><s n="acr"/></l><r>XML<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
 <e><p><l>perestroika<s n="n"/></l><r>perestroika<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>glasnost<s n="n"/></l><r>glàsnost<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>peafowl<s n="n"/></l><r>paó<s n="n"/><s n="GD"/></r></p></e>
