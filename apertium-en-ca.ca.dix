@@ -83997,9 +83997,13 @@
 <e lm="targeta de xarxa"><i>target</i><par n="abell/a__n"/><p><l><b/>de<b/>xarxa</l><r><g><b/>de<b/>xarxa</g></r></p></e>
 <e lm="terminació de xarxa"><i>terminaci</i><par n="acci/ó__n"/><p><l><b/>de<b/>xarxa</l><r><g><b/>de<b/>xarxa</g></r></p></e>
 <e lm="traductor d'adreces de xarxa"><i>proveïdor</i><par n="abric__n"/><p><l><b/>d'adreces<b/>de<b/>xarxa</l><r><g><b/>d'adreces<b/>de<b/>xarxa</g></r></p></e>
+<e lm="xarxa ad hoc"><i>xarx</i><par n="abell/a__n"/><p><l><b/>ad<b/>hoc</l><r><g><b/>ad<b/>hoc</g></r></p></e>
 
 <e lm="guardià"><i>guardi</i><par n="americ/à__n"/></e>
 <e lm="exponencial"><i>exponencial</i><par n="abdominal__adj"/></e>
+<e lm="immemorial"><i>immemorial</i><par n="abdominal__adj"/></e>
+<e lm="des de temps antics"><i>des<b/>de<b/>temps<b/>antics</i><par n="sempre__adv"/></e>
+<e lm="des de temps immemorials"><i>des<b/>de<b/>temps<b/>immemorials</i><par n="sempre__adv"/></e>
 
 <e lm="fonològic"><i>fonològi</i><par n="acadèmi/c__adj"/></e>
 <e lm="meteorològic"><i>meteorològi</i><par n="acadèmi/c__adj"/></e>

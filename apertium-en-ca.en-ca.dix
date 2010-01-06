@@ -687,6 +687,7 @@
 <e a="termcat"><p><l>network<b/>termination<s n="n"/></l><r>terminació<g><b/>de<b/>xarxa</g><s n="n"/><s n="f"/></r></p></e>
 <e a="termcat"><p><l>subnetwork<s n="n"/></l><r>subxarxa<s n="n"/><s n="f"/></r></p></e>
 <e a="termcat"><p><l>network<b/>service<b/>provider<s n="n"/></l><r>traductor<g><b/>d'adreces<b/>de<b/>xarxa</g><s n="n"/><s n="m"/></r></p></e>
+<e a="termcat"><p><l>ad<b/>hoc<b/>network<s n="n"/></l><r>xarxa<g><b/>ad<b/>hoc</g><s n="n"/><s n="f"/></r></p></e>
 
 
 <!-- ADJECTIUS -->
@@ -44450,6 +44451,11 @@
 <e><p><l>irreverent<s n="adj"/></l><r>irreverent<s n="adj"/><s n="mf"/></r></p></e>
 <e r="LR"><p><l>lawless<s n="adj"/></l><r>anàrquic<s n="adj"/></r></p></e>
 <e><p><l>memorial<s n="adj"/></l><r>commemoratiu<s n="adj"/></r></p></e>
+<e><p><l>immemorial<s n="adj"/></l><r>immemorial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>from<b/>ancient<b/>times<s n="adv"/></l><r>des<b/>de<b/>temps<b/>antics<s n="adv"/></r></p></e>
+<e><p><l>since<b/>ancient<b/>times<s n="adv"/></l><r>des<b/>de<b/>temps<b/>antics<s n="adv"/></r></p></e>
+<e r="LR"><p><l>from<b/>time<b/>immemorial<s n="adv"/></l><r>des<b/>de<b/>temps<b/>immemorials<s n="adv"/></r></p></e>
+<e><p><l>since<b/>time<b/>immemorial<s n="adv"/></l><r>des<b/>de<b/>temps<b/>immemorials<s n="adv"/></r></p></e>
 <e><p><l>colossal<s n="adj"/></l><r>colossal<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>titanic<s n="adj"/></l><r>titànic<s n="adj"/></r></p></e>
 <e><p><l>anaesthetic<s n="adj"/></l><r>anestèsic<s n="adj"/></r></p></e>
