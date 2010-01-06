@@ -29760,6 +29760,7 @@
 <e>       <p><l>canoeist<s n="n"/></l>            <r>piragüista<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>modeller<s n="n"/></l>            <r>modelador<s n="n"/><s n="m"/></r></p></e>
 <e r="LR">       <p><l>millionaire<s n="n"/></l>         <r>milionari<s n="n"/><s n="GD"/></r></p></e>
+<e r="LR">       <p><l>multimillionaire<s n="n"/></l>         <r>multimilionari<s n="n"/><s n="GD"/></r></p></e>
 <e>       <p><l>rebounder<s n="n"/></l>           <r>rebotador<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>exodontist<s n="n"/></l>          <r>exodontista<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>violinist<s n="n"/></l>           <r>violinista<s n="n"/><s n="mf"/></r></p></e>
@@ -45866,7 +45867,7 @@
 <e slr="tira D"><p><l>strip<s n="n"/></l>         <r>tira<s n="n"/><s n="f"/></r></p></e>
 <e slr="tiroteig D"><p><l>shooting<s n="n"/></l>  <r>tiroteig<s n="n"/><s n="m"/></r></p></e>
 <e slr="to"><p><l>key<s n="n"/></l>     <r>to<s n="n"/><s n="m"/></r></p></e>
-<e slr="tocar" c="(un instrument)"><p><l>play<s n="vblex"/></l><r>tocar<s n="vblex"/></r></p></e>
+<e slr="tocar" srl="play" c="(un instrument)"><p><l>play<s n="vblex"/></l><r>tocar<s n="vblex"/></r></p></e>
 <e slr="tombant D"><p><l>turning<s n="n"/></l>    <r>tombant<s n="n"/><s n="m"/></r></p></e>
 <e slr="torn" srl="shift"><p><l>shift<s n="n"/></l><r>torn<s n="n"/><s n="m"/></r></p></e>
 <e slr="torn" srl="turn D"><p><l>turn<s n="n"/></l><r>torn<s n="n"/><s n="m"/></r></p></e>
@@ -46587,7 +46588,6 @@
 <e srl="try"><p><l>try<s n="vblex"/></l>          <r>provar<s n="vblex"/></r></p></e>
 
 <e srl="touch D"><p><l>touch<s n="vblex"/></l>    <r>tocar<s n="vblex"/></r></p></e>
-<e srl="play" c="(un instrument)"><p><l>play<s n="vblex"/></l><r>tocar<s n="vblex"/></r></p></e>
 
 <e srl="withdraw D"><p><l>withdraw<s n="vblex"/></l><r>retirar<s n="vblex"/></r></p></e>
 <e r="RL" srl="remove"><p><l>remove<s n="vblex"/></l><r>retirar<s n="vblex"/></r></p></e>
