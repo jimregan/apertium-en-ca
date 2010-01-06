@@ -20163,12 +20163,13 @@
 <e>       <p><l>chevron<s n="n"/></l>             <r>galó<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>gap<s n="n"/></l>                 <r>buit<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>garage<s n="n"/></l>              <r>garatge<s n="n"/><s n="m"/></r></p></e>
-<e r="LR"><p><l>garbage<s n="n"/><s n="sg"/></l>  <r>escombraries<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e vl="en_US"><p><l>garbage<s n="n"/><s n="sg"/></l>  <r>escombraries<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e r="LR"><p><l>garbage<s n="n"/><s n="pl"/></l>  <r>escombraries<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-<e>       <p><l>rubbish<s n="n"/><s n="sg"/></l>  <r>escombraries<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e vl="en_GB">       <p><l>rubbish<s n="n"/><s n="sg"/></l>  <r>escombraries<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e r="LR">       <p><l>rubbish<s n="n"/><s n="pl"/></l>  <r>escombraries<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e>       <p><l>gas<s n="n"/></l>                 <r>gas<s n="n"/><s n="m"/></r></p></e>
-<e r="LR"><p><l>gasoline<s n="n"/></l>            <r>gasolina<s n="n"/><s n="f"/></r></p></e>
-<e>       <p><l>petrol<s n="n"/></l>              <r>gasolina<s n="n"/><s n="f"/></r></p></e>
+<e vl="en_US"><p><l>gasoline<s n="n"/></l>            <r>gasolina<s n="n"/><s n="f"/></r></p></e>
+<e vl="en_GB">       <p><l>petrol<s n="n"/></l>              <r>gasolina<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>generation<s n="n"/></l>          <r>generació<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>geography<s n="n"/></l>           <r>geografia<s n="n"/><s n="f"/></r></p></e>
 <e r="LR">       <p><l>giant<s n="n"/></l>               <r>gegant<s n="n"/><s n="GD"/></r></p></e>

@@ -34222,7 +34222,7 @@
     <e lm="embroider"><i>embroider</i><par n="accept__vblex"/>    </e>
     <e lm="box"><i>box</i><par n="approach__vblex"/>    </e>
     <e lm="refrain"><i>refrain</i><par n="accept__vblex"/>    </e>
-    <e lm="refrain"><i>refrain</i><par n="house__vblex"/>    </e>
+    <e lm="refrain"><i>refrain</i><par n="house__n"/>    </e>
     <e lm="bronze"><i>bronz</i><par n="liv/e__vblex"/>    </e>
     <e lm="trick"><i>trick</i><par n="accept__vblex"/>    </e>
     <e lm="exasperate"><i>exasperat</i><par n="liv/e__vblex"/>    </e>
