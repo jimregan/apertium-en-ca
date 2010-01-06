@@ -32381,6 +32381,7 @@
 <e>       <p><l>Carlota<s n="np"/></l>            <r>Carlota<s n="np"/></r></p></e>
 <e>       <p><l>Carme<s n="np"/></l>              <r>Carme<s n="np"/></r></p></e>
 <e>       <p><l>Carolina<s n="np"/></l>           <r>Carolina<s n="np"/></r></p></e>
+<e>       <p><l>Carolina<s n="np"/><s n="loc"/></l>           <r>Carolina<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e>       <p><l>Catalina<s n="np"/></l>           <r>Catalina<s n="np"/></r></p></e>
 <e>       <p><l>Caterina<s n="np"/></l>           <r>Caterina<s n="np"/></r></p></e>
 <e>       <p><l>Cecilia<s n="np"/></l>            <r>Cecilia<s n="np"/></r></p></e>
@@ -37293,8 +37294,9 @@
 <e><p><l>Daher<s n="np"/></l><r>Daher<s n="np"/></r></p></e>
 <e><p><l>Daian<s n="np"/></l><r>Daian<s n="np"/></r></p></e>
 <e><p><l>Dakota<s n="np"/></l><r>Dakota<s n="np"/></r></p></e>
+<e><p><l>Dakota<s n="np"/><s n="loc"/></l><r>Dakota<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>Dalai<s n="np"/></l><r>Dalai<s n="np"/></r></p></e>
-<e><p><l>Dalai Lama<s n="np"/></l><r>Dalai Lama<s n="np"/></r></p></e>
+<e><p><l>Dalai<b/>Lama<s n="np"/></l><r>Dalai<b/>Lama<s n="np"/></r></p></e>
 <e><p><l>Dale<s n="np"/></l><r>Dale<s n="np"/></r></p></e>
 <e><p><l>Dallas<s n="np"/></l><r>Dallas<s n="np"/></r></p></e>
 <e><p><l>Dallin<s n="np"/></l><r>Dallin<s n="np"/></r></p></e>
