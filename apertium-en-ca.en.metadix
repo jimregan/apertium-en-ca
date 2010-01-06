@@ -17714,6 +17714,7 @@
     <e lm="American"><i>American</i><par n="house__n"/>    </e>
     <e lm="Japanese-American"><i>Japanese-American</i><par n="house__n"/>    </e>
     <e lm="Japanese-American"><i>Japanese-American</i><par n="expensive__adj"/>    </e>
+    <e lm="improbable"><i>improbable</i><par n="expensive__adj"/>    </e>
     <e lm="Arab"><par n="Aa"/><i>rab</i><par n="house__n"/>    </e>
     <e lm="Aragonese"><par n="Aa"/><i>ragonese</i><par n="politics__n"/>    </e>
     <e lm="Asian"><par n="Aa"/><i>sian</i><par n="house__n"/>    </e>
@@ -20421,7 +20422,8 @@
     <e lm="annular"><i>annular</i><par n="expensive__adj"/></e>
     <e lm="anthropophagus"><i>anthropophagus</i><par n="expensive__adj"/></e>
     <e lm="antifederalist"><i>antifederalist</i><par n="expensive__adj"/></e>
-    <e lm="anti-francoist"><i>anti-francoist</i><par n="expensive__adj"/></e>
+    <e lm="anti-francoist"><p><l>anti-Francoist</l><r>anti-francoist</r></p><par n="expensive__adj"/></e>
+    <e lm="fucking awesome"><i>fucking<b/>awesome</i><par n="expensive__adj"/></e>
     <e lm="antimicrobic"><i>antimicrobic</i><par n="expensive__adj"/></e>
     <e lm="antiparallel"><i>antiparallel</i><par n="expensive__adj"/></e>
     <e lm="antireflexive"><i>antireflexive</i><par n="expensive__adj"/></e>
