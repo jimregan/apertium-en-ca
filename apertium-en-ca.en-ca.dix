@@ -29533,7 +29533,8 @@
 <e>       <p><l>patriarch<s n="n"/></l>           <r>patriarca<s n="n"/><s n="mf"/></r></p></e>
 <e r="LR">       <p><l>shoemaker<s n="n"/></l>           <r>sabater<s n="n"/><s n="GD"/></r></p></e>
 <e>       <p><l>pomologist<s n="n"/></l>          <r>pomòleg<s n="n"/><s n="m"/></r></p></e>
-<e>       <p><l>cocain<b/>addict<s n="n"/></l>        <r>cocaïnòman<s n="n"/><s n="GD"/></r></p></e>
+<e r="LR">       <p><l>cocain<b/>addict<s n="n"/></l>        <r>cocaïnòman<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL">       <p><l>cocain<b/>addict<s n="n"/></l>        <r>cocaïnòman<s n="n"/></r></p></e>
 <e>       <p><l>feinter<s n="n"/></l>             <r>fintador<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>peacemaker<s n="n"/></l>          <r>pacificador<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>epigraphist<s n="n"/></l>         <r>epigrafista<s n="n"/><s n="mf"/></r></p></e>
@@ -31893,6 +31894,7 @@
 <e><p><l>Le<b/>Monde<s n="np"/><s n="al"/></l><r>Le<b/>Monde<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e><p><l>Lexmark<s n="np"/><s n="al"/></l><r>Lexmark<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e><p><l>AT&amp;T<s n="n"/><s n="acr"/></l><r>AT&amp;T<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+<e><p><l>AT&amp;T<s n="np"/><s n="al"/></l><r>AT&amp;T<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e><p><l>USB<s n="n"/><s n="acr"/></l><r>USB<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
 <e><p><l>TNT<s n="n"/><s n="acr"/></l><r>TNT<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
 <e><p><l>WHO<s n="n"/><s n="acr"/></l><r>OMS<s n="n"/><s n="acr"/><s n="f"/></r></p></e>

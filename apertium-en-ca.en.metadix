@@ -22438,7 +22438,7 @@
     <e lm="network mask"><i>network<b/>mask</i><par n="house__n"/>    </e>
     <e lm="network planning"><i>network<b/>planning</i><par n="house__n"/>    </e>
     <e lm="network service provider"><i>network<b/>service<b/>provider</i><par n="house__n"/>    </e>
-    <e lm="network access provider"><i>network<b/>access<b/>provider</i><par n="house__n"/>    </e>
+    <e lm="network access point"><i>network<b/>access<b/>point</i><par n="house__n"/>    </e>
     <e lm="network information centre"><i>network<b/>information<b/>cent</i><par n="cent/re__n"/>    </e>
     <e lm="network interface device"><i>network<b/>interface<b/>device</i><par n="house__n"/>    </e>
     <e lm="network interface card"><i>network<b/>interface<b/>card</i><par n="house__n"/>    </e>
@@ -30994,6 +30994,7 @@
     <e lm="freeze"><i>freeze</i><par n="house__n"/>     </e>
     <e lm="freezing"><i>freezing</i><par n="house__n"/>     </e>
     <e lm="freight"><i>freight</i><par n="house__n"/>     </e>
+    <e lm="freight car"><i>freight<b/>car</i><par n="house__n"/>     </e>
     <e lm="frenetically"><i>frenetically</i><par n="maybe__adv"/>     </e>
     <e lm="friable"><i>friable</i><par n="expensive__adj"/>     </e>
     <e lm="frictional"><i>frictional</i><par n="expensive__adj"/>     </e>
@@ -31357,7 +31358,7 @@
     <e lm="heroin"><i>heroin</i><par n="house__n"/></e>
     <e lm="derivatograph"><i>derivatograph</i><par n="house__n"/></e>
     <e lm="monad"><i>monad</i><par n="house__n"/></e>
-    <e lm="compactness"><i>compactness</i><par n="east__n"/>     </e>
+    <e lm="compactness"><i>compactness</i><par n="access__n"/>     </e>
     <e lm="chromization"><i>chromi</i><par n="globali/sation__n"/></e>
     <e lm="verbalization"><i>verbali</i><par n="globali/sation__n"/></e>
     <e lm="podzolization"><i>podzoli</i><par n="globali/sation__n"/></e>
@@ -35297,6 +35298,7 @@
     <e lm="evergreen" a="greenbreen"><i>evergreen</i><par n="expensive__adj"/></e>
     <e lm="longevous" a="greenbreen"><i>longevous</i><par n="expensive__adj"/></e>
     <e lm="statistician" a="greenbreen"><i>statistician</i><par n="house__n"/></e>
+    <e lm="subminiaturisation"><i>subminiaturi</i><par n="globali/sation__n"/></e>
     <e lm="adipose" a="greenbreen"><i>adipose</i><par n="expensive__adj"/></e>
     <e lm="World Health Organisation" a="greenbreen"><i>World<b/>Health<b/>Organi</i><par n="z_s"/><i>ation</i><par n="Linux__np"/></e>
     <e lm="WHO" a="greenbreen"><i>WHO</i><par n="BBC__n"/></e>
