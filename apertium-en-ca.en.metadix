@@ -35785,7 +35785,7 @@
     <e lm="genetics" a="greenbreen"><i>genetics</i><par n="politics__n"/></e>
     <e lm="firmament" a="greenbreen"><i>firmament</i><par n="house__n"/></e>
     <e lm="a posteriori" a="greenbreen"><i>a<b/>posteriori</i><par n="expensive__adj"/></e>
-    <e lm="Bayesian" a="greenbreen"><i>Bayesian</i><par n="expensive__adj"/></e>
+    <e lm="Bayesian" a="greenbreen"><p><l>Bayesian</l><r>bayesian</r></p><par n="expensive__adj"/></e>
     <e lm="naturalism" a="greenbreen"><i>naturalism</i><par n="house__n"/></e>
     <e lm="Laplace" a="greenbreen"><i>Laplace</i><par n="Smith__np"/></e>
     <e lm="Penrose" a="greenbreen"><i>Penrose</i><par n="Smith__np"/></e>
