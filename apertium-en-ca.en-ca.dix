@@ -33319,6 +33319,7 @@
 <e r="LR"><p><l>wall<s n="vblex"/></l><r>emmurallar<s n="vblex"/></r></p></e>
 <e><p><l>pull<g><b/>down</g><s n="vblex"/><s n="sep"/></l><r>abatre<s n="vblex"/></r></p></e>
 <e><p><l>make<g><b/>possible</g><s n="vblex"/><s n="sep"/></l><r>fer<g><b/>possible</g><s n="vblex"/></r></p></e>
+<e><p><l>make<g><b/>money</g><s n="vblex"/></l><r>guanyar<g><b/>diners</g><s n="vblex"/></r></p></e>
 <e r="LR"><p><l>get<g><b/>across</g><s n="vblex"/><s n="sep"/></l><r>comunicar<s n="vblex"/></r></p></e>
 <e><p><l>take<g><b/>for<b/>granted</g><s n="vblex"/><s n="sep"/></l><r>donar<g><b/>per<b/>fet</g><s n="vblex"/></r></p></e>
 <e><p><l>make<g><b/>public</g><s n="vblex"/></l><r>fer<g><b/>públic</g><s n="vblex"/></r></p></e>
@@ -33524,6 +33525,7 @@
 <e>       <p><l>exclaim<s n="vblex"/></l>         <r>exclamar<s n="vblex"/></r></p></e>
 <e>       <p><l>legitimate<s n="vblex"/></l>      <r>legitimar<s n="vblex"/></r></p></e>
 <e>       <p><l>drink<s n="vblex"/></l>           <r>beure<s n="vblex"/></r></p></e>
+<e>       <p><l>drink<g><b/>like<b/>a<b/>fish</g><s n="vblex"/></l>           <r>beure<g><b/>com<b/>un<b/>cosaco</g><s n="vblex"/></r></p></e>
 <e>       <p><l>complicate<s n="vblex"/></l>      <r>complicar<s n="vblex"/></r></p></e>
 <e>       <p><l>populate<s n="vblex"/></l>        <r>poblar<s n="vblex"/></r></p></e>
 <e>       <p><l>glide<s n="vblex"/></l>           <r>lliscar<s n="vblex"/></r></p></e>

@@ -86389,6 +86389,7 @@
 <e lm="càlcic"><i>càlci</i><par n="acadèmi/c__adj"/></e>
 
 <e lm="clerical"><i>clerical</i><par n="abdominal__adj"/></e>
+<e lm="anticlerical"><i>anticlerical</i><par n="abdominal__adj"/></e>
 
 <e lm="incommutable"><i>incommutable</i><par n="abdominal__adj"/></e>
 
@@ -106430,6 +106431,7 @@
 <e lm="girar"><i>gir</i><par n="abander/ar__vblex"/></e>
 <e lm="governar"><i>govern</i><par n="abander/ar__vblex"/></e>
 <e lm="guanyar"><i>guany</i><par n="abander/ar__vblex"/></e>
+<e lm="guanyar diners"><i>guany</i><par n="abander/ar__vblex"/><p><l><b/>diners</l><r><g><b/>diners</g></r></p></e>
 <e lm="guardar"><i>guard</i><par n="abander/ar__vblex"/></e>
 <e lm="identificar"><i>identifi</i><par n="abo/car__vblex"/></e>
 <e lm="il·luminar"><i>il·lumin</i><par n="abander/ar__vblex"/></e>
@@ -106707,6 +106709,7 @@
 <e lm="belar"><i>bel</i><par n="abander/ar__vblex"/></e>
 <e lm="beneir"><i>bene</i><par n="addu/ir__vblex"/></e>
 <e lm="beure"><i>be</i><par n="be/ure__vblex"/></e>
+<e lm="beure com un cosaco"><i>be</i><par n="be/ure__vblex"/><p><l><b/>com<b/>un<b/>cosaco</l><r><g><b/>com<b/>un<b/>cosaco</g></r></p></e>
 <e lm="blindar"><i>blind</i><par n="abander/ar__vblex"/></e>
 <e lm="bombardejar"><i>bombarde</i><par n="agreu/jar__vblex"/></e>
 <e lm="bombar"><i>bomb</i><par n="abander/ar__vblex"/></e>
