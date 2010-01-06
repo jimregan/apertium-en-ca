@@ -104901,6 +104901,7 @@
 <!--NOMS PROPIS -->
 
 <!--noms propis Dori -->
+<e lm="Medina"><i>Medina</i><par n="Barcelona__np"/></e>
 <e lm="Aràbia" a="doriua"><i>Aràbia</i><par n="Barcelona__np"/></e>
 <e lm="Colúmbia" a="doriua"><i>Colúmbia</i><par n="Barcelona__np"/></e>
 <e lm="Detroit" a="doriua"><i>Detroit</i><par n="Afganistan__np"/></e>
