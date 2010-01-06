@@ -24015,7 +24015,6 @@
     <e lm="see you later"><i>see<b/>you<b/>later</i><par n="hello__ij"/>    </e>
     <e lm="thank you"><i>thank<b/>you</i><par n="hello__ij"/></e>
     <e lm="thanks"><i>thanks</i><par n="hello__ij"/></e>
-    <e lm="it takes all sorts to make a world"><i>it<b/>takes<b/>all<b/>sorts<b/>to<b/>make<b/>a<b/>world</i><par n="hello__ij"/>    </e>
     <e lm="well" r="RL"><i>well</i><par n="hello__ij"/>    </e>
     <e lm="fuck" r="RL"><i>fuck</i><par n="hello__ij"/>    </e>
     
@@ -29830,8 +29829,8 @@
     <e lm="bedspread"><i>bedspread</i><par n="house__n"/>     </e>
     <e lm="beef"><i>beef</i><par n="house__n"/>     </e>
     <e lm="beforehand"><i>beforehand</i><par n="maybe__adv"/>     </e>
-    <e lm="behaviorism"><i>behaviorism</i><par n="house__n"/>     </e>
-    <e lm="behavioural"><i>behavioural</i><par n="expensive__adj"/>     </e>
+    <e lm="behaviorism"><i>behavi</i><par n="o_ou"/><i>rism</i><par n="house__n"/>     </e>
+    <e lm="behavioural"><i>behavi</i><par n="o_ou"/><i>ral</i><par n="expensive__adj"/>     </e>
     <e lm="bel"><i>bel</i><par n="house__n"/>     </e>
     <e lm="belligerent"><i>belligerent</i><par n="expensive__adj"/>     </e>
     <e lm="below"><i>below</i><par n="maybe__adv"/>     </e>
@@ -39954,7 +39953,7 @@
 <e lm="negatron"><i>negatron</i><par n="house__n"/></e>
 <e lm="negotiator"><i>negotiator</i><par n="house__n"/></e>
 <e lm="nematicide"><i>nematicide</i><par n="house__n"/></e>
-<e lm="neobehaviourism"><i>neobehaviourism</i><par n="house__n"/></e>
+<e lm="neobehaviourism"><i>neobehavi</i><par n="o_ou"/><i>rism</i><par n="house__n"/></e>
 <e lm="neocriticism"><i>neocriticism</i><par n="house__n"/></e>
 <e lm="neoevolutionism"><i>neoevolutionism</i><par n="house__n"/></e>
 <e lm="neophyte"><i>neophyte</i><par n="house__n"/></e>
