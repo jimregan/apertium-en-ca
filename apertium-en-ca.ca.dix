@@ -106521,6 +106521,8 @@
 <e lm="ordenar"><i>orden</i><par n="abander/ar__vblex"/></e>
 <e lm="pagar"><i>pag</i><par n="afalag/ar__vblex"/></e>
 <e lm="pagar l'escot"><i>pag</i><par n="afalag/ar__vblex"/><p><l><b/>l'escot</l><r><g><b/>l'escot</g></r></p></e>
+<e lm="pagar en metàl·lic"><i>pag</i><par n="afalag/ar__vblex"/><p><l><b/>en<b/>metàl·lic</l><r><g><b/>en<b/>metàl·lic</g></r></p></e>
+<e lm="pagar en metàl·lic" r="LR"><i>pag</i><par n="afalag/ar__vblex"/><p><l><b/>en<b/>metàŀlic</l><r><g><b/>en<b/>metàl·lic</g></r></p></e>
 <e lm="parar"><i>par</i><par n="abander/ar__vblex"/></e>
 <e lm="parlar"><i>parl</i><par n="abander/ar__vblex"/></e>
 <e lm="passar"><i>pass</i><par n="abander/ar__vblex"/></e>
@@ -117725,6 +117727,13 @@
 <e lm="sense igual"><i>sense<b/>igual</i><par n="multimèdia__adj"/></e>
 <e lm="sense fil"><i>sense<b/>fil</i><par n="multimèdia__adj"/></e>
 <e lm="de pa sucat amb oli"><i>de<b/>pa<b/>sucat<b/>amb<b/>oli</i><par n="multimèdia__adj"/></e>
+<e lm="a posteriori"><i>a<b/>posteriori</i><par n="multimèdia__adj"/></e>
+<e lm="de Lima"><i>de<b/>Lima</i><par n="multimèdia__adj"/></e>
+<e lm="ad hoc"><i>ad<b/>hoc</i><par n="multimèdia__adj"/></e>
+<e lm="de facto"><i>de<b/>facto</i><par n="multimèdia__adj"/></e>
+<e lm="de São Paulo"><i>de<b/>São<b/>Paulo</i><par n="multimèdia__adj"/></e>
+<e lm="de Marbella"><i>de<b/>Marbella</i><par n="multimèdia__adj"/></e>
+<e lm="d'Almeria"><i>d'Almeria</i><par n="multimèdia__adj"/></e>
 
 <e lm="tramar"><i>tram</i><par n="abander/ar__vblex"/></e>
 <e lm="verificar"><i>verifi</i><par n="abo/car__vblex"/></e>

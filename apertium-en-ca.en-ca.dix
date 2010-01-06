@@ -9843,6 +9843,9 @@
 
 
 <e>       <p><l>a<b/>priori<s n="adv"/></l>       <r>a<b/>priori<s n="adv"/></r></p></e>
+<e>       <p><l>a<b/>posteriori<s n="adj"/></l>       <r>a<b/>posteriori<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>ad<b/>hoc<s n="adj"/></l>       <r>ad<b/>hoc<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>de<b/>facto<s n="adj"/></l>       <r>de<b/>facto<s n="adj"/><s n="mf"/></r></p></e>
 
 
 
@@ -33378,6 +33381,7 @@
 <e><p><l>pull<g><b/>down</g><s n="vblex"/><s n="sep"/></l><r>abatre<s n="vblex"/></r></p></e>
 <e><p><l>make<g><b/>possible</g><s n="vblex"/><s n="sep"/></l><r>fer<g><b/>possible</g><s n="vblex"/></r></p></e>
 <e><p><l>make<g><b/>money</g><s n="vblex"/></l><r>guanyar<g><b/>diners</g><s n="vblex"/></r></p></e>
+<e><p><l>pay<g><b/>cash</g><s n="vblex"/></l><r>pagar<g><b/>en<b/>metàl·lic</g><s n="vblex"/></r></p></e>
 <e r="LR"><p><l>get<g><b/>across</g><s n="vblex"/><s n="sep"/></l><r>comunicar<s n="vblex"/></r></p></e>
 <e><p><l>take<g><b/>for<b/>granted</g><s n="vblex"/><s n="sep"/></l><r>donar<g><b/>per<b/>fet</g><s n="vblex"/></r></p></e>
 <e><p><l>make<g><b/>public</g><s n="vblex"/></l><r>fer<g><b/>públic</g><s n="vblex"/></r></p></e>
