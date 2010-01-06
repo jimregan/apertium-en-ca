@@ -2758,7 +2758,7 @@
 
 <e>       <p><l>skilled<s n="adj"/></l>           <r>especialitzat<s n="adj"/></r></p></e>
 <e>       <p><l>individualised<s n="adj"/></l>     <r>individualitzat<s n="adj"/></r></p></e>
-<e>       <p><l>unlikely<s n="adj"/></l>          <r>inversemblant<s n="adj"/></r></p></e>
+<e>       <p><l>unlikely<s n="adj"/></l>          <r>inversemblant<s n="adj"/><s n="mf"/></r></p></e>
 
 <e>       <p><l>incomplete<s n="adj"/></l>        <r>incomplet<s n="adj"/></r></p></e>
 
@@ -5476,7 +5476,7 @@
 <e>       <p><l>contractual<s n="adj"/></l>       <r>contractual<s n="adj"/><s n="mf"/></r></p></e>
 <e r="LR">       <p><l>extracontractual<s n="adj"/></l>       <r>extracontractual<s n="adj"/><s n="mf"/></r></p></e>
 <e>       <p><l>extra-contractual<s n="adj"/></l>       <r>extracontractual<s n="adj"/><s n="mf"/></r></p></e>
-<e>       <p><l>extractive<s n="adj"/></l>       <r>extractiu<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>extractive<s n="adj"/></l>       <r>extractiu<s n="adj"/></r></p></e>
 
 <e>       <p><l>accessible<s n="adj"/></l>        <r>accessible<s n="adj"/><s n="mf"/></r></p></e>
 
@@ -6231,6 +6231,9 @@
 
 <e>       <p><l>academic<s n="adj"/></l>          <r>acadèmic<s n="adj"/></r></p></e>
 <e>       <p><l>non-university<s n="adj"/></l>          <r>extraacadèmic<s n="adj"/></r></p></e>
+<e>       <p><l>off-campus<s n="adj"/></l>          <r>extrauniversitari<s n="adj"/></r></p></e>
+<e r="LR">       <p><l>extramural<s n="adj"/></l>          <r>extrauniversitari<s n="adj"/></r></p></e>
+<e a="greenbreen"><p><l>whenever<s n="cnjsub"/></l><r>sempre<b/>que<s n="cnjsub"/></r></p></e>
 
 <e>       <p><l>current<s n="adj"/></l>           <r>actual<s n="adj"/><s n="mf"/></r></p></e>
 
@@ -18834,6 +18837,7 @@
 <e>       <p><l>action<s n="n"/></l>              <r>acció<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>activity<s n="n"/></l>            <r>activitat<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>act<g><b/>of<b/>God</g><s n="n"/></l>           <r>cas<b/>fortuït<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>act<g><b/>of<b/>nature</g><s n="n"/></l>           <r>cas<b/>fortuït<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>afternoon<s n="n"/></l>           <r>tarda<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>agency<s n="n"/></l>              <r>agència<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>age<s n="n"/></l>                 <r>edat<s n="n"/><s n="f"/></r></p></e>

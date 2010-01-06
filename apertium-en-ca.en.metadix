@@ -24065,6 +24065,9 @@
     <e lm="English"><p><l>English</l><r>english</r></p><par n="expensive__adj"/></e>
     <e lm="European"><p><l>European</l><r>european</r></p><par n="expensive__adj"/></e>
     <e lm="non-European"><p><l>non-European</l><r>non-european</r></p><par n="expensive__adj"/></e>
+    <e lm="non-university"><i>non-university</i><par n="expensive__adj"/></e>
+    <e lm="off-campus"><i>off-campus</i><par n="expensive__adj"/></e>
+    <e lm="extramural"><i>extramural</i><par n="expensive__adj"/></e>
     <e lm="Falangist"><p><l>Falangist</l><r>falangist</r></p><par n="expensive__adj"/></e>
     <e lm="Franciscan"><par n="Ff"/><i>ranciscan</i><par n="expensive__adj"/></e>
     <e lm="Finnish"><p><l>Finnish</l><r>finnish</r></p><par n="expensive__adj"/></e>

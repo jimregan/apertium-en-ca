@@ -91665,6 +91665,7 @@
 <e lm="quan"><i>quan</i><par n="abans_que__cnjadv"/></e>
 <e lm="que"><i>que</i><par n="i__cnjcoo"/></e>
 <e lm="que"><i>que</i><par n="que__cnjsub"/></e>
+<e lm="sempre que"><i>sempre<b/>que</i><par n="que__cnjsub"/></e>
 <e lm="segons"><i>segons</i><par n="abans_que__cnjadv"/></e>
 <e lm="sinó"><i>sinó</i><par n="i__cnjcoo"/></e>
 <e lm="si"><i>si</i><par n="abans_que__cnjadv"/></e>
