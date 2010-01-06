@@ -699,7 +699,7 @@
 <e a="termcat"><p><l>network<b/>interface<b/>card<s n="n"/></l><r>targeta<g><b/>de<b/>xarxa</g><s n="n"/><s n="f"/></r></p></e>
 <e a="termcat"><p><l>network<b/>termination<s n="n"/></l><r>terminació<g><b/>de<b/>xarxa</g><s n="n"/><s n="f"/></r></p></e>
 <e a="termcat"><p><l>subnetwork<s n="n"/></l><r>subxarxa<s n="n"/><s n="f"/></r></p></e>
-<e a="termcat"><p><l>network<b/>service<b/>provider<s n="n"/></l><r>traductor<g><b/>d'adreces<b/>de<b/>xarxa</g><s n="n"/><s n="m"/></r></p></e>
+<e a="termcat"><p><l>network<b/>address<b/>translator<s n="n"/></l><r>traductor<g><b/>d'adreces<b/>de<b/>xarxa</g><s n="n"/><s n="m"/></r></p></e>
 <e a="termcat"><p><l>ad<b/>hoc<b/>network<s n="n"/></l><r>xarxa<g><b/>ad<b/>hoc</g><s n="n"/><s n="f"/></r></p></e>
 
 
@@ -46179,7 +46179,8 @@
 <e srl="heredity"><p><l>heredity<s n="n"/></l>           <r>herència<s n="n"/><s n="f"/></r></p></e>
 
 <e srl="institute D"><p><l>institute<s n="n"/></l><r>institut<s n="n"/><s n="m"/></r></p></e>
-<e srl="high_school"><p><l>high<b/>school<s n="n"/></l><r>institut<s n="n"/><s n="m"/></r></p></e>
+<e srl="high_school" vl="en_US"><p><l>high<b/>school<s n="n"/></l><r>institut<s n="n"/><s n="m"/></r></p></e>
+<e srl="secondary_school" vl="en_GB"><p><l>secondary<b/>school<s n="n"/></l><r>institut<s n="n"/><s n="m"/></r></p></e>
 
 <e srl="rent D"><p><l>rent<s n="n"/></l>          <r>lloguer<s n="n"/><s n="m"/></r></p></e>
 <e srl="hire"><p><l>hire<s n="n"/></l>            <r>lloguer<s n="n"/><s n="m"/></r></p></e>
