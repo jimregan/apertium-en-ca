@@ -32438,7 +32438,7 @@
       </p>
     </e>
 
-    <e>
+    <e r="LR">
       <p>
         <l>tes</l> 
         <r>cer<s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r> 
@@ -32452,7 +32452,7 @@
       </p>
     </e>
 
-    <e>
+    <e r="LR">
       <p>
         <l>ta</l> 
         <r>cer<s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r> 
@@ -32466,7 +32466,7 @@
       </p>
     </e>
 
-    <e>
+    <e r="LR">
       <p>
         <l>ts</l> 
         <r>cer<s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r> 
@@ -32480,7 +32480,7 @@
       </p>
     </e>
 
-    <e>
+    <e r="LR">
       <p>
         <l>t</l> 
         <r>cer<s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r> 
