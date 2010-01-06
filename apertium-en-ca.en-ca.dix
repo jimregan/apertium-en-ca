@@ -27009,6 +27009,8 @@
 <e>       <p><l>phytogeography<s n="n"/></l>      <r>fitogeografia<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>hepatitis<s n="n"/></l>           <r>hepatitis<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>hepatitis<s n="n"/><s n="ND"/></l><r>hepatitis<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+<e r="LR"><p><l>pelvis<s n="n"/></l>           <r>pelvis<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>pelvis<s n="n"/><s n="ND"/></l><r>pelvis<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 <e>       <p><l>intimidation<s n="n"/></l>        <r>intimidació<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>rappel<s n="n"/></l>              <r>ràpel<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>orbit<s n="n"/></l>               <r>òrbita<s n="n"/><s n="f"/></r></p></e>
@@ -44000,7 +44002,7 @@
 <e><p><l>platypus<s n="n"/></l><r>ornitorinc<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>snout<s n="n"/></l><r>musell<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>quill<s n="n"/></l><r>pua<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>duck<s n="n"/></l><r>ànec<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>duck<s n="n"/></l><r>ànec<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>receiver<s n="n"/></l><r>auricular<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>venezuelan<s n="n"/></l><r>veneçolà<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>venezuelan<s n="n"/></l><r>veneçolà<s n="n"/></r></p></e>

@@ -94314,9 +94314,7 @@
 <e lm="gall dindi"><p><l>galls<b/>dindis</l><r>gall<b/>dindi<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 
 <e lm="ioga" a="prompsit2adn"><i>iog</i><par n="abell/a__n"/></e>
-<!--
 <e lm="ànec"><i>ànec</i><par n="acompanyant__n"/></e>
--->
 <e lm="àlies"><i>àlies</i><par n="campus__n"/></e>
 <e lm="àlies" a="prompsit2adn"><i>àlies</i><par n="guardaespatlles__n"/></e>
 <e lm="pilar"><i>pilar</i><par n="abric__n"/></e>
@@ -100991,6 +100989,7 @@
 <e lm="bel·licisme" r="LR"><p><l>beŀlicisme</l><r>bel·licisme</r></p><par n="abric__n"/></e>
 <e lm="dissident"><i>dissident</i><par n="acompanyant__n"/></e>
 <e lm="hepatitis"><i>hepatitis</i><par n="càries__n"/></e>
+<e lm="pelvis"><i>pelvis</i><par n="càries__n"/></e>
 <e lm="càries"><i>càries</i><par n="càries__n"/></e>
 <e lm="causant"><i>causant</i><par n="acompanyant__n"/></e>
 <e lm="corindó"><i>corind</i><par n="aband/ó__n"/></e>
