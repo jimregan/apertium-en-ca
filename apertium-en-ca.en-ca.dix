@@ -20747,6 +20747,7 @@
 <e>       <p><l>specialist<s n="n"/></l>          <r>especialista<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>speed<s n="n"/></l>               <r>velocitat<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>wind<b/>speed<s n="n"/></l>               <r>velocitat<g><b/>del<b/>vent</g><s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>speed<g><b/>of<b/>light</g><s n="n"/></l>               <r>velocitat<g><b/>de<b/>la<b/>llum</g><s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>spelling<s n="n"/></l>            <r>ortografia<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>spice<s n="n"/></l>               <r>espècia<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>spider<s n="n"/></l>              <r>aranya<s n="n"/><s n="f"/></r></p></e>
@@ -29518,6 +29519,8 @@
 <e>       <p><l>lunatic<s n="n"/></l>             <r>llunàtic<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>editorialist<s n="n"/></l>        <r>editorialista<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>editorialist<s n="adj"/></l>        <r>editorialista<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>giant<s n="adj"/></l>        <r>gegant<s n="adj"/></r></p></e>
+<e>       <p><l>corneal<s n="adj"/></l>        <r>corneal<s n="adj"/><s n="mf"/></r></p></e>
 <e r="LR">       <p><l>cartographer<s n="n"/></l>        <r>cartògraf<s n="n"/><s n="GD"/></r></p></e>
 <e r="LR">       <p><l>reporter<s n="n"/></l>            <r>reporter<s n="n"/><s n="GD"/></r></p></e>
 <e>       <p><l>sensualist<s n="n"/></l>          <r>sensualista<s n="n"/><s n="mf"/></r></p></e>
@@ -31939,11 +31942,11 @@
 <e><p><l>Nevada<s n="np"/><s n="loc"/></l><r>Nevada<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Vermont<s n="np"/><s n="loc"/></l><r>Vermont<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>New<b/>Mexico<s n="np"/><s n="loc"/></l><r>Nou<b/>Mèxic<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
-<e><p><l>North<b/>Carolina<s n="np"/><s n="loc"/></l><r>Carolina<b/>del<b/>Nord<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
-<e><p><l>North<b/>Dakota<s n="np"/><s n="loc"/></l><r>Dakota<b/>del<b/>Nord<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
-<e><p><l>South<b/>Carolina<s n="np"/><s n="loc"/></l><r>Carolina<b/>del<b/>Sud<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
-<e><p><l>South<b/>Dakota<s n="np"/><s n="loc"/></l><r>Dakota<b/>del<b/>Sud<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
-<e><p><l>West<b/>Virginia<s n="np"/><s n="loc"/></l><r>Virgínia<b/>de<b/>l'Oest<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>North<b/>Carolina<s n="np"/><s n="loc"/></l><r>Carolina<b/>del<b/>Nord<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>North<b/>Dakota<s n="np"/><s n="loc"/></l><r>Dakota<b/>del<b/>Nord<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>South<b/>Carolina<s n="np"/><s n="loc"/></l><r>Carolina<b/>del<b/>Sud<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>South<b/>Dakota<s n="np"/><s n="loc"/></l><r>Dakota<b/>del<b/>Sud<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>West<b/>Virginia<s n="np"/><s n="loc"/></l><r>Virgínia<b/>de<b/>l'Oest<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>North<b/>Korea<s n="np"/><s n="loc"/></l><r>Corea<b/>del<b/>Nord<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>South<b/>Korea<s n="np"/><s n="loc"/></l><r>Corea<b/>del<b/>Sud<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>Rhode<b/>Island<s n="np"/><s n="loc"/></l><r>Rhode<b/>Island<s n="np"/><s n="loc"/><s n="m"/></r></p></e>

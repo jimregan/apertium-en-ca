@@ -7717,6 +7717,21 @@
       </e>
     </pardef>
 
+ <pardef n="Core/a__np">
+      
+      <e>
+        <p>
+          <l>a</l>
+          <r>a<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>es</l>
+          <r>a<s n="np"/><s n="loc"/><s n="f"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="Afganistan__np">
       
       <e>
@@ -94109,6 +94124,7 @@
 <e lm="discurs"><i>discurs</i><par n="as__n"/></e>
 <e lm="velocitat"><i>velocitat</i><par n="accessibilitat__n"/></e>
 <e lm="velocitat del vent"><i>velocitat</i><par n="accessibilitat__n"/><p><l><b/>del<b/>vent</l><r><g><b/>del<b/>vent</g></r></p></e>
+<e lm="velocitat de la llum"><i>velocitat</i><par n="accessibilitat__n"/><p><l><b/>de<b/>la<b/>llum</l><r><g><b/>de<b/>la<b/>llum</g></r></p></e>
 <e lm="reproductibilitat"><i>reproductibilitat</i><par n="accessibilitat__n"/></e>
 <e lm="encanteri"><i>encanteri</i><par n="abric__n"/></e>
 <e lm="encant"><i>encant</i><par n="abric__n"/></e>
@@ -105028,8 +105044,9 @@
 <e lm="Colònia"><i>Colònia</i><par n="Barcelona__np"/></e>
 <e lm="Commonwealth"><i>Commonwealth</i><par n="Barcelona__np"/></e>
 <e lm="Congo"><i>Congo</i><par n="Afganistan__np"/></e>
-<e lm="Corea"><i>Corea</i><par n="Barcelona__np"/></e>
-<e lm="Corea"><p><l>Corees</l><r>Corea</r></p><par n="Bahames__np"/></e>
+<e lm="Corea"><i>Core</i><par n="Core/a__np"/></e>
+<e lm="Dakota"><i>Dakot</i><par n="Core/a__np"/></e>
+<e lm="Carolina"><i>Carolin</i><par n="Core/a__np"/></e>
 <e lm="Corfú"><i>Corfú</i><par n="Afganistan__np"/></e>
 <e lm="Costa d'Ivori"><i>Costa<b/>d'Ivori</i><par n="Barcelona__np"/></e>
 <e lm="Creta"><i>Creta</i><par n="Barcelona__np"/></e>
@@ -116924,6 +116941,7 @@
 <e lm="garbellar" a="prompsit2adn"><i>garbell</i><par n="abander/ar__vblex"/></e>
 <e lm="herència"><i>herènci</i><par n="abell/a__n"/></e>
 <e lm="extint"><i>extint</i><par n="absolut__adj"/></e>
+<e lm="gegant"><i>gegant</i><par n="absolut__adj"/></e>
 <e lm="definitiu"><i>definiti</i><par n="abusi/u__adj"/></e>
 <e lm="fins ara" r="RL"><i>fins<b/>ara</i><par n="a_reveure__ij"/></e>
 <e lm="subterrani"><i>subterr</i><par n="contempor/ani__adj"/></e>
@@ -117390,6 +117408,7 @@
 <e lm="milionèsim"><i>milionèsim</i><par n="tercer__det"/></e>
 
 <e lm="pastoral"><i>pastoral</i><par n="abdominal__adj"/></e>
+<e lm="corneal"><i>corneal</i><par n="abdominal__adj"/></e>
 <e lm="patètic"><i>patèti</i><par n="acadèmi/c__adj"/></e>
 <e lm="preexistent"><i>preexistent</i><par n="abdominal__adj"/></e>
 <e lm="peninsular"><i>peninsular</i><par n="abdominal__adj"/></e>
@@ -117886,11 +117905,11 @@
 <e lm="Kentucky"><i>Kentucky</i><par n="Afganistan__np"/></e>
 <e lm="Nebraska"><i>Nebraska</i><par n="Afganistan__np"/></e>
 <e lm="Nevada"><i>Nevada</i><par n="Afganistan__np"/></e>
-<e lm="Carolina del Nord"><i>Carolina<b/>del<b/>Nord</i><par n="Afganistan__np"/></e>
-<e lm="Dakota del Nord"><i>Dakota<b/>del<b/>Nord</i><par n="Afganistan__np"/></e>
-<e lm="Carolina del Sud"><i>Carolina<b/>del<b/>Sud</i><par n="Afganistan__np"/></e>
-<e lm="Dakota del Sud"><i>Dakota<b/>del<b/>Sud</i><par n="Afganistan__np"/></e>
-<e lm="Virgínia de l'Oest"><i>Virgínia<b/>de<b/>l'Oest</i><par n="Afganistan__np"/></e>
+<e lm="Carolina del Nord"><i>Carolina<b/>del<b/>Nord</i><par n="Barcelona__np"/></e>
+<e lm="Dakota del Nord"><i>Dakota<b/>del<b/>Nord</i><par n="Barcelona__np"/></e>
+<e lm="Carolina del Sud"><i>Carolina<b/>del<b/>Sud</i><par n="Barcelona__np"/></e>
+<e lm="Dakota del Sud"><i>Dakota<b/>del<b/>Sud</i><par n="Barcelona__np"/></e>
+<e lm="Virgínia de l'Oest"><i>Virgínia<b/>de<b/>l'Oest</i><par n="Barcelona__np"/></e>
 <e lm="Corea del Nord"><i>Corea<b/>del<b/>Nord</i><par n="Barcelona__np"/></e>
 <e lm="Corea del Sud"><i>Corea<b/>del<b/>Sud</i><par n="Barcelona__np"/></e>
 <e lm="Rhode Island"><i>Rhode<b/>Island</i><par n="Afganistan__np"/></e>
