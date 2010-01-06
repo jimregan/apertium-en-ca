@@ -18752,7 +18752,7 @@
 
 <!-- NOMS -->
 
-<e><p><l>House<g><b/>of<b/>Representatives</g><s n="n"/></l><r>Cambra<g><b/>de<b/>Representants</g><s n="n"/><s n="f"/></r></p></e> 
+<e><p><l>House<g><b/>of<b/>Representatives</g><s n="n"/></l><r>Cambra<g><b/>de<b/>Representats</g><s n="n"/><s n="f"/></r></p></e> 
 <e>       <p><l>Arab<s n="n"/></l>                <r>àrab<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>Asian<s n="n"/></l>               <r>asiàtic<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>British<s n="n"/></l>             <r>britànic<s n="n"/><s n="m"/></r></p></e>
@@ -19331,7 +19331,7 @@
 <e><p><l>railway<b/>junction<s n="n"/></l><r>nus<b/>ferroviari<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>road<b/>junction<s n="n"/></l><r>nus<b/>viari<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>train<b/>station<s n="n"/></l><r>estació<g><b/>de<b/>tren</g><s n="n"/><s n="f"/></r></p></e>
-<e><p><l>bus<b/>station<s n="n"/></l><r>estació<g><b/>de<b/>autobusos</g><s n="n"/><s n="f"/></r></p></e>
+<e><p><l>bus<b/>station<s n="n"/></l><r>estació<g><b/>d'autobusos</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>police<b/>station<s n="n"/></l><r>estació<g><b/>de<b/>policia</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>dry<b/>season<s n="n"/></l><r>estació<b/>seca<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>wet<b/>season<s n="n"/></l><r>estació<b/>humida<s n="n"/><s n="f"/></r></p></e>
@@ -31894,7 +31894,6 @@
 <e><p><l>Le<b/>Monde<s n="np"/><s n="al"/></l><r>Le<b/>Monde<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e><p><l>Lexmark<s n="np"/><s n="al"/></l><r>Lexmark<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e><p><l>AT&amp;T<s n="n"/><s n="acr"/></l><r>AT&amp;T<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
-<e><p><l>AT&amp;T<s n="np"/><s n="al"/></l><r>AT&amp;T<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e><p><l>USB<s n="n"/><s n="acr"/></l><r>USB<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
 <e><p><l>TNT<s n="n"/><s n="acr"/></l><r>TNT<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
 <e><p><l>WHO<s n="n"/><s n="acr"/></l><r>OMS<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
@@ -44589,7 +44588,7 @@
 <e><p><l>indivisible<s n="adj"/></l><r>indivisible<s n="adj"/><s n="mf"/></r></p></e>
 <e r="LR"><p><l>lone<s n="adj"/></l><r>solitari<s n="adj"/></r></p></e>
 <e><p><l>multimedia<s n="adj"/></l><r>multimèdia<s n="adj"/><s n="mf"/></r></p></e>
-<e><p><l>sexy<s n="adj"/></l><r>sexy<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>sexy<s n="adj"/><s n="sint"/></l><r>sexy<s n="adj"/><s n="mf"/></r></p></e>
 <e>       <p><l>sublimate<s n="vblex"/></l>          <r>sublimar<s n="vblex"/></r></p></e>
 <e>       <p><l>vaporise<s n="vblex"/></l>          <r>vaporitzar<s n="vblex"/></r></p></e>
 <e>       <p><l>rocky<s n="adj"/><s n="sint"/></l>          <r>rocós<s n="adj"/></r></p></e>
