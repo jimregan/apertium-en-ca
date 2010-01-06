@@ -2577,6 +2577,20 @@
         </p>
       </e>
     </pardef>
+    <pardef n="Korea__np">
+      <e>
+        <p>
+          <l/>
+          <r><s n="np"/><s n="loc"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>s</l>
+          <r><s n="np"/><s n="loc"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="Mars__np">
       <e>
         <p>
@@ -14722,6 +14736,7 @@
     <e lm="Curtis"><i>Curtis</i><par n="Mark__np"/>    </e>
     <e lm="Cyrus"><i>Cyrus</i><par n="Mark__np"/>    </e>
     <e lm="Dakota"><i>Dakota</i><par n="Mark__np"/>    </e>
+    <e lm="Dakota"><i>Dakota</i><par n="Korea__np"/>    </e>
     <e lm="Dale"><i>Dale</i><par n="Mark__np"/>    </e>
     <e lm="Dallas"><i>Dallas</i><par n="Mark__np"/>    </e>
     <e lm="Dallin"><i>Dallin</i><par n="Mark__np"/>    </e>
@@ -15737,6 +15752,7 @@
     <e lm="Carmen"><i>Carmen</i><par n="Mary__np"/>    </e>
     <e lm="Carol"><i>Carol</i><par n="Mary__np"/>    </e>
     <e lm="Carolina"><i>Carolina</i><par n="Mary__np"/>    </e>
+    <e lm="Carolina"><i>Carolina</i><par n="Korea__np"/>    </e>
     <e lm="Caroline"><i>Caroline</i><par n="Mary__np"/>    </e>
     <e lm="Carolyn"><i>Carolyn</i><par n="Mary__np"/>    </e>
     <e lm="Carrie"><i>Carrie</i><par n="Mary__np"/>    </e>
@@ -17467,8 +17483,7 @@
     <e lm="Jupiter"><i>Jupiter</i><par n="Barcelona__np"/>    </e>
     <e lm="Kabul"><i>Kabul</i><par n="Barcelona__np"/>    </e>
     <e lm="Kennedy"><i>Kennedy</i><par n="Smith__np"/>    </e>
-    <e lm="Korea"><i>Korea</i><par n="Barcelona__np"/>    </e>
-    <e lm="Korea" a="greenbreen"><p><l>Koreas</l><r>Korea</r></p><par n="United_States__np"/>    </e>
+    <e lm="Korea"><i>Korea</i><par n="Korea__np"/>    </e>
     <e lm="Kosovo"><i>Kosovo</i><par n="Barcelona__np"/>    </e>
     <e lm="Lara"><i>Lara</i><par n="Mary__np"/>    </e>
     <e lm="Latin America"><i>Latin<b/>America</i><par n="Barcelona__np"/>    </e>
@@ -34641,9 +34656,7 @@
     <e lm="Ohio" a="greenbreen"><i>Ohio</i><par n="Barcelona__np"/></e>
     <e lm="Oklahoma" a="greenbreen"><i>Oklahoma</i><par n="Barcelona__np"/></e>
     <e lm="South Carolina" a="greenbreen"><i>South<b/>Carolina</i><par n="Barcelona__np"/></e>
-    <e lm="Carolinas" a="greenbreen"><i>Carolinas</i><par n="United_States__np"/></e>
     <e lm="South Dakota" a="greenbreen"><i>South<b/>Dakota</i><par n="Barcelona__np"/></e>
-    <e lm="Dakotas" a="greenbreen"><i>Dakotas</i><par n="United_States__np"/></e>
     <e lm="Tennessee" a="greenbreen"><i>Tennessee</i><par n="Barcelona__np"/></e>
     <e lm="Vermont" a="greenbreen"><i>Vermont</i><par n="Barcelona__np"/></e>
     <e lm="West Virginia" a="greenbreen"><i>West<b/>Virginia</i><par n="Barcelona__np"/></e>
