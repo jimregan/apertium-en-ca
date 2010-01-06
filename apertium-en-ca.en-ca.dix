@@ -836,6 +836,7 @@
 <e>       <p><l>unnecessary<s n="adj"/></l>       <r>innecessari<s n="adj"/></r></p></e>
 
 <e>       <p><l>matrimonial<s n="adj"/></l>       <r>matrimonial<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>extramarital<s n="adj"/></l>       <r>extramatrimonial<s n="adj"/><s n="mf"/></r></p></e>
 
 <e>       <p><l>anemophilous<s n="adj"/></l>      <r>anemòfil<s n="adj"/></r></p></e>
 
@@ -1422,6 +1423,7 @@
 <e>       <p><l>algerian<s n="adj"/></l>          <r>argelí<s n="adj"/></r></p></e>
 <e>       <p><l>mauritanian<s n="adj"/></l>       <r>maurità<s n="adj"/></r></p></e>
 <e>       <p><l>european<s n="adj"/></l>          <r>europeu<s n="adj"/></r></p></e>
+<e>       <p><l>non-european<s n="adj"/></l>          <r>extraeuropeu<s n="adj"/></r></p></e>
 <e>       <p><l>french<s n="adj"/></l>            <r>francès<s n="adj"/></r></p></e>
 <e>       <p><l>dutch<s n="adj"/></l>             <r>holandès<s n="adj"/></r></p></e>
 <e>       <p><l>arthurian<s n="adj"/></l>         <r>artúric<s n="adj"/></r></p></e>
@@ -5176,6 +5178,7 @@
 
 
 <e>       <p><l>judicial<s n="adj"/></l>          <r>judicial<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>extrajudicial<s n="adj"/></l>          <r>extrajudicial<s n="adj"/><s n="mf"/></r></p></e>
 
 <e>       <p><l>normal<s n="adj"/></l>            <r>normal<s n="adj"/><s n="mf"/></r></p></e>
 
@@ -5468,6 +5471,9 @@
 <e>       <p><l>epicycloidal<s n="adj"/></l>      <r>epicicloïdal<s n="adj"/><s n="mf"/></r></p></e>
 
 <e>       <p><l>contractual<s n="adj"/></l>       <r>contractual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR">       <p><l>extracontractual<s n="adj"/></l>       <r>extracontractual<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>extra-contractual<s n="adj"/></l>       <r>extracontractual<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>extractive<s n="adj"/></l>       <r>extractiu<s n="adj"/><s n="mf"/></r></p></e>
 
 <e>       <p><l>accessible<s n="adj"/></l>        <r>accessible<s n="adj"/><s n="mf"/></r></p></e>
 
@@ -5547,7 +5553,7 @@
 
 <e>       <p><l>communist<s n="adj"/></l>         <r>comunista<s n="adj"/><s n="mf"/></r></p></e>
 <e>       <p><l>ex-communist<s n="adj"/></l>         <r>ex-comunista<s n="adj"/><s n="mf"/></r></p></e>
-<e>       <p><l>claustrophobic<s n="adj"/></l>         <r>claustrofòbic<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>claustrophobic<s n="adj"/></l>         <r>claustrofòbic<s n="adj"/></r></p></e>
 
 <e>       <p><l>revocatory<s n="adj"/></l>        <r>revocatori<s n="adj"/></r></p></e>
 
@@ -6221,6 +6227,7 @@
 <e r="RL"><p><l>valid<s n="adj"/></l>             <r>vigent<s n="adj"/><s n="mf"/></r></p></e>
 
 <e>       <p><l>academic<s n="adj"/></l>          <r>acadèmic<s n="adj"/></r></p></e>
+<e>       <p><l>non-university<s n="adj"/></l>          <r>extraacadèmic<s n="adj"/></r></p></e>
 
 <e>       <p><l>current<s n="adj"/></l>           <r>actual<s n="adj"/><s n="mf"/></r></p></e>
 
@@ -23028,7 +23035,8 @@
 <e>       <p><l>pagodite<s n="n"/></l>            <r>pagodita<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>fetishism<s n="n"/></l>           <r>fetitxisme<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>sheller<s n="n"/></l>             <r>esclofolladora<s n="n"/><s n="f"/></r></p></e>
-<e>       <p><l>faeces<s n="n"/></l>               <r>femta<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>faeces<s n="n"/><s n="pl"/></l>               <r>femta<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="RL">       <p><l>faeces<s n="n"/><s n="pl"/></l>               <r>femta<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e>       <p><l>sensualism<s n="n"/></l>          <r>sensualisme<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>proteinuria<s n="n"/></l>         <r>proteïnúria<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>psaltery<s n="n"/></l>            <r>saltiri<s n="n"/><s n="m"/></r></p></e>
@@ -29505,6 +29513,7 @@
 <e>       <p><l>gaoler<s n="n"/></l>              <r>escarceller<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>lunatic<s n="n"/></l>             <r>llunàtic<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>editorialist<s n="n"/></l>        <r>editorialista<s n="n"/><s n="mf"/></r></p></e>
+<e>       <p><l>editorialist<s n="adj"/></l>        <r>editorialista<s n="adj"/><s n="mf"/></r></p></e>
 <e r="LR">       <p><l>cartographer<s n="n"/></l>        <r>cartògraf<s n="n"/><s n="GD"/></r></p></e>
 <e r="LR">       <p><l>reporter<s n="n"/></l>            <r>reporter<s n="n"/><s n="GD"/></r></p></e>
 <e>       <p><l>sensualist<s n="n"/></l>          <r>sensualista<s n="n"/><s n="mf"/></r></p></e>

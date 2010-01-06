@@ -19003,7 +19003,8 @@
     <e lm="courage"><i>courage</i><par n="house__n"/>    </e>
     <e lm="course"><i>course</i><par n="house__n"/>    </e>
     <e lm="court"><i>court</i><par n="house__n"/>    </e>
-    <e lm="high court"><i>high<b/>court</i><par n="east__n"/>    </e>
+    <e lm="high court"><i>high<b/>court</i><par n="house__n"/>    </e>
+    <e lm="free access"><i>free<b/>access</i><par n="east__n"/>    </e>
     <e lm="National High Court" r="RL"><i>National<b/>High<b/>Court</i><par n="east__n"/>    </e>
     <e lm="courtship"><i>courtship</i><par n="house__n"/>    </e>
     <e lm="courtyard"><i>courtyard</i><par n="house__n"/>    </e>
@@ -19471,6 +19472,7 @@
     <e lm="editorial"><i>editorial</i><par n="house__n"/>    </e>
     <e lm="editorial staff"><i>editorial<b/>staff</i><par n="staff__n"/>    </e>
     <e lm="editorialist"><i>editorialist</i><par n="house__n"/>    </e>
+    <e lm="editorialist"><i>editorialist</i><par n="expensive__adj"/>    </e>
     <e lm="education"><i>education</i><par n="house__n"/>    </e>
     <e lm="educator"><i>educator</i><par n="house__n"/>    </e>
     <e lm="eel"><i>eel</i><par n="house__n"/>    </e>
@@ -24046,6 +24048,7 @@
     <e lm="Egyptian"><p><l>Egyptian</l><r>egyptian</r></p><par n="expensive__adj"/></e>
     <e lm="English"><p><l>English</l><r>english</r></p><par n="expensive__adj"/></e>
     <e lm="European"><p><l>European</l><r>european</r></p><par n="expensive__adj"/></e>
+    <e lm="non-European"><p><l>non-European</l><r>non-european</r></p><par n="expensive__adj"/></e>
     <e lm="Falangist"><p><l>Falangist</l><r>falangist</r></p><par n="expensive__adj"/></e>
     <e lm="Franciscan"><par n="Ff"/><i>ranciscan</i><par n="expensive__adj"/></e>
     <e lm="Finnish"><p><l>Finnish</l><r>finnish</r></p><par n="expensive__adj"/></e>
@@ -24220,6 +24223,7 @@
     <e lm="abundant"><i>abundant</i><par n="expensive__adj"/>    </e>
     <e lm="abysmal"><i>abysmal</i><par n="expensive__adj"/>    </e>
     <e lm="academic"><i>academic</i><par n="expensive__adj"/>    </e>
+    <e lm="non-academic"><i>non-academic</i><par n="expensive__adj"/>    </e>
     <e lm="acceptable"><i>acceptable</i><par n="expensive__adj"/>    </e>
     <e lm="accessible"><i>accessible</i><par n="expensive__adj"/>    </e>
     <e lm="accidental"><i>accidental</i><par n="expensive__adj"/>    </e>
@@ -24467,6 +24471,10 @@
     <e lm="contingent"><i>contingent</i><par n="expensive__adj"/>    </e>
     <e lm="continuous"><i>continuous</i><par n="expensive__adj"/>    </e>
     <e lm="contractual"><i>contractual</i><par n="expensive__adj"/>    </e>
+    <e lm="extracontractual"><i>extracontractual</i><par n="expensive__adj"/>    </e>
+    <e lm="extra-contractual"><i>extra-contractual</i><par n="expensive__adj"/>    </e>
+    <e lm="extractive"><i>extractive</i><par n="expensive__adj"/>    </e>
+    <e lm="extramarital"><i>extramarital</i><par n="expensive__adj"/>    </e>
     <e lm="contradictory"><i>contradictory</i><par n="expensive__adj"/>    </e>
     <e lm="contrary"><i>contrary</i><par n="expensive__adj"/>    </e>
     <e lm="convenient"><i>convenient</i><par n="expensive__adj"/>    </e>
@@ -24976,6 +24984,7 @@
     <e lm="journalistic"><i>journalistic</i><par n="expensive__adj"/>    </e>
     <e lm="joyous"><i>joyous</i><par n="expensive__adj"/>    </e>
     <e lm="judicial"><i>judicial</i><par n="expensive__adj"/>    </e>
+    <e lm="extrajudicial"><i>extrajudicial</i><par n="expensive__adj"/>    </e>
     <e lm="juridical"><i>juridical</i><par n="expensive__adj"/>    </e>
     <e lm="justifiable"><i>justifiable</i><par n="expensive__adj"/>    </e>
     <e lm="juvenile"><i>juvenile</i><par n="expensive__adj"/>    </e>
@@ -30151,6 +30160,7 @@
     <e lm="clapper"><i>clapper</i><par n="house__n"/>     </e>
     <e lm="clarification"><i>clarification</i><par n="house__n"/>     </e>
     <e lm="claustrophobia"><i>claustrophobia</i><par n="house__n"/>     </e>
+    <e lm="claustrophobic"><i>claustrophobic</i><par n="expensive__adj"/>     </e>
     <e lm="clavichord"><i>clavichord</i><par n="house__n"/>     </e>
     <e lm="clavicle"><i>clavicle</i><par n="house__n"/>     </e>
     <e lm="clerical"><i>clerical</i><par n="expensive__adj"/>     </e>
