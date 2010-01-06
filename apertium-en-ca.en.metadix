@@ -22367,6 +22367,7 @@
     <e lm="railway"><i>railway</i><par n="house__n"/>    </e>
     <e lm="railway station"><i>railway<b/>station</i><par n="house__n"/>    </e>
     <e lm="train station"><i>train<b/>station</i><par n="house__n"/>    </e>
+    <e lm="bus station"><i>bus<b/>station</i><par n="house__n"/>    </e>
     <e lm="space station"><i>space<b/>station</i><par n="house__n"/>    </e>
     <e lm="earth station"><i>earth<b/>station</i><par n="house__n"/>    </e>
     <e lm="hub station"><i>hub<b/>station</i><par n="house__n"/>    </e>

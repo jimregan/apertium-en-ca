@@ -570,6 +570,9 @@
 
   <section  id="main" type="standard">
 
+<e><p><l>ADP<s n="n"/><s n="acr"/></l><r>ADP<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+<e><p><l>PHP<s n="n"/><s n="acr"/></l><r>PHP<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+<e><p><l>FIDE<s n="n"/><s n="acr"/></l><r>FIDE<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
 <e a="termcat"><p><l>item<b/>analysis<s n="n"/></l><r>anàlisi<g><b/>d'ítems</g><s n="n"/><s n="f"/></r></p></e>
 <e a="termcat"><p><l>test-item<b/>bank<s n="n"/></l><r>banc<g><b/>d'ítems</g><s n="n"/><s n="m"/></r></p></e>
 <e a="termcat"><p><l>maximax<b/>criterion<s n="n"/></l><r>criteri<g><b/>maximax</g><s n="n"/><s n="m"/></r></p></e>
@@ -19317,6 +19320,7 @@
 <e><p><l>railway<b/>junction<s n="n"/></l><r>nus<b/>ferroviari<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>road<b/>junction<s n="n"/></l><r>nus<b/>viari<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>train<b/>station<s n="n"/></l><r>estació<g><b/>de<b/>tren</g><s n="n"/><s n="f"/></r></p></e>
+<e><p><l>bus<b/>station<s n="n"/></l><r>estació<g><b/>de<b/>autobusos</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>police<b/>station<s n="n"/></l><r>estació<g><b/>de<b/>policia</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>dry<b/>season<s n="n"/></l><r>estació<b/>seca<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>wet<b/>season<s n="n"/></l><r>estació<b/>humida<s n="n"/><s n="f"/></r></p></e>
