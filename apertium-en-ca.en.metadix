@@ -14895,6 +14895,7 @@
     <e lm="Freddie"><i>Freddie</i><par n="Mark__np"/>    </e>
     <e lm="Freddy"><i>Freddy</i><par n="Mark__np"/>    </e>
     <e lm="Frederick"><i>Frederick</i><par n="Mark__np"/>    </e>
+    <e lm="Chopin"><i>Chopin</i><par n="Mark__np"/>    </e>
     <e lm="Fredrick"><i>Fredrick</i><par n="Mark__np"/>    </e>
     <e lm="Gabriel"><i>Gabriel</i><par n="Mark__np"/>    </e>
     <e lm="Gael"><i>Gael</i><par n="Mark__np"/>    </e>
@@ -20424,6 +20425,7 @@
     <e lm="antifederalist"><i>antifederalist</i><par n="expensive__adj"/></e>
     <e lm="anti-francoist"><p><l>anti-Francoist</l><r>anti-francoist</r></p><par n="expensive__adj"/></e>
     <e lm="fucking awesome"><i>fucking<b/>awesome</i><par n="expensive__adj"/></e>
+    <e lm="circumstantial"><i>circumstantial</i><par n="expensive__adj"/></e>
     <e lm="antimicrobic"><i>antimicrobic</i><par n="expensive__adj"/></e>
     <e lm="antiparallel"><i>antiparallel</i><par n="expensive__adj"/></e>
     <e lm="antireflexive"><i>antireflexive</i><par n="expensive__adj"/></e>

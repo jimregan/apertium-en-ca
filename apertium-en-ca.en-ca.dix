@@ -5111,6 +5111,7 @@
 <e>       <p><l>showy<s n="adj"/><s n="sint"/></l><r>vistós<s n="adj"/></r></p></e>
 
 <e>       <p><l>abdominal<s n="adj"/></l>         <r>abdominal<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>circumstantial<s n="adj"/></l>         <r>circumstancial<s n="adj"/><s n="mf"/></r></p></e>
 
 <e>       <p><l>urban<s n="adj"/></l>             <r>urbà<s n="adj"/></r></p></e>
 
@@ -6235,6 +6236,7 @@
 <e r="LR">       <p><l>extramural<s n="adj"/></l>          <r>extrauniversitari<s n="adj"/></r></p></e>
 <e>       <p><l>bayesian<s n="adj"/></l>          <r>bayesià<s n="adj"/></r></p></e>
 <e>       <p><l>ptolemaic<s n="adj"/></l>          <r>ptolemaic<s n="adj"/></r></p></e>
+<e>       <p><l>macromolecular<s n="adj"/></l>          <r>macromolecular<s n="adj"/><s n="mf"/></r></p></e>
 <e a="greenbreen"><p><l>whenever<s n="cnjsub"/></l><r>sempre<b/>que<s n="cnjsub"/></r></p></e>
 
 <e>       <p><l>current<s n="adj"/></l>           <r>actual<s n="adj"/><s n="mf"/></r></p></e>
@@ -31768,8 +31770,11 @@
 
 <e>       <p><l>Mark<s n="np"/></l>               <r>Mark<s n="np"/></r></p></e>
 <e>       <p><l>Barcelona<s n="np"/><s n="loc"/></l><r>Barcelona<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e>       <p><l>Medina<s n="np"/><s n="loc"/></l><r>Medina<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e>       <p><l>Vitoria<s n="np"/><s n="loc"/></l><r>Vitòria<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e>       <p><l>Vitoria-Gasteiz<s n="np"/><s n="loc"/></l><r>Vitoria-Gasteiz<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e>       <p><l>Marchena<b/>Island<s n="np"/><s n="loc"/></l><r>Illa<b/>Marchena<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e r="LR">       <p><l>Isla<b/>Marchena<s n="np"/><s n="loc"/></l><r>Illa<b/>Marchena<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e>       <p><l>Bear<b/>Island<s n="np"/><s n="loc"/></l><r>Illa<b/>de<b/>l'Ós<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e>       <p><l>Nice<s n="np"/><s n="loc"/></l>   <r>Niça<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e>       <p><l>Pisa<s n="np"/><s n="loc"/></l>   <r>Pisa<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
@@ -37879,6 +37884,7 @@
 <e><p><l>Frederic<s n="np"/></l><r>Frederic<s n="np"/></r></p></e>
 <e><p><l>Frédéric<s n="np"/></l><r>Frédéric<s n="np"/></r></p></e>
 <e><p><l>Frederick<s n="np"/></l><r>Frederick<s n="np"/></r></p></e>
+<e><p><l>Chopin<s n="np"/></l><r>Chopin<s n="np"/></r></p></e>
 <e><p><l>Frediano<s n="np"/></l><r>Frediano<s n="np"/></r></p></e>
 <e><p><l>Fredo<s n="np"/></l><r>Fredo<s n="np"/></r></p></e>
 <e><p><l>Fredrick<s n="np"/></l><r>Fredrick<s n="np"/></r></p></e>

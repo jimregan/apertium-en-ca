@@ -83192,6 +83192,8 @@
 <!--ADJECTIUS -->
 
 <e lm="junt"><i>junt</i><par n="absolut__adj"/></e>
+
+<e lm="circumstancial"><i>circumstancial</i><par n="abdominal__adj"/></e>
 <e lm="acompanyant"><i>acompanyant</i><par n="abdominal__adj"/></e>
 
 <e lm="cert"><i>cert</i><par n="absolut__adj"/></e>
@@ -86539,6 +86541,7 @@
 <e lm="fusible"><i>fusible</i><par n="abdominal__adj"/></e>
 
 <e lm="intermolecular"><i>intermolecular</i><par n="abdominal__adj"/></e>
+<e lm="macromolecular"><i>macromolecular</i><par n="abdominal__adj"/></e>
 
 <e lm="immortal"><i>immortal</i><par n="abdominal__adj"/></e>
 
@@ -111657,6 +111660,7 @@
 <e lm="Frederic"><i>Frederic</i><par n="Marc__np"/></e>
 <e lm="Frédéric"><i>Frédéric</i><par n="Marc__np"/></e>
 <e lm="Frederick"><i>Frederick</i><par n="Marc__np"/></e>
+<e lm="Chopin"><i>Chopin</i><par n="Marc__np"/></e>
 <e lm="Frediano"><i>Frediano</i><par n="Marc__np"/></e>
 <e lm="Fredo"><i>Fredo</i><par n="Marc__np"/></e>
 <e lm="Fredrick"><i>Fredrick</i><par n="Marc__np"/></e>
@@ -117855,6 +117859,7 @@
 <e lm="La Meca"><i>La<b/>Meca</i><par n="Barcelona__np"/></e>
 <e lm="Guillem Tell"><i>Guillem<b/>Tell</i><par n="Marc__np"/></e>
 <e lm="Filipines"><i>Filipines</i><par n="Bahames__np"/></e>
+<e lm="Illa Marchena"><i>Illa<b/>Marchena</i><par n="Barcelona__np"/></e>
 <e lm="Illa del Sud"><i>Illa<b/>del<b/>Sud</i><par n="Barcelona__np"/></e>
 <e lm="Illa del Nord"><i>Illa<b/>del<b/>Nord</i><par n="Barcelona__np"/></e>
 <e lm="Illa de Pasqua"><i>Illa<b/>de<b/>Pasqua</i><par n="Barcelona__np"/></e>
