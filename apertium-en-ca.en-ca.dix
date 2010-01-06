@@ -19555,8 +19555,8 @@
 <e>       <p><l>use<s n="n"/></l>                 <r>ús<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>user<s n="n"/></l>                <r>usuari<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>user<s n="n"/></l>                <r>usuari<s n="n"/><s n="f"/></r></p></e>
-<e>       <p><l>Valencian<s n="n"/></l>           <r>valencià<s n="n"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>Valencian<s n="n"/></l>           <r>valencià<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>valencian<s n="n"/></l>           <r>valencià<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>valencian<s n="n"/></l>           <r>valencià<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>value<s n="n"/></l>               <r>valor<s n="n"/><s n="m"/></r></p></e>
 <e r="LR" a="doriua"><p><l>worth<s n="n"/></l>    <r>valor<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>victim<s n="n"/></l>              <r>víctima<s n="n"/><s n="f"/></r></p></e>
@@ -30199,7 +30199,6 @@
 <e>       <p><l>environmentalist<s n="n"/></l>    <r>ecologista<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>navigator<s n="n"/></l>           <r>explorador<s n="n"/><s n="m"/></r></p></e>
 <e r="LR">       <p><l>clown<s n="n"/></l>               <r>pallasso<s n="n"/><s n="GD"/></r></p></e>
-<e r="LR">       <p><l>mechanic<s n="n"/></l>            <r>mecànic<s n="n"/><s n="GD"/></r></p></e>
 <e>       <p><l>analyst<s n="n"/></l>             <r>analista<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>damascene<s n="n"/></l>           <r>damasquí<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>beautician<s n="n"/></l>          <r>esteticista<s n="n"/><s n="mf"/></r></p></e>
@@ -30595,7 +30594,8 @@
 <e r="RL"><p><l>navigator<s n="n"/></l>           <r>explorador<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>clown<s n="n"/></l>               <r>pallasso<s n="n"/></r></p></e>
 <e>       <p><l>hyperbola<s n="n"/></l>           <r>hipèrbola<s n="n"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>mechanic<s n="n"/></l>            <r>mecànic<s n="n"/></r></p></e>
+<e r="RL"><p><l>mechanic<s n="n"/></l>            <r>mecànic<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>mechanic<s n="n"/></l>            <r>mecànic<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>damascene<s n="n"/></l>           <r>damasquí<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>invalid<s n="n"/></l>             <r>invàlid<s n="n"/></r></p></e>
 <e r="RL"><p><l>instigator<s n="n"/></l>          <r>instigador<s n="n"/></r></p></e>
