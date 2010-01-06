@@ -35779,7 +35779,7 @@
     <e lm="toward" a="greenbreen"><i>toward</i><par n="at__pr"/></e>
     <e lm="superconductivity" a="greenbreen"><i>superconductivit</i><par n="bab/y__n"/></e>
     <e lm="Thales" a="greenbreen"><i>Thales</i><par n="James__np"/></e>
-    <e lm="Ptolemaic" a="greenbreen"><i>Ptolemaic</i><par n="expensive__adj"/></e>
+    <e lm="Ptolemaic" a="greenbreen"><p><l>Ptolemaic</l><r>ptolemaic</r></p><par n="expensive__adj"/></e>
     <e lm="condensed matter physics" a="greenbreen"><i>condensed<b/>matter<b/>physics</i><par n="politics__n"/></e>
     <e lm="high-temperature superconductivity" a="greenbreen"><i>high-temperature<b/>superconductivit</i><par n="bab/y__n"/></e>
     <e lm="genetics" a="greenbreen"><i>genetics</i><par n="politics__n"/></e>
