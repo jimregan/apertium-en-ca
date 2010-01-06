@@ -104547,6 +104547,16 @@
 <e lm="ADP"><i>ADP</i><par n="ADN__n"/></e>
 <e lm="PHP"><i>PHP</i><par n="ADN__n"/></e>
 <e lm="FIDE"><i>FIDE</i><par n="BBC__n"/></e>
+<e lm="ROM"><i>ROM</i><par n="BBC__n"/></e>
+<e lm="et al"><p><l>et<b/>al</l><r>et<b/>al<s n="n"/><s n="acr"/><s n="mf"/><s n="sp"/></r></p></e>
+<e lm="MB"><i>MB</i><par n="ADN__n"/></e>
+<e lm="SQL"><i>SQL</i><par n="ADN__n"/></e>
+<e lm="cm"><i>cm</i><par n="ADN__n"/></e>
+<e lm="LASIK"><i>LASIK</i><par n="ADN__n"/></e>
+<e lm="ANSI"><i>ANSI</i><par n="ADN__n"/></e>
+<e lm="SGBD"><i>SGBD</i><par n="ADN__n"/></e>
+<e lm="PHP"><i>PHP</i><par n="ADN__n"/></e>
+<e lm="EPROM"><i>EPROM</i><par n="BBC__n"/></e>
 <e lm="ADN"><i>ADN</i><par n="ADN__n"/></e>
 <e lm="3GPP"><i>3GPP</i><par n="ADN__n"/></e>
 <e lm="CSMA"><i>CSMA</i><par n="ADN__n"/>    </e>

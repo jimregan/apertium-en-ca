@@ -573,6 +573,16 @@
 <e><p><l>ADP<s n="n"/><s n="acr"/></l><r>ADP<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
 <e><p><l>PHP<s n="n"/><s n="acr"/></l><r>PHP<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
 <e><p><l>FIDE<s n="n"/><s n="acr"/></l><r>FIDE<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+<e a="greenbreen"><p><l>ROM<s n="n"/><s n="acr"/></l><r>ROM<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+<e a="greenbreen"><p><l>EPROM<s n="n"/><s n="acr"/></l><r>EPROM<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+<e a="greenbreen"><p><l>et<b/>al<s n="n"/><s n="acr"/><s n="sg"/></l><r>et<b/>al<s n="n"/><s n="acr"/><s n="mf"/><s n="sp"/></r></p></e>
+<e a="greenbreen"><p><l>MB<s n="n"/><s n="acr"/></l><r>MB<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+<e a="greenbreen"><p><l>SQL<s n="n"/><s n="acr"/></l><r>SQL<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+<e a="greenbreen"><p><l>cm<s n="n"/><s n="acr"/><s n="sg"/></l><r>cm<s n="n"/><s n="acr"/><s n="m"/><s n="sg"/></r></p></e>
+<e a="greenbreen"><p><l>LASIK<s n="n"/><s n="acr"/></l><r>LASIK<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+<e a="greenbreen"><p><l>ANSI<s n="n"/><s n="acr"/></l><r>ANSI<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+<e a="greenbreen"><p><l>DBMS<s n="n"/><s n="acr"/></l><r>SGBD<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+
 <e a="termcat"><p><l>item<b/>analysis<s n="n"/></l><r>anàlisi<g><b/>d'ítems</g><s n="n"/><s n="f"/></r></p></e>
 <e a="termcat"><p><l>test-item<b/>bank<s n="n"/></l><r>banc<g><b/>d'ítems</g><s n="n"/><s n="m"/></r></p></e>
 <e a="termcat"><p><l>maximax<b/>criterion<s n="n"/></l><r>criteri<g><b/>maximax</g><s n="n"/><s n="m"/></r></p></e>
