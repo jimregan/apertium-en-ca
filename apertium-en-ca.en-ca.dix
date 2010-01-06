@@ -35235,6 +35235,7 @@
 
 <e a="prompsit2cdl"><p><l>universality<s n="n"/></l><r>universalitat<s n="n"/><s n="f"/></r></p></e>
 <e a="prompsit2cdl"><p><l>computation<s n="n"/></l><r>computació<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>cloud<b/>computing<s n="n"/></l><r>computació<g><b/>en<b/>núvol</g><s n="n"/><s n="f"/></r></p></e>
 <e a="prompsit2cdl"><p><l>blog<s n="n"/></l>      <r>blog<s n="n"/><s n="m"/></r></p></e>
 <e r="LR" a="prompsit2cdl"><p><l>computer<b/>science<s n="n"/></l><r>informàtica<s n="n"/><s n="f"/></r></p></e>
 <e a="prompsit2cdl"><p><l>capital<b/>letter<s n="n"/></l><r>majúscula<s n="n"/><s n="f"/></r></p></e>
@@ -45385,7 +45386,7 @@
 <e slr="curt D"><p><l>short<s n="adj"/><s n="sint"/></l><r>curt<s n="adj"/></r></p></e>
 <e slr="cànon D"><p><l>canon<s n="n"/></l>        <r>cànon<s n="n"/><s n="m"/></r></p></e>
 <e slr="càrrec D"><p><l>charge<s n="n"/></l>      <r>càrrec<s n="n"/><s n="m"/></r></p></e>
-<e slr="càrrega"><p><l>charge<s n="n"/></l><r>càrrega<s n="n"/><s n="f"/></r></p></e>
+<e slr="càrrega" srl="charge"><p><l>charge<s n="n"/></l><r>càrrega<s n="n"/><s n="f"/></r></p></e>
 <e slr="càsting D"><p><l>casting<s n="n"/></l>    <r>càsting<s n="n"/><s n="m"/></r></p></e>
 <e slr="càtedra"><p><l>chair<s n="n"/></l>        <r>càtedra<s n="n"/><s n="f"/></r></p></e>
 <e slr="cèl·lula D"><p><l>cell<s n="n"/></l>      <r>cèl·lula<s n="n"/><s n="f"/></r></p></e>
@@ -46230,7 +46231,6 @@
 <e srl="tongue"><p><l>tongue<s n="n"/></l>        <r>llengua<s n="n"/><s n="f"/></r></p></e>
 
 <e srl="load D"><p><l>load<s n="n"/></l>          <r>càrrega<s n="n"/><s n="f"/></r></p></e>
-<e srl="charge"><p><l>charge<s n="n"/></l><r>càrrega<s n="n"/><s n="f"/></r></p></e>
 
 <e srl="letter D"><p><l>letter<s n="n"/></l><r>lletra<s n="n"/><s n="f"/></r></p></e>
 <e srl="lyric" a="carmentano"><p><l>lyric<s n="n"/><s n="pl"/></l><r>lletra<s n="n"/><s n="f"/><s n="pl"/></r></p></e>

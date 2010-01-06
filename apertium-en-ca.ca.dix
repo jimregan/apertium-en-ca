@@ -109445,6 +109445,7 @@
 <e lm="subscriptor" a="prompsit2cdl"><i>subscriptor</i><par n="senyor__n"/></e>
 <e lm="universalitat" a="prompsit2cdl"><i>universalitat</i><par n="accessibilitat__n"/></e>
 <e lm="computació" a="prompsit2cdl"><i>computaci</i><par n="acci/ó__n"/></e>
+<e lm="computació en núvol"><i>computaci</i><par n="acci/ó__n"/><p><l><b/>en<b/>núvol</l><r><g><b/>en<b/>núvol</g></r></p></e>
 <e lm="blog" a="prompsit2cdl"><i>blog</i><par n="abric__n"/></e>
 <e lm="majúscula" a="prompsit2cdl"><i>majúscul</i><par n="abell/a__n"/></e>
 <e lm="casella" a="prompsit2cdl"><i>casell</i><par n="abell/a__n"/></e>
