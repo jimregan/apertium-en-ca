@@ -18736,17 +18736,19 @@
 <!--INTERJECCIONS -->
 
 <e>       <p><l>goodbye<s n="ij"/></l>            <r>adéu<s n="ij"/></r></p></e>
+<e r="LR">       <p><l>bye<s n="ij"/></l>            <r>adéu<s n="ij"/></r></p></e>
 <e>       <p><l>oh<s n="ij"/></l>                 <r>oh<s n="ij"/></r></p></e>
+<e>       <p><l>ah<s n="ij"/></l>                 <r>ah<s n="ij"/></r></p></e>
+<e>       <p><l>wow<s n="ij"/></l>                 <r>uau<s n="ij"/></r></p></e>
 <e>       <p><l>congratulations<s n="ij"/></l>    <r>enhorabona<s n="ij"/></r></p></e>
 <e>       <p><l>hello<s n="ij"/></l>              <r>hola<s n="ij"/></r></p></e>
+<e r="LR">       <p><l>hi<s n="ij"/></l>              <r>hola<s n="ij"/></r></p></e>
 <e>       <p><l>good<b/>morning<s n="ij"/></l>    <r>bon<b/>dia<s n="ij"/></r></p></e>
 <e>       <p><l>good<b/>afternoon<s n="ij"/></l>  <r>bona<b/>tarda<s n="ij"/></r></p></e>
 <e>       <p><l>good<b/>night<s n="ij"/></l>      <r>bona<b/>nit<s n="ij"/></r></p></e>
 <e>       <p><l>thank<b/>you<s n="ij"/></l>       <r>gràcies<s n="ij"/></r></p></e>
 <e r="LR">       <p><l>thanks<s n="ij"/></l>       <r>gràcies<s n="ij"/></r></p></e>
-<!--
-<e>       <p><l>you're<b/>welcome<s n="ij"/></l>       <r>de<b/>res<s n="ij"/></r></p></e>
--->
+<e r="LR">       <p><l>you're<b/>welcome<s n="ij"/></l>       <r>de<b/>res<s n="ij"/></r></p></e>
 
 
 <!-- NOMS -->
