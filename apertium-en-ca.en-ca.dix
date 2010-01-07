@@ -44998,7 +44998,6 @@
 <e r="LR" slr="desintegració"><p><l>decay<s n="n"/></l><r>desintegració<s n="n"/><s n="f"/></r></p></e>
 <e r="LR" slr="despertar D"><p><l>arouse<s n="vblex"/></l><r>despertar<s n="vblex"/></r></p></e>
 <e r="LR" slr="diari D"><p><l>diary<s n="n"/></l> <r>diari<s n="n"/><s n="m"/></r></p></e>
-<e r="LR" slr="dirigir D"><p><l>manage<s n="vblex"/></l><r>dirigir<s n="vblex"/></r></p></e>
 <e r="LR" slr="dirigir"><p><l>aim<s n="vblex"/></l><r>dirigir<s n="vblex"/></r></p></e>
 <e r="LR" slr="dirigir"><p><l>conduct<s n="vblex"/></l><r>dirigir<s n="vblex"/></r></p></e>
 <e r="LR" slr="discussió"><p><l>argument<s n="n"/></l><r>discussió<s n="n"/><s n="f"/></r></p></e>
@@ -45289,7 +45288,7 @@
 <e slr="accionament"><p><l>drive<s n="n"/></l>    <r>accionament<s n="n"/><s n="m"/></r></p></e>
 <e slr="aclarir"><p><l>clear<s n="vblex"/></l>    <r>aclarir<s n="vblex"/></r></p></e>
 <e slr="aconseguir D" srl="get"><p><l>get<s n="vblex"/></l><r>aconseguir<s n="vblex"/></r></p></e>
-<e slr="aconseguir" c="(manage to do sth)"><p><l>manage<s n="vblex"/></l><r>aconseguir<s n="vblex"/></r></p></e>
+<e r="LR" slr="dirigir D"><p><l>manage<s n="vblex"/></l><r>dirigir<s n="vblex"/></r></p></e>
 <e slr="acord D"><p><l>agreement<s n="n"/></l><r>acord<s n="n"/><s n="m"/></r></p></e>
 <e slr="acordar D"><p><l>agree<s n="vblex"/></l>  <r>acordar<s n="vblex"/></r></p></e>
 <e slr="acte D"><p><l>act<s n="n"/></l>           <r>acte<s n="n"/><s n="m"/></r></p></e>
@@ -45320,8 +45319,7 @@
 <e slr="anell D"><p><l>ring<s n="n"/></l>         <r>anell<s n="n"/><s n="m"/></r></p></e>
 <e slr="anella"><p><l>ring<s n="n"/></l>          <r>anella<s n="n"/><s n="f"/></r></p></e>
 <e slr="anomenar" c="(they call him Peter)"><p><l>call<s n="vblex"/></l><r>anomenar<s n="vblex"/></r></p></e>
-<e slr="ansietat D"><p><l>anxiety<s n="n"/></l>   <r>ansietat<s n="n"/><s n="f"/></r></p></e>
-<e slr="ànsia"><p><l>anxiety<s n="n"/></l><r>ànsia<s n="n"/><s n="f"/></r></p></e>
+<e slr="ànsia" srl="anxiety D"><p><l>anxiety<s n="n"/></l><r>ànsia<s n="n"/><s n="f"/></r></p></e>
 <e slr="anunci"><p><l>notice<s n="n"/></l><r>anunci<s n="n"/><s n="m"/></r></p></e>
 <e slr="aparellar D"><p><l>match<s n="vblex"/></l><r>aparellar<s n="vblex"/></r></p></e>
 <e slr="aparèixer D"><p><l>appear<s n="vblex"/></l><r>aparèixer<s n="vblex"/></r></p></e>
@@ -45498,7 +45496,7 @@
 <e slr="discurs D"><p><l>speech<s n="n"/></l>     <r>discurs<s n="n"/><s n="m"/></r></p></e>
 <e slr="discutir"><p><l>argue<s n="vblex"/></l>   <r>discutir<s n="vblex"/></r></p></e>
 <e slr="disfressa" a="carmentano"><p><l>costume<s n="n"/></l><r>disfressa<s n="n"/><s n="f"/></r></p></e>
-<e slr="disposició"><p><l>disposal<s n="n"/></l><r>disposició<s n="n"/><s n="f"/></r></p></e>
+<e slr="disposició" srl="disposal D"><p><l>disposal<s n="n"/></l><r>disposició<s n="n"/><s n="f"/></r></p></e>
 <e slr="divulgar"><p><l>spread<s n="vblex"/></l>  <r>divulgar<s n="vblex"/></r></p></e>
 <e slr="do"><p><l>gift<s n="n"/></l>              <r>do<s n="n"/><s n="m"/></r></p></e>
 <e slr="doblar D"><p><l>double<s n="vblex"/></l>  <r>doblar<s n="vblex"/></r></p></e>
@@ -45813,7 +45811,7 @@
 <e slr="pol D"><p><l>pole<s n="n"/></l>           <r>pol<s n="n"/><s n="m"/></r></p></e>
 <e slr="ponent"><p><l>speaker<s n="n"/></l>       <r>ponent<s n="n"/><s n="mf"/></r></p></e>
 <e slr="portaequipatge"><p><l>trunk<s n="n"/></l> <r>portaequipatge<s n="n"/><s n="m"/></r></p></e>
-<e slr="portar" c="(I took him home)"><p><l>take<s n="vblex"/></l><r>portar<s n="vblex"/></r></p></e>
+<e slr="portar" srl="take" c="(I took him home)"><p><l>take<s n="vblex"/></l><r>portar<s n="vblex"/></r></p></e>
 <e slr="pot"><p><l>pot<s n="n"/></l>              <r>pot<s n="n"/><s n="m"/></r></p></e>
 <e slr="pota"><p><l>leg<s n="n"/></l>             <r>pota<s n="n"/><s n="f"/></r></p></e>
 <e slr="pregunta"><p><l>question<s n="n"/></l>    <r>pregunta<s n="n"/><s n="f"/></r></p></e>
@@ -45920,7 +45918,7 @@
 <e slr="suavitzar D"><p><l>soften<s n="vblex"/></l><r>suavitzar<s n="vblex"/></r></p></e>
 <e slr="subjectar D"><p><l>attach<s n="vblex"/></l><r>subjectar<s n="vblex"/></r></p></e>
 <e slr="subjecte"><p><l>subject<s n="n"/></l>     <r>subjecte<s n="n"/><s n="m"/></r></p></e>
-<e slr="subvenció"><p><l>grant<s n="n"/></l><r>subvenció<s n="n"/><s n="f"/></r></p></e>
+<e slr="subvenció" srl="grant"><p><l>grant<s n="n"/></l><r>subvenció<s n="n"/><s n="f"/></r></p></e>
 <e slr="sucursal"><p><l>branch<s n="n"/></l>      <r>sucursal<s n="n"/><s n="f"/></r></p></e>
 <e slr="suplicar D"><p><l>beg<s n="vblex"/></l>   <r>suplicar<s n="vblex"/></r></p></e>
 <e slr="tacar"><p><l>mark<s n="vblex"/></l>       <r>tacar<s n="vblex"/></r></p></e>
@@ -46461,7 +46459,6 @@
 <e srl="studio"><p><l>studio<s n="n"/></l>        <r>estudi<s n="n"/><s n="m"/></r></p></e>
 
 <e srl="subsidy D"><p><l>subsidy<s n="n"/></l>    <r>subvenció<s n="n"/><s n="f"/></r></p></e>
-<e srl="grant"><p><l>grant<s n="n"/></l><r>subvenció<s n="n"/><s n="f"/></r></p></e>
 
 <e r="RL" srl="education D"><p><l>education<s n="n"/></l><r>ensenyament<s n="n"/><s n="m"/></r></p></e>
 <e srl="teaching"><p><l>teaching<s n="n"/></l>    <r>ensenyament<s n="n"/><s n="m"/></r></p></e>
@@ -46485,7 +46482,6 @@
 <e srl="white D"><p><l>white<s n="n"/></l>        <r>blanc<s n="n"/><s n="m"/></r></p></e>
 <e r="RL" srl="target"><p><l>target<s n="n"/></l> <r>blanc<s n="n"/><s n="m"/></r></p></e>
 
-<e srl="disposal D"><p><l>disposal<s n="n"/></l><r>disposició<s n="n"/><s n="f"/></r></p></e>
 <e srl="willingness"><p><l>willingness<s n="n"/><s n="sg"/></l><r>disposició<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e r="RL" srl="distribution"><p><l>distribution<s n="n"/></l><r>disposició<s n="n"/><s n="f"/></r></p></e>
 <e r="RL" srl="resolution"><p><l>resolution<s n="n"/></l><r>disposició<s n="n"/><s n="f"/></r></p></e>
@@ -46498,7 +46494,7 @@
 
 
 <e srl="achieve D"><p><l>achieve<s n="vblex"/></l><r>aconseguir<s n="vblex"/></r></p></e>
-<e srl="manage" c="(manage to do sth)"><p><l>manage<s n="vblex"/></l><r>aconseguir<s n="vblex"/></r></p></e>
+<e slr="aconseguir" srl="manage" c="(manage to do sth)"><p><l>manage<s n="vblex"/></l><r>aconseguir<s n="vblex"/></r></p></e>
 <e r="LR"><p><l>get<g><b/>hold<b/>of</g><s n="vblex"/></l><r>aconseguir<s n="vblex"/></r></p></e>
 
 <e srl="announce D"><p><l>announce<s n="vblex"/></l><r>anunciar<s n="vblex"/></r></p></e>
@@ -46525,7 +46521,6 @@
 
 <e srl="bring D"><p><l>bring<s n="vblex"/></l>    <r>portar<s n="vblex"/></r></p></e>
 <e srl="carry"><p><l>carry<s n="vblex"/></l>      <r>portar<s n="vblex"/></r></p></e>
-<e srl="take" c="(I took him home)"><p><l>take<s n="vblex"/></l><r>portar<s n="vblex"/></r></p></e>
 <e srl="wear"><p><l>wear<s n="vblex"/></l>        <r>portar<s n="vblex"/></r></p></e>
 
 <e srl="able D"><p><l>able<s n="adj"/><s n="sint"/></l><r>capaç<s n="adj"/></r></p></e>
