@@ -25717,7 +25717,6 @@
 <e>       <p><l>metope<s n="n"/></l>              <r>mètopa<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>incubator<s n="n"/></l>           <r>incubadora<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>operationism<s n="n"/></l>        <r>operacionalisme<s n="n"/><s n="m"/></r></p></e>
-<e>       <p><l>stepson<s n="n"/></l>             <r>fillastre<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>perpendicularity<s n="n"/></l>    <r>perpendicularitat<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>subregion<s n="n"/></l>           <r>subregió<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>diode<s n="n"/></l>               <r>díode<s n="n"/><s n="m"/></r></p></e>
@@ -43749,7 +43748,10 @@
 <e><p><l>routinisation<s n="n"/></l><r>rutinització<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>spiritualisation<s n="n"/></l><r>espiritualització<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>standardisation<s n="n"/></l><r>estandardització<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>stepdaughter<s n="n"/></l><r>fillastre<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>stepson<s n="n"/><s n="sg"/></l><r>fillastre<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e><p><l>stepdaughter<s n="n"/><s n="sg"/></l><r>fillastre<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e>       <p><l>stepson<s n="n"/><s n="pl"/></l><r>fillastre<s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+<e r="LR"><p><l>stepdaughter<s n="n"/><s n="pl"/></l><r>fillastre<s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
 <e><p><l>stigmatisation<s n="n"/></l><r>estigmatització<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>symbolisation<s n="n"/></l><r>simbolització<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>systematisation<s n="n"/></l><r>sistematització<s n="n"/><s n="f"/></r></p></e>
