@@ -1572,6 +1572,7 @@
 <e>       <p><l>bhutanese<s n="adj"/></l>         <r>bhutanès<s n="adj"/></r></p></e>
 <e>       <p><l>mahometan<s n="adj"/></l>         <r>mahometà<s n="adj"/></r></p></e>
 <e>       <p><l>jacobian<s n="adj"/></l>          <r>jacobià<s n="adj"/></r></p></e>
+<e r="LR">       <p><l>jacobist<s n="adj"/></l>          <r>jacobià<s n="adj"/></r></p></e>
 <e>       <p><l>angolan<s n="adj"/></l>           <r>angolès<s n="adj"/></r></p></e>
 <e>       <p><l>hawaiian<s n="adj"/></l>          <r>hawaià<s n="adj"/></r></p></e>
 <e>       <p><l>honduran<s n="adj"/></l>          <r>hondureny<s n="adj"/></r></p></e>
@@ -28466,8 +28467,7 @@
 <e>       <p><l>brucite<s n="n"/></l>             <r>brucita<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>uvarovite<s n="n"/></l>           <r>uvarovita<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>dysmenorrhea<s n="n"/></l>        <r>dismenorrea<s n="n"/><s n="f"/></r></p></e>
-<e>       <p><l>maliciousness<s n="n"/><s n="sg"/></l><r>maldat<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-<e r="RL"><p><l>maliciousness<s n="n"/><s n="sg"/></l><r>maldat<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e>       <p><l>maliciousness<s n="n"/></l><r>maldat<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>oxygen<s n="n"/></l>              <r>oxigen<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>potentiality<s n="n"/></l>        <r>potencialitat<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>edema<s n="n"/></l>               <r>edema<s n="n"/><s n="m"/></r></p></e>
@@ -29193,8 +29193,8 @@
 <e>       <p><l>ostentation<s n="n"/></l>         <r>ostentació<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>bishop<s n="n"/></l>              <r>bisbe<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>orchard<s n="n"/></l>             <r>hort<s n="n"/><s n="m"/></r></p></e>
-<e>       <p><l>foolishness<s n="n"/><s n="sg"/></l><r>ximpleria<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-<e r="RL"><p><l>foolishness<s n="n"/><s n="sg"/></l><r>ximpleria<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e>       <p><l>foolishness<s n="n"/></l><r>ximpleria<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>force<b/>majeur<s n="n"/></l><r>força<b/>major<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>tetrahexahedron<s n="n"/></l>     <r>tetrahexaedre<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>phragmoplast<s n="n"/></l>        <r>fragmoplast<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>asceticism<s n="n"/></l>          <r>ascetisme<s n="n"/><s n="m"/></r></p></e>
@@ -29677,6 +29677,8 @@
 <e r="LR">       <p><l>seeing<b/>eye<b/>dog<s n="n"/></l>           <r>gos<b/>pigall<s n="n"/><s n="GD"/></r></p></e>
 <e r="LR">       <p><l>guard<b/>dog<s n="n"/></l>           <r>gos<b/>guardià<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL">       <p><l>guard<b/>dog<s n="n"/></l>           <r>gos<b/>guardià<s n="n"/></r></p></e>
+<e r="LR">       <p><l>intermediary<s n="n"/></l>           <r>intermediari<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL">       <p><l>intermediary<s n="n"/></l>           <r>intermediari<s n="n"/></r></p></e>
 <e r="LR">       <p><l>guardian<s n="n"/></l>           <r>guardià<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL">       <p><l>guardian<s n="n"/></l>           <r>guardià<s n="n"/></r></p></e>
 <e r="LR">       <p><l>sheep<b/>dog<s n="n"/></l>           <r>gos<b/>pastor<s n="n"/><s n="GD"/></r></p></e>
@@ -31533,6 +31535,7 @@
 <e a="carmentano"><p><l>leasing<s n="n"/></l>     <r>arrendament<b/>financer<s n="n"/><s n="m"/></r></p></e>
 <e r="LR" a="carmentano"><p><l>liability<s n="n"/></l><r>responsabilitat<s n="n"/><s n="f"/></r></p></e>
 <e a="carmentano"><p><l>margin<s n="n"/></l>      <r>marge<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>timeframe<s n="n"/></l>      <r>marge<g><b/>de<b/>temps</g><s n="n"/><s n="m"/></r></p></e>
 <e a="carmentano"><p><l>mortgage<s n="n"/></l>    <r>hipoteca<s n="n"/><s n="f"/></r></p></e>
 <e a="carmentano"><p><l>obligation<s n="n"/></l>  <r>obligació<s n="n"/><s n="f"/></r></p></e>
 <e r="LR" a="carmentano"><p><l>ownership<s n="n"/></l><r>propietat<s n="n"/><s n="f"/></r></p></e>
@@ -31945,6 +31948,9 @@
 <e><p><l>Wi-Fi<s n="np"/><s n="al"/></l><r>Wi-Fi<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e><p><l>Donegal<s n="np"/><s n="loc"/></l><r>Donegal<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Kremlin<s n="np"/><s n="loc"/></l><r>Kremlin<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Basauri<s n="np"/><s n="loc"/></l><r>Basauri<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Queensland<s n="np"/><s n="loc"/></l><r>Queensland<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Wikipedia<s n="np"/><s n="al"/></l><r>Viquipèdia<s n="np"/><s n="al"/><s n="f"/></r></p></e>
 <e><p><l>Battle<b/>of<b/>Austerlitz<s n="np"/><s n="al"/></l><r>Batalla<b/>d'Austerlitz<s n="np"/><s n="al"/><s n="f"/></r></p></e>
 <e><p><l>Azores<s n="np"/><s n="loc"/></l><r>Açores<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>Bahamas<s n="np"/><s n="loc"/></l><r>Bahames<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
@@ -32849,6 +32855,7 @@
 
     <e>  <p><l>20th<b/>Century<b/>Fox<s n="np"/><s n="al"/></l><r>20th<b/>Century<b/>Fox<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e>       <p><l>Linux<s n="np"/><s n="al"/></l>   <r>Linux<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+<e>       <p><l>Athletic<b/>Bilbao<s n="np"/><s n="al"/></l>   <r>Athletic<b/>Club<b/>Bilbao<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e>       <p><l>RAID<s n="np"/><s n="al"/></l>   <r>RAID<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e>       <p><l>Los<b/>Alamos<b/>National<b/>Laboratory<s n="np"/><s n="al"/></l>   <r>Laboratori<b/>National<b/>de<b/>Los<b/>Alamos<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e>       <p><l>Unix<s n="np"/><s n="al"/></l>    <r>Unix<s n="np"/><s n="al"/><s n="m"/></r></p></e>
@@ -35094,6 +35101,7 @@
 <e>       <i>Slobodan<s n="np"/></i></e>
 
 
+<e>       <p><l>elder<s n="n"/></l>                <r>major<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>Nazi<s n="n"/></l>                <r>nazi<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>neonazi<s n="n"/></l>             <r>neonazi<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>neonazi<s n="adj"/></l>           <r>neonazi<s n="adj"/><s n="mf"/></r></p></e>

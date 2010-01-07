@@ -83195,6 +83195,7 @@
 
 <e lm="circumstancial"><i>circumstancial</i><par n="abdominal__adj"/></e>
 <e lm="acompanyant"><i>acompanyant</i><par n="abdominal__adj"/></e>
+<e lm="major"><i>major</i><par n="abdominal__adj"/></e>
 
 <e lm="cert"><i>cert</i><par n="absolut__adj"/></e>
 
@@ -84016,6 +84017,8 @@
 <e lm="terminació de xarxa"><i>terminaci</i><par n="acci/ó__n"/><p><l><b/>de<b/>xarxa</l><r><g><b/>de<b/>xarxa</g></r></p></e>
 <e lm="traductor d'adreces de xarxa"><i>proveïdor</i><par n="abric__n"/><p><l><b/>d'adreces<b/>de<b/>xarxa</l><r><g><b/>d'adreces<b/>de<b/>xarxa</g></r></p></e>
 <e lm="xarxa ad hoc"><i>xarx</i><par n="abell/a__n"/><p><l><b/>ad<b/>hoc</l><r><g><b/>ad<b/>hoc</g></r></p></e>
+<e lm="força major"><p><l>força<b/>major</l><r>força<b/>major<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="força major"><p><l>forces<b/>majors</l><r>força<b/>major<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 
 <e lm="guardià"><i>guardi</i><par n="americ/à__n"/></e>
 <e lm="exponencial"><i>exponencial</i><par n="abdominal__adj"/></e>
@@ -93374,6 +93377,7 @@
 <e lm="aresta"><i>arest</i><par n="abell/a__n"/></e>
 <e lm="cantell"><i>cantell</i><par n="abric__n"/></e>
 <e lm="marge"><i>m</i><par n="m/arge__n"/></e>
+<e lm="marge de temps"><i>m</i><par n="m/arge__n"/><p><l><b/>de<b/>temps</l><r><g><b/>de<b/>temps</g></r></p></e>
 <e lm="edició"><i>edici</i><par n="acci/ó__n"/></e>
 <e lm="editor"><i>editor</i><par n="senyor__n"/></e>
 <e lm="ou"><i>ou</i><par n="abric__n"/></e>
@@ -96663,6 +96667,7 @@
 <e lm="extremisme"><i>extremisme</i><par n="abric__n"/></e>
 <e lm="encadenament"><i>encadenament</i><par n="abric__n"/></e>
 <e lm="plenipotenciari"><i>plenipotenci</i><par n="adjudicat/ari__n"/></e>
+<e lm="intermediari"><i>intermedi</i><par n="adjudicat/ari__n"/></e>
 <e lm="parasíntesi"><i>parasíntesi</i><par n="accessibilitat__n"/></e>
 <e lm="plasmocitosi"><i>plasmocitosi</i><par n="accessibilitat__n"/></e>
 <e lm="podologia"><i>podologi</i><par n="abell/a__n"/></e>
@@ -102103,6 +102108,7 @@
 <e lm="universitari"><i>universit</i><par n="adjudicat/ari__n"/></e>
 <e lm="contemporaneïtat"><i>contemporaneïtat</i><par n="accessibilitat__n"/></e>
 <e lm="milionari"><i>milion</i><par n="adjudicat/ari__n"/></e>
+<e lm="multimilionari"><i>multimilion</i><par n="adjudicat/ari__n"/></e>
 <e lm="teix"><i>teix</i><par n="as__n"/></e>
 <e lm="compressor"><i>compressor</i><par n="abric__n"/></e>
 <e lm="optimisme"><i>optimisme</i><par n="abric__n"/></e>
@@ -104996,7 +105002,8 @@
 <e lm="Austràlia"><i>Austràlia</i><par n="Barcelona__np"/></e>
 <e lm="Azerbaitjan"><i>Azerbaitjan</i><par n="Afganistan__np"/></e>
 <e lm="Bagdad"><i>Bagdad</i><par n="Afganistan__np"/></e>
-<e lm="Bahames"><i>Bahames</i><par n="Bahames__np"/></e>
+<e lm="Basauri"><i>Basauri</i><par n="Afganistan__np"/></e>
+<e lm="Queensland"><i>Queensland</i><par n="Afganistan__np"/></e>
 <e lm="Canàries"><i>Canàries</i><par n="Bahames__np"/></e>
 <e lm="Bahrain"><i>Bahrain</i><par n="Afganistan__np"/></e>
 <e lm="Balcans"><i>Balcans</i><par n="Estats_Units__np"/></e>
@@ -105887,12 +105894,14 @@
 <e lm="20th Century Fox"><i>20th<b/>Century<b/>Fox</i><par n="ABC__np"/>    </e>
 <e lm="GNU"><i>GNU</i><par n="ABC__np"/></e>
 <e lm="Linux"><i>Linux</i><par n="ABC__np"/></e>
+<e lm="Athletic Club Bilbao"><i>Athletic<b/>Club<b/>Bilbao</i><par n="ABC__np"/></e>
 <e lm="RAID"><i>RAID</i><par n="ABC__np"/></e>
 <e lm="Unix"><i>Unix</i><par n="ABC__np"/></e>
 <e lm="Microsoft"><i>Microsoft</i><par n="ABC__np"/></e>
 <e lm="Barça"><i>Barça</i><par n="ABC__np"/></e>
 <e lm="Repsol"><i>Repsol</i><par n="ABC__np"/></e>
 <e lm="Telefónica"><i>Telefónica</i><par n="Telefónica__np"/></e>
+<e lm="Viquipèdia"><i>Viquipèdia</i><par n="Telefónica__np"/></e>
 <e lm="Organització Mundial de la Salut"><i>Organització<b/>Mundial<b/>de<b/>la<b/>Salut</i><par n="Telefónica__np"/></e>
 <e lm="Sinn Féin"><i>Sinn<b/>Féin</i><par n="ABC__np"/></e>
 <e lm="Laboratori National de Los Alamos"><i>Laboratori<b/>National<b/>de<b/>Los<b/>Alamos</i><par n="ABC__np"/></e>

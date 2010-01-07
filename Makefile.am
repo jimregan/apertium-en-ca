@@ -83,13 +83,13 @@ $(PREFIX1).autobil.bin: .deps/$(PREFIX1).bil.dix
 	apertium-validate-dictionary $<
 	xsltproc translate-to-default-equivalent.xsl $< >tmp$(PREFIX1).autobil.dix
 	lt-comp lr tmp$(PREFIX1).autobil.dix $@
-	rm tmp$(PREFIX1).autobil.dix
+#	rm tmp$(PREFIX1).autobil.dix
 
 $(PREFVAR2)$(PREFIX1).autobil.bin: .deps/$(PREFVAR2)$(PREFIX1).bil.dix
 	apertium-validate-dictionary $<
 	xsltproc translate-to-default-equivalent.xsl $< >tmp$(PREFVAR2)$(PREFIX1).autobil.dix
 	lt-comp lr tmp$(PREFVAR2)$(PREFIX1).autobil.dix $@
-	rm tmp$(PREFVAR2)$(PREFIX1).autobil.dix
+#	rm tmp$(PREFVAR2)$(PREFIX1).autobil.dix
 
 $(PREFVAR1)$(PREFIX1).autogen.bin: .deps/$(PREFVAR1)$(LANG2).dix 
 	apertium-validate-dictionary .deps/$(PREFVAR1)$(LANG2).dix 
