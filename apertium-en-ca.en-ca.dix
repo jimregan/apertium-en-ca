@@ -45350,7 +45350,7 @@
 <e slr="autocar"><p><l>coach<s n="n"/></l>        <r>autocar<s n="n"/><s n="m"/></r></p></e>
 <e slr="autopista D"><p><l>highway<s n="n"/></l>  <r>autopista<s n="n"/><s n="f"/></r></p></e>
 <e slr="aval"><p><l>guarantee<s n="n"/></l>       <r>aval<s n="n"/><s n="m"/></r></p></e>
-<e slr="avançament"><p><l>advance<s n="n"/></l><r>avançament<s n="n"/><s n="m"/></r></p></e>
+<e slr="avançament" srl="advance"><p><l>advance<s n="n"/></l><r>avançament<s n="n"/><s n="m"/></r></p></e>
 <e slr="avaria"><p><l>failure<s n="n"/></l>       <r>avaria<s n="n"/><s n="f"/></r></p></e>
 <e slr="avenç D"><p><l>advance<s n="n"/></l>      <r>avenç<s n="n"/><s n="m"/></r></p></e>
 <e slr="avís D" srl="notice"><p><l>notice<s n="n"/></l><r>avís<s n="n"/><s n="m"/></r></p></e>
@@ -45545,7 +45545,6 @@
 <e slr="erudit" a="carmentano"><p><l>scholar<s n="n"/></l><r>erudit<s n="n"/><s n="m"/></r></p></e>
 <e slr="esborrany D"><p><l>draft<s n="n"/></l>    <r>esborrany<s n="n"/><s n="m"/></r></p></e>
 <e slr="esbós D"><p><l>outline<s n="n"/></l>      <r>esbós<s n="n"/><s n="m"/></r></p></e>
-<e slr="escala"><p><l>scale<s n="n"/><s n="pl"/></l><r>escala<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e slr="escarpell"><p><l>scraper<s n="n"/></l>    <r>escarpell<s n="n"/><s n="m"/></r></p></e>
 <e slr="escenari"><p><l>stage<s n="n"/></l><r>escenari<s n="n"/><s n="m"/></r></p></e>
 <e slr="escombreta"><p><l>brush<s n="n"/></l>     <r>escombreta<s n="n"/><s n="f"/></r></p></e>
@@ -45897,7 +45896,6 @@
 <e slr="saludar amb el cap"><p><l>nod<s n="vblex"/></l><r>saludar<g><b/>amb<b/>el<b/>cap</g><s n="vblex"/></r></p></e>
 <e slr="salvar D"><p><l>save<s n="vblex"/></l>    <r>salvar<s n="vblex"/></r></p></e>
 <e slr="sauri"><p><l>saurian<s n="n"/></l>        <r>sauri<s n="n"/><s n="m"/></r></p></e>
-<e slr="segell"><p><l>seal<s n="n"/></l><r>segell<s n="n"/><s n="m"/></r></p></e>
 <e slr="seguidor" r="LR"><p><l>fan<s n="n"/></l>         <r>seguidor<s n="n"/><s n="GD"/></r></p></e>
 <e slr="seguir" srl="keep" c="En direcció ca-en tb s'hauria de detectar la construcció amb gerundi (transfer?)" i="yes"><p><l>keep<s n="vblex"/></l><r>seguir<s n="vblex"/></r></p></e>
 <e slr="seient D"><p><l>seat<s n="n"/></l>        <r>seient<s n="n"/><s n="m"/></r></p></e>
@@ -46345,7 +46343,6 @@
 <e srl="tender" a="carmentano"><p><l>tender<s n="n"/></l><r>oferta<s n="n"/><s n="f"/></r></p></e>
 
 <e srl="overtaking D"><p><l>overtaking<s n="n"/></l><r>avançament<s n="n"/><s n="m"/></r></p></e>
-<e srl="advance"><p><l>advance<s n="n"/></l>        <r>avançament<s n="n"/><s n="m"/></r></p></e>
 
 <e srl="participation D"><p><l>participation<s n="n"/></l><r>participació<s n="n"/><s n="f"/></r></p></e>
 <e srl="share"><p><l>share<s n="n"/></l>          <r>participació<s n="n"/><s n="f"/></r></p></e>
@@ -46423,10 +46420,10 @@
 <e srl="whip D">        <p><l>whip<s n="n"/></l>   <r>fuet<s n="n"/><s n="m"/></r></p></e>
 <e srl="sausage" r="RL"><p><l>sausage<s n="n"/></l><r>fuet<s n="n"/><s n="m"/></r></p></e>
 
-<e r="RL" srl="stair D"><p><l>stair<s n="n"/><s n="pl"/></l><r>escala<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-<e r="RL" srl="stair D"><p><l>stair<s n="n"/><s n="pl"/></l><r>escala<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e slr="escala" srl="scale"><p><l>scale<s n="n"/><s n="pl"/></l><r>escala<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e srl="scale"><p><l>scale<s n="n"/><s n="sg"/></l><r>escala<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-<e srl="scale"><p><l>scale<s n="n"/><s n="pl"/></l><r>escala<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e r="RL" srl="stair D"><p><l>stair<s n="n"/><s n="pl"/></l><r>escala<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="RL" srl="stair D"><p><l>stair<s n="n"/><s n="pl"/></l><r>escala<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 
 <e srl="scanner D"><p><l>scanner<s n="n"/></l>    <r>escàner<s n="n"/><s n="m"/></r></p></e>
 <e srl="scan" a="carmentano"><p><l>scan<s n="n"/></l><r>escàner<s n="n"/><s n="m"/></r></p></e>
@@ -46450,7 +46447,8 @@
 <e srl="sight"><p><l>sight<s n="n"/></l>          <r>vista<s n="n"/><s n="f"/></r></p></e>
 
 <e srl="stamp D"><p><l>stamp<s n="n"/></l>        <r>segell<s n="n"/><s n="m"/></r></p></e>
-<e srl="seal"><p><l>seal<s n="n"/></l>            <r>segell<s n="n"/><s n="m"/></r></p></e>
+
+<e slr="segell" srl="seal"><p><l>seal<s n="n"/></l><r>segell<s n="n"/><s n="m"/></r></p></e>
 
 <e srl="station D"><p><l>station<s n="n"/></l>    <r>estació<s n="n"/><s n="f"/></r></p></e>
 <e srl="season"><p><l>season<s n="n"/></l><r>estació<s n="n"/><s n="f"/></r></p></e>
