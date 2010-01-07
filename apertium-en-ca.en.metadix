@@ -23863,6 +23863,7 @@
     <e lm="Chinese"><par n="Cc"/><i>hinese</i><par n="house__n"/>    </e>
     <e lm="Cypriot"><par n="Cc"/><i>ypriot</i><par n="house__n"/>    </e>
     <e lm="Colombian"><par n="Cc"/><i>olombian</i><par n="house__n"/>    </e>
+    <e lm="Columbian"><par n="Cc"/><i>olumbian</i><par n="house__n"/>    </e>
     <e lm="Congolese"><par n="Cc"/><i>ongolese</i><par n="house__n"/>    </e>
     <e lm="choral"><i>choral</i><par n="house__n"/>    </e>
     <e lm="coral"><i>coral</i><par n="house__n"/>    </e>
@@ -24059,6 +24060,7 @@
     <e lm="Chinese"><p><l>Chinese</l><r>chinese</r></p><par n="expensive__adj"/></e>
     <e lm="Christian"><p><l>Christian</l><r>christian</r></p><par n="expensive__adj"/></e>
     <e lm="Colombian"><p><l>Colombian</l><r>colombian</r></p><par n="expensive__adj"/></e>
+    <e lm="Columbian"><p><l>Columbian</l><r>columbian</r></p><par n="expensive__adj"/></e>
     <e lm="Congolese"><p><l>Congolese</l><r>congolese</r></p><par n="expensive__adj"/></e>
     <e lm="Cuban"><p><l>Cuban</l><r>cuban</r></p><par n="expensive__adj"/></e>
     <e lm="Cypriot"><p><l>Cypriot</l><r>cypriot</r></p><par n="expensive__adj"/></e>

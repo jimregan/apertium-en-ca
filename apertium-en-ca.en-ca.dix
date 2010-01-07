@@ -1469,7 +1469,9 @@
 <e>       <p><l>slavic<s n="adj"/></l>            <r>eslau<s n="adj"/></r></p></e>
 <e>       <p><l>balearic<s n="adj"/></l>          <r>balear<s n="adj"/><s n="mf"/></r></p></e>
 <e>       <p><l>jewish<s n="adj"/></l>            <r>jueu<s n="adj"/></r></p></e>
-<e>       <p><l>colombian<s n="adj"/></l>         <r>colombià<s n="adj"/></r></p></e>
+<e>       <p><l>columbian<s n="adj"/></l>         <r>colombià<s n="adj"/></r></p></e>
+<e r="LR">       <p><l>colombian<s n="adj"/></l>         <r>colombià<s n="adj"/></r></p></e>
+<e>       <p><l>pre-columbian<s n="adj"/></l>         <r>precolombià<s n="adj"/></r></p></e>
 <e>       <p><l>philippine<s n="adj"/></l>        <r>filipí<s n="adj"/></r></p></e>
 <e>       <p><l>nepalese<s n="adj"/></l>          <r>nepalès<s n="adj"/></r></p></e>
 <e>       <p><l>napierian<s n="adj"/></l>         <r>neperià<s n="adj"/></r></p></e>
@@ -6002,6 +6004,7 @@
 <e>       <p><l>acquisitive<s n="adj"/></l>       <r>cobdiciós<s n="adj"/></r></p></e>
 
 <e>       <p><l>synthetic<s n="adj"/></l>         <r>sintètic<s n="adj"/></r></p></e>
+<e>       <p><l>photosynthetic<s n="adj"/></l>         <r>fotosintètic<s n="adj"/></r></p></e>
 
 
 <e>       <p><l>accurate<s n="adj"/></l>          <r>acurat<s n="adj"/></r></p></e>
@@ -7212,12 +7215,18 @@
 <e>       <p><l>drowned<s n="adj"/></l>         <r>ofegat<s n="adj"/></r></p></e>
 <e r="LR">       <p><l>freezing<s n="adj"/></l>         <r>gelat<s n="adj"/></r></p></e>
 <e>       <p><l>freshwater<s n="adj"/></l>         <r>d'aigua<b/>dolça<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>saltwater<s n="adj"/></l>         <r>d'aigua<b/>salada<s n="adj"/><s n="mf"/></r></p></e>
 <e>       <p><l>freshwater<s n="n"/></l>         <r>aigua<b/>dolça<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>salt<b/>water<s n="n"/></l>         <r>aigua<b/>salada<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>certificate<g><b/>of<b/>conformity</g><s n="n"/></l>         <r>declaració<g><b/>de<b/>conformitat</g><s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>dotted<s n="adj"/></l>         <r>esquitxat<s n="adj"/></r></p></e>
 <e r="LR">       <p><l>grand<s n="adj"/></l>         <r>magnífic<s n="adj"/></r></p></e>
 <e>       <p><l>integrated<s n="adj"/></l>         <r>integrat<s n="adj"/></r></p></e>
 <e>       <p><l>per<b/>capita<s n="adj"/></l>         <r>per<b/>càpita<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>wicked<s n="adj"/></l>         <r>malvat<s n="adj"/></r></p></e>
+<e>       <p><l>without<b/>sense<s n="adj"/></l>         <r>sense<b/>sentit<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>wireless<s n="adj"/></l>         <r>sense<b/>fil<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>without<b/>importance<s n="adj"/></l>         <r>sense<b/>importància<s n="adj"/><s n="mf"/></r></p></e>
 
 <e>       <p><l>installed<s n="adj"/></l>         <r>instal·lat<s n="adj"/></r></p></e>
 
@@ -43652,7 +43661,8 @@
 <e r="RL"><p><l>chinese<s n="n"/></l><r>xinès<s n="n"/></r></p></e>
 <e><p><l>cypriot<s n="n"/></l><r>xipriota<s n="n"/><s n="mf"/></r></p></e>
 <e r="LR"><p><l>colombian<s n="n"/></l><r>colombià<s n="n"/><s n="GD"/></r></p></e>
-<e r="RL"><p><l>colombian<s n="n"/></l><r>colombià<s n="n"/></r></p></e>
+<e r="LR"><p><l>columbian<s n="n"/></l><r>colombià<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>columbian<s n="n"/></l><r>colombià<s n="n"/></r></p></e>
 <e r="LR"><p><l>congolese<s n="n"/></l><r>congolès<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>congolese<s n="n"/></l><r>congolès<s n="n"/></r></p></e>
 <e><p><l>coral<s n="n"/></l><r>coral<s n="n"/><s n="m"/></r></p></e>

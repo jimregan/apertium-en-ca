@@ -84031,13 +84031,20 @@
 <e lm="domesticat"><i>domestica</i><par n="afortuna/t__adj"/></e>
 <e lm="ofegat"><i>ofega</i><par n="afortuna/t__adj"/></e>
 <e lm="d'aigua dolça"><i>d'aigua<b/>dolça</i><par n="multimèdia__adj"/></e>
+<e lm="d'aigua salada"><i>d'aigua<b/>salada</i><par n="multimèdia__adj"/></e>
 <e lm="per càpita"><i>per<b/>càpita</i><par n="multimèdia__adj"/></e>
 <e lm="esquitxat"><i>esquitxa</i><par n="afortuna/t__adj"/></e>
 <e lm="integrat"><i>integra</i><par n="afortuna/t__adj"/></e>
+<e lm="malvat"><i>malva</i><par n="afortuna/t__adj"/></e>
+<e lm="sense sentit"><i>sense<b/>sentit</i><par n="multimèdia__adj"/></e>
+<e lm="sense fil"><i>sense<b/>fil</i><par n="multimèdia__adj"/></e>
+<e lm="sense importància"><i>sense<b/>importància</i><par n="multimèdia__adj"/></e>
 
 
 <e lm="aigua dolça"><p><l>aigua<b/>dolça</l><r>aigua<b/>dolça<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="aigua dolça"><p><l>aigües<b/>dolces</l><r>aigua<b/>dolça<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="aigua salada"><p><l>aigua<b/>salada</l><r>aigua<b/>salada<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="aigua salada"><p><l>aigües<b/>salades</l><r>aigua<b/>salada<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="declaració de conformitat"><i>declaraci</i><par n="acci/ó__n"/><p><l><b/>de<b/>conformitat</l><r><g><b/>de<b/>conformitat</g></r></p></e>
 <e lm="guardià"><i>guardi</i><par n="americ/à__n"/></e>
 <e lm="exponencial"><i>exponencial</i><par n="abdominal__adj"/></e>
@@ -85216,6 +85223,7 @@
 <e lm="indegut"><i>indegu</i><par n="afortuna/t__adj"/></e>
 
 <e lm="colombià"><i>colombi</i><par n="afric/à__adj"/></e>
+<e lm="precolombià"><i>precolombi</i><par n="afric/à__adj"/></e>
 
 <e lm="probatori"><i>probat</i><par n="access/ori__adj"/></e>
 
@@ -88766,6 +88774,7 @@
 <e lm="cobdiciós"><i>cobdici</i><par n="aliment/ós__adj"/></e>
 
 <e lm="sintètic"><i>sintèti</i><par n="acadèmi/c__adj"/></e>
+<e lm="fotosintètic"><i>fotosintèti</i><par n="acadèmi/c__adj"/></e>
 
 <e lm="napoleònic"><i>napoleòni</i><par n="acadèmi/c__adj"/></e>
 
