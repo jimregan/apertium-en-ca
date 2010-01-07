@@ -44037,8 +44037,10 @@
 <e><p><l>spouse<s n="n"/></l><r>cònjuge<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>extinction<s n="n"/></l><r>extinció<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>clergy<s n="n"/></l><r>clergat<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>stepbrother<s n="n"/></l><r>germanastre<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>stepsister<s n="n"/></l><r>germanastre<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>stepbrother<s n="n"/><s n="sg"/></l><r>germanastre<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e><p><l>stepsister<s n="n"/><s n="sg"/></l><r>germanastre<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e><p><l>stepbrother<s n="n"/><s n="pl"/></l><r>germanastre<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e r="LR"><p><l>stepsister<s n="n"/><s n="pl"/></l><r>germanastre<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e><p><l>commemoration<s n="n"/></l><r>commemoració<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>usurper<s n="n"/></l><r>usurpador<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>usurper<s n="n"/></l><r>usurpador<s n="n"/></r></p></e>
