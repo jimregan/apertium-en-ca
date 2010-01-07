@@ -84024,7 +84024,21 @@
     <e lm="mort i ben mort"><p><l>morts<b/>i<b/>ben<b/>morts</l><r>mort<b/>i<b/>ben<b/>mort<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="mort i ben mort"><p><l>morta<b/>i<b/>ben<b/>morta</l><r>mort<b/>i<b/>ben<b/>mort<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="mort i ben mort"><p><l>mortes<b/>i<b/>ben<b/>mortes</l><r>mort<b/>i<b/>ben<b/>mort<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="maldestre"><i>maldestr</i><par n="abstract/e__adj"/></e>
+<e lm="orientat comercialment"><i>orienta</i><par n="afortuna/t__adj"/><p><l><b/>comercialment</l><r><g><b/>comercialment</g></r></p></e>
+<e lm="condensat"><i>condensa</i><par n="afortuna/t__adj"/></e>
+<e lm="degenerat"><i>degenera</i><par n="afortuna/t__adj"/></e>
+<e lm="domesticat"><i>domestica</i><par n="afortuna/t__adj"/></e>
+<e lm="ofegat"><i>ofega</i><par n="afortuna/t__adj"/></e>
+<e lm="d'aigua dolça"><i>d'aigua<b/>dolça</i><par n="multimèdia__adj"/></e>
+<e lm="per càpita"><i>per<b/>càpita</i><par n="multimèdia__adj"/></e>
+<e lm="esquitxat"><i>esquitxa</i><par n="afortuna/t__adj"/></e>
+<e lm="integrat"><i>integra</i><par n="afortuna/t__adj"/></e>
 
+
+<e lm="aigua dolça"><p><l>aigua<b/>dolça</l><r>aigua<b/>dolça<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="aigua dolça"><p><l>aigües<b/>dolces</l><r>aigua<b/>dolça<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="declaració de conformitat"><i>declaraci</i><par n="acci/ó__n"/><p><l><b/>de<b/>conformitat</l><r><g><b/>de<b/>conformitat</g></r></p></e>
 <e lm="guardià"><i>guardi</i><par n="americ/à__n"/></e>
 <e lm="exponencial"><i>exponencial</i><par n="abdominal__adj"/></e>
 <e lm="immemorial"><i>immemorial</i><par n="abdominal__adj"/></e>

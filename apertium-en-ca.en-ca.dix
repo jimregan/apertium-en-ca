@@ -7205,6 +7205,19 @@
 <e>       <p><l>in<b/>love<s n="adj"/></l>        <r>enamorat<s n="adj"/></r></p></e>
 <e r="LR">       <p><l>enamoured<s n="adj"/></l>        <r>enamorat<s n="adj"/></r></p></e>
 <e>       <p><l>as<b/>dead<b/>as<b/>a<b/>doornail<s n="adj"/></l>        <r>mort<b/>i<b/>ben<b/>mort<s n="adj"/></r></p></e>
+<e>       <p><l>clumsy<s n="adj"/><s n="sint"/></l>         <r>maldestre<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>commercially<b/>orientated<s n="adj"/></l>         <r>orientat<g><b/>comercialment</g><s n="adj"/></r></p></e>
+<e>       <p><l>condensed<s n="adj"/></l>         <r>condensat<s n="adj"/></r></p></e>
+<e>       <p><l>degenerate<s n="adj"/></l>         <r>degenerat<s n="adj"/></r></p></e>
+<e>       <p><l>drowned<s n="adj"/></l>         <r>ofegat<s n="adj"/></r></p></e>
+<e r="LR">       <p><l>freezing<s n="adj"/></l>         <r>gelat<s n="adj"/></r></p></e>
+<e>       <p><l>freshwater<s n="adj"/></l>         <r>d'aigua<b/>dolça<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>freshwater<s n="n"/></l>         <r>aigua<b/>dolça<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>certificate<g><b/>of<b/>conformity</g><s n="n"/></l>         <r>declaració<g><b/>de<b/>conformitat</g><s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>dotted<s n="adj"/></l>         <r>esquitxat<s n="adj"/></r></p></e>
+<e r="LR">       <p><l>grand<s n="adj"/></l>         <r>magnífic<s n="adj"/></r></p></e>
+<e>       <p><l>integrated<s n="adj"/></l>         <r>integrat<s n="adj"/></r></p></e>
+<e>       <p><l>per<b/>capita<s n="adj"/></l>         <r>per<b/>càpita<s n="adj"/><s n="mf"/></r></p></e>
 
 <e>       <p><l>installed<s n="adj"/></l>         <r>instal·lat<s n="adj"/></r></p></e>
 
@@ -44855,6 +44868,7 @@
 
 <e>       <p><l>humid<s n="adj"/></l>             <r>humit<s n="adj"/></r></p></e>
 <e r="LR" a="doriua"><p><l>wet<s n="adj"/></l>    <r>humit<s n="adj"/></r></p></e>
+<e r="LR"><p><l>damp<s n="adj"/></l>    <r>humit<s n="adj"/></r></p></e>
 
 
 <!-- POLISEMIA -->
