@@ -91821,6 +91821,24 @@
     <i>p.m.</i>
     <par n="sempre__adv"/>
   </e>
+
+
+<e lm="amb desenfado"><i>amb<b/>desenfado</i><par n="sempre__adv"/></e>
+<e lm="amb energia"><i>amb<b/>energia</i><par n="sempre__adv"/></e>
+<e lm="amb gran dificultat"><i>amb<b/>gran<b/>dificultat</i><par n="sempre__adv"/></e>
+<e lm="amb gran dolor"><i>amb<b/>gran<b/>dolor</i><par n="sempre__adv"/></e>
+<e lm="a prova de bombes"><i>a<b/>prova<b/>de<b/>bombes</i><par n="sempre__adv"/></e>
+<e lm="de mala fe"><i>de<b/>mala<b/>fe</i><par n="sempre__adv"/></e>
+<e lm="distretament"><i>distretament</i><par n="sempre__adv"/></e>
+<e lm="en aquest cas"><i>en<b/>aquest<b/>cas</i><par n="sempre__adv"/></e>
+<e lm="en el seu propi"><i>en<b/>el<b/>seu<b/>propi</i><par n="sempre__adv"/></e>
+<e lm="en gran quantitat"><i>en<b/>gran<b/>quantitat</i><par n="sempre__adv"/></e>
+<e lm="enmig del no-res"><i>enmig<b/>del<b/>no-res</i><par n="sempre__adv"/></e>
+<e lm="en un sol lloc"><i>en<b/>un<b/>sol<b/>lloc</i><par n="sempre__adv"/></e>
+<e lm="per avió"><i>per<b/>avió</i><par n="sempre__adv"/></e>
+<e lm="per majoria absoluta"><i>per<b/>majoria<b/>absoluta</i><par n="sempre__adv"/></e>
+<e lm="per mandat judicial"><i>per<b/>mandat<b/>judicial</i><par n="sempre__adv"/></e>
+
 <e lm="i no obstant això"><i>i<b/>no<b/>obstant<b/>això</i><par n="abans_que__cnjadv"/></e>
 <e lm="amb la condició que"><i>amb<b/>la<b/>condició<b/>que</i><par n="abans_que__cnjadv"/></e>
 <e lm="a condició que"><i>a<b/>condició<b/>que</i><par n="abans_que__cnjadv"/></e>
@@ -96953,6 +96971,7 @@
 <e lm="andradita"><i>andradit</i><par n="abell/a__n"/></e>
 <e lm="colorimetria"><i>colorimetri</i><par n="abell/a__n"/></e>
 <e lm="claustrofòbia"><i>claustrofòbi</i><par n="abell/a__n"/></e>
+<e lm="hidrofòbia"><i>hidrofòbi</i><par n="abell/a__n"/></e>
 <e lm="hexakosioihexekontahexafòbia"><i>hexakosioihexekontahexafòbi</i><par n="abell/a__n"/></e>
 <e lm="guanina"><i>guanin</i><par n="abell/a__n"/></e>
 <e lm="submarí"><i>submar</i><par n="boc/í__n"/></e>

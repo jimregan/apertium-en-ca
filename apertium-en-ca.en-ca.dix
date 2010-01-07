@@ -18071,6 +18071,20 @@
 <e r="LR"><p><l>by<b/>return<b/>mail<s n="adv"/></l><r>a<b/>correu<b/>seguit<s n="adv"/></r></p></e>
 <e r="LR"><p><l>wholesale<s n="adv"/></l>         <r>a<b/>l'engròs<s n="adv"/></r></p></e>
 
+<e><p><l>on<b/>my<b/>own<s n="adv"/></l><r>pel<b/>meu<b/>compte<s n="adv"/></r></p></e>
+<e><p><l>on<b/>your<b/>own<s n="adv"/></l><r>pel<b/>teu<b/>compte<s n="adv"/></r></p></e>
+<e><p><l>within<b/>sight<b/>distance<s n="adv"/></l><r>a<b/>l'abast<b/>de<b/>la<b/>vista<s n="adv"/></r></p></e>
+<e><p><l>without<b/>a<b/>purpose<s n="adv"/></l><r>sense<b/>cap<b/>propòsit<s n="adv"/></r></p></e>
+<e><p><l>by<b/>the<b/>present<s n="adv"/></l><r>per<b/>la<b/>present<s n="adv"/></r></p></e>
+<e><p><l>adventurously<s n="adv"/></l><r>amb<b/>esperit<b/>aventurer<s n="adv"/></r></p></e>
+<e><p><l>to<b/>the<b/>letter<s n="adv"/></l><r>al<b/>peu<b/>de<b/>la<b/>lletra<s n="adv"/></r></p></e>
+<e><p><l>over<b/>time<s n="adv"/></l><r>amb<b/>el<b/>temps<s n="adv"/></r></p></e>
+<e><p><l>per<b/>person<s n="adv"/></l><r>per<b/>persona<s n="adv"/></r></p></e>
+<e><p><l>until<b/>no<b/>more<b/>is<b/>needed<b/>nor<b/>desired<s n="adv"/></l><r>fins<b/>a<b/>la<b/>sacietat<s n="adv"/></r></p></e>
+<e><p><l>in<b/>for<b/>a<b/>penny<s n="adv"/></l><r>de<b/>perduts<b/>al<b/>riu<s n="adv"/></r></p></e>
+<e><p><l>on<b/>trial<s n="adv"/></l><r>en<b/>prova<s n="adv"/></r></p></e>
+<e><p><l>more<b/>closely<s n="adv"/></l><r>més<b/>estretament<s n="adv"/></r></p></e>
+<e><p><l>inside<b/>and<b/>out<s n="adv"/></l><r>per<b/>dins<b/>i<b/>per<b/>fora<s n="adv"/></r></p></e>
 <e r="LR"><p><l>Yours<b/>faithfully<s n="adv"/></l><r>Atentament<s n="adv"/></r></p></e>
 <e r="LR"><p><l>Yours<b/>sincerely<s n="adv"/></l><r>Cordialment<s n="adv"/></r></p></e>
 <e r="LR"><p><l>Best<b/>wishes<s n="adv"/></l>    <r>Afectuosament<s n="adv"/></r></p></e>
@@ -26110,6 +26124,7 @@
 <e>       <p><l>granulator<s n="n"/></l>          <r>gransadora<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>constipation<s n="n"/></l>        <r>restrenyiment<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>claustrophobia<s n="n"/></l>      <r>claustrofòbia<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>hydrophobia<s n="n"/></l>      <r>hidrofòbia<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>hexakosioihexekontahexaphobia<s n="n"/></l>      <r>hexakosioihexekontahexafòbia<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>bisexuality<s n="n"/></l>         <r>bisexualitat<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>beaver<s n="n"/></l>              <r>castor<s n="n"/><s n="m"/></r></p></e>
