@@ -46141,14 +46141,14 @@
 <e srl="commitment D"><p><l>commitment<s n="n"/></l><r>compromís<s n="n"/><s n="m"/></r></p></e>
 <e srl="engagement"><p><l>engagement<s n="n"/></l><r>compromís<s n="n"/><s n="m"/></r></p></e>
 
-<e r="RL" srl="partner D"><p><l>partner<s n="n"/></l><r>company<s n="n"/></r></p></e>
-<e r="LR" srl="partner D"><p><l>partner<s n="n"/></l><r>company<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL" slr="company"><p><l>partner<s n="n"/></l><r>company<s n="n"/></r></p></e>
+<e r="LR"><p><l>partner<s n="n"/></l><r>company<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL" srl="companion"><p><l>companion<s n="n"/></l><r>company<s n="n"/></r></p></e>
-<e r="LR" srl="companion"><p><l>companion<s n="n"/></l><r>company<s n="n"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>companion<s n="n"/></l><r>company<s n="n"/><s n="GD"/></r></p></e>
 
 <e r="RL" srl="director D"><p><l>director<s n="n"/></l><r>director<s n="n"/></r></p></e>
 <e r="RL" srl="conductor" a="carmentano"><p><l>conductor<s n="n"/></l><r>director<s n="n"/></r></p></e>
-<e r="LR" srl="conductor" a="carmentano"><p><l>conductor<s n="n"/></l><r>director<s n="n"/><s n="GD"/></r></p></e>
+<e r="LR" a="carmentano"><p><l>conductor<s n="n"/></l><r>director<s n="n"/><s n="GD"/></r></p></e>
 
 <e srl="conference D"><p><l>conference<s n="n"/></l><r>conferència<s n="n"/><s n="f"/></r></p></e>
 <e srl="lecture"><p><l>lecture<s n="n"/></l>      <r>conferència<s n="n"/><s n="f"/></r></p></e>
