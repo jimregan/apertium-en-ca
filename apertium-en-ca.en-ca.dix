@@ -774,6 +774,7 @@
 <e>       <p><l>frictional<s n="adj"/></l>        <r>friccional<s n="adj"/><s n="mf"/></r></p></e>
 
 <e>       <p><l>biotic<s n="adj"/></l>            <r>biòtic<s n="adj"/></r></p></e>
+<e>       <p><l>abiotic<s n="adj"/></l>            <r>abiòtic<s n="adj"/></r></p></e>
 
 <e>       <p><l>biennial<s n="adj"/></l>          <r>biennal<s n="adj"/><s n="mf"/></r></p></e>
 
@@ -1321,6 +1322,7 @@
 <e>       <p><l>impressionist<s n="adj"/></l>     <r>impressionista<s n="adj"/><s n="mf"/></r></p></e>
 
 <e>       <p><l>polydimensional<s n="adj"/></l>   <r>polidimensional<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>adimensional<s n="adj"/></l>   <r>adimensional<s n="adj"/><s n="mf"/></r></p></e>
 
 <e>       <p><l>questionable<s n="adj"/></l>      <r>qüestionable<s n="adj"/><s n="mf"/></r></p></e>
 
@@ -3865,6 +3867,7 @@
 <e>       <p><l>deficient<s n="adj"/></l>         <r>deficient<s n="adj"/><s n="mf"/></r></p></e>
 
 <e>       <p><l>emphatic<s n="adj"/></l>          <r>emfàtic<s n="adj"/></r></p></e>
+<e>       <p><l>adriatic<s n="adj"/></l>          <r>adriàtic<s n="adj"/></r></p></e>
 
 <e>       <p><l>basophile<s n="adj"/></l>         <r>basòfil<s n="adj"/></r></p></e>
 
@@ -7200,6 +7203,8 @@
 <e>       <p><l>in<b/>a<b/>sudden<b/>way<s n="adv"/></l><r>sobtadament<s n="adv"/></r></p></e>
 
 <e>       <p><l>in<b/>love<s n="adj"/></l>        <r>enamorat<s n="adj"/></r></p></e>
+<e r="LR">       <p><l>enamoured<s n="adj"/></l>        <r>enamorat<s n="adj"/></r></p></e>
+<e>       <p><l>as<b/>dead<b/>as<b/>a<b/>doornail<s n="adj"/></l>        <r>mort<b/>i<b/>ben<b/>mort<s n="adj"/></r></p></e>
 
 <e>       <p><l>installed<s n="adj"/></l>         <r>instal·lat<s n="adj"/></r></p></e>
 

@@ -84020,6 +84020,10 @@
 <e lm="força major"><p><l>forces<b/>majors</l><r>força<b/>major<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="xarxa tròfica"><p><l>xarxa<b/>tròfica</l><r>xarxa<b/>tròfica<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="xarxa tròfica"><p><l>xarxes<b/>tròfiques</l><r>xarxa<b/>tròfica<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="mort i ben mort"><p><l>mort<b/>i<b/>ben<b/>mort</l><r>mort<b/>i<b/>ben<b/>mort<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="mort i ben mort"><p><l>morts<b/>i<b/>ben<b/>morts</l><r>mort<b/>i<b/>ben<b/>mort<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="mort i ben mort"><p><l>morta<b/>i<b/>ben<b/>morta</l><r>mort<b/>i<b/>ben<b/>mort<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="mort i ben mort"><p><l>mortes<b/>i<b/>ben<b/>mortes</l><r>mort<b/>i<b/>ben<b/>mort<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
 
 <e lm="guardià"><i>guardi</i><par n="americ/à__n"/></e>
 <e lm="exponencial"><i>exponencial</i><par n="abdominal__adj"/></e>
@@ -84160,6 +84164,7 @@
 <e lm="minuciós"><i>minuci</i><par n="afectu/ós__adj"/></e>
 
 <e lm="simbiòtic"><i>simbiòti</i><par n="acadèmi/c__adj"/></e>
+<e lm="abiòtic"><i>abiòti</i><par n="acadèmi/c__adj"/></e>
 
 <e lm="perfilat"><i>perfila</i><par n="afortuna/t__adj"/></e>
 
@@ -86467,6 +86472,7 @@
 <e lm="privilegiat"><i>privilegia</i><par n="afortuna/t__adj"/></e>
 
 <e lm="dimensional"><i>dimensional</i><par n="abdominal__adj"/></e>
+<e lm="adimensional"><i>adimensional</i><par n="abdominal__adj"/></e>
 
 <e lm="gregorià"><i>gregori</i><par n="afric/à__adj"/></e>
 
@@ -86521,6 +86527,7 @@
 <e lm="deficient"><i>deficient</i><par n="abdominal__adj"/></e>
 
 <e lm="emfàtic"><i>emfàti</i><par n="acadèmi/c__adj"/></e>
+<e lm="adriàtic"><i>adriàti</i><par n="acadèmi/c__adj"/></e>
 
 <e lm="basòfil"><i>basòfil</i><par n="absolut__adj"/></e>
 
