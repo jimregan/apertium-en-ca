@@ -1765,6 +1765,7 @@
 <e>       <p><l>equivalent<s n="adj"/></l>        <r>equivalent<s n="adj"/><s n="mf"/></r></p></e>
 
 <e>       <p><l>infinite<s n="adj"/></l>          <r>infinit<s n="adj"/></r></p></e>
+<e>       <p><l>transfinite<s n="adj"/></l>          <r>transfinit<s n="adj"/></r></p></e>
 
 <e r="RL"><p><l>controversial<s n="adj"/></l>     <r>controvertit<s n="adj"/></r></p></e>
 <e>       <p><l>controversial<s n="adj"/></l>     <r>polèmic<s n="adj"/></r></p></e>
@@ -3147,6 +3148,8 @@
 <e>       <p><l>reliable<s n="adj"/></l>          <r>fiable<s n="adj"/><s n="mf"/></r></p></e>
 
 <e>       <p><l>supersonic<s n="adj"/></l>        <r>supersònic<s n="adj"/></r></p></e>
+<e>       <p><l>transonic<s n="adj"/></l>        <r>transònic<s n="adj"/></r></p></e>
+<e>       <p><l>subsonic<s n="adj"/></l>        <r>subsònic<s n="adj"/></r></p></e>
 
 <e>       <p><l>changeable<s n="adj"/></l>        <r>canviable<s n="adj"/><s n="mf"/></r></p></e>
 
@@ -3952,6 +3955,7 @@
 <e>       <p><l>insolvent<s n="adj"/></l>         <r>insolvent<s n="adj"/><s n="mf"/></r></p></e>
 
 <e>       <p><l>dasymetric<s n="adj"/></l>        <r>dasimètric<s n="adj"/></r></p></e>
+<e>       <p><l>supersymetric<s n="adj"/></l>        <r>supersimètric<s n="adj"/></r></p></e>
 
 <e>       <p><l>idiomorphic<s n="adj"/></l>       <r>idiomorf<s n="adj"/></r></p></e>
 
@@ -7226,7 +7230,10 @@
 <e>       <p><l>wicked<s n="adj"/></l>         <r>malvat<s n="adj"/></r></p></e>
 <e>       <p><l>without<b/>sense<s n="adj"/></l>         <r>sense<b/>sentit<s n="adj"/><s n="mf"/></r></p></e>
 <e>       <p><l>wireless<s n="adj"/></l>         <r>sense<b/>fil<s n="adj"/><s n="mf"/></r></p></e>
-<e>       <p><l>without<b/>importance<s n="adj"/></l>         <r>sense<b/>importància<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR">       <p><l>without<b/>importance<s n="adj"/></l>         <r>sense<b/>importància<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>tidy<s n="adj"/><s n="sint"/></l>         <r>ordenat<s n="adj"/></r></p></e>
+<e>       <p><l>unimportant<s n="adj"/></l>         <r>sense<b/>importància<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>uneducated<s n="adj"/></l>         <r>sense<b/>educació<s n="adj"/><s n="mf"/></r></p></e>
 
 <e>       <p><l>installed<s n="adj"/></l>         <r>instal·lat<s n="adj"/></r></p></e>
 

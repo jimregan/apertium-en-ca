@@ -83688,6 +83688,7 @@
 <e lm="consonàntic"><i>consonànti</i><par n="acadèmi/c__adj"/></e>
 
 <e lm="indefinit"><i>indefini</i><par n="afortuna/t__adj"/></e>
+<e lm="transdefinit"><i>transdefini</i><par n="afortuna/t__adj"/></e>
 
 <e lm="subtil"><i>subtil</i><par n="abdominal__adj"/></e>
 
@@ -84039,6 +84040,7 @@
 <e lm="sense sentit"><i>sense<b/>sentit</i><par n="multimèdia__adj"/></e>
 <e lm="sense fil"><i>sense<b/>fil</i><par n="multimèdia__adj"/></e>
 <e lm="sense importància"><i>sense<b/>importància</i><par n="multimèdia__adj"/></e>
+<e lm="sense educació"><i>sense<b/>educació</i><par n="multimèdia__adj"/></e>
 
 
 <e lm="aigua dolça"><p><l>aigua<b/>dolça</l><r>aigua<b/>dolça<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
@@ -85803,6 +85805,8 @@
 <e lm="fiable"><i>fiable</i><par n="abdominal__adj"/></e>
 
 <e lm="supersònic"><i>supersòni</i><par n="acadèmi/c__adj"/></e>
+<e lm="transònic"><i>transòni</i><par n="acadèmi/c__adj"/></e>
+<e lm="subsònic"><i>subsòni</i><par n="acadèmi/c__adj"/></e>
 
 <e lm="canviable"><i>canviable</i><par n="abdominal__adj"/></e>
 
@@ -88490,6 +88494,7 @@
 <e lm="renal"><i>renal</i><par n="abdominal__adj"/></e>
 
 <e lm="desordenat"><i>desordena</i><par n="afortuna/t__adj"/></e>
+<e lm="ordenat"><i>ordena</i><par n="afortuna/t__adj"/></e>
 
 <e lm="lleig"><i>lle</i><par n="lle/ig__adj"/></e>
 
@@ -89045,6 +89050,7 @@
 <e lm="arqueològic"><i>arqueològi</i><par n="acadèmi/c__adj"/></e>
 
 <e lm="asimètric"><i>asimètri</i><par n="acadèmi/c__adj"/></e>
+<e lm="supersimètric"><i>supersimètri</i><par n="acadèmi/c__adj"/></e>
 
 <e lm="asimptòtic"><i>asimptòti</i><par n="acadèmi/c__adj"/></e>
 
