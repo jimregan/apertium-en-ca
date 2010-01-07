@@ -92304,6 +92304,7 @@
 <e lm="camp de refugiats"><i>camp</i><par n="abric__n"/><p><l><b/>de<b/>refugiats</l><r><g><b/>de<b/>refugiats</g></r></p></e>
 <e lm="canvi"><i>canvi</i><par n="abric__n"/></e>
 <e lm="cap"><i>cap</i><par n="abric__n"/></e>
+<e lm="cap de govern"><i>cap</i><par n="abric__n"/><p><l><b/>de<b/>govern</l><r><g><b/>de<b/>govern</g></r></p></e>
 <e lm="cap"><i>cap</i><par n="accessibilitat__n"/></e>
 <e lm="cap de setmana"><i>cap</i><par n="abric__n"/><p><l><b/>de<b/>setmana</l><r><g><b/>de<b/>setmana</g></r></p></e>
 <e lm="capital"><i>capital</i><par n="abric__n"/></e>
@@ -92597,6 +92598,7 @@
 <e lm="maleta"><i>malet</i><par n="abell/a__n"/></e>
 <e lm="manca"><i>man</i><par n="acústi/ca__n"/></e>
 <e lm="manera"><i>maner</i><par n="abell/a__n"/></e>
+<e lm="manera de vida"><i>maner</i><par n="abell/a__n"/><p><l><b/>de<b/>vida</l><r><g><b/>de<b/>vida</g></r></p></e>
 <e lm="cimera"><i>cimer</i><par n="abell/a__n"/></e>
 <e lm="màquina"><i>màquin</i><par n="abell/a__n"/></e>
 <e lm="mar"><i>mar</i><par n="acompanyant__n"/></e>
@@ -94320,6 +94322,7 @@
 <e lm="tacte"><i>tacte</i><par n="abric__n"/></e>
 <e lm="gira"><i>gir</i><par n="abell/a__n"/></e>
 <e lm="tovallola"><i>tovallol</i><par n="abell/a__n"/></e>
+<e lm="tovallola de paper"><i>tovallol</i><par n="abell/a__n"/><p><l><b/>de<b/>paper</l><r><g><b/>de<b/>paper</g></r></p></e>
 <e lm="torre"><i>torre</i><par n="accessibilitat__n"/></e>
 <e lm="joguina"><i>joguin</i><par n="abell/a__n"/></e>
 <e lm="traça"><i>traç</i><par n="abell/a__n"/></e>
@@ -94925,7 +94928,6 @@
 <e lm="bioregulació"><i>bioregulaci</i><par n="acci/ó__n"/></e>
 <e lm="espaseta"><i>espaset</i><par n="abell/a__n"/></e>
 <e lm="sulfonació"><i>sulfonaci</i><par n="acci/ó__n"/></e>
-<e lm="fillastre"><i>fillastre</i><par n="abric__n"/></e>
 <e lm="taller"><i>taller</i><par n="abric__n"/></e>
 <e lm="tumor"><i>tumor</i><par n="abric__n"/></e>
 <e lm="sagristia"><i>sagristi</i><par n="abell/a__n"/></e>
@@ -117334,6 +117336,7 @@
 <e lm="extinció"><i>extinci</i><par n="acci/ó__n"/></e>
 <e lm="clergat"><i>clergat</i><par n="abric__n"/></e>
 <e lm="germanastre"><i>germanastr</i><par n="addict/e__n"/></e>
+<e lm="fillastre"><i>fillastr</i><par n="addict/e__n"/></e>
 <e lm="commemoració"><i>commemoraci</i><par n="acci/ó__n"/></e>
 <e lm="usurpador"><i>usurpador</i><par n="senyor__n"/></e>
 <e lm="galliner"><i>galliner</i><par n="abric__n"/></e>

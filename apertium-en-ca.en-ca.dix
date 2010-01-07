@@ -18838,7 +18838,10 @@
 <e>       <p><l>Canadian<s n="n"/></l>            <r>canadenc<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>Dutch<s n="n"/></l>               <r>holandès<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>English<s n="n"/></l>             <r>anglès<s n="n"/><s n="m"/></r></p></e>
+<e r="LR">       <p><l>Englishman<s n="n"/></l>             <r>anglès<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>French<s n="n"/></l>              <r>francès<s n="n"/><s n="m"/></r></p></e>
+<e r="LR">       <p><l>Frenchman<s n="n"/></l>              <r>francès<s n="n"/><s n="m"/></r></p></e>
+<e r="LR">       <p><l>Frenchwoman<s n="n"/></l>              <r>francès<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>German<s n="n"/></l>              <r>alemany<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>Galician<s n="n"/></l>            <r>gallec<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>Greek<s n="n"/></l>               <r>grec<s n="n"/><s n="m"/></r></p></e>
@@ -19631,6 +19634,10 @@
 <e>       <p><l>war<s n="n"/></l>                 <r>guerra<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>water<s n="n"/></l>               <r>aigua<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>way<s n="n"/><s n="sg"/></l>      <r>manera<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e><p><l>way<g><b/>of<b/>life</g><s n="n"/></l>      <r>manera<g><b/>de<b/>vida</g><s n="n"/><s n="f"/></r></p></e>
+<e><p><l>head<g><b/>of<b/>government</g><s n="n"/></l>      <r>cap<g><b/>de<b/>govern</g><s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>government<b/>head<s n="n"/></l>      <r>cap<g><b/>de<b/>govern</g><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>paper<b/>towel<s n="n"/></l>      <r>tovallola<g><b/>de<b/>paper</g><s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>wealth<s n="n"/></l>              <r>riquesa<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>weather<s n="n"/></l>             <r>temps<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>weather<b/>station<s n="n"/></l>             <r>estació<b/>meteorològica<s n="n"/><s n="f"/></r></p></e>
@@ -29734,6 +29741,7 @@
 <e r="RL">       <p><l>guardian<s n="n"/></l>           <r>guardià<s n="n"/></r></p></e>
 <e r="LR">       <p><l>sheep<b/>dog<s n="n"/></l>           <r>gos<b/>pastor<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL">       <p><l>sheep<b/>dog<s n="n"/></l>           <r>gos<b/>pastor<s n="n"/></r></p></e>
+<e srl="index D"><p><l>index<s n="n"/></l>        <r>índex<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>index<b/>finger<s n="n"/></l>           <r>dit<b/>índex<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>middle<b/>finger<s n="n"/></l>           <r>dit<b/>mitger<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>ring<b/>finger<s n="n"/></l>           <r>dit<b/>anular<s n="n"/><s n="m"/></r></p></e>
