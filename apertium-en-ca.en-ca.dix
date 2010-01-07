@@ -7797,6 +7797,7 @@
 
 
 <e r="LR">       <p><l>below<s n="pr"/></l>             <r>sota<s n="pr"/></r></p></e>
+<e>       <p><l>headed<b/>by<s n="pr"/></l>             <r>al<b/>comandament<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>below<s n="adv"/></l>             <r>a<b/>sota<s n="adv"/></r></p></e>
 <e r="LR" a="doriua"><p><l>beneath<s n="adv"/></l><r>a<b/>sota<s n="adv"/></r></p></e>
 
@@ -8168,10 +8169,12 @@
 
 
 <e>       <p><l>on<b/>the<b/>left<s n="adv"/></l> <r>a<b/>l'esquerra<s n="adv"/></r></p></e>
+<e r="LR">       <p><l>to<b/>the<b/>left<s n="adv"/></l> <r>a<b/>l'esquerra<s n="adv"/></r></p></e>
 
 
 
 <e>       <p><l>on<b/>the<b/>right<s n="adv"/></l><r>a<b/>la<b/>dreta<s n="adv"/></r></p></e>
+<e r="LR">       <p><l>to<b/>the<b/>right<s n="adv"/></l><r>a<b/>la<b/>dreta<s n="adv"/></r></p></e>
 
 
 
@@ -9341,6 +9344,28 @@
 
 <e>       <p><l>with<b/>difficulty<s n="adv"/></l><r>amb<b/>dificultat<s n="adv"/></r></p></e>
 
+<e><p><l>in<b/>this<b/>case<s n="adv"/></l><r>en<b/>aquest<b/>cas<s n="adv"/></r></p></e>
+<e><p><l>bomb-proof<s n="adv"/></l><r>a<b/>prova<b/>de<b/>bombes<s n="adv"/></r></p></e>
+<e><p><l>by<b/>plane<s n="adv"/></l><r>per<b/>avió<s n="adv"/></r></p></e>
+<e><p><l>in<b/>bad<b/>faith<s n="adv"/></l><r>de<b/>mala<b/>fe<s n="adv"/></r></p></e>
+<e><p><l>in<b/>great<b/>quantity<s n="adv"/></l><r>en<b/>gran<b/>quantitat<s n="adv"/></r></p></e>
+<e><p><l>in<b/>the<b/>middle<b/>of<b/>nowhere<s n="adv"/></l><r>enmig<b/>del<b/>no-res<s n="adv"/></r></p></e>
+<e><p><l>in<b/>a<b/>single<b/>place<s n="adv"/></l><r>en<b/>un<b/>sol<b/>lloc<s n="adv"/></r></p></e>
+<e><p><l>with<b/>great<b/>pain<s n="adv"/></l><r>amb<b/>gran<b/>dolor<s n="adv"/></r></p></e>
+<e><p><l>by<b/>judicial<b/>mandate<s n="adv"/></l><r>per<b/>mandat<b/>judicial<s n="adv"/></r></p></e>
+<e r="LR"><p><l>forcefully<s n="adv"/></l><r>amb<b/>energia<s n="adv"/></r></p></e>
+<e><p><l>with<b/>energy<s n="adv"/></l><r>amb<b/>energia<s n="adv"/></r></p></e>
+<e r="LR"><p><l>jauntily<s n="adv"/></l><r>amb<b/>desenfado<s n="adv"/></r></p></e>
+<e><p><l>with<b/>confidence<s n="adv"/></l><r>amb<b/>desenfado<s n="adv"/></r></p></e>
+<e><p><l>with<b/>great<b/>difficulty<s n="adv"/></l><r>amb<b/>gran<b/>dificultat<s n="adv"/></r></p></e>
+<e r="LR"><p><l>on<b/>its<b/>own<s n="adv"/></l><r>en<b/>el<b/>seu<b/>propi<s n="adv"/></r></p></e>
+<e r="LR"><p><l>on<b/>their<b/>own<s n="adv"/></l><r>en<b/>el<b/>seu<b/>propi<s n="adv"/></r></p></e>
+<e r="LR"><p><l>on<b/>his<b/>own<s n="adv"/></l><r>en<b/>el<b/>seu<b/>propi<s n="adv"/></r></p></e>
+<e r="LR"><p><l>on<b/>her<b/>own<s n="adv"/></l><r>en<b/>el<b/>seu<b/>propi<s n="adv"/></r></p></e>
+<e r="RL"><p><l>alone<s n="adv"/></l><r>en<b/>el<b/>seu<b/>propi<s n="adv"/></r></p></e>
+<e><p><l>by<b/>an<b/>absolute<b/>majority<s n="adv"/></l><r>per<b/>majoria<b/>absoluta<s n="adv"/></r></p></e>
+<e r="LR"><p><l>absent-mindedly<s n="adv"/></l><r>distretament<s n="adv"/></r></p></e>
+<e><p><l>distractedly<s n="adv"/></l><r>distretament<s n="adv"/></r></p></e>
 
 
 <e>       <p><l>with<b/>dignity<s n="adv"/></l>   <r>amb<b/>dignitat<s n="adv"/></r></p></e>
@@ -18859,7 +18884,7 @@
 <e r="LR"><p><l>Japanese-American<s n="n"/></l><r>americà<g><b/>d'origen<b/>japonès</g><s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>Japanese-American<s n="n"/></l>            <r>americà<g><b/>d'origen<b/>japonès</g><s n="n"/></r></p></e>
 <e><p><l>Japanese-American<s n="adj"/></l><r>americà<g><b/>d'origen<b/>japonès</g><s n="adj"/></r></p></e>
-<e><p><l>Almerian<s n="adj"/></l><r>d'Almeria<s n="adj"/></r></p></e>
+<e><p><l>Almerian<s n="adj"/></l><r>d'Almeria<s n="adj"/><s n="mf"/></r></p></e>
 <e c="doncs aquí poso GD, caldria unificar"><p><l>Basque<s n="n"/></l><r>basc<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>Basque<s n="n"/></l>              <r>basc<s n="n"/></r></p></e>
 <e r="RL"><p><l>amount<s n="n"/></l>              <r>import<s n="n"/><s n="m"/></r></p></e>
@@ -28468,6 +28493,7 @@
 <e>       <p><l>uvarovite<s n="n"/></l>           <r>uvarovita<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>dysmenorrhea<s n="n"/></l>        <r>dismenorrea<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>maliciousness<s n="n"/></l><r>maldat<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>pathogen<s n="n"/></l><r>patogen<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>oxygen<s n="n"/></l>              <r>oxigen<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>potentiality<s n="n"/></l>        <r>potencialitat<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>edema<s n="n"/></l>               <r>edema<s n="n"/><s n="m"/></r></p></e>
@@ -29194,7 +29220,7 @@
 <e>       <p><l>bishop<s n="n"/></l>              <r>bisbe<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>orchard<s n="n"/></l>             <r>hort<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>foolishness<s n="n"/></l><r>ximpleria<s n="n"/><s n="f"/></r></p></e>
-<e>       <p><l>force<b/>majeur<s n="n"/></l><r>força<b/>major<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>force<b/>majeure<s n="n"/></l><r>força<b/>major<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>tetrahexahedron<s n="n"/></l>     <r>tetrahexaedre<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>phragmoplast<s n="n"/></l>        <r>fragmoplast<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>asceticism<s n="n"/></l>          <r>ascetisme<s n="n"/><s n="m"/></r></p></e>
@@ -29783,6 +29809,7 @@
 <e>       <p><l>modeller<s n="n"/></l>            <r>modelador<s n="n"/><s n="m"/></r></p></e>
 <e r="LR">       <p><l>millionaire<s n="n"/></l>         <r>milionari<s n="n"/><s n="GD"/></r></p></e>
 <e r="LR">       <p><l>multimillionaire<s n="n"/></l>         <r>multimilionari<s n="n"/><s n="GD"/></r></p></e>
+<e>       <p><l>multimillionaire<s n="adj"/></l>         <r>multimilionari<s n="adj"/><s n="mf"/></r></p></e>
 <e>       <p><l>rebounder<s n="n"/></l>           <r>rebotador<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>exodontist<s n="n"/></l>          <r>exodontista<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>violinist<s n="n"/></l>           <r>violinista<s n="n"/><s n="mf"/></r></p></e>
@@ -33388,6 +33415,7 @@
 <e><p><l>pull<g><b/>down</g><s n="vblex"/><s n="sep"/></l><r>abatre<s n="vblex"/></r></p></e>
 <e><p><l>make<g><b/>possible</g><s n="vblex"/><s n="sep"/></l><r>fer<g><b/>possible</g><s n="vblex"/></r></p></e>
 <e><p><l>make<g><b/>money</g><s n="vblex"/></l><r>guanyar<g><b/>diners</g><s n="vblex"/></r></p></e>
+<e><p><l>settle<g><b/>down</g><s n="vblex"/></l><r>asseure<g><b/>cap</g><s n="vblex"/></r></p></e>
 <e><p><l>pay<g><b/>cash</g><s n="vblex"/></l><r>pagar<g><b/>en<b/>metàl·lic</g><s n="vblex"/></r></p></e>
 <e r="LR"><p><l>get<g><b/>across</g><s n="vblex"/><s n="sep"/></l><r>comunicar<s n="vblex"/></r></p></e>
 <e><p><l>take<g><b/>for<b/>granted</g><s n="vblex"/><s n="sep"/></l><r>donar<g><b/>per<b/>fet</g><s n="vblex"/></r></p></e>
@@ -44393,7 +44421,7 @@
 <e><p><l>participatory<s n="adj"/></l><r>participatiu<s n="adj"/></r></p></e>
 <e><p><l>populational<s n="adj"/></l><r>poblacional<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>seductive<s n="adj"/></l><r>seductor<s n="adj"/></r></p></e>
-<e><p><l>accompanying<s n="adj"/></l><r>acompanyant<s n="adj"/></r></p></e>
+<e><p><l>accompanying<s n="adj"/></l><r>acompanyant<s n="adj"/><s n="mf"/></r></p></e>
 <e r="LR"><p><l>undeclinable<s n="adj"/></l><r>indeclinable<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>abstentionist<s n="adj"/></l><r>abstencionista<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>insulating<s n="adj"/></l><r>aïllant<s n="adj"/><s n="mf"/></r></p></e>

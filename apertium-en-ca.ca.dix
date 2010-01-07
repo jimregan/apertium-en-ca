@@ -83195,7 +83195,6 @@
 
 <e lm="circumstancial"><i>circumstancial</i><par n="abdominal__adj"/></e>
 <e lm="acompanyant"><i>acompanyant</i><par n="abdominal__adj"/></e>
-<e lm="major"><i>major</i><par n="abdominal__adj"/></e>
 
 <e lm="cert"><i>cert</i><par n="absolut__adj"/></e>
 
@@ -84015,7 +84014,7 @@
 <e lm="subxarxa"><i>subxarx</i><par n="abell/a__n"/></e>
 <e lm="targeta de xarxa"><i>target</i><par n="abell/a__n"/><p><l><b/>de<b/>xarxa</l><r><g><b/>de<b/>xarxa</g></r></p></e>
 <e lm="terminació de xarxa"><i>terminaci</i><par n="acci/ó__n"/><p><l><b/>de<b/>xarxa</l><r><g><b/>de<b/>xarxa</g></r></p></e>
-<e lm="traductor d'adreces de xarxa"><i>proveïdor</i><par n="abric__n"/><p><l><b/>d'adreces<b/>de<b/>xarxa</l><r><g><b/>d'adreces<b/>de<b/>xarxa</g></r></p></e>
+<e lm="traductor d'adreces de xarxa"><i>traductor</i><par n="abric__n"/><p><l><b/>d'adreces<b/>de<b/>xarxa</l><r><g><b/>d'adreces<b/>de<b/>xarxa</g></r></p></e>
 <e lm="xarxa ad hoc"><i>xarx</i><par n="abell/a__n"/><p><l><b/>ad<b/>hoc</l><r><g><b/>ad<b/>hoc</g></r></p></e>
 <e lm="força major"><p><l>força<b/>major</l><r>força<b/>major<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="força major"><p><l>forces<b/>majors</l><r>força<b/>major<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
@@ -89416,6 +89415,7 @@
 <e lm="islàmic"><i>islàmi</i><par n="asiàti/c__n"/></e>
 <e lm="marxista"><i>marxist</i><par n="accionist/a__n"/></e>
 <e lm="protestant"><i>protestant</i><par n="acompanyant__n"/></e>
+<e lm="major"><i>major</i><par n="acompanyant__n"/></e>
 <e lm="victorià"><i>victori</i><par n="americ/à__n"/></e>
 <e lm="marxista"><i>marxist</i><par n="agrícol/a__adj"/></e>
 <e lm="terrorista"><i>terrorist</i><par n="agrícol/a__adj"/></e>
@@ -91833,6 +91833,7 @@
 <e lm="d'aquí a" r="RL"><p><l>d'aquí<b/><a/>a</l><r>d'aquí<b/>a</r></p><par n="a__pr"/></e> 
 <e lm="amb referència a"><i>amb<b/>referència<b/></i><par n="/a__pr"/></e>
 <e lm="amb relació a"><i>amb<b/>relació<b/></i><par n="/a__pr"/></e>
+<e lm="al comandament de"><i>al<b/>comandament<b/></i><par n="/de__pr"/></e>
 <e lm="respecte de"><i>respecte<b/></i><par n="/de__pr"/></e>
 <e lm="respecte a"><i>respecte<b/></i><par n="/a__pr"/></e>
 <e lm="en relació amb"><i>en<b/>relació<b/>amb</i><par n="a__pr"/></e>
@@ -102116,6 +102117,7 @@
 <e lm="bolxevic"><i>bolxevic</i><par n="acompanyant__n"/></e>
 <e lm="picó"><i>pic</i><par n="aband/ó__n"/></e>
 <e lm="antihistamínic"><i>antihistamínic</i><par n="abric__n"/></e>
+<e lm="patogen"><i>patogen</i><par n="abric__n"/></e>
 <e lm="substantivació"><i>substantivaci</i><par n="acci/ó__n"/></e>
 <e lm="blastulació"><i>blastulaci</i><par n="acci/ó__n"/></e>
 <e lm="glucagó"><i>glucag</i><par n="aband/ó__n"/></e>
@@ -107189,6 +107191,7 @@
 <e lm="arrugar"><i>arrug</i><par n="afalag/ar__vblex"/></e>
 <e lm="asfixiar"><i>asfixi</i><par n="acarici/ar__vblex"/></e>
 <e lm="asseure"><i>asse</i><par n="asse/ure__vblex"/></e>
+<e lm="asseure cap"><i>asse</i><par n="asse/ure__vblex"/><p><l><b/>cap</l><r><g><b/>cap</g></r></p></e>
 <e lm="assimilar"><i>assimil</i><par n="abander/ar__vblex"/></e>
 <e lm="assolir"><i>assol</i><par n="abarat/ir__vblex"/></e>
 <e lm="avaluar"><i>avalu</i><par n="acarici/ar__vblex"/></e>

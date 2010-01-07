@@ -28027,7 +28027,6 @@
     <e lm="hand over fist"><i>hand<b/>over<b/>fist</i><par n="maybe__adv"/>    </e>
     <e lm="happily"><i>happily</i><par n="maybe__adv"/>    </e>
     <e lm="hardly"><i>hardly</i><par n="maybe__adv"/>    </e>
-    <e lm="headed by"><i>headed<b/>by</i><par n="maybe__adv"/>    </e>
     <e lm="heavily"><i>heavily</i><par n="maybe__adv"/>    </e>
     <e lm="hence"><i>hence</i><par n="maybe__adv"/></e>
     <e lm="here"><i>here</i><par n="maybe__adv"/>    </e>
@@ -28719,6 +28718,7 @@
 <!-- prepositions -->
     <e>      <i>'s</i><par n="'s__gen"/>    </e>
     <e lm="about"><i>about</i><par n="at__pr"/>    </e>
+    <e lm="headed by"><i>headed<b/>by</i><par n="at__pr"/>    </e>
     <e lm="rather than"><i>rather<b/>than</i><par n="at__pr"/></e>
     <e lm="more than"><i>more<b/>than</i><par n="at__pr"/></e>
     <e lm="less than"><i>less<b/>than</i><par n="at__pr"/></e>
@@ -34241,7 +34241,6 @@
     <e lm="re-create"><i>re-creat</i><par n="liv/e__vblex"/>    </e>
     <e lm="embroider"><i>embroider</i><par n="accept__vblex"/>    </e>
     <e lm="box"><i>box</i><par n="approach__vblex"/>    </e>
-    <e lm="refrain"><i>refrain</i><par n="accept__vblex"/>    </e>
     <e lm="refrain"><i>refrain</i><par n="house__n"/>    </e>
     <e lm="bronze"><i>bronz</i><par n="liv/e__vblex"/>    </e>
     <e lm="trick"><i>trick</i><par n="accept__vblex"/>    </e>
@@ -37154,7 +37153,7 @@
 <e lm="with every convenience"><i>with<b/>every<b/>convenience</i><par n="maybe__adv"/></e>
 <e lm="with good intentions"><i>with<b/>good<b/>intentions</i><par n="maybe__adv"/></e>
 <e lm="with good reason"><i>with<b/>good<b/>reason</i><par n="maybe__adv"/></e>
-<e lm="with great dificulty"><i>with<b/>great<b/>dificulty</i><par n="maybe__adv"/></e>
+<e lm="with great difficulty"><i>with<b/>great<b/>difficulty</i><par n="maybe__adv"/></e>
 <e lm="with great ostentation"><i>with<b/>great<b/>ostentation</i><par n="maybe__adv"/></e>
 <e lm="with great reluctance"><i>with<b/>great<b/>reluctance</i><par n="maybe__adv"/></e>
 <e lm="within a given time"><i>within<b/>a<b/>given<b/>time</i><par n="maybe__adv"/></e>
