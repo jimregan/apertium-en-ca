@@ -19637,7 +19637,12 @@
 <e><p><l>way<g><b/>of<b/>life</g><s n="n"/></l>      <r>manera<g><b/>de<b/>vida</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>head<g><b/>of<b/>government</g><s n="n"/></l>      <r>cap<g><b/>de<b/>govern</g><s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>government<b/>head<s n="n"/></l>      <r>cap<g><b/>de<b/>govern</g><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>head<g><b/>of<b/>state</g><s n="n"/></l>      <r>cap<g><b/>d'estat</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>paper<b/>towel<s n="n"/></l>      <r>tovallola<g><b/>de<b/>paper</g><s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>interdisciplinarity<s n="n"/></l>              <r>interdisciplinarietat<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>gas<b/>mask<s n="n"/></l>              <r>màscara<g><b/>antigas</g><s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>step<g><b/>forward</g><s n="n"/></l>              <r>pas<g><b/>endavant</g><s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>food<b/>web<s n="n"/></l>              <r>xarxa<b/>tròfica<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>wealth<s n="n"/></l>              <r>riquesa<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>weather<s n="n"/></l>             <r>temps<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>weather<b/>station<s n="n"/></l>             <r>estació<b/>meteorològica<s n="n"/><s n="f"/></r></p></e>
@@ -33102,6 +33107,7 @@
 <e r="LR"><p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
 <e>       <p><l>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
+<e r="LR"><p><l>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
 <e>       <p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
 
@@ -33116,6 +33122,7 @@
 <e r="RL" c="he posat com a traducció per defecte de 'li' him, també pot ser 'her' o 'it'- revisar"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
 <e>       <p><l>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
+<e r="LR"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
 <e>       <p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
 
 <!--MG: per ara, him/her es tradueix per 'li', per això les següents equiv són RL (el/la/els/les -> him/her/them. Revisar -->

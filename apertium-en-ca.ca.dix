@@ -84018,6 +84018,8 @@
 <e lm="xarxa ad hoc"><i>xarx</i><par n="abell/a__n"/><p><l><b/>ad<b/>hoc</l><r><g><b/>ad<b/>hoc</g></r></p></e>
 <e lm="força major"><p><l>força<b/>major</l><r>força<b/>major<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="força major"><p><l>forces<b/>majors</l><r>força<b/>major<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="xarxa tròfica"><p><l>xarxa<b/>tròfica</l><r>xarxa<b/>tròfica<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="xarxa tròfica"><p><l>xarxes<b/>tròfiques</l><r>xarxa<b/>tròfica<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 
 <e lm="guardià"><i>guardi</i><par n="americ/à__n"/></e>
 <e lm="exponencial"><i>exponencial</i><par n="abdominal__adj"/></e>
@@ -92307,6 +92309,8 @@
 <e lm="cap de govern"><i>cap</i><par n="abric__n"/><p><l><b/>de<b/>govern</l><r><g><b/>de<b/>govern</g></r></p></e>
 <e lm="cap"><i>cap</i><par n="accessibilitat__n"/></e>
 <e lm="cap de setmana"><i>cap</i><par n="abric__n"/><p><l><b/>de<b/>setmana</l><r><g><b/>de<b/>setmana</g></r></p></e>
+<e lm="cap d'estat"><i>cap</i><par n="abric__n"/><p><l><b/>d'estat</l><r><g><b/>d'estat</g></r></p></e>
+<e lm="interdisciplinarietat"><i>interdisciplinarietat</i><par n="accessibilitat__n"/></e>
 <e lm="capital"><i>capital</i><par n="abric__n"/></e>
 <e lm="capital"><i>capital</i><par n="accessibilitat__n"/></e>
 <e lm="capítol"><i>capítol</i><par n="abric__n"/></e>
@@ -92698,6 +92702,7 @@
 <e lm="participació"><i>participaci</i><par n="acci/ó__n"/></e>
 <e lm="partit"><i>partit</i><par n="abric__n"/></e>
 <e lm="pas"><i>pas</i><par n="cos__n"/></e>
+<e lm="pas endavant"><i>pas</i><par n="cos__n"/><p><l><b/>endavant</l><r><g><b/>endavant</g></r></p></e>
 <e lm="passat"><i>passat</i><par n="abric__n"/></e>
 <e lm="passeig"><i>passe</i><par n="assa/ig__n"/></e>
 <e lm="patró"><i>patr</i><par n="aband/ó__n"/></e>
@@ -104595,6 +104600,7 @@
 <e lm="idea dominant"><i>idea<b/>dominant</i><par n="fi__n"/></e>
 <e lm="idea dominant"><p><l>idees<b/>dominants</l><r>idea<b/>dominant</r></p><par n="escombraries__n"/></e>
 <e lm="màscara"><i>màscar</i><par n="abell/a__n"/></e>
+<e lm="màscara antigas"><i>màscar</i><par n="abell/a__n"/><p><l><b/>antigas</l><r><g><b/>antigas</g></r></p></e>
 <e lm="obra mestra"><i>obra<b/>mestra</i><par n="fi__n"/></e>
 <e lm="obra mestra"><p><l>obres<b/>mestres</l><r>obra<b/>mestra</r></p><par n="escombraries__n"/></e>
 <e lm="narrativa"><i>narrativ</i><par n="abell/a__n"/></e>
