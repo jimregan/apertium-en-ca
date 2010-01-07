@@ -45869,7 +45869,6 @@
 <e slr="revista D"><p><l>magazine<s n="n"/></l>   <r>revista<s n="n"/><s n="f"/></r></p></e>
 <e slr="riba"><p><l>bank<s n="n"/></l>            <r>riba<s n="n"/><s n="f"/></r></p></e>
 <e slr="ribot"><p><l>plane<s n="n"/></l>          <r>ribot<s n="n"/><s n="m"/></r></p></e>
-<e slr="ritme"><p><l>rate<s n="n"/></l><r>ritme<s n="n"/><s n="m"/></r></p></e>
 <e slr="roca"><p><l>rock<s n="n"/><s n="sg"/></l> <r>roca<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e slr="rock D"><p><l>rock<s n="n"/><s n="sg"/></l><r>rock<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e slr="roda D"><p><l>wheel<s n="n"/></l>         <r>roda<s n="n"/><s n="f"/></r></p></e>
@@ -46279,8 +46278,7 @@
 <e srl="impression D"><p><l>impression<s n="n"/></l><r>impressió<s n="n"/><s n="f"/></r></p></e>
 <e srl="printing"><p><l>printing<s n="n"/></l><r>impressió<s n="n"/><s n="f"/></r></p></e>
 
-<e srl="index D"><p><l>index<s n="n"/></l>        <r>índex<s n="n"/><s n="m"/></r></p></e>
-<e srl="rate"><p><l>rate<s n="n"/></l>            <r>índex<s n="n"/><s n="m"/></r></p></e>
+<e slr="índex D" srl="rate"><p><l>rate<s n="n"/></l><r>índex<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>rating<s n="n"/></l>              <r>índex<s n="n"/><s n="m"/></r></p></e>
 
 <e srl="interpretation D"><p><l>interpretation<s n="n"/></l><r>interpretació<s n="n"/><s n="f"/></r></p></e>
@@ -46404,7 +46402,7 @@
 <e srl="substitution"><p><l>substitution<s n="n"/></l><r>substitució<s n="n"/><s n="f"/></r></p></e>
 
 <e srl="rhythm D"><p><l>rhythm<s n="n"/></l>      <r>ritme<s n="n"/><s n="m"/></r></p></e>
-<e srl="rate"><p><l>rate<s n="n"/></l>            <r>ritme<s n="n"/><s n="m"/></r></p></e>
+<e slr="ritme" srl="rate"><p><l>rate<s n="n"/></l><r>ritme<s n="n"/><s n="m"/></r></p></e>
 
 <e srl="root D"><p><l>root<s n="n"/></l>          <r>arrel<s n="n"/><s n="f"/></r></p></e>
 <e srl="stem" a="carmentano"><p><l>stem<s n="n"/></l><r>arrel<s n="n"/><s n="f"/></r></p></e>
