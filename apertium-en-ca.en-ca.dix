@@ -9357,7 +9357,7 @@
 <e><p><l>with<b/>energy<s n="adv"/></l><r>amb<b/>energia<s n="adv"/></r></p></e>
 <e r="LR"><p><l>jauntily<s n="adv"/></l><r>amb<b/>desenfado<s n="adv"/></r></p></e>
 <e><p><l>with<b/>confidence<s n="adv"/></l><r>amb<b/>desenfado<s n="adv"/></r></p></e>
-<e><p><l>with<b/>great<b/>difficulty<s n="adv"/></l><r>amb<b/>gran<b/>dificultat<s n="adv"/></r></p></e>
+<e r="RL"><p><l>with<b/>great<b/>difficulty<s n="adv"/></l><r>amb<b/>gran<b/>dificultat<s n="adv"/></r></p></e>
 <e r="LR"><p><l>on<b/>its<b/>own<s n="adv"/></l><r>en<b/>el<b/>seu<b/>propi<s n="adv"/></r></p></e>
 <e r="LR"><p><l>on<b/>their<b/>own<s n="adv"/></l><r>en<b/>el<b/>seu<b/>propi<s n="adv"/></r></p></e>
 <e r="LR"><p><l>on<b/>his<b/>own<s n="adv"/></l><r>en<b/>el<b/>seu<b/>propi<s n="adv"/></r></p></e>
@@ -18622,6 +18622,17 @@
 
 <e a="carmentano"><p><l>in<b/>accordance<b/>with<s n="pr"/></l><r>d'acord<b/>amb<s n="pr"/></r></p></e>
 <e><p><l>unlike<s n="pr"/></l><r>a<b/>diferència<b/>de<s n="pr"/></r></p></e>
+<e><p><l>ahead<b/>of<s n="pr"/></l><r>al<b/>capdavant<b/>de<s n="pr"/></r></p></e>
+<e><p><l>by<b/>dint<b/>of<s n="pr"/></l><r>a<b/>força<b/>de<s n="pr"/></r></p></e>
+<e><p><l>in<b/>pursuit<b/>of<s n="pr"/></l><r>en<b/>persecució<b/>de<s n="pr"/></r></p></e>
+<e><p><l>right<b/>in<b/>front<b/>of<s n="pr"/></l><r>just<b/>davant<b/>de<s n="pr"/></r></p></e>
+<e><p><l>in<b/>order<b/>of<s n="pr"/></l><r>per<b/>ordre<b/>de<s n="pr"/></r></p></e>
+<e><p><l>at<b/>the<b/>beginning<b/>of<s n="pr"/></l><r>a<b/>principis<b/>de<s n="pr"/></r></p></e>
+<e><p><l>at<b/>a<b/>rate<b/>of<s n="pr"/></l><r>a<b/>raó<b/>de<s n="pr"/></r></p></e>
+<e c="check"><p><l>around<b/>the<b/>middle<b/>of<s n="pr"/></l><r>a<b/>mitjan<s n="pr"/></r></p></e>
+<e><p><l>beyond<s n="pr"/></l><r>allèn<s n="pr"/></r></p></e>
+<e r="LR"><p><l>at<b/>about<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
+
 
 <!--Fi Preposicions -->
 

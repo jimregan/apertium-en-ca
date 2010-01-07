@@ -91839,6 +91839,20 @@
 <e lm="per majoria absoluta"><i>per<b/>majoria<b/>absoluta</i><par n="sempre__adv"/></e>
 <e lm="per mandat judicial"><i>per<b/>mandat<b/>judicial</i><par n="sempre__adv"/></e>
 
+<e lm="a l'abast de la vista"><i>a<b/>l'abast<b/>de<b/>la<b/>vista</i><par n="sempre__adv"/></e>
+<e lm="al peu de la lletra"><i>al<b/>peu<b/>de<b/>la<b/>lletra</i><par n="sempre__adv"/></e>
+<e lm="amb el temps"><i>amb<b/>el<b/>temps</i><par n="sempre__adv"/></e>
+<e lm="amb esperit aventurer"><i>amb<b/>esperit<b/>aventurer</i><par n="sempre__adv"/></e>
+<e lm="de perduts al riu"><i>de<b/>perduts<b/>al<b/>riu</i><par n="sempre__adv"/></e>
+<e lm="en prova"><i>en<b/>prova</i><par n="sempre__adv"/></e>
+<e lm="fins a la sacietat"><i>fins<b/>a<b/>la<b/>sacietat</i><par n="sempre__adv"/></e>
+<e lm="més estretament"><i>més<b/>estretament</i><par n="sempre__adv"/></e>
+<e lm="pel meu compte"><i>pel<b/>meu<b/>compte</i><par n="sempre__adv"/></e>
+<e lm="pel teu compte"><i>pel<b/>teu<b/>compte</i><par n="sempre__adv"/></e>
+<e lm="per dins i per fora"><i>per<b/>dins<b/>i<b/>per<b/>fora</i><par n="sempre__adv"/></e>
+<e lm="per la present"><i>per<b/>la<b/>present</i><par n="sempre__adv"/></e>
+<e lm="per persona"><i>per<b/>persona</i><par n="sempre__adv"/></e>
+<e lm="sense cap propòsit"><i>sense<b/>cap<b/>propòsit</i><par n="sempre__adv"/></e>
 <e lm="i no obstant això"><i>i<b/>no<b/>obstant<b/>això</i><par n="abans_que__cnjadv"/></e>
 <e lm="amb la condició que"><i>amb<b/>la<b/>condició<b/>que</i><par n="abans_que__cnjadv"/></e>
 <e lm="a condició que"><i>a<b/>condició<b/>que</i><par n="abans_que__cnjadv"/></e>
@@ -91851,6 +91865,15 @@
 <e lm="d'aquí a" r="RL"><p><l>d'aquí<b/><a/>a</l><r>d'aquí<b/>a</r></p><par n="a__pr"/></e> 
 <e lm="amb referència a"><i>amb<b/>referència<b/></i><par n="/a__pr"/></e>
 <e lm="amb relació a"><i>amb<b/>relació<b/></i><par n="/a__pr"/></e>
+<e lm="al capdavant de"><i>al<b/>capdavant<b/></i><par n="/de__pr"/></e>
+<e lm="a força de"><i>a<b/>força<b/></i><par n="/de__pr"/></e>
+<e lm="en persecució de"><i>en<b/>persecució<b/></i><par n="/de__pr"/></e>
+<e lm="just davant de"><i>just<b/>davant<b/></i><par n="/de__pr"/></e>
+<e lm="per ordre de"><i>per<b/>ordre<b/></i><par n="/de__pr"/></e>
+<e lm="a principis de"><i>a<b/>principis<b/></i><par n="/de__pr"/></e>
+<e lm="a raó de"><i>a<b/>raó<b/></i><par n="/de__pr"/></e>
+<e lm="a mitjan"><i>a<b/>mitjan</i><par n="a__pr"/></e>
+<e lm="allèn" c="check"><i>allèn</i><par n="a__pr"/></e>
 <e lm="al comandament de"><i>al<b/>comandament<b/></i><par n="/de__pr"/></e>
 <e lm="respecte de"><i>respecte<b/></i><par n="/de__pr"/></e>
 <e lm="respecte a"><i>respecte<b/></i><par n="/a__pr"/></e>
