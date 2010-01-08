@@ -3150,6 +3150,7 @@
 <e>       <p><l>supersonic<s n="adj"/></l>        <r>supersònic<s n="adj"/></r></p></e>
 <e>       <p><l>transonic<s n="adj"/></l>        <r>transònic<s n="adj"/></r></p></e>
 <e>       <p><l>subsonic<s n="adj"/></l>        <r>subsònic<s n="adj"/></r></p></e>
+<e>       <p><l>swift<s n="adj"/><s n="sint"/></l>        <r>veloç<s n="adj"/></r></p></e>
 
 <e>       <p><l>changeable<s n="adj"/></l>        <r>canviable<s n="adj"/><s n="mf"/></r></p></e>
 
@@ -34952,6 +34953,8 @@
 <e>       <p><l>exhaust<s n="vblex"/></l>         <r>esgotar<s n="vblex"/></r></p></e>
 <e>       <p><l>snatch<s n="vblex"/></l>          <r>arrabassar<s n="vblex"/></r></p></e>
 <e>       <p><l>confuse<s n="vblex"/></l>         <r>confondre<s n="vblex"/></r></p></e>
+    <e r="LR">  <p><l>confuse<g><b/>the<b/>heck<b/>out<b/>of</g><s n="vblex"/></l><r>confondre<s n="vblex"/></r></p></e>
+    <e r="LR">  <p><l>confuse<g><b/>the<b/>hell<b/>out<b/>of</g><s n="vblex"/></l><r>confondre<s n="vblex"/></r></p></e>
 <e>       <p><l>depend<s n="vblex"/></l>          <r>dependre<s n="vblex"/></r></p></e>
 <e>       <p><l>fear<s n="vblex"/></l>            <r>témer<s n="vblex"/></r></p></e>
 <e>       <p><l>overcome<s n="vblex"/></l>        <r>vèncer<s n="vblex"/></r></p></e>
