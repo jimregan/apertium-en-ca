@@ -84025,6 +84025,10 @@
     <e lm="mort i ben mort"><p><l>morts<b/>i<b/>ben<b/>morts</l><r>mort<b/>i<b/>ben<b/>mort<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="mort i ben mort"><p><l>morta<b/>i<b/>ben<b/>morta</l><r>mort<b/>i<b/>ben<b/>mort<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="mort i ben mort"><p><l>mortes<b/>i<b/>ben<b/>mortes</l><r>mort<b/>i<b/>ben<b/>mort<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="nascut mort"><p><l>nascut<b/>mort</l><r>nascut<b/>mort<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="nascut mort"><p><l>nascuts<b/>morts</l><r>nascut<b/>mort<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="nascut mort"><p><l>nascuda<b/>morta</l><r>nascut<b/>mort<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="nascut mort"><p><l>nascudes<b/>mortes</l><r>nascut<b/>mort<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="maldestre"><i>maldestr</i><par n="abstract/e__adj"/></e>
 <e lm="orientat comercialment"><i>orienta</i><par n="afortuna/t__adj"/><p><l><b/>comercialment</l><r><g><b/>comercialment</g></r></p></e>
 <e lm="condensat"><i>condensa</i><par n="afortuna/t__adj"/></e>
