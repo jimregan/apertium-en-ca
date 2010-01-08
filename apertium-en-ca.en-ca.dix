@@ -1495,6 +1495,7 @@
 <e>       <p><l>cameroonian<s n="adj"/></l>       <r>camerunès<s n="adj"/></r></p></e>
 <e>       <p><l>anglo-saxon<s n="adj"/></l>       <r>anglosaxó<s n="adj"/></r></p></e>
 <e>       <p><l>saxon<s n="adj"/></l>       <r>saxó<s n="adj"/></r></p></e>
+<e>       <p><l>handmade<s n="adj"/></l>       <r>fet<g><b/>a<b/>mà</g><s n="adj"/></r></p></e>
 <e>       <p><l>cuban<s n="adj"/></l>             <r>cubà<s n="adj"/></r></p></e>
 <e>       <p><l>catholic<s n="adj"/></l>          <r>catòlic<s n="adj"/></r></p></e>
 <e>       <p><l>belgian<s n="adj"/></l>           <r>belga<s n="adj"/><s n="mf"/></r></p></e>
@@ -1852,6 +1853,7 @@
 <e>       <p><l>retarded<s n="adj"/></l>          <r>retardat<s n="adj"/></r></p></e>
 
 <e>       <p><l>egocentric<s n="adj"/></l>        <r>egocèntric<s n="adj"/></r></p></e>
+<e>       <p><l>heliocentric<s n="adj"/></l>        <r>heliocèntric<s n="adj"/></r></p></e>
 
 <e>       <p><l>regrettable<s n="adj"/></l>       <r>lamentable<s n="adj"/><s n="mf"/></r></p></e>
 
@@ -4214,6 +4216,7 @@
 <e>       <p><l>elitist<s n="adj"/></l>           <r>elitista<s n="adj"/><s n="mf"/></r></p></e>
 
 <e>       <p><l>ocular<s n="adj"/></l>            <r>ocular<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>intraocular<s n="adj"/></l>            <r>intraocular<s n="adj"/><s n="mf"/></r></p></e>
 
 <e>       <p><l>pasty<s n="adj"/><s n="sint"/></l><r>pastós<s n="adj"/></r></p></e>
 
@@ -4712,6 +4715,7 @@
 
 
 <e>       <p><l>specific<s n="adj"/></l>          <r>específic<s n="adj"/></r></p></e>
+<e>       <p><l>interspecific<s n="adj"/></l>          <r>interespecífic<s n="adj"/></r></p></e>
 
 <e>       <p><l>sudden<s n="adj"/></l>            <r>sobtat<s n="adj"/></r></p></e>
 
@@ -5737,6 +5741,7 @@
 <e>       <p><l>ugly<s n="adj"/><s n="sint"/></l> <r>lleig<s n="adj"/></r></p></e>
 
 <e>       <p><l>spherical<s n="adj"/></l>         <r>esfèric<s n="adj"/></r></p></e>
+<e>       <p><l>ionospheric<s n="adj"/></l>         <r>ionoesfèric<s n="adj"/></r></p></e>
 
 <e>       <p><l>leptokurtic<s n="adj"/></l>       <r>leptocúrtic<s n="adj"/></r></p></e>
 
@@ -29890,7 +29895,7 @@
 <e>       <p><l>modeller<s n="n"/></l>            <r>modelador<s n="n"/><s n="m"/></r></p></e>
 <e r="LR">       <p><l>millionaire<s n="n"/></l>         <r>milionari<s n="n"/><s n="GD"/></r></p></e>
 <e r="LR">       <p><l>multimillionaire<s n="n"/></l>         <r>multimilionari<s n="n"/><s n="GD"/></r></p></e>
-<e>       <p><l>multimillionaire<s n="adj"/></l>         <r>multimilionari<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>multimillionaire<s n="adj"/></l>         <r>multimilionari<s n="adj"/></r></p></e>
 <e>       <p><l>rebounder<s n="n"/></l>           <r>rebotador<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>exodontist<s n="n"/></l>          <r>exodontista<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>violinist<s n="n"/></l>           <r>violinista<s n="n"/><s n="mf"/></r></p></e>
@@ -44266,6 +44271,7 @@
 
 <e r="LR"><p><l>Romanian<s n="n"/></l><r>romanès<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>Romanian<s n="n"/></l><r>romanès<s n="n"/></r></p></e>
+<e><p><l>Romanian<s n="adj"/></l><r>romanès<s n="adj"/></r></p></e>
 
 <e><p><l>robotics<s n="n"/></l><r>robòtica<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>naivety<s n="n"/></l><r>ingenuïtat<s n="n"/><s n="f"/></r></p></e>
@@ -44499,6 +44505,7 @@
 <e><p><l>cyrillic<s n="adj"/></l><r>ciríl·lic<s n="adj"/></r></p></e>
 <e><p><l>bestial<s n="adj"/></l><r>bestial<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>two-dimensional<s n="adj"/></l><r>bidimensional<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>multidimensional<s n="adj"/></l><r>multidimensional<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>bilabial<s n="adj"/></l><r>bilabial<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>absorbent<s n="adj"/></l><r>absorbent<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>cardiovascular<s n="adj"/></l><r>cardiovascular<s n="adj"/><s n="mf"/></r></p></e>
@@ -44718,6 +44725,7 @@
 <e><p><l>cosmological<s n="adj"/></l><r>cosmològic<s n="adj"/></r></p></e>
 <e><p><l>quantum<s n="adj"/></l><r>quàntic<s n="adj"/></r></p></e>
 <e><p><l>galactic<s n="adj"/></l><r>galàctic<s n="adj"/></r></p></e>
+<e><p><l>intergalactic<s n="adj"/></l><r>intergalàctic<s n="adj"/></r></p></e>
 <e><p><l>stellar<s n="adj"/></l><r>estel·lar<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>interstellar<s n="adj"/></l><r>interestel·lar<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>immutable<s n="adj"/></l><r>immutable<s n="adj"/><s n="mf"/></r></p></e>

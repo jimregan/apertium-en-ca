@@ -83192,6 +83192,7 @@
 <!--ADJECTIUS -->
 
 <e lm="junt"><i>junt</i><par n="absolut__adj"/></e>
+<e lm="fet a mà"><i>fet</i><par n="absolut__adj"/><p><l><b/>a<b/>mà</l><r><g><b/>a<b/>mà</g></r></p></e>
 
 <e lm="circumstancial"><i>circumstancial</i><par n="abdominal__adj"/></e>
 <e lm="acompanyant"><i>acompanyant</i><par n="abdominal__adj"/></e>
@@ -84139,6 +84140,7 @@
 <e lm="impressionista"><i>impressionist</i><par n="agrícol/a__adj"/></e>
 
 <e lm="polidimensional"><i>polidimensional</i><par n="abdominal__adj"/></e>
+<e lm="multidimensional"><i>multidimensional</i><par n="abdominal__adj"/></e>
 
 <e lm="qüestionable"><i>qüestionable</i><par n="abdominal__adj"/></e>
 
@@ -84487,6 +84489,7 @@
 <e lm="retardat"><i>retarda</i><par n="afortuna/t__adj"/></e>
 
 <e lm="egocèntric"><i>egocèntri</i><par n="acadèmi/c__adj"/></e>
+<e lm="heliocèntric"><i>heliocèntri</i><par n="acadèmi/c__adj"/></e>
 
 <e lm="lamentable"><i>lamentable</i><par n="abdominal__adj"/></e>
 
@@ -86796,6 +86799,7 @@
 <e lm="anglès"><i>angl</i><par n="afgan/ès__adj"/></e>
 <e lm="holandès"><i>holand</i><par n="afgan/ès__adj"/></e>
 <e lm="de parla anglès"><i>de<b/>parla<b/>angl</i><par n="afgan/ès__adj"/></e>
+<e lm="romanès"><i>roman</i><par n="afgan/ès__adj"/></e>
 
 <e lm="diplomàtic"><i>diplomàti</i><par n="acadèmi/c__adj"/></e>
 
@@ -86926,6 +86930,7 @@
 <e lm="elitista"><i>elitist</i><par n="agrícol/a__adj"/></e>
 
 <e lm="ocular"><i>ocular</i><par n="abdominal__adj"/></e>
+<e lm="intraocular"><i>intraocular</i><par n="abdominal__adj"/></e>
 
 <e lm="enciclopèdic"><i>enciclopèdi</i><par n="acadèmi/c__adj"/></e>
 
@@ -87449,6 +87454,7 @@
 <e lm="bielorús"><i>bielor</i><par n="andal/ús__adj"/></e>
 
 <e lm="específic"><i>específi</i><par n="acadèmi/c__adj"/></e>
+<e lm="interespecífic"><i>interespecífi</i><par n="acadèmi/c__adj"/></e>
 
 <e lm="sobtat"><i>sobta</i><par n="afortuna/t__adj"/></e>
 
@@ -88508,6 +88514,7 @@
 <e lm="lleig"><i>lle</i><par n="lle/ig__adj"/></e>
 
 <e lm="esfèric"><i>esfèri</i><par n="acadèmi/c__adj"/></e>
+<e lm="ionoesfèric"><i>ionoesfèri</i><par n="acadèmi/c__adj"/></e>
 
 <e lm="leptocúrtic"><i>leptocúrti</i><par n="acadèmi/c__adj"/></e>
 
@@ -117771,6 +117778,7 @@
 <e lm="declaratiu"><i>declarati</i><par n="abusi/u__adj"/></e>
 <e lm="longeu" a="prompsit2adn"><i>longe</i><par n="abusi/u__adj"/></e>
 <e lm="galàctic"><i>galàcti</i><par n="acadèmi/c__adj"/></e>
+<e lm="intergalàctic"><i>intergalàcti</i><par n="acadèmi/c__adj"/></e>
 <e lm="làctic" a=" alseoane@gmail.com"><i>làcti</i><par n="acadèmi/c__adj"/></e>
 <e lm="concloent"><i>concloent</i><par n="abdominal__adj"/></e>
 <e lm="supersticiós"><i>superstici</i><par n="afectu/ós__adj"/></e>
