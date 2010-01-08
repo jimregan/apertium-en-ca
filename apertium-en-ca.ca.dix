@@ -84045,6 +84045,8 @@
 <e lm="sense fil"><i>sense<b/>fil</i><par n="multimèdia__adj"/></e>
 <e lm="sense importància"><i>sense<b/>importància</i><par n="multimèdia__adj"/></e>
 <e lm="sense educació"><i>sense<b/>educació</i><par n="multimèdia__adj"/></e>
+<e lm="compartimentat"><i>compartimenta</i><par n="afortuna/t__adj"/></e>
+<e lm="subcompartimentat"><i>subcompartimenta</i><par n="afortuna/t__adj"/></e>
 
 
 <e lm="aigua dolça"><p><l>aigua<b/>dolça</l><r>aigua<b/>dolça<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
@@ -85957,6 +85959,7 @@
 <e lm="pagà"><i>pag</i><par n="afric/à__adj"/></e>
 
 <e lm="anglosaxó"><i>anglosax</i><par n="amfitri/ó__adj"/></e>
+<e lm="saxó"><i>sax</i><par n="amfitri/ó__adj"/></e>
 
 <e lm="cubà"><i>cub</i><par n="afric/à__adj"/></e>
 
@@ -86792,6 +86795,7 @@
 
 <e lm="anglès"><i>angl</i><par n="afgan/ès__adj"/></e>
 <e lm="holandès"><i>holand</i><par n="afgan/ès__adj"/></e>
+<e lm="de parla anglès"><i>de<b/>parla<b/>angl</i><par n="afgan/ès__adj"/></e>
 
 <e lm="diplomàtic"><i>diplomàti</i><par n="acadèmi/c__adj"/></e>
 
@@ -92365,6 +92369,8 @@
 <e lm="cas"><i>cas</i><par n="as__n"/></e>
 <e lm="castellà"><i>castell</i><par n="americ/à__n"/></e>
 <e lm="català"><i>catal</i><par n="americ/à__n"/></e>
+<e lm="de parla català"><i>de<b/>parla<b/>catal</i><par n="americ/à__n"/></e>
+<e lm="de parla castellà"><i>de<b/>parla<b/>castell</i><par n="americ/à__n"/></e>
 <e lm="causa"><i>caus</i><par n="abell/a__n"/></e>
 <e lm="cavall"><i>cavall</i><par n="abric__n"/></e>
 <e lm="cel·la"><i>cel·l</i><par n="abell/a__n"/></e>
@@ -117112,6 +117118,7 @@
 <e lm="andalús"><i>andal</i><par n="andal/ús__n"/></e>
 <e lm="andorrà" a="prompsit2adn"><i>andorr</i><par n="americ/à__n"/></e>
 <e lm="anglosaxó"><i>anglosax</i><par n="amfitri/ó__n"/></e>
+<e lm="saxó"><i>sax</i><par n="amfitri/ó__n"/></e>
 <e lm="argentí"><i>argent</i><par n="alacant/í__n"/></e>
 <e lm="australià"><i>australi</i><par n="americ/à__n"/></e>
 <e lm="austríac"><i>austría</i><par n="asiàti/c__n"/></e>

@@ -1494,6 +1494,7 @@
 <e>       <p><l>spanish<s n="adj"/></l>           <r>espanyol<s n="adj"/></r></p></e>
 <e>       <p><l>cameroonian<s n="adj"/></l>       <r>camerunès<s n="adj"/></r></p></e>
 <e>       <p><l>anglo-saxon<s n="adj"/></l>       <r>anglosaxó<s n="adj"/></r></p></e>
+<e>       <p><l>saxon<s n="adj"/></l>       <r>saxó<s n="adj"/></r></p></e>
 <e>       <p><l>cuban<s n="adj"/></l>             <r>cubà<s n="adj"/></r></p></e>
 <e>       <p><l>catholic<s n="adj"/></l>          <r>catòlic<s n="adj"/></r></p></e>
 <e>       <p><l>belgian<s n="adj"/></l>           <r>belga<s n="adj"/><s n="mf"/></r></p></e>
@@ -7219,6 +7220,8 @@
 <e>       <p><l>degenerate<s n="adj"/></l>         <r>degenerat<s n="adj"/></r></p></e>
 <e>       <p><l>drowned<s n="adj"/></l>         <r>ofegat<s n="adj"/></r></p></e>
 <e>       <p><l>stillborn<s n="adj"/></l>         <r>nascut<b/>mort<s n="adj"/></r></p></e>
+<e>       <p><l>compartmentalised<s n="adj"/></l>         <r>compartimentat<s n="adj"/></r></p></e>
+<e>       <p><l>subcompartmentalised<s n="adj"/></l>         <r>subcompartimentat<s n="adj"/></r></p></e>
 <e r="LR">       <p><l>freezing<s n="adj"/></l>         <r>gelat<s n="adj"/></r></p></e>
 <e>       <p><l>freshwater<s n="adj"/></l>         <r>d'aigua<b/>dolça<s n="adj"/><s n="mf"/></r></p></e>
 <e>       <p><l>saltwater<s n="adj"/></l>         <r>d'aigua<b/>salada<s n="adj"/><s n="mf"/></r></p></e>
@@ -7236,6 +7239,10 @@
 <e>       <p><l>tidy<s n="adj"/><s n="sint"/></l>         <r>ordenat<s n="adj"/></r></p></e>
 <e>       <p><l>unimportant<s n="adj"/></l>         <r>sense<b/>importància<s n="adj"/><s n="mf"/></r></p></e>
 <e>       <p><l>uneducated<s n="adj"/></l>         <r>sense<b/>educació<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>English-speaking<s n="adj"/></l>         <r>de<b/>parla<b/>anglès<s n="adj"/></r></p></e>
+<e>       <p><l>Catalan-speaking<s n="adj"/></l>         <r>de<b/>parla<b/>català<s n="adj"/></r></p></e>
+<e>       <p><l>Spanish-speaking<s n="adj"/></l>         <r>de<b/>parla<b/>castellà<s n="adj"/></r></p></e>
+<e>       <p><l>saxon<s n="adj"/></l>         <r>saxó<s n="adj"/></r></p></e>
 
 <e>       <p><l>installed<s n="adj"/></l>         <r>instal·lat<s n="adj"/></r></p></e>
 
@@ -43642,6 +43649,7 @@
 <e r="LR"><p><l>andalusian<s n="n"/></l><r>andalús<s n="n"/><s n="GD"/></r></p></e>
 <e r="LR"><p><l>andorran<s n="n"/></l><r>andorrà<s n="n"/><s n="GD"/></r></p></e>
 <e r="LR"><p><l>anglo-saxon<s n="n"/></l><r>anglosaxó<s n="n"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>saxon<s n="n"/></l><r>saxó<s n="n"/><s n="GD"/></r></p></e>
 <e r="LR"><p><l>argentinian<s n="n"/></l><r>argentí<s n="n"/><s n="GD"/></r></p></e>
 <e r="LR"><p><l>australian<s n="n"/></l><r>australià<s n="n"/><s n="GD"/></r></p></e>
 <e r="LR"><p><l>austrian<s n="n"/></l><r>austríac<s n="n"/><s n="GD"/></r></p></e>
@@ -43654,6 +43662,7 @@
 <e r="RL"><p><l>andalusian<s n="n"/></l><r>andalús<s n="n"/></r></p></e>
 <e r="RL"><p><l>andorran<s n="n"/></l><r>andorrà<s n="n"/></r></p></e>
 <e r="RL"><p><l>anglo-saxon<s n="n"/></l><r>anglosaxó<s n="n"/></r></p></e>
+<e r="RL"><p><l>saxon<s n="n"/></l><r>saxó<s n="n"/></r></p></e>
 <e r="RL"><p><l>argentinian<s n="n"/></l><r>argentí<s n="n"/></r></p></e>
 <e r="RL"><p><l>australian<s n="n"/></l><r>australià<s n="n"/></r></p></e>
 <e r="RL"><p><l>austrian<s n="n"/></l><r>austríac<s n="n"/></r></p></e>

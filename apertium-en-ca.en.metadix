@@ -35352,8 +35352,8 @@
     <e lm="adenosine triphosphate" a="greenbreen"><i>adenosine<b/>triphosphate</i><par n="house__n"/></e>
     <e lm="pH" a="greenbreen"><i>pH</i><par n="BBC__n"/></e>
     <e lm="ADP" a="greenbreen"><i>ADP</i><par n="BBC__n"/></e>
-    <e lm="compartmentalized" a="greenbreen"><i>compartmentalized</i><par n="expensive__adj"/></e>
-    <e lm="subcompartmentalized" a="greenbreen"><i>subcompartmentalized</i><par n="expensive__adj"/></e>
+    <e lm="compartmentalized" a="greenbreen"><i>compartmentali</i><par n="z_s"/><i>ed</i><par n="expensive__adj"/></e>
+    <e lm="subcompartmentalized" a="greenbreen"><i>subcompartmentali</i><par n="z_s"/><i>ed</i><par n="expensive__adj"/></e>
     <e lm="glycolysis" a="greenbreen"><i>glycolys</i><par n="analys/is__n"/></e>
     <e lm="addiction" a="greenbreen"><i>addiction</i><par n="house__n"/></e>
     <e lm="phosphocreatine" a="greenbreen"><i>phosphocreatine</i><par n="house__n"/></e>
@@ -35699,6 +35699,8 @@
     <e lm="Middle Kingdom" a="greenbreen"><i>Middle<b/>Kingdom</i><par n="Linux__np"/></e>
     <e lm="onwards" a="greenbreen"><i>onwards</i><par n="maybe__adv"/></e>
     <e lm="English-speaking" a="greenbreen"><i>English-speaking</i><par n="expensive__adj"/></e>
+    <e lm="Catalan-speaking"><i>Catalan-speaking</i><par n="expensive__adj"/></e>
+    <e lm="Spanish-speaking"><i>Spanish-speaking</i><par n="expensive__adj"/></e>
     <e lm="numeral" a="greenbreen"><i>numeral</i><par n="house__n"/></e>
     <e lm="Babylonian" r="LR" a="greenbreen"><i>Babylonian</i><par n="house__n"/></e>
     <e lm="Babylonian" r="RL" a="greenbreen"><p><l>Babylonian</l><r>babylonian</r></p><par n="house__n"/></e>
