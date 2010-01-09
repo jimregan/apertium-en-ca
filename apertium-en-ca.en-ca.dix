@@ -43867,6 +43867,14 @@
 <e><p><l>work<b/>day<s n="n"/></l><r>dia<b/>laboral<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>business<b/>day<s n="n"/></l><r>dia<b/>laborable<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>working<b/>day<s n="n"/></l><r>dia<b/>laborable<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>working<b/>time<s n="n"/></l><r>jornada<g><b/>de<b/>treball</g><s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>working<b/>time<s n="n"/></l><r>jornada<b/>laboral<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>payday<s n="n"/></l><r>dia<g><b/>de<b/>pagament</g><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>wedding<b/>day<s n="n"/></l><r>dia<g><b/>de<b/>noces</g><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>headache<s n="n"/></l><r>mal<g><b/>de<b/>cap</g><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>toothache<s n="n"/></l><r>mal<g><b/>de<b/>queixal</g><s n="n"/><s n="m"/></r></p></e>
+<e>  <p><l>sino-auricular<b/>node<s n="n"/></l><r>node<b/>sinoauricular<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>sinuatrial<b/>node<s n="n"/></l><r>node<b/>sinusal<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>grease<s n="n"/></l><r>greix<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>stutter<s n="n"/></l><r>quequeig<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>infancy<s n="n"/></l><r>infància<s n="n"/><s n="f"/></r></p></e>

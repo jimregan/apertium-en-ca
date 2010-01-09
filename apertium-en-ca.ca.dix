@@ -83859,6 +83859,12 @@
 <e lm="dia laboral"><p><l>dies<b/>laborals</l><r>dia<b/>laboral<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="dia laborable"><p><l>dia<b/>laborable</l><r>dia<b/>laborable<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="dia laborable"><p><l>dies<b/>laborables</l><r>dia<b/>laborable<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="node sinoauricular"><p><l>node<b/>sinoauricular</l><r>node<b/>sinoauricular<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="node sinoauricular"><p><l>nodes<b/>sinoauriculars</l><r>node<b/>sinoauricular<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="node sinusal"><p><l>node<b/>sinusal</l><r>node<b/>sinusal<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="node sinusal"><p><l>nodes<b/>sinusals</l><r>node<b/>sinusal<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="jornada laboral"><p><l>jornada<b/>laboral</l><r>jornada<b/>laboral<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="jornada laboral"><p><l>jornades<b/>laborals</l><r>jornada<b/>laboral<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="gos guardià"><p><l>gos<b/>guardià</l><r>gos<b/>guardià<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="gos guardià"><p><l>gossos<b/>guardians</l><r>gos<b/>guardià<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="gos guardià"><p><l>gossa<b/>guardiana</l><r>gos<b/>guardià<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
@@ -92459,6 +92465,8 @@
 <e lm="deure"><i>deure</i><par n="abric__n"/></e>
 <e lm="dia"><i>di</i><par n="carism/a__n"/></e>
 <e lm="dia de treball"><i>di</i><par n="carism/a__n"/><p><l><b/>de<b/>treball</l><r><g><b/>de<b/>treball</g></r></p></e>
+<e lm="dia de pagament"><i>di</i><par n="carism/a__n"/><p><l><b/>de<b/>pagament</l><r><g><b/>de<b/>pagament</g></r></p></e>
+<e lm="dia de noces"><i>di</i><par n="carism/a__n"/><p><l><b/>de<b/>noces</l><r><g><b/>de<b/>noces</g></r></p></e>
 <e lm="diari"><i>diari</i><par n="abric__n"/></e>
 <e lm="setmanari"><i>setmanari</i><par n="abric__n"/></e>
 <e lm="diferència"><i>diferènci</i><par n="abell/a__n"/></e>
@@ -92633,6 +92641,7 @@
 <e lm="joc"><i>joc</i><par n="abric__n"/></e>
 <e lm="joc de taula"><i>joc</i><par n="abric__n"/><p><l><b/>de<b/>taula</l><r><g><b/>de<b/>taula</g></r></p></e>
 <e lm="jornada"><i>jornad</i><par n="abell/a__n"/></e>
+<e lm="jornada de treball"><i>jornad</i><par n="abell/a__n"/><p><l><b/>de<b/>treball</l><r><g><b/>de<b/>treball</g></r></p></e>
 <e lm="temporada"><i>temporad</i><par n="abell/a__n"/></e>
 <e lm="joventut"><i>joventut</i><par n="accessibilitat__n"/></e>
 <e lm="jugador"><i>jugador</i><par n="senyor__n"/></e>
@@ -92660,6 +92669,8 @@
 <e lm="maig"><i>ma</i><par n="assa/ig__n"/></e>
 <e lm="majoria"><i>majori</i><par n="abell/a__n"/></e>
 <e lm="mal"><i>mal</i><par n="abric__n"/></e>
+<e lm="mal de cap"><i>mal</i><par n="abric__n"/><p><l><b/>de<b/>cap</l><r><g><b/>de<b/>cap</g></r></p></e>
+<e lm="mal de queixal"><i>mal</i><par n="abric__n"/><p><l><b/>de<b/>queixal</l><r><g><b/>de<b/>queixal</g></r></p></e>
 <e lm="maleta"><i>malet</i><par n="abell/a__n"/></e>
 <e lm="manca"><i>man</i><par n="acústi/ca__n"/></e>
 <e lm="manera"><i>maner</i><par n="abell/a__n"/></e>
