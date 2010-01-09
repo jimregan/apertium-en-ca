@@ -32108,7 +32108,9 @@
 <e r="LR"><p><l>Málaga<s n="np"/><s n="loc"/></l><r>Màlaga<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>Seville<s n="np"/><s n="loc"/></l><r>Sevilla<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>Bretton<b/>Woods<s n="np"/><s n="loc"/></l><r>Bretton<b/>Woods<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>El<b/>Correo<s n="np"/><s n="loc"/></l><r>El<b/>Correo<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Federal<b/>Republic<b/>of<b/>Germany<s n="np"/><s n="loc"/></l><r>República<b/>Federal<b/>d'Alemanya<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>British<b/>West<b/>Indies<s n="np"/><s n="loc"/></l><r>Antilles<b/>angleses<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 
 <e a="greenbreen"><i>i.e.<s n="adv"/></i></e>
 
@@ -32379,7 +32381,7 @@
 <e>       <p><l>Cuba<s n="np"/><s n="loc"/></l>   <r>Cuba<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e>       <p><l>Bolivia<s n="np"/><s n="loc"/></l><r>Bolívia<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e>       <p><l>Denmark<s n="np"/><s n="loc"/></l><r>Dinamarca<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
-<e r="LR">       <p><l>Bermudas<s n="np"/><s n="loc"/><s n="sg"/></l><r>Bermudes<s n="np"/><s n="loc"/><s n="f"/><s n="pl"/></r></p></e>
+<e r="LR">       <p><l>Bermuda<s n="np"/><s n="loc"/><s n="pl"/></l><r>Bermudes<s n="np"/><s n="loc"/><s n="f"/><s n="pl"/></r></p></e>
 <e>       <p><l>Dublin<s n="np"/><s n="loc"/></l> <r>Dublín<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e>       <p><l>Togo<s n="np"/><s n="loc"/></l>   <r>Togo<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e>       <p><l>Kingston<s n="np"/><s n="loc"/></l><r>Kingston<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
@@ -43861,6 +43863,10 @@
 <e><p><l>fisherwoman<s n="n"/></l><r>pescador<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>embargo<s n="n"/></l><r>embargament<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>fuse<s n="n"/></l><r>fusible<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>workday<s n="n"/></l><r>dia<g><b/>de<b/>treball</g><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>work<b/>day<s n="n"/></l><r>dia<b/>laboral<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>business<b/>day<s n="n"/></l><r>dia<b/>laborable<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>working<b/>day<s n="n"/></l><r>dia<b/>laborable<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>grease<s n="n"/></l><r>greix<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>stutter<s n="n"/></l><r>quequeig<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>infancy<s n="n"/></l><r>infància<s n="n"/><s n="f"/></r></p></e>

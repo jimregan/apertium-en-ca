@@ -83855,6 +83855,10 @@
 <e lm="gos pigall"><p><l>gosses<b/>pigalls</l><r>gos<b/>pigall<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="cas fortuït"><p><l>cas<b/>fortuït</l><r>cas<b/>fortuït<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="cas fortuït"><p><l>casos<b/>fortuïts</l><r>cas<b/>fortuït<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="dia laboral"><p><l>dia<b/>laboral</l><r>dia<b/>laboral<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="dia laboral"><p><l>dies<b/>laborals</l><r>dia<b/>laboral<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="dia laborable"><p><l>dia<b/>laborable</l><r>dia<b/>laborable<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="dia laborable"><p><l>dies<b/>laborables</l><r>dia<b/>laborable<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="gos guardià"><p><l>gos<b/>guardià</l><r>gos<b/>guardià<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="gos guardià"><p><l>gossos<b/>guardians</l><r>gos<b/>guardià<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="gos guardià"><p><l>gossa<b/>guardiana</l><r>gos<b/>guardià<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
@@ -92454,6 +92458,7 @@
 <e lm="detall"><i>detall</i><par n="abric__n"/></e>
 <e lm="deure"><i>deure</i><par n="abric__n"/></e>
 <e lm="dia"><i>di</i><par n="carism/a__n"/></e>
+<e lm="dia de treball"><i>di</i><par n="carism/a__n"/><p><l><b/>de<b/>treball</l><r><g><b/>de<b/>treball</g></r></p></e>
 <e lm="diari"><i>diari</i><par n="abric__n"/></e>
 <e lm="setmanari"><i>setmanari</i><par n="abric__n"/></e>
 <e lm="diferència"><i>diferènci</i><par n="abell/a__n"/></e>
@@ -105243,12 +105248,14 @@
 <e lm="Houston"><i>Houston</i><par n="Afganistan__np"/></e>
 <e lm="Iemen"><i>Iemen</i><par n="Afganistan__np"/></e>
 <e lm="Bretton Woods"><i>Bretton<b/>Woods</i><par n="Afganistan__np"/></e>
+<e lm="El Correo"><i>El<b/>Correo</i><par n="Afganistan__np"/></e>
 <e lm="Màlaga"><i>Màlaga</i><par n="Barcelona__np"/></e>
 <e lm="Costa Rica"><i>Costa<b/>Rica</i><par n="Barcelona__np"/></e>
 <e lm="Sevilla"><i>Sevilla</i><par n="Barcelona__np"/></e>
 <e lm="República Federal d'Alemanya"><i>República<b/>Federal<b/>d'Alemanya</i><par n="Barcelona__np"/></e>
 <e lm="Illes Anglonormandes"><i>Illes<b/>Anglonormandes</i><par n="Bahames__np"/></e>
 <e lm="Illes Balears"><i>Illes<b/>Balears</i><par n="Bahames__np"/></e>
+<e lm="Antilles angleses"><i>Antilles<b/>angleses</i><par n="Bahames__np"/></e>
 <e lm="Illes Britàniques"><i>Illes<b/>Britàniques</i><par n="Bahames__np"/></e>
 <e lm="Illes Caiman"><i>Illes<b/>Caiman</i><par n="Bahames__np"/></e>
 <e lm="Illes Canàries"><i>Illes<b/>Canàries</i><par n="Bahames__np"/></e>
