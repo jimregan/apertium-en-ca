@@ -45428,7 +45428,6 @@
 <e slr="avís D" srl="notice"><p><l>notice<s n="n"/></l><r>avís<s n="n"/><s n="m"/></r></p></e>
 <e slr="avís D" srl="warning D"><p><l>warning<s n="n"/></l><r>avís<s n="n"/><s n="m"/></r></p></e>
 <e slr="badia D"><p><l>bay<s n="n"/></l>          <r>badia<s n="n"/><s n="f"/></r></p></e>
-<e slr="baix"><p><l>short<s n="adj"/><s n="sint"/></l><r>baix<s n="adj"/></r></p></e>
 <e slr="baixada" srl="drop D"><p><l>drop<s n="n"/></l><r>baixada<s n="n"/><s n="f"/></r></p></e>
 <e slr="balanç"><p><l>balance<s n="n"/></l>       <r>balanç<s n="n"/><s n="m"/></r></p></e>
 <e slr="balança D"><p><l>scale<s n="n"/><s n="pl"/></l><r>balança<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
@@ -45484,7 +45483,7 @@
 <e slr="cas D"><p><l>case<s n="n"/></l>           <r>cas<s n="n"/><s n="m"/></r></p></e>
 <e slr="caçar"><p><l>hunt<s n="vblex"/></l>       <r>caçar<s n="vblex"/></r></p></e>
 <e slr="cel·la"><p><l>cell<s n="n"/></l>          <r>cel·la<s n="n"/><s n="f"/></r></p></e>
-<e slr="cinta"><p><l>strip<s n="n"/></l><r>cinta<s n="n"/><s n="f"/></r></p></e>
+<e slr="cinta" srl="strip"><p><l>strip<s n="n"/></l><r>cinta<s n="n"/><s n="f"/></r></p></e>
 <e slr="clau D"><p><l>key<s n="n"/></l>           <r>clau<s n="n"/><s n="f"/></r></p></e>
 <e slr="clau D"><p><l>nail<s n="n"/></l>          <r>clau<s n="n"/><s n="m"/></r></p></e>
 <e slr="clavilla"><p><l>pin<s n="n"/></l>         <r>clavilla<s n="n"/><s n="f"/></r></p></e>
@@ -45762,7 +45761,7 @@
 <e slr="llauna D"><p><l>tin<s n="n"/></l>         <r>llauna<s n="n"/><s n="f"/></r></p></e>
 <e slr="llenguado">       <p><l>sole<s n="n"/></l>                <r>llenguado<s n="n"/><s n="m"/></r></p></e>
 <e slr="lletra de canvi"><p><l>draft<s n="n"/></l><r>lletra<g><b/>de<b/>canvi</g><s n="n"/><s n="f"/></r></p></e>
-<e slr="lletra"><p><l>letter<s n="n"/></l><r>lletra<s n="n"/><s n="f"/></r></p></e>
+<e slr="lletra" srl="letter D"><p><l>letter<s n="n"/></l><r>lletra<s n="n"/><s n="f"/></r></p></e>
 <e slr="lleuger D"><p><l>light<s n="adj"/><s n="sint"/></l><r>lleuger<s n="adj"/></r></p></e>
 <e slr="lligam"><p><l>link<s n="n"/></l>          <r>lligam<s n="n"/><s n="m"/></r></p></e>
 <e slr="llima"><p><l>file<s n="n"/></l>           <r>llima<s n="n"/><s n="f"/></r></p></e>
@@ -45843,7 +45842,7 @@
 <e slr="pas D"><p><l>step<s n="n"/></l>           <r>pas<s n="n"/><s n="m"/></r></p></e>
 <e slr="passador D"><p><l>pin<s n="n"/></l>       <r>passador<s n="n"/><s n="m"/></r></p></e>
 <e slr="passar per alt"><p><l>overlook<s n="vblex"/></l><r>passar<g><b/>per<b/>alt</g><s n="vblex"/></r></p></e>
-<e slr="passar"><p><l>spend<s n="vblex"/></l><r>passar<s n="vblex"/></r></p></e>
+<e slr="passar" srl="spend"><p><l>spend<s n="vblex"/></l><r>passar<s n="vblex"/></r></p></e>
 <e slr="passatge D"><p><l>passage<s n="n"/></l>   <r>passatge<s n="n"/><s n="m"/></r></p></e>
 <e slr="pati"><p><l>yard<s n="n"/></l> <r>pati<s n="n"/><s n="m"/></r></p></e>
 <e slr="patró"><p><l>master<s n="n"/></l><r>patró<s n="n"/><s n="m"/></r></p></e>
@@ -46019,7 +46018,7 @@
 <e slr="timbre"><p><l>bell<s n="n"/></l>          <r>timbre<s n="n"/><s n="m"/></r></p></e>
 <e slr="tira D"><p><l>strip<s n="n"/></l>         <r>tira<s n="n"/><s n="f"/></r></p></e>
 <e slr="tiroteig D"><p><l>shooting<s n="n"/></l>  <r>tiroteig<s n="n"/><s n="m"/></r></p></e>
-<e slr="to"><p><l>key<s n="n"/></l>     <r>to<s n="n"/><s n="m"/></r></p></e>
+<e slr="to" srl="key"><p><l>key<s n="n"/></l>     <r>to<s n="n"/><s n="m"/></r></p></e>
 <e slr="tocar" srl="play" c="(un instrument)"><p><l>play<s n="vblex"/></l><r>tocar<s n="vblex"/></r></p></e>
 <e slr="tombant D"><p><l>turning<s n="n"/></l>    <r>tombant<s n="n"/><s n="m"/></r></p></e>
 <e slr="torn" srl="shift"><p><l>shift<s n="n"/></l><r>torn<s n="n"/><s n="m"/></r></p></e>
@@ -46381,7 +46380,6 @@
 
 <e srl="load D"><p><l>load<s n="n"/></l>          <r>càrrega<s n="n"/><s n="f"/></r></p></e>
 
-<e srl="letter D"><p><l>letter<s n="n"/></l><r>lletra<s n="n"/><s n="f"/></r></p></e>
 <e srl="lyric" a="carmentano"><p><l>lyric<s n="n"/><s n="pl"/></l><r>lletra<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e r="RL" srl="lyric" a="carmentano"><p><l>lyric<s n="n"/><s n="pl"/></l><r>lletra<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 
@@ -46537,14 +46535,12 @@
 <e r="RL" srl="kind"><p><l>kind<s n="n"/></l>                <r>mena<s n="n"/><s n="f"/></r></p></e>
 
 <e srl="tape D"><p><l>tape<s n="n"/></l>          <r>cinta<s n="n"/><s n="f"/></r></p></e>
-<e srl="strip"><p><l>strip<s n="n"/></l><r>cinta<s n="n"/><s n="f"/></r></p></e>
 
 <e r="RL" srl="staff D"><p><l>staff<s n="n"/></l> <r>plantilla<s n="n"/><s n="f"/></r></p></e>
 <e srl="template"><p><l>template<s n="n"/></l>    <r>plantilla<s n="n"/><s n="f"/></r></p></e>
 <e r="RL" srl="team"><p><l>team<s n="n"/></l>     <r>plantilla<s n="n"/><s n="f"/></r></p></e>
 
 <e srl="tone D"><p><l>tone<s n="n"/></l>          <r>to<s n="n"/><s n="m"/></r></p></e>
-<e srl="key"><p><l>key<s n="n"/></l>              <r>to<s n="n"/><s n="m"/></r></p></e>
 
 <e srl="track D"><p><l>track<s n="n"/></l>        <r>pista<s n="n"/><s n="f"/></r></p></e>
 <e srl="insight" a="carmentano"><p><l>hint<s n="n"/></l><r>pista<s n="n"/><s n="f"/></r></p></e>
@@ -46662,7 +46658,6 @@
 <e srl="handsome"><p><l>handsome<s n="adj"/></l>       <r>maco<s n="adj"/></r></p></e>
 
 <e srl="happen D"><p><l>happen<s n="vblex"/></l>  <r>passar<s n="vblex"/></r></p></e>
-<e srl="spend"><p><l>spend<s n="vblex"/></l>      <r>passar<s n="vblex"/></r></p></e>
 
 <e srl="high D"><p><l>high<s n="adj"/><s n="sint"/></l><r>alt<s n="adj"/></r></p></e>
 <e srl="tall"><p><l>tall<s n="adj"/><s n="sint"/></l><r>alt<s n="adj"/></r></p></e>
@@ -46692,7 +46687,7 @@
 <e srl="miss"><p><l>miss<s n="vblex"/></l><r>perdre<s n="vblex"/></r></p></e>
 
 <e srl="low D"><p><l>low<s n="adj"/><s n="sint"/></l><r>baix<s n="adj"/></r></p></e>
-<e srl="short"><p><l>short<s n="adj"/><s n="sint"/></l><r>baix<s n="adj"/></r></p></e>
+<e slr="baix" srl="short"><p><l>short<s n="adj"/><s n="sint"/></l><r>baix<s n="adj"/></r></p></e>
 
 <e srl="keep D"><p><l>keep<s n="vblex"/></l><r>mantenir<s n="vblex"/></r></p></e>
 <e srl="maintain"><p><l>maintain<s n="vblex"/></l><r>mantenir<s n="vblex"/></r></p></e>
