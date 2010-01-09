@@ -23283,6 +23283,7 @@
     <e lm="swimming"><i>swimming</i><par n="east__n"/>    </e>
     <e lm="swimming pool"><i>swimming<b/>pool</i><par n="house__n"/>    </e>
     <e lm="swine"><i>swine</i><par n="house__n"/>    </e>
+    <e lm="quixotic"><i>quixotic</i><par n="expensive__adj"/>    </e>
     <e lm="swine"><i>swine</i><par n="expensive__adj"/>    </e>
     <e lm="slave"><i>slave</i><par n="expensive__adj"/>    </e>
     <e lm="blurred"><i>blurred</i><par n="expensive__adj"/>    </e>
@@ -34331,6 +34332,7 @@
     <e lm="chaplain"><i>chaplain</i><par n="house__n"/></e>
     <e lm="commissioner"><i>commissioner</i><par n="house__n"/></e>
     <e lm="coffee with milk"><i>coffee</i><par n="house__n"/><p><l><b/>with<b/>milk</l><r><g><b/>with<b/>milk</g></r></p></e>
+    <e lm="white coffee"><i>white<b/>coffee</i><par n="house__n"/>    </e>
     <e lm="bamboo"><i>bamboo</i><par n="house__n"/></e>
     <e lm="barrack"><i>barrack</i><par n="house__n"/></e>
     <e lm="shortage"><i>shortage</i><par n="house__n"/></e>

@@ -83929,6 +83929,7 @@
 <e lm="criteri minimax"><i>criteri</i><par n="abric__n"/><p><l><b/>minimax</l><r><g><b/>minimax</g></r></p></e>
 <e lm="criteri minimín"><i>criteri</i><par n="abric__n"/><p><l><b/>minimín</l><r><g><b/>minimín</g></r></p></e>
 <e lm="criteri varimax"><i>criteri</i><par n="abric__n"/><p><l><b/>varimax</l><r><g><b/>varimax</g></r></p></e>
+<e lm="quixotesc"><i>quixotes</i><par n="bas/c__adj"/></e>
 <e lm="prismàtic"><i>prismàti</i><par n="acadèmi/c__adj"/></e>
 <e lm="tetraèdric"><i>tetraèdri</i><par n="acadèmi/c__adj"/></e>
 <e lm="polièdric"><i>polièdri</i><par n="acadèmi/c__adj"/></e>
@@ -84040,6 +84041,8 @@
     <e lm="nascut mort"><p><l>nascuts<b/>morts</l><r>nascut<b/>mort<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
     <e lm="nascut mort"><p><l>nascuda<b/>morta</l><r>nascut<b/>mort<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="nascut mort"><p><l>nascudes<b/>mortes</l><r>nascut<b/>mort<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="centre juvenil"><p><l>centre<b/>juvenil</l><r>centre<b/>juvenil<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="centre juvenil"><p><l>centres<b/>juvenils</l><r>centre<b/>juvenil<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="maldestre"><i>maldestr</i><par n="abstract/e__adj"/></e>
 <e lm="orientat comercialment"><i>orienta</i><par n="afortuna/t__adj"/><p><l><b/>comercialment</l><r><g><b/>comercialment</g></r></p></e>
 <e lm="condensat"><i>condensa</i><par n="afortuna/t__adj"/></e>
@@ -92671,6 +92674,9 @@
 <e lm="mal"><i>mal</i><par n="abric__n"/></e>
 <e lm="mal de cap"><i>mal</i><par n="abric__n"/><p><l><b/>de<b/>cap</l><r><g><b/>de<b/>cap</g></r></p></e>
 <e lm="mal de queixal"><i>mal</i><par n="abric__n"/><p><l><b/>de<b/>queixal</l><r><g><b/>de<b/>queixal</g></r></p></e>
+<e lm="mal de panxa"><i>mal</i><par n="abric__n"/><p><l><b/>de<b/>panxa</l><r><g><b/>de<b/>panxa</g></r></p></e>
+<e lm="mosso"><i>moss</i><par n="gitan/o__n"/></e>
+<e lm="mosso de quadra"><i>moss</i><par n="gitan/o__n"/><p><l><b/>de<b/>quadra</l><r><g><b/>de<b/>quadra</g></r></p></e>
 <e lm="maleta"><i>malet</i><par n="abell/a__n"/></e>
 <e lm="manca"><i>man</i><par n="acústi/ca__n"/></e>
 <e lm="manera"><i>maner</i><par n="abell/a__n"/></e>
@@ -92731,6 +92737,7 @@
 <e lm="nen"><i>nen</i><par n="senyor__n"/></e>
 <e lm="nit"><i>nit</i><par n="accessibilitat__n"/></e>
 <e lm="nivell"><i>nivell</i><par n="abric__n"/></e>
+<e lm="nivell de bombolla"><i>nivell</i><par n="abric__n"/><p><l><b/>de<b/>bombolla</l><r><g><b/>de<b/>bombolla</g></r></p></e>
 <e lm="noi"><i>noi</i><par n="senyor__n"/></e>
 <e lm="nom"><i>nom</i><par n="abric__n"/></e>
 <e lm="nombre"><i>nombre</i><par n="abric__n"/></e>
@@ -92946,6 +92953,7 @@
 <e lm="telèfon sense fil"><i>telèfon</i><par n="abric__n"/><p><l><b/>sense<b/>fil</l><r><g><b/>sense<b/>fil</g></r></p></e>
 <e lm="televisió"><i>televisi</i><par n="acci/ó__n"/></e>
 <e lm="tema"><i>tem</i><par n="carism/a__n"/></e>
+<e lm="tema de conversa"><i>tem</i><par n="carism/a__n"/><p><l><b/>de<b/>conversa</l><r><g><b/>de<b/>conversa</g></r></p></e>
 <e lm="temps"><i>temps</i><par n="campus__n"/></e>
 <e lm="espai-temps"><i>espai-temps</i><par n="campus__n"/></e>
 <e lm="temps d'execució"><i>temps<b/>d'execució</i><par n="campus__n"/></e>
@@ -93228,6 +93236,7 @@
 <e lm="llauna"><i>llaun</i><par n="abell/a__n"/></e>
 <e lm="càncer"><i>càncer</i><par n="abric__n"/></e>
 <e lm="candidat"><i>candidat</i><par n="senyor__n"/></e>
+<e lm="candidat a la presidència"><i>candidat</i><par n="senyor__n"/><p><l><b/>a<b/>la<b/>presidència</l><r><g><b/>a<b/>la<b/>presidència</g></r></p></e>
 <e lm="caramel"><i>caramel</i><par n="abric__n"/></e>
 <e lm="tap"><i>tap</i><par n="abric__n"/></e>
 <e lm="gorra"><i>gorr</i><par n="abell/a__n"/></e>
@@ -93316,6 +93325,7 @@
 <e lm="codi"><i>codi</i><par n="abric__n"/></e>
 <e lm="codi de barres"><i>codi</i><par n="abric__n"/><p><l><b/>de<b/>barres</l><r><g><b/>de<b/>barres</g></r></p></e>
 <e lm="cafè"><i>caf</i><par n="caf/è__n"/></e>
+<e lm="cafè amb llet"><i>caf</i><par n="caf/è__n"/><p><l><b/>amb<b/>llet</l><r><g><b/>amb<b/>llet</g></r></p></e>
 <e lm="fred"><i>fred</i><par n="abric__n"/></e>
 <e lm="refredat"><i>refredat</i><par n="abric__n"/></e>
 <e lm="col·lega"><i>col·leg</i><par n="col·leg/a__n"/></e>
@@ -103863,6 +103873,7 @@
 <e lm="poeta"><i>poet</i><par n="accionist/a__n"/></e>
 <e lm="ovogènesi"><i>ovogènesi</i><par n="accessibilitat__n"/></e>
 <e lm="citocentre"><i>citocentre</i><par n="abric__n"/></e>
+<e lm="centre de treball"><i>centre</i><par n="abric__n"/><p><l><b/>de<b/>treball</l><r><g><b/>de<b/>treball</g></r></p></e>
 <e lm="extrapolació"><i>extrapolaci</i><par n="acci/ó__n"/></e>
 <e lm="fonemàtica"><i>fonemàti</i><par n="acústi/ca__n"/></e>
 <e lm="mirador"><i>mirador</i><par n="abric__n"/></e>

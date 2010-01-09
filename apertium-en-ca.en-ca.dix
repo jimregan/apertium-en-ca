@@ -7220,7 +7220,7 @@
 <e>       <p><l>in<b/>love<s n="adj"/></l>        <r>enamorat<s n="adj"/></r></p></e>
 <e r="LR">       <p><l>enamoured<s n="adj"/></l>        <r>enamorat<s n="adj"/></r></p></e>
 <e>       <p><l>as<b/>dead<b/>as<b/>a<b/>doornail<s n="adj"/></l>        <r>mort<b/>i<b/>ben<b/>mort<s n="adj"/></r></p></e>
-<e>       <p><l>clumsy<s n="adj"/><s n="sint"/></l>         <r>maldestre<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>clumsy<s n="adj"/><s n="sint"/></l>         <r>maldestre<s n="adj"/></r></p></e>
 <e>       <p><l>commercially<b/>orientated<s n="adj"/></l>         <r>orientat<g><b/>comercialment</g><s n="adj"/></r></p></e>
 <e>       <p><l>condensed<s n="adj"/></l>         <r>condensat<s n="adj"/></r></p></e>
 <e>       <p><l>degenerate<s n="adj"/></l>         <r>degenerat<s n="adj"/></r></p></e>
@@ -20818,8 +20818,20 @@
 <e r="LR">       <p><l>senator<s n="n"/></l>             <r>senador<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>senator<s n="n"/></l>             <r>senador<s n="n"/></r></p></e>
 <e>       <p><l>separation<s n="n"/></l>          <r>separació<s n="n"/><s n="f"/></r></p></e>
-<e>       <p><l>servant<s n="n"/></l>             <r>criat<s n="n"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>servant<s n="n"/></l>             <r>criat<s n="n"/><s n="f"/></r></p></e>
+<e r="RL">       <p><l>servant<s n="n"/></l>             <r>mosso<s n="n"/><s n="m"/></r></p></e>
+<e r="LR">       <p><l>servant<s n="n"/></l>             <r>criat<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>servant<s n="n"/></l>             <r>criat<s n="n"/></r></p></e>
+<e r="LR">       <p><l>stablehand<s n="n"/></l>             <r>mosso<g><b/>de<b/>quadra</g><s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>stablehand<s n="n"/></l>             <r>mosso<g><b/>de<b/>quadra</g><s n="n"/></r></p></e>
+<e r="LR">       <p><l>stableboy<s n="n"/></l>             <r>mosso<g><b/>de<b/>quadra</g><s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>presidential<b/>candidate<s n="n"/></l>             <r>candidat<g><b/>a<b/>la<b/>presidència</g><s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>presidential<b/>candidate<s n="n"/></l>             <r>candidat<g><b/>a<b/>la<b/>presidència</g><s n="n"/></r></p></e>
+<e r="LR"><p><l>candidate<g><b/>for<b/>the<b/>presidency</g><s n="n"/></l>             <r>candidat<g><b/>a<b/>la<b/>presidència</g><s n="n"/><s n="GD"/></r></p></e>
+<e><p><l>topic<g><b/>of<b/>conversation</g><s n="n"/></l>             <r>tema<g><b/>de<b/>conversa</g><s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>conversation<b/>piece<s n="n"/></l>             <r>tema<g><b/>de<b/>conversa</g><s n="n"/><s n="f"/></r></p></e>
+<e><p><l>spirit<b/>level<s n="n"/></l>             <r>nivell<g><b/>de<b/>bombolla</g><s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>coffee<g><b/>with<b/>milk</g><s n="n"/></l>             <r>cafè<g><b/>amb<b/>llet</g><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>white<b/>coffee<s n="n"/></l>             <r>cafè<g><b/>amb<b/>llet</g><s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>session<s n="n"/></l>             <r>sessió<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>sewing<s n="n"/></l>              <r>costura<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>sex<s n="n"/></l>                 <r>sexe<s n="n"/><s n="m"/></r></p></e>
@@ -30983,7 +30995,7 @@
 <e>       <p><l>convict<s n="n"/></l>             <r>condemnat<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>convict<s n="n"/></l>             <r>condemnat<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>cunt<s n="n"/></l>                <r>cony<s n="n"/><s n="m"/></r></p></e>
-<e>       <p><l>choral<s n="n"/></l>               <r>coral<s n="n"/><s n="mf"/></r></p></e>
+<e>       <p><l>choral<s n="n"/></l>               <r>coral<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>coral<s n="n"/></l>               <r>coral<s n="n"/><s n="m"/></r></p></e>
 <e r="RL">       <p><l>coral<s n="n"/></l>               <r>corall<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>sewer<s n="n"/></l>               <r>cosidor<s n="n"/><s n="m"/></r></p></e>
@@ -43863,6 +43875,9 @@
 <e><p><l>fisherwoman<s n="n"/></l><r>pescador<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>embargo<s n="n"/></l><r>embargament<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>fuse<s n="n"/></l><r>fusible<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>work<b/>centre<s n="n"/></l><r>centre<g><b/>de<b/>treball</g><s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>job<b/>centre<s n="n"/></l><r>centre<g><b/>de<b/>treball</g><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>youth<b/>centre<s n="n"/></l><r>centre<b/>juvenil<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>workday<s n="n"/></l><r>dia<g><b/>de<b/>treball</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>work<b/>day<s n="n"/></l><r>dia<b/>laboral<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>business<b/>day<s n="n"/></l><r>dia<b/>laborable<s n="n"/><s n="m"/></r></p></e>
@@ -43873,6 +43888,8 @@
 <e><p><l>wedding<b/>day<s n="n"/></l><r>dia<g><b/>de<b/>noces</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>headache<s n="n"/></l><r>mal<g><b/>de<b/>cap</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>toothache<s n="n"/></l><r>mal<g><b/>de<b/>queixal</g><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>stomache<b/>ache<s n="n"/></l><r>mal<g><b/>de<b/>panxa</g><s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>stomache-ache<s n="n"/></l><r>mal<g><b/>de<b/>panxa</g><s n="n"/><s n="m"/></r></p></e>
 <e>  <p><l>sino-auricular<b/>node<s n="n"/></l><r>node<b/>sinoauricular<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>sinuatrial<b/>node<s n="n"/></l><r>node<b/>sinusal<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>grease<s n="n"/></l><r>greix<s n="n"/><s n="m"/></r></p></e>
@@ -44297,6 +44314,7 @@
 <e r="LR"><p><l>Romanian<s n="n"/></l><r>romanès<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>Romanian<s n="n"/></l><r>romanès<s n="n"/></r></p></e>
 <e><p><l>Romanian<s n="adj"/></l><r>romanès<s n="adj"/></r></p></e>
+<e><p><l>quixotic<s n="adj"/></l><r>quixotesc<s n="adj"/></r></p></e>
 
 <e><p><l>robotics<s n="n"/></l><r>robòtica<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>naivety<s n="n"/></l><r>ingenuïtat<s n="n"/><s n="f"/></r></p></e>
