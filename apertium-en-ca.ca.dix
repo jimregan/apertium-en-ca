@@ -86653,6 +86653,7 @@
 <e lm="insolvent"><i>insolvent</i><par n="abdominal__adj"/></e>
 
 <e lm="dasimètric"><i>dasimètri</i><par n="acadèmi/c__adj"/></e>
+<e lm="supersimètric"><i>supersimètri</i><par n="acadèmi/c__adj"/></e>
 
 <e lm="idiomorf"><i>idiomorf</i><par n="absolut__adj"/></e>
 
@@ -105241,6 +105242,11 @@
 <e lm="Hongria"><i>Hongria</i><par n="Barcelona__np"/></e>
 <e lm="Houston"><i>Houston</i><par n="Afganistan__np"/></e>
 <e lm="Iemen"><i>Iemen</i><par n="Afganistan__np"/></e>
+<e lm="Bretton Woods"><i>Bretton<b/>Woods</i><par n="Afganistan__np"/></e>
+<e lm="Màlaga"><i>Màlaga</i><par n="Barcelona__np"/></e>
+<e lm="Costa Rica"><i>Costa<b/>Rica</i><par n="Barcelona__np"/></e>
+<e lm="Sevilla"><i>Sevilla</i><par n="Barcelona__np"/></e>
+<e lm="República Federal d'Alemanya"><i>República<b/>Federal<b/>d'Alemanya</i><par n="Barcelona__np"/></e>
 <e lm="Illes Anglonormandes"><i>Illes<b/>Anglonormandes</i><par n="Bahames__np"/></e>
 <e lm="Illes Balears"><i>Illes<b/>Balears</i><par n="Bahames__np"/></e>
 <e lm="Illes Britàniques"><i>Illes<b/>Britàniques</i><par n="Bahames__np"/></e>
@@ -105249,6 +105255,7 @@
 <e lm="Illes Comores"><i>Illes<b/>Comores</i><par n="Bahames__np"/></e>
 <e lm="Illes Cook"><i>Illes<b/>Cook</i><par n="Bahames__np"/></e>
 <e lm="Illes del Canal"><i>Illes<b/>del<b/>Canal</i><par n="Bahames__np"/></e>
+<e lm="Illes del Amics"><i>Illes<b/>del<b/>Amics</i><par n="Bahames__np"/></e>
 <e lm="Illes Galàpagos"><i>Illes<b/>Galàpagos</i><par n="Bahames__np"/></e>
 <e lm="Illes Malvines"><i>Illes<b/>Malvines</i><par n="Bahames__np"/></e>
 <e lm="Illes Marshall"><i>Illes<b/>Marshall</i><par n="Bahames__np"/></e>
@@ -109530,6 +109537,7 @@
 <e lm="via telefònica"><i>via<b/>telefònica</i><par n="sempre__adv"/></e>
 <e lm="en castellà"><i>en<b/>castellà</i><par n="sempre__adv"/></e>
 <e lm="per ordre alfabètic"><i>per<b/>ordre<b/>alfabètic</i><par n="sempre__adv"/></e>
+<e lm="i.e."><i>i.e.</i><par n="sempre__adv"/></e>
 
 
 <e lm="gratis" a="prompsit2cdl"><i>gratis</i><par n="sempre__adv"/></e>

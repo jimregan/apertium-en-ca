@@ -17415,6 +17415,8 @@
     <e lm="Georgia"><i>Georgia</i><par n="Barcelona__np"/>    </e>
     <e lm="Gerard"><i>Gerard</i><par n="Mark__np"/>    </e>
     <e lm="Germany"><i>Germany</i><par n="Barcelona__np"/>    </e>
+    <e lm="German Democratic Republic">	<i>German<b/>Democratic<b/>Republic</i> 	<par n="Barcelona__np"/>       </e>
+    <e lm="Federal Republic of Germany">	<i>Federal<b/>Republic<b/>of<b/>Germany</i> 	<par n="Barcelona__np"/>       </e>
     <e lm="Ghana"><i>Ghana</i><par n="Barcelona__np"/>    </e>
     <e lm="Gibraltar"><i>Gibraltar</i><par n="Barcelona__np"/>    </e>
     <e lm="Girona"><i>Girona</i><par n="Barcelona__np"/>    </e>
@@ -29064,8 +29066,6 @@
     <e lm="New York Stock Exchange"><i>New<b/>York<b/>Stock<b/>Exchange</i><par n="Linux__np"/>     </e>
     <e lm="Second World War">	<i>Second<b/>World<b/>War</i> 	<par n="Linux__np"/>       </e>
     <e lm="Cold War">	<i>Cold<b/>War</i> 	<par n="Linux__np"/>       </e>
-    <e lm="German Democratic Republic">	<i>German<b/>Democratic<b/>Republic</i> 	<par n="Barcelona__np"/>       </e>
-    <e lm="Federal Republic of Germany">	<i>Federal<b/>Republic<b/>of<b/>Germany</i> 	<par n="Linux__np"/>       </e>
     <e lm="Facebook">	<i>Facebook</i> 	<par n="Linux__np"/>       </e>
     <e lm="Flickr">	<i>Flickr</i> 	<par n="Linux__np"/>       </e>
     <e lm="Web 2.0">	<i>Web<b/>2.0</i> 	<par n="Linux__np"/>       </e>

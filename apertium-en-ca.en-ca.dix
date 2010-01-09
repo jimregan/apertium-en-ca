@@ -2115,6 +2115,7 @@
 <e>       <p><l>cerebral<s n="adj"/></l>          <r>cerebral<s n="adj"/><s n="mf"/></r></p></e>
 
 <e r="LR">       <p><l>lefthand<s n="adj"/></l>          <r>esquerre<s n="adj"/></r></p></e>
+<e r="LR">       <p><l>left-hand<s n="adj"/></l>          <r>esquerre<s n="adj"/></r></p></e>
 
 <e>       <p><l>transcendental<s n="adj"/></l>    <r>transcendental<s n="adj"/><s n="mf"/></r></p></e>
 
@@ -6794,6 +6795,7 @@
 <e>       <p><l>symbolist<s n="adj"/></l>         <r>simbolista<s n="adj"/><s n="mf"/></r></p></e>
 
 <e>       <p><l>symmetrical<s n="adj"/></l>       <r>simètric<s n="adj"/></r></p></e>
+<e>       <p><l>supersymmetrical<s n="adj"/></l>       <r>supersimètric<s n="adj"/></r></p></e>
 
 <e r="LR"><p><l>facile<s n="adj"/></l>            <r>simple<s n="adj"/><s n="mf"/></r></p></e>
 
@@ -23101,6 +23103,7 @@
 <e>       <p><l>sciatica<s n="n"/></l>            <r>ciàtica<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>cotyledon<s n="n"/></l>           <r>cotiledó<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>rearrangement<s n="n"/></l>       <r>redisposició<s n="n"/><s n="f"/></r></p></e>
+<e r="LR">       <p><l>willingness<s n="n"/></l>       <r>disposició<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>loxodromy<s n="n"/></l>           <r>loxodròmia<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>utility<s n="n"/></l>             <r>utilitat<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>hallucinogen<s n="n"/></l>        <r>al·lucinogen<s n="n"/><s n="m"/></r></p></e>
@@ -32101,10 +32104,17 @@
 <e><p><l>Tehran<s n="np"/><s n="loc"/></l><r>Teheran<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Greenwich<s n="np"/><s n="loc"/></l><r>Greenwich<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Babylon<s n="np"/><s n="loc"/></l><r>Babilim<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Malaga<s n="np"/><s n="loc"/></l><r>Màlaga<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>Málaga<s n="np"/><s n="loc"/></l><r>Màlaga<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Seville<s n="np"/><s n="loc"/></l><r>Sevilla<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Bretton<b/>Woods<s n="np"/><s n="loc"/></l><r>Bretton<b/>Woods<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Federal<b/>Republic<b/>of<b/>Germany<s n="np"/><s n="loc"/></l><r>República<b/>Federal<b/>d'Alemanya<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 
+<e a="greenbreen"><i>i.e.<s n="adv"/></i></e>
 
 <e>       <p><l>Channel<b/>Islands<s n="np"/><s n="loc"/></l><r>Illes<b/>Anglonormandes<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>Channel<b/>Islands<s n="np"/><s n="loc"/></l><r>Illes<b/>del<b/>Canal<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Friendly<b/>Islands<s n="np"/><s n="loc"/></l><r>Illes<b/>del<b/>Amics<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e>       <p><l>Oceania<s n="np"/><s n="loc"/></l><r>Oceania<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e>       <p><l>Ibiza<s n="np"/><s n="loc"/></l>  <r>Eivissa<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e>       <p><l>Bulgaria<s n="np"/><s n="loc"/></l><r>Bulgària<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
@@ -45473,7 +45483,6 @@
 <e slr="capital" c="en sentit de diners, 'el capital'"><p><l>capital<s n="n"/></l><r>capital<s n="n"/><s n="m"/></r></p></e>
 <e slr="carcassa"><p><l>frame<s n="n"/></l>       <r>carcassa<s n="n"/><s n="f"/></r></p></e>
 <e slr="cargolar"><p><l>roll<s n="vblex"/></l>    <r>cargolar<s n="vblex"/></r></p></e>
-<e slr="carn D"><p><l>flesh<s n="n"/></l><r>carn<s n="n"/><s n="f"/></r></p></e>
 <e slr="carril D"><p><l>lane<s n="n"/></l>        <r>carril<s n="n"/><s n="m"/></r></p></e>
 <e slr="carril D"><p><l>rail<s n="n"/></l>        <r>rail<s n="n"/><s n="m"/></r></p></e>
 <e slr="carta D"><p><l>letter<s n="n"/></l><r>carta<s n="n"/><s n="f"/></r></p></e>
@@ -46393,7 +46402,7 @@
 <e srl="match"><p><l>match<s n="n"/></l>          <r>partit<s n="n"/><s n="m"/></r></p></e>
 
 <e srl="meat D"><p><l>meat<s n="n"/></l>          <r>carn<s n="n"/><s n="f"/></r></p></e>
-<e srl="flesh"><p><l>flesh<s n="n"/></l><r>carn<s n="n"/><s n="f"/></r></p></e>
+<e slr="carn D" srl="flesh"><p><l>flesh<s n="n"/></l><r>carn<s n="n"/><s n="f"/></r></p></e>
 
 <e srl="letter D"><p><l>letter<s n="n"/></l>      <r>carta<s n="n"/><s n="f"/></r></p></e>
 <e srl="menu"><p><l>menu<s n="n"/></l>            <r>carta<s n="n"/><s n="f"/></r></p></e>
