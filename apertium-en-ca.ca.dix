@@ -84541,6 +84541,8 @@
 <e lm="passiu"><i>passi</i><par n="abusi/u__adj"/></e>
 
 <e lm="català"><i>catal</i><par n="afric/à__adj"/></e>
+<e lm="de parla català"><i>de<b/>parla<b/>catal</i><par n="afric/à__adj"/></e>
+<e lm="de parla castellà"><i>de<b/>parla<b/>castell</i><par n="afric/à__adj"/></e>
 
 <e lm="borratxo"><i>borratx</i><par n="guarr/o__adj"/></e>
 <e lm="guapo"><i>guap</i><par n="guarr/o__adj"/></e>
@@ -92376,8 +92378,6 @@
 <e lm="cas"><i>cas</i><par n="as__n"/></e>
 <e lm="castellà"><i>castell</i><par n="americ/à__n"/></e>
 <e lm="català"><i>catal</i><par n="americ/à__n"/></e>
-<e lm="de parla català"><i>de<b/>parla<b/>catal</i><par n="americ/à__n"/></e>
-<e lm="de parla castellà"><i>de<b/>parla<b/>castell</i><par n="americ/à__n"/></e>
 <e lm="causa"><i>caus</i><par n="abell/a__n"/></e>
 <e lm="cavall"><i>cavall</i><par n="abric__n"/></e>
 <e lm="subterrani"><i>subterrani</i><par n="abric__n"/></e>

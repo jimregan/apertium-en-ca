@@ -1578,7 +1578,6 @@
 <e>       <p><l>bhutanese<s n="adj"/></l>         <r>bhutanès<s n="adj"/></r></p></e>
 <e>       <p><l>mahometan<s n="adj"/></l>         <r>mahometà<s n="adj"/></r></p></e>
 <e>       <p><l>jacobian<s n="adj"/></l>          <r>jacobià<s n="adj"/></r></p></e>
-<e r="LR">       <p><l>jacobist<s n="adj"/></l>          <r>jacobià<s n="adj"/></r></p></e>
 <e>       <p><l>angolan<s n="adj"/></l>           <r>angolès<s n="adj"/></r></p></e>
 <e>       <p><l>hawaiian<s n="adj"/></l>          <r>hawaià<s n="adj"/></r></p></e>
 <e>       <p><l>honduran<s n="adj"/></l>          <r>hondureny<s n="adj"/></r></p></e>
@@ -45783,7 +45782,6 @@
 <e slr="marc D"><p><l>frame<s n="n"/></l>         <r>marc<s n="n"/><s n="m"/></r></p></e>
 <e slr="marcar D" srl="mark D"><p><l>mark<s n="vblex"/></l><r>marcar<s n="vblex"/></r></p></e>
 <e slr="marcar D" srl="score"><p><l>score<s n="vblex"/></l><r>marcar<s n="vblex"/></r></p></e>
-<e slr="marxa"><p><l>gear<s n="n"/></l><r>marxa<s n="n"/><s n="f"/></r></p></e>
 <e slr="marxar"><p><l>leave<s n="vblex"/></l>     <r>marxar<s n="vblex"/></r></p></e>
 <e slr="març D"><p><l>March<s n="n"/></l>         <r>març<s n="n"/><s n="m"/></r></p></e>
 <e slr="melmelada D"><p><l>jam<s n="n"/></l>      <r>melmelada<s n="n"/><s n="f"/></r></p></e>
@@ -46252,7 +46250,7 @@
 <e r="RL" srl="start"><p><l>start<s n="n"/></l>   <r>sortida<s n="n"/><s n="f"/></r></p></e>
 <e srl="output"><p><l>output<s n="n"/></l>        <r>sortida<s n="n"/><s n="f"/></r></p></e>
 
-<e srl="tank D"><p><l>tank<s n="n"/></l>          <r>dipòsit<s n="n"/><s n="m"/></r></p></e>
+<e slr="dipòsit" srl="tank D"><p><l>tank<s n="n"/></l><r>dipòsit<s n="n"/><s n="m"/></r></p></e>
 <e srl="deposit"><p><l>deposit<s n="n"/></l>      <r>dipòsit<s n="n"/><s n="m"/></r></p></e>
 
 <e srl="wish D"><p><l>wish<s n="n"/></l>          <r>desig<s n="n"/><s n="m"/></r></p></e>
@@ -46386,7 +46384,7 @@
 <e r="RL" srl="lyric" a="carmentano"><p><l>lyric<s n="n"/><s n="pl"/></l><r>lletra<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 
 <e srl="march D"><p><l>march<s n="n"/></l>        <r>marxa<s n="n"/><s n="f"/></r></p></e>
-<e srl="gear"><p><l>gear<s n="n"/></l><r>marxa<s n="n"/><s n="f"/></r></p></e>
+<e slr="marxa" srl="gear"><p><l>gear<s n="n"/></l><r>marxa<s n="n"/><s n="f"/></r></p></e>
 
 <e srl="marriage D"><p><l>marriage<s n="n"/></l>  <r>matrimoni<s n="n"/><s n="m"/></r></p></e>
 <e r="RL" srl="couple"><p><l>couple<s n="n"/></l> <r>matrimoni<s n="n"/><s n="m"/></r></p></e>
