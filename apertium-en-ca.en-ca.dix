@@ -21049,6 +21049,9 @@
 <e>       <p><l>version<s n="n"/></l>             <r>versió<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>victory<s n="n"/></l>             <r>victòria<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>video<s n="n"/></l>               <r>vídeo<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>antivirus<s n="adj"/></l>               <r>antivirus<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>antivirus<s n="n"/></l>               <r>antivirus<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>antivirus<s n="n"/><s n="ND"/></l>    <r>antivirus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>virus<s n="n"/></l>               <r>virus<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>virus<s n="n"/><s n="ND"/></l>    <r>virus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>flu<b/>virus<s n="n"/></l>               <r>virus<b/>de<b/>grip<s n="n"/><s n="m"/></r></p></e>
@@ -22906,6 +22909,8 @@
 <e>       <p><l>anisotropy<s n="n"/></l>          <r>anisotropia<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>hyperemesis<s n="n"/></l>         <r>hiperèmesi<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>appellative<s n="n"/></l>         <r>apel·latiu<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>iterative<s n="adj"/></l>         <r>iteratiu<s n="adj"/></r></p></e>
+<e>       <p><l>reiterative<s n="adj"/></l>         <r>reiteratiu<s n="adj"/></r></p></e>
 <e>       <p><l>trisomy<s n="n"/></l>             <r>trisomia<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>heptameter<s n="n"/></l>          <r>heptàmetre<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>counterprogramming<s n="n"/></l>  <r>contraprogramació<s n="n"/><s n="f"/></r></p></e>
@@ -32117,7 +32122,6 @@
 <e>       <p><l>Pacific<s n="np"/><s n="loc"/></l><r>Oceà<b/>Pacífic<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e>       <p><l>Saturn<s n="np"/><s n="loc"/></l> <r>Saturn<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e>       <p><l>Somalia<s n="np"/><s n="loc"/></l><r>Somàlia<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
-<e>       <p><l>Bahamas<s n="np"/><s n="loc"/><s n="sg"/></l><r>Bahames<s n="np"/><s n="loc"/><s n="f"/><s n="pl"/></r></p></e>
 <e>       <p><l>Anguilla<s n="np"/><s n="loc"/></l><r>Anguila<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e>       <p><l>Tunis<s n="np"/><s n="loc"/></l>  <r>Tunis<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e>       <p><l>Hungary<s n="np"/><s n="loc"/></l><r>Hongria<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
@@ -35236,6 +35240,8 @@
 <e r="LR">       <p><l>definitive<s n="adj"/></l>          <r>definitiu<s n="adj"/></r></p></e>
 <e>       <p><l>underground<s n="adj"/></l>          <r>subterrani<s n="adj"/></r></p></e>
 <e r="LR">       <p><l>subterranean<s n="adj"/></l>          <r>subterrani<s n="adj"/></r></p></e>
+<e>       <p><l>underground<s n="n"/></l>          <r>subterrani<s n="n"/><s n="m"/></r></p></e>
+<e r="LR">       <p><l>subterranean<s n="n"/></l>          <r>subterrani<s n="n"/><s n="m"/></r></p></e>
 <e r="LR">       <p><l>see<b/>you<b/>later<s n="ij"/></l>          <r>fins<b/>ara<s n="ij"/></r></p></e>
 <e>       <p><l>antiquity<s n="n"/></l>           <r>antiguitat<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>detractor<s n="n"/></l>           <r>detractor<s n="n"/><s n="GD"/></r></p></e>
@@ -44711,9 +44717,11 @@
 <e><p><l>iterative<s n="adj"/></l><r>iteratiu<s n="adj"/></r></p></e>
 <e><p><l>staggered<s n="adj"/></l><r>escalonat<s n="adj"/></r></p></e>
 <e><p><l>convex<s n="adj"/></l><r>convex<s n="adj"/></r></p></e>
+<e><p><l>biconvex<s n="adj"/></l><r>biconvex<s n="adj"/></r></p></e>
 <e><p><l>constructive<s n="adj"/></l><r>constructiu<s n="adj"/></r></p></e>
 <e><p><l>unwanted<s n="adj"/></l><r>indesitjat<s n="adj"/></r></p></e>
 <e><p><l>reflexive<s n="adj"/></l><r>reflexiu<s n="adj"/></r></p></e>
+<e><p><l>irreflexive<s n="adj"/></l><r>irreflexiu<s n="adj"/></r></p></e>
 <e><p><l>analog<s n="adj"/></l><r>analògic<s n="adj"/></r></p></e>
 <e><p><l>proprietary<s n="adj"/></l><r>propietari<s n="adj"/></r></p></e>
 <e><p><l>exciting<s n="adj"/></l><r>apassionant<s n="adj"/><s n="mf"/></r></p></e>

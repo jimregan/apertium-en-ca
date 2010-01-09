@@ -23698,6 +23698,8 @@
     <e lm="virtue"><i>virtue</i><par n="house__n"/>    </e>
     <e lm="virulence"><i>virulence</i><par n="house__n"/>    </e>
     <e lm="virus"><i>virus</i><par n="access__n"/>    </e>
+    <e lm="antivirus"><i>antivirus</i><par n="access__n"/>    </e>
+    <e lm="antivirus"><i>antivirus</i><par n="expensive__adj"/>    </e>
     <e lm="flu virus"><i>flu<b/>virus</i><par n="access__n"/>    </e>
     <e lm="influenza virus"><i>influenza<b/>virus</i><par n="access__n"/>    </e>
     <e lm="visa"><i>visa</i><par n="house__n"/>    </e>
@@ -35394,9 +35396,11 @@
     <e lm="Clement" a="greenbreen"><i>Clement</i><par n="Mark__np"/></e>
     <e lm="Harvard" a="greenbreen"><i>Harvard</i><par n="Linux__np"/></e>
     <e lm="iterative" a="greenbreen"><i>iterative</i><par n="expensive__adj"/></e>
+    <e lm="reiterative"><i>reiterative</i><par n="expensive__adj"/></e>
     <e lm="enclave" a="greenbreen"><i>enclave</i><par n="house__n"/></e>
     <e lm="staggered" a="greenbreen"><i>staggered</i><par n="expensive__adj"/></e>
     <e lm="convex" a="greenbreen"><i>convex</i><par n="expensive__adj"/></e>
+    <e lm="biconvex"><i>biconvex</i><par n="expensive__adj"/></e>
     <e lm="reflecting" a="greenbreen"><i>reflecting</i><par n="expensive__adj"/></e>
     <e lm="treble" a="greenbreen"><i>treble</i><par n="house__n"/></e>
     <e lm="frequency response" a="greenbreen"><i>frequency<b/>response</i><par n="house__n"/></e>
@@ -35414,6 +35418,7 @@
     <e lm="resonant" a="greenbreen"><i>resonant</i><par n="expensive__adj"/></e>
     <e lm="porous" a="greenbreen"><i>porous</i><par n="expensive__adj"/></e>
     <e lm="reflexive" a="greenbreen"><i>reflexive</i><par n="expensive__adj"/></e>
+    <e lm="irreflexive"><i>irreflexive</i><par n="expensive__adj"/></e>
     <e lm="mass" r="RL" a="greenbreen"><i>mass</i><par n="expensive__adj"/></e>
     <e lm="multilayered" a="greenbreen"><i>multilayered</i><par n="expensive__adj"/></e>
     <e lm="pore" a="greenbreen"><i>pore</i><par n="house__n"/></e>

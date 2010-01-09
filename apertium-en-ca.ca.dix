@@ -92380,6 +92380,7 @@
 <e lm="de parla castellà"><i>de<b/>parla<b/>castell</i><par n="americ/à__n"/></e>
 <e lm="causa"><i>caus</i><par n="abell/a__n"/></e>
 <e lm="cavall"><i>cavall</i><par n="abric__n"/></e>
+<e lm="subterrani"><i>subterrani</i><par n="abric__n"/></e>
 <e lm="cel·la"><i>cel·l</i><par n="abell/a__n"/></e>
 <e lm="cel·la" r="LR"><p><l>ceŀl</l><r>cel·l</r></p><par n="abell/a__n"/></e>
 <e lm="cèl·lula"><i>cèl·lul</i><par n="abell/a__n"/></e>
@@ -117825,6 +117826,7 @@
 <e lm="additiu"><i>additi</i><par n="abusi/u__adj"/></e>
 <e lm="indivisible" a="prompsit2adn"><i>indivisible</i><par n="abdominal__adj"/></e>
 <e lm="antivirus"><i>antivirus</i><par n="multimèdia__adj"/></e>
+<e lm="antivirus"><i>antivirus</i><par n="campus__n"/></e>
 <e lm="multimèdia"><i>multimèdia</i><par n="multimèdia__adj"/></e>
 <e lm="on-line" a="gema"><i>on-line</i><par n="multimèdia__adj"/></e>
 <e lm="anticorrupció" a="prompsit2adn"><i>anticorrupció</i><par n="multimèdia__adj"/></e>
