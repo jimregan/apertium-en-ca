@@ -83690,7 +83690,7 @@
 <e lm="consonàntic"><i>consonànti</i><par n="acadèmi/c__adj"/></e>
 
 <e lm="indefinit"><i>indefini</i><par n="afortuna/t__adj"/></e>
-<e lm="transdefinit"><i>transdefini</i><par n="afortuna/t__adj"/></e>
+<e lm="transfinit"><i>transfini</i><par n="afortuna/t__adj"/></e>
 
 <e lm="subtil"><i>subtil</i><par n="abdominal__adj"/></e>
 
@@ -117339,6 +117339,7 @@
 <e lm="calamitat" a="prompsit2adn"><i>calamitat</i><par n="accessibilitat__n"/></e>
 <e lm="camaleó"><i>camale</i><par n="aband/ó__n"/></e>
 <e lm="alquimista"><i>alquimist</i><par n="accionist/a__n"/></e>
+<e lm="reduccionista"><i>reduccionist</i><par n="accionist/a__n"/></e>
 <e lm="instauració" a="prompsit2adn"><i>instauraci</i><par n="acci/ó__n"/></e>
 <e lm="desbordament" a="prompsit2adn"><i>desbordament</i><par n="abric__n"/></e>
 <e lm="gentilici" a="prompsit"><i>gentilici</i><par n="abric__n"/></e>
