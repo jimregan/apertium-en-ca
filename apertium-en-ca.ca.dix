@@ -84066,6 +84066,8 @@
 <e lm="comunitat internacional"><p><l>comunitats<b/>internacionals</l><r>comunitat<b/>internacional<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="domini orientat comercialment"><p><l>domini<b/>orientat<b/>comercialment</l><r>domini<b/>orientat<b/>comercialment<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="domini orientat comercialment"><p><l>dominis<b/>orientats<b/>comercialment</l><r>domini<b/>orientat<b/>comercialment<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="gran mestre"><p><l>gran<b/>mestre</l><r>gran<b/>mestre<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="gran mestre"><p><l>grans<b/>mestres</l><r>gran<b/>mestre<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="maldestre"><i>maldestr</i><par n="abstract/e__adj"/></e>
 <e lm="orientat comercialment"><i>orienta</i><par n="afortuna/t__adj"/><p><l><b/>comercialment</l><r><g><b/>comercialment</g></r></p></e>
 <e lm="condensat"><i>condensa</i><par n="afortuna/t__adj"/></e>
@@ -89556,6 +89558,7 @@
 <e lm="suís"><i>su</i><par n="su/ís__n"/></e>
 <e lm="llatí"><i>llat</i><par n="alacant/í__n"/></e>
 <e lm="palestí"><i>palest</i><par n="alacant/í__n"/></e>
+<e lm="albí"><i>alb</i><par n="alacant/í__n"/></e>
 
 <e lm="de vida"><i>de<b/>vida</i><par n="multimèdia__adj"/></e>
 <e lm="de classe mitjana"><i>de<b/>classe<b/>mitjana</i><par n="multimèdia__adj"/></e>
@@ -92394,6 +92397,7 @@
 <e lm="cama"><i>cam</i><par n="abell/a__n"/></e>
 <e lm="camí"><i>cam</i><par n="boc/í__n"/></e>
 <e lm="campanya"><i>campany</i><par n="abell/a__n"/></e>
+<e lm="musaranya"><i>musarany</i><par n="abell/a__n"/></e>
 <e lm="camp"><i>camp</i><par n="abric__n"/></e>
 <e lm="camp de refugiats"><i>camp</i><par n="abric__n"/><p><l><b/>de<b/>refugiats</l><r><g><b/>de<b/>refugiats</g></r></p></e>
 <e lm="canvi"><i>canvi</i><par n="abric__n"/></e>
@@ -92974,6 +92978,7 @@
 <e lm="tassa"><i>tass</i><par n="abell/a__n"/></e>
 <e lm="taula"><i>taul</i><par n="abell/a__n"/></e>
 <e lm="tauler"><i>tauler</i><par n="abric__n"/></e>
+<e lm="tauler d'escacs"><i>tauler</i><par n="abric__n"/><p><l><b/>d'escacs</l><r><g><b/>d'escacs</g></r></p></e>
 <e lm="taxista"><i>taxist</i><par n="accionist/a__n"/></e>
 <e lm="teatre"><i>teatre</i><par n="abric__n"/></e>
 <e lm="tècnic"><i>tècni</i><par n="asiàti/c__n"/></e>
@@ -93204,6 +93209,8 @@
 <e lm="negre"><i>negr</i><par n="addict/e__n"/></e>
 <e lm="culpa"><i>culp</i><par n="abell/a__n"/></e>
 <e lm="falta"><i>falt</i><par n="abell/a__n"/></e>
+<e lm="falta de respecte"><i>falt</i><par n="abell/a__n"/><p><l><b/>de<b/>respecte</l><r><g><b/>de<b/>respecte</g></r></p></e>
+<e lm="anestèsic"><i>anestèsic</i><par n="abric__adj"/></e>
 <e lm="bloc"><i>bloc</i><par n="abric__n"/></e>
 <e lm="bloqueig"><i>bloqueig</i><par n="abric__n"/></e>
 <e lm="sang"><i>sang</i><par n="accessibilitat__n"/></e>
@@ -93928,6 +93935,7 @@
 <e lm="monitor"><i>monitor</i><par n="abric__n"/></e>
 <e lm="mode"><i>mode</i><par n="abric__n"/></e>
 <e lm="lluna"><i>llun</i><par n="abell/a__n"/></e>
+<e lm="lluna de mel"><i>llun</i><par n="abell/a__n"/><p><l><b/>de<b/>mel</l><r><g><b/>de<b/>mel</g></r></p></e>
 <e lm="moció"><i>moci</i><par n="acci/ó__n"/></e>
 <e lm="moto"><i>moto</i><par n="accessibilitat__n"/></e>
 <e lm="motocicleta"><i>motociclet</i><par n="abell/a__n"/></e>
@@ -93984,6 +93992,7 @@
 <e lm="pintor"><i>pintor</i><par n="senyor__n"/></e>
 <e lm="cassola"><i>cassol</i><par n="abell/a__n"/></e>
 <e lm="plafó"><i>plaf</i><par n="aband/ó__n"/></e>
+<e lm="xenó"><i>xen</i><par n="aband/ó__n"/></e>
 <e lm="pantalons"><i>pantalons</i><par n="afores__n"/></e>
 <e lm="calçotets"><i>calçotets</i><par n="afores__n"/></e>
 <e lm="calcetes"><i>calcetes</i><par n="escombraries__n"/></e>
@@ -94535,6 +94544,7 @@
 <e lm="cintura"><i>cintur</i><par n="abell/a__n"/></e>
 <e lm="cambrer"><i>cambrer</i><par n="senyor__n"/></e>
 <e lm="empalador"><i>empalador</i><par n="senyor__n"/></e>
+<e lm="aventurer"><i>aventurer</i><par n="senyor__n"/></e>
 <e lm="cartera"><i>carter</i><par n="abell/a__n"/></e>
 <e lm="escalfor"><i>escalfor</i><par n="fi__n"/></e>
 <e lm="advertència"><i>advertènci</i><par n="abell/a__n"/></e>
@@ -95144,6 +95154,7 @@
 <e lm="carretada"><i>carretad</i><par n="abell/a__n"/></e>
 <e lm="fragmoplast"><i>fragmoplast</i><par n="abast__n"/></e>
 <e lm="humidificació"><i>humidificaci</i><par n="acci/ó__n"/></e>
+<e lm="deshumidificador"><i>deshumidificador</i><par n="abric__n"/></e>
 <e lm="arabisme"><i>arabisme</i><par n="abric__n"/></e>
 <e lm="artròpode"><i>artròpode</i><par n="abric__n"/></e>
 <e lm="caqui"><i>caqui</i><par n="abric__n"/></e>
@@ -98201,6 +98212,7 @@
 <e lm="auditor"><i>auditor</i><par n="senyor__n"/></e>
 <e lm="incongruència"><i>incongruènci</i><par n="abell/a__n"/></e>
 <e lm="genètica"><i>genèti</i><par n="acústi/ca__n"/></e>
+<e lm="cibernètica"><i>cibernèti</i><par n="acústi/ca__n"/></e>
 <e lm="etologia"><i>etologi</i><par n="abell/a__n"/></e>
 <e lm="infiltròmetre"><i>infiltròmetre</i><par n="abric__n"/></e>
 <e lm="hipopòtam"><i>hipopòtam</i><par n="abric__n"/></e>

@@ -20542,6 +20542,8 @@
 <e>       <p><l>mobile<s n="n"/></l>              <r>mòbil<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>monitor<s n="n"/></l>             <r>monitor<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>moon<s n="n"/></l>                <r>lluna<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>honeymoon<s n="n"/></l>                <r>lluna<g><b/>de<b/>mel</g><s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>xenon<s n="n"/></l>                <r>xenó<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>motor<s n="n"/></l>               <r>motor<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>motorcycle<s n="n"/></l>          <r>motocicleta<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>motorbike<s n="n"/></l>           <r>moto<s n="n"/><s n="f"/></r></p></e>
@@ -21154,6 +21156,7 @@
 <e>       <p><l>parasitosis<s n="n"/></l>         <r>parasitosi<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>coronoplasty<s n="n"/></l>        <r>coronoplàstia<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>genetics<s n="n"/></l>            <r>genètica<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>cybernetics<s n="n"/></l>            <r>cibernètica<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>herbicide<s n="n"/></l>           <r>herbicida<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>raspberry<s n="n"/></l>           <r>gerd<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>nucleocapsid<s n="n"/></l>        <r>nucleocàpsida<s n="n"/><s n="f"/></r></p></e>
@@ -43667,9 +43670,17 @@
 <e r="RL"><p><l>organiser<s n="n"/></l><r>organitzador<s n="n"/></r></p></e>
 <e r="LR"><p><l>impaler<s n="n"/></l><r>empalador<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>impaler<s n="n"/></l><r>empalador<s n="n"/></r></p></e>
+<e r="LR"><p><l>adventurer<s n="n"/></l><r>aventurer<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>adventurer<s n="n"/></l><r>aventurer<s n="n"/></r></p></e>
+<e r="LR"><p><l>albino<s n="n"/></l><r>albí<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>albino<s n="n"/></l><r>albí<s n="n"/></r></p></e>
 <e vl="en_GB"><p><l>pyjamas<s n="n"/></l><r>pijama<s n="n"/><s n="m"/></r></p></e>
 <e vl="en_US"><p><l>pajamas<s n="n"/></l>             <r>pijama<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>palaeontologist<s n="n"/></l><r>paleontòleg<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>shrew<s n="n"/></l><r>musaranya<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>eggnog<s n="n"/></l><r>ponx<g><b/>d'ou</g><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>chessboard<s n="n"/></l><r>tauler<g><b/>d'escacs</g><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>grandmaster<s n="n"/></l><r>gran<b/>mestre<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>pasteurisation<s n="n"/></l><r>pasteurització<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>kidnapping<s n="n"/></l><r>segrest<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>lace<s n="n"/></l><r>encaix<s n="n"/><s n="m"/></r></p></e>
@@ -44084,7 +44095,8 @@
 <e><p><l>torsion<s n="n"/></l><r>torsió<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>chess<s n="n"/><s n="sg"/></l><r>escac<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e r="RL"><p><l>chess<s n="n"/><s n="sg"/></l><r>escac<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-<e><p><l>checkmate<s n="n"/></l><r>escac<b/>i<b/>mat<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>checkmate<s n="n"/><s n="sg"/></l><r>escac<b/>i<b/>mat<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>checkmate<s n="n"/><s n="pl"/></l><r>escac<b/>i<b/>mat<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e><p><l>rook<s n="n"/></l><r>torre<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>pawn<s n="n"/></l><r>peó<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>referee<s n="n"/></l><r>àrbitre<s n="n"/><s n="mf"/></r></p></e>
@@ -44276,7 +44288,10 @@
 <e><p><l>time<b/>zone<s n="n"/></l><r>zona<b/>horària<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>timezone<s n="n"/></l><r>zona<b/>horària<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>time<b/>zone<s n="n"/></l><r>fus<b/>horari<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>anti-inflammatory<s n="n"/></l><r>antiinflamatori<s n="n"/></r></p></e>
+<e><p><l>anti-inflammatory<s n="n"/></l><r>antiinflamatori<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>dehumidifier<s n="n"/></l><r>deshumidificador<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>anaesthetic<s n="n"/></l><r>anestèsic<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>lack<g><b/>of<b/>respect</g><s n="n"/></l><r>falta<g><b/>de<b/>respecte</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>validity<s n="n"/></l><r>validesa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>irreversibility<s n="n"/></l><r>irreversibilitat<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>astrophysicist<s n="n"/></l><r>astrofísic<s n="n"/><s n="GD"/></r></p></e>
