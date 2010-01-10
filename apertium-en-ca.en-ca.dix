@@ -7238,7 +7238,7 @@
 <e r="LR">       <p><l>grand<s n="adj"/></l>         <r>magnífic<s n="adj"/></r></p></e>
 <e>       <p><l>integrated<s n="adj"/></l>         <r>integrat<s n="adj"/></r></p></e>
 <e>       <p><l>per<b/>capita<s n="adj"/></l>         <r>per<b/>càpita<s n="adj"/><s n="mf"/></r></p></e>
-<e>       <p><l>wicked<s n="adj"/></l>         <r>malvat<s n="adj"/></r></p></e>
+<e>       <p><l>wicked<s n="adj"/><s n="sint"/></l>         <r>malvat<s n="adj"/></r></p></e>
 <e>       <p><l>without<b/>sense<s n="adj"/></l>         <r>sense<b/>sentit<s n="adj"/><s n="mf"/></r></p></e>
 <e>       <p><l>wireless<s n="adj"/></l>         <r>sense<b/>fil<s n="adj"/><s n="mf"/></r></p></e>
 <e r="LR">       <p><l>without<b/>importance<s n="adj"/></l>         <r>sense<b/>importància<s n="adj"/><s n="mf"/></r></p></e>
@@ -18474,8 +18474,8 @@
 <e r="RL" c="en plural"><p><l>few<s n="det"/><s n="qnt"/><s n="pl"/></l><r>poc<s n="det"/><s n="qnt"/><s n="f"/><s n="pl"/></r></p></e>
 
 <e r="LR"><p><l>a<b/>few<s n="det"/><s n="qnt"/></l><r>uns<b/>quants<s n="det"/><s n="qnt"/><s n="GD"/></r></p></e>
-<e r="RL"><p><l>a<b/>few<s n="det"/><s n="qnt"/><s n="pl"/></l>          <r>uns<b/>quants<s n="det"/><s n="qnt"/><s n="sg"/></r></p></e>
-<e r="RL"><p><l>a<b/>few<s n="det"/><s n="qnt"/><s n="pl"/></l>          <r>uns<b/>quants<s n="det"/><s n="qnt"/><s n="pl"/></r></p></e>
+<e r="RL"><p><l>a<b/>few<s n="det"/><s n="qnt"/><s n="pl"/></l>          <r>uns<b/>quants<s n="det"/><s n="qnt"/><s n="m"/><s n="pl"/></r></p></e>
+<e r="RL"><p><l>a<b/>few<s n="det"/><s n="qnt"/><s n="pl"/></l>          <r>uns<b/>quants<s n="det"/><s n="qnt"/><s n="f"/><s n="pl"/></r></p></e>
 
 <e r="LR" c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>her<s n="det"/><s n="pos"/><s n="sp"/></l><r>el<b/>seu<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
 <e r="LR" c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>his<s n="det"/><s n="pos"/><s n="sp"/></l><r>el<b/>seu<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
@@ -32162,7 +32162,7 @@
 <e r="LR"><p><l>Málaga<s n="np"/><s n="loc"/></l><r>Màlaga<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>Seville<s n="np"/><s n="loc"/></l><r>Sevilla<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>Bretton<b/>Woods<s n="np"/><s n="loc"/></l><r>Bretton<b/>Woods<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
-<e><p><l>El<b/>Correo<s n="np"/><s n="loc"/></l><r>El<b/>Correo<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>El<b/>Correo<s n="np"/><s n="al"/></l><r>El<b/>Correo<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e><p><l>Federal<b/>Republic<b/>of<b/>Germany<s n="np"/><s n="loc"/></l><r>República<b/>Federal<b/>d'Alemanya<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>British<b/>West<b/>Indies<s n="np"/><s n="loc"/></l><r>Antilles<b/>angleses<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 
@@ -43693,6 +43693,7 @@
 <e><p><l>palaeontologist<s n="n"/></l><r>paleontòleg<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>shrew<s n="n"/></l><r>musaranya<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>eggnog<s n="n"/></l><r>ponx<g><b/>d'ou</g><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>space<b/>shuttle<s n="n"/></l><r>transbordador<b/>espacial<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>chessboard<s n="n"/></l><r>tauler<g><b/>d'escacs</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>grandmaster<s n="n"/></l><r>gran<b/>mestre<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>pasteurisation<s n="n"/></l><r>pasteurització<s n="n"/><s n="f"/></r></p></e>

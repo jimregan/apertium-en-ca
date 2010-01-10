@@ -84104,6 +84104,8 @@
 <e lm="fil dental"><p><l>fils<b/>dentals</l><r>fil<b/>dental<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="roba interior"><p><l>roba<b/>interior</l><r>roba<b/>interior<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="roba interior"><p><l>robes<b/>interiors</l><r>roba<b/>interior<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="transbordador espacial"><p><l>transbordador<b/>espacial</l><r>transbordador<b/>espacial<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="transbordador espacial"><p><l>transbordadors<b/>espacials</l><r>transbordador<b/>espacial<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="maldestre"><i>maldestr</i><par n="abstract/e__adj"/></e>
 <e lm="orientat comercialment"><i>orienta</i><par n="afortuna/t__adj"/><p><l><b/>comercialment</l><r><g><b/>comercialment</g></r></p></e>
 <e lm="condensat"><i>condensa</i><par n="afortuna/t__adj"/></e>
@@ -105377,7 +105379,6 @@
 <e lm="Houston"><i>Houston</i><par n="Afganistan__np"/></e>
 <e lm="Iemen"><i>Iemen</i><par n="Afganistan__np"/></e>
 <e lm="Bretton Woods"><i>Bretton<b/>Woods</i><par n="Afganistan__np"/></e>
-<e lm="El Correo"><i>El<b/>Correo</i><par n="Afganistan__np"/></e>
 <e lm="Màlaga"><i>Màlaga</i><par n="Barcelona__np"/></e>
 <e lm="Costa Rica"><i>Costa<b/>Rica</i><par n="Barcelona__np"/></e>
 <e lm="Sevilla"><i>Sevilla</i><par n="Barcelona__np"/></e>
@@ -106144,6 +106145,7 @@
 <e lm="20th Century Fox"><i>20th<b/>Century<b/>Fox</i><par n="ABC__np"/>    </e>
 <e lm="GNU"><i>GNU</i><par n="ABC__np"/></e>
 <e lm="Linux"><i>Linux</i><par n="ABC__np"/></e>
+<e lm="El Correo"><i>El<b/>Correo</i><par n="ABC__np"/></e>
 <e lm="Athletic Club Bilbao"><i>Athletic<b/>Club<b/>Bilbao</i><par n="ABC__np"/></e>
 <e lm="RAID"><i>RAID</i><par n="ABC__np"/></e>
 <e lm="Unix"><i>Unix</i><par n="ABC__np"/></e>
