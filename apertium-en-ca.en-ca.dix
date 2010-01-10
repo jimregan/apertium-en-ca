@@ -7221,7 +7221,7 @@
 <e r="LR">       <p><l>enamoured<s n="adj"/></l>        <r>enamorat<s n="adj"/></r></p></e>
 <e>       <p><l>as<b/>dead<b/>as<b/>a<b/>doornail<s n="adj"/></l>        <r>mort<b/>i<b/>ben<b/>mort<s n="adj"/></r></p></e>
 <e>       <p><l>clumsy<s n="adj"/><s n="sint"/></l>         <r>maldestre<s n="adj"/></r></p></e>
-<e>       <p><l>commercially<b/>orientated<s n="adj"/></l>         <r>orientat<g><b/>comercialment</g><s n="adj"/></r></p></e>
+<e>       <p><l>commercially<b/>oriented<s n="adj"/></l>         <r>orientat<g><b/>comercialment</g><s n="adj"/></r></p></e>
 <e>       <p><l>condensed<s n="adj"/></l>         <r>condensat<s n="adj"/></r></p></e>
 <e>       <p><l>degenerate<s n="adj"/></l>         <r>degenerat<s n="adj"/></r></p></e>
 <e>       <p><l>drowned<s n="adj"/></l>         <r>ofegat<s n="adj"/></r></p></e>
@@ -21987,6 +21987,7 @@
 <e>       <p><l>open<b/>source<s n="n"/></l>             <r>codi<b/>obert<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>early<b/>repayment<s n="n"/></l>             <r>amortització<b/>anticipada<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>international<b/>community<s n="n"/></l>             <r>comunitat<b/>internacional<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>commercially<b/>oriented<b/>domain<s n="n"/></l>             <r>domini<b/>orientat<b/>comercialment<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>peg<s n="n"/></l>                 <r>clàvia<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>dendrochronology<s n="n"/></l>    <r>dendrocronologia<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>basketball<s n="n"/></l>          <r>bàsquet<s n="n"/><s n="m"/></r></p></e>
@@ -43921,8 +43922,8 @@
 <e><p><l>wedding<b/>day<s n="n"/></l><r>dia<g><b/>de<b/>noces</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>headache<s n="n"/></l><r>mal<g><b/>de<b/>cap</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>toothache<s n="n"/></l><r>mal<g><b/>de<b/>queixal</g><s n="n"/><s n="m"/></r></p></e>
-<e><p><l>stomache<b/>ache<s n="n"/></l><r>mal<g><b/>de<b/>panxa</g><s n="n"/><s n="m"/></r></p></e>
-<e r="LR"><p><l>stomache-ache<s n="n"/></l><r>mal<g><b/>de<b/>panxa</g><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>stomach<b/>ache<s n="n"/></l><r>mal<g><b/>de<b/>panxa</g><s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>stomach-ache<s n="n"/></l><r>mal<g><b/>de<b/>panxa</g><s n="n"/><s n="m"/></r></p></e>
 <e>  <p><l>sino-auricular<b/>node<s n="n"/></l><r>node<b/>sinoauricular<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>sinuatrial<b/>node<s n="n"/></l><r>node<b/>sinusal<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>grease<s n="n"/></l><r>greix<s n="n"/><s n="m"/></r></p></e>
