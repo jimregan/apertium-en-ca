@@ -18229,6 +18229,7 @@
 
 
 <e>       <p><l>too<s n="preadv"/></l>            <r>massa<s n="preadv"/></r></p></e>
+<e r="LR">       <p><l>overly<s n="preadv"/></l>            <r>massa<s n="preadv"/></r></p></e>
 
 
 
@@ -18839,6 +18840,7 @@
 <e r="RL"><p><l>the<b/>one<b/>who<s n="rel"/><s n="nn"/><s n="mf"/><s n="sg"/></l><r>el<b/>qui<s n="rel"/><s n="nn"/><s n="f"/><s n="sg"/></r></p></e>
 <e r="LR"><p><l>the<b/>ones<b/>that<s n="rel"/><s n="nn"/><s n="mf"/><s n="pl"/></l><r>el<b/>que<s n="rel"/><s n="nn"/><s n="GD"/><s n="pl"/></r></p></e>
 <e r="LR"><p><l>the<b/>ones<b/>who<s n="rel"/><s n="nn"/><s n="mf"/><s n="pl"/></l><r>el<b/>que<s n="rel"/><s n="nn"/><s n="GD"/><s n="pl"/></r></p></e>
+<e r="LR"><p><l>the<b/>one<b/>which<s n="rel"/><s n="nn"/><s n="mf"/><s n="sg"/></l><r>el<b/>que<s n="rel"/><s n="nn"/><s n="GD"/><s n="sg"/></r></p></e>
 
 
 <e>       <p><l>the<b/>one<s n="prn"/><s n="tn"/><s n="mf"/></l><r>el<s n="prn"/><s n="tn"/><s n="m"/></r></p></e>
@@ -44094,8 +44096,9 @@
 <e><p><l>hardness<s n="n"/></l><r>duresa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>groove<s n="n"/></l><r>solc<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>torsion<s n="n"/></l><r>torsió<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>chess<s n="n"/><s n="sg"/></l><r>escac<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-<e r="RL"><p><l>chess<s n="n"/><s n="sg"/></l><r>escac<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e r="LR"><p><l>chess<s n="n"/><s n="pl"/></l><r>escac<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e><p><l>chess<s n="n"/><s n="sg"/></l><r>escac<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e r="RL"><p><l>chess<s n="n"/><s n="sg"/></l><r>escac<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e><p><l>checkmate<s n="n"/><s n="sg"/></l><r>escac<b/>i<b/>mat<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e r="LR"><p><l>checkmate<s n="n"/><s n="pl"/></l><r>escac<b/>i<b/>mat<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e><p><l>rook<s n="n"/></l><r>torre<s n="n"/><s n="f"/></r></p></e>
@@ -44292,7 +44295,8 @@
 <e><p><l>anti-inflammatory<s n="n"/></l><r>antiinflamatori<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>dehumidifier<s n="n"/></l><r>deshumidificador<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>anaesthetic<s n="n"/></l><r>anestèsic<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>lack<g><b/>of<b/>respect</g><s n="n"/></l><r>falta<g><b/>de<b/>respecte</g><s n="n"/><s n="f"/></r></p></e>
+<e><p><l>disrespect<s n="n"/></l><r>falta<g><b/>de<b/>respecte</g><s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>lack<g><b/>of<b/>respect</g><s n="n"/></l><r>falta<g><b/>de<b/>respecte</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>validity<s n="n"/></l><r>validesa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>irreversibility<s n="n"/></l><r>irreversibilitat<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>astrophysicist<s n="n"/></l><r>astrofísic<s n="n"/><s n="GD"/></r></p></e>
