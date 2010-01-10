@@ -9170,7 +9170,7 @@
 
 
 
-<e>       <p><l>at<b/>face<b/>value<s n="adv"/></l><r>al<b/>peu<b/>de<b/>la<b/>lletra<s n="adv"/></r></p></e>
+<e r="LR">       <p><l>at<b/>face<b/>value<s n="adv"/></l><r>al<b/>peu<b/>de<b/>la<b/>lletra<s n="adv"/></r></p></e>
 
 
 
@@ -9394,7 +9394,7 @@
 
 <e><p><l>in<b/>this<b/>case<s n="adv"/></l><r>en<b/>aquest<b/>cas<s n="adv"/></r></p></e>
 <e><p><l>bomb-proof<s n="adv"/></l><r>a<b/>prova<b/>de<b/>bombes<s n="adv"/></r></p></e>
-<e><p><l>by<b/>plane<s n="adv"/></l><r>per<b/>avió<s n="adv"/></r></p></e>
+<e r="LR"><p><l>by<b/>plane<s n="adv"/></l><r>per<b/>avió<s n="adv"/></r></p></e>
 <e><p><l>in<b/>bad<b/>faith<s n="adv"/></l><r>de<b/>mala<b/>fe<s n="adv"/></r></p></e>
 <e><p><l>in<b/>great<b/>quantity<s n="adv"/></l><r>en<b/>gran<b/>quantitat<s n="adv"/></r></p></e>
 <e><p><l>in<b/>the<b/>middle<b/>of<b/>nowhere<s n="adv"/></l><r>enmig<b/>del<b/>no-res<s n="adv"/></r></p></e>
@@ -14889,7 +14889,7 @@
 
 
 
-<e>       <p><l>for<b/>heaven's<b/>sake<s n="adv"/></l><r>per<b/>l'amor<b/>de<b/>Déu<s n="adv"/></r></p></e>
+<e r="LR">       <p><l>for<b/>heaven's<b/>sake<s n="adv"/></l><r>per<b/>l'amor<b/>de<b/>Déu<s n="adv"/></r></p></e>
 
 
 
@@ -28507,7 +28507,7 @@
 <e>       <p><l>anemometry<s n="n"/></l>          <r>anemometria<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>narcotic<s n="n"/></l>            <r>narcòtic<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>kaolinite<s n="n"/></l>           <r>caolinita<s n="n"/><s n="f"/></r></p></e>
-<e>       <p><l>liquor<s n="n"/></l>              <r>licor<s n="n"/><s n="m"/></r></p></e>
+<e vl="en_US">       <p><l>liquor<s n="n"/></l>              <r>licor<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>sylviculture<s n="n"/></l>        <r>silvicultura<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>symphony<s n="n"/></l>            <r>simfonia<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>sullenness<s n="n"/></l>          <r>sorruderia<s n="n"/><s n="f"/></r></p></e>
@@ -29851,8 +29851,7 @@
 <e>       <p><l>semi-minor<b/>axis<s n="n"/></l>           <r>semieix<b/>menor<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>Tasmania<s n="np"/><s n="loc"/></l>           <r>Tasmània<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e r="RL">       <p><l>landslide<s n="n"/></l>           <r>lliscament<g><b/>de<b/>terres</g><s n="n"/><s n="m"/></r></p></e>
-<e r="RL">       <p><l>landslide<s n="n"/></l>           <r>esllavissada<s n="n"/><s n="f"/></r></p></e>
-<e>       <p><l>landslide<s n="n"/></l>           <r>ensulsiada<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>landslide<s n="n"/></l>           <r>esllavissada<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>Avogadro<b/>constant<s n="n"/></l>           <r>nombre<g><b/>d'Avogadro</g><s n="n"/><s n="m"/></r></p></e>
 <e r="LR">       <p><l>Avogadro<b/>number<s n="n"/></l>           <r>nombre<g><b/>d'Avogadro</g><s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>Planck's<b/>constant<s n="n"/></l>           <r>constant<g><b/>de<b/>Planck</g><s n="n"/><s n="f"/></r></p></e>
@@ -43672,7 +43671,7 @@
 <e><p><l>regularisation<s n="n"/></l><r>regularització<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>reorganisation<s n="n"/></l><r>reorganització<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>revitalisation<s n="n"/></l><r>revitalització<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>patron<b/>saint<s n="n"/></l><r>patró<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>patron<b/>saint<s n="n"/></l><r>patró<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>secularisation<s n="n"/></l><r>secularització<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>seducer<s n="n"/></l><r>seductor<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>seductress<s n="n"/></l><r>seductor<s n="n"/><s n="f"/></r></p></e>
@@ -43973,7 +43972,7 @@
 <e><p><l>photocopier<s n="n"/></l><r>fotocopiadora<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>mailbox<s n="n"/></l><r>bústia<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>lunchroom<s n="n"/></l><r>menjador<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>crib<s n="n"/></l><r>bressol<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>crib<s n="n"/></l><r>bressol<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>fog<s n="n"/></l><r>boira<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>hose<s n="n"/></l><r>mànega<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>soda<s n="n"/></l><r>refresc<s n="n"/><s n="m"/></r></p></e>
@@ -44019,7 +44018,7 @@
 <e r="LR"><p><l>visigoth<s n="n"/></l><r>visigot<s n="n"/><s n="GD"/></r></p></e>
 <e><p><l>wax<s n="n"/></l><r>cera<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>plague<s n="n"/></l><r>pesta<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>amusement<s n="n"/></l><r>distracció<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>amusement<s n="n"/></l><r>distracció<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>rod<s n="n"/></l><r>vareta<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>parcel<s n="n"/></l><r>paquet<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>zip<s n="n"/></l><r>cremallera<s n="n"/><s n="f"/></r></p></e>
@@ -44033,10 +44032,10 @@
 <e><p><l>pizza<s n="n"/></l><r>pizza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>font<s n="n"/></l><r>font<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>ratchet<s n="n"/></l><r>trinquet<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>infringement<s n="n"/></l><r>contravenció<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>infringement<s n="n"/></l><r>contravenció<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>incursion<s n="n"/></l><r>incursió<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>indentation<s n="n"/></l><r>sagnia<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>inequity<s n="n"/></l><r>injustícia<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>inequity<s n="n"/></l><r>injustícia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>ingestion<s n="n"/></l><r>ingestió<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>toenail<s n="n"/></l><r>ungla<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>interchange<s n="n"/></l><r>intercanvi<s n="n"/><s n="m"/></r></p></e>
@@ -44049,12 +44048,12 @@
 <e r="RL"><p><l>labourer<s n="n"/></l><r>peó<s n="n"/></r></p></e>
 <e><p><l>liaison<s n="n"/></l><r>enllaç<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>linkage<s n="n"/></l><r>connexió<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>liqueur<s n="n"/></l><r>licor<s n="n"/><s n="m"/></r></p></e>
+<e vl="en_GB"><p><l>liqueur<s n="n"/></l><r>licor<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>quartz<s n="n"/></l><r>quars<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="RL"><p><l>quartz<s n="n"/><s n="ND"/></l><r>quars<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>loyalty<s n="n"/></l><r>lleialtat<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>manservant<s n="n"/></l><r>servent<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>memorial<s n="n"/></l><r>monument<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>memorial<s n="n"/></l><r>monument<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>mentor<s n="n"/></l><r>mentor<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>mentor<s n="n"/></l><r>mentor<s n="n"/></r></p></e>
 <e r="LR"><p><l>tutor<s n="n"/></l><r>tutor<s n="n"/><s n="GD"/></r></p></e>
@@ -44082,7 +44081,7 @@
 <e><p><l>idiosyncrasy<s n="n"/></l><r>idiosincràsia<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>novice<s n="n"/></l><r>novençà<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>novice<s n="n"/></l><r>novençà<s n="n"/></r></p></e>
-<e><p><l>openness<s n="n"/></l><r>transparència<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>openness<s n="n"/></l><r>transparència<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>brimstone<s n="n"/></l><r>sofre<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>chalk<s n="n"/></l><r>guix<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>cashier<s n="n"/></l><r>caixer<s n="n"/><s n="GD"/></r></p></e>
@@ -44868,13 +44867,13 @@
 <e r="LR"><p><l>enough<b/>and<b/>to<b/>spare<s n="adv"/></l><r>de<b/>sobres<s n="adv"/></r></p></e>
 <e><p><l>first<b/>come,<b/>first<b/>served<s n="adv"/></l><r>per<b/>ordre<b/>d'arribada<s n="adv"/></r></p></e>
 <e><p><l>for<b/>God's<b/>sake<s n="adv"/></l><r>per<b/>l'amor<b/>de<b/>Déu<s n="adv"/></r></p></e>
-<e><p><l>for<b/>the<b/>sake<b/>of<b/>God<s n="adv"/></l><r>per<b/>l'amor<b/>de<b/>Déu<s n="adv"/></r></p></e>
+<e r="LR"><p><l>for<b/>the<b/>sake<b/>of<b/>God<s n="adv"/></l><r>per<b/>l'amor<b/>de<b/>Déu<s n="adv"/></r></p></e>
 <e><p><l>for<b/>example<s n="adv"/></l><r>per<b/>exemple<s n="adv"/></r></p></e>
 <e><p><l>for<b/>now<s n="adv"/></l><r>ara<b/>com<b/>ara<s n="adv"/></r></p></e>
 <e><p><l>for<b/>one<b/>reason<b/>or<b/>another<s n="adv"/></l><r>per<b/>una<b/>raó<b/>o<b/>una<b/>altra<s n="adv"/></r></p></e>
 <e><p><l>for<b/>some<b/>time<b/>now<s n="adv"/></l><r>d'un<b/>temps<b/>a<b/>ara<s n="adv"/></r></p></e>
 <e><p><l>for<b/>many<b/>years<s n="adv"/></l><r>des<b/>de<b/>fa<b/>molts<b/>anys<s n="adv"/></r></p></e>
-<e><p><l>for<b/>sure<s n="adv"/></l><r>segur<s n="adv"/></r></p></e>
+<e r="LR"><p><l>for<b/>sure<s n="adv"/></l><r>segur<s n="adv"/></r></p></e>
 <e><p><l>from<b/>bad<b/>to<b/>worse<s n="adv"/></l><r>com<b/>més<b/>va<b/>pitjor<s n="adv"/></r></p></e>
 <e><p><l>gropingly<s n="adv"/></l><r>a<b/>les<b/>palpentes<s n="adv"/></r></p></e>
 <e><p><l>in<b/>a<b/>blink<b/>of<b/>the<b/>eye<s n="adv"/></l><r>en<b/>un<b/>obrir<b/>i<b/>tancar<b/>d'ulls<s n="adv"/></r></p></e>
@@ -44910,7 +44909,7 @@
 <e><p><l>experimentally<s n="adv"/></l><r>experimentalment<s n="adv"/></r></p></e>
 <e><p><l>incoherently<s n="adv"/></l><r>incoherentment<s n="adv"/></r></p></e>
 <e r="LR"><p><l>indubitably<s n="adv"/></l><r>indubtablement<s n="adv"/></r></p></e>
-<e><p><l>instantaneously<s n="adv"/></l><r>instantàniament<s n="adv"/></r></p></e>
+<e r="LR"><p><l>instantaneously<s n="adv"/></l><r>instantàniament<s n="adv"/></r></p></e>
 <e><p><l>admirably<s n="adv"/></l><r>admirablement<s n="adv"/></r></p></e>
 <e><p><l>intrinsically<s n="adv"/></l><r>intrínsecament<s n="adv"/></r></p></e>
 <e><p><l>irresponsibly<s n="adv"/></l><r>irresponsablement<s n="adv"/></r></p></e>
@@ -45917,7 +45916,6 @@
 <e slr="passar" srl="spend"><p><l>spend<s n="vblex"/></l><r>passar<s n="vblex"/></r></p></e>
 <e slr="passatge D"><p><l>passage<s n="n"/></l>   <r>passatge<s n="n"/><s n="m"/></r></p></e>
 <e slr="pati"><p><l>yard<s n="n"/></l> <r>pati<s n="n"/><s n="m"/></r></p></e>
-<e slr="patró"><p><l>master<s n="n"/></l><r>patró<s n="n"/><s n="m"/></r></p></e>
 <e slr="pebre D"><p><l>pepper<s n="n"/></l>       <r>pebre<s n="n"/><s n="m"/></r></p></e>
 <e slr="pebrot"><p><l>pepper<s n="n"/></l>        <r>pebrot<s n="n"/><s n="m"/></r></p></e>
 <e slr="pedra D"><p><l>stone<s n="n"/></l>        <r>pedra<s n="n"/><s n="f"/></r></p></e>
@@ -46490,7 +46488,7 @@
 <e srl="share"><p><l>share<s n="n"/></l>          <r>participació<s n="n"/><s n="f"/></r></p></e>
 
 <e srl="pattern D"><p><l>pattern<s n="n"/></l>    <r>patró<s n="n"/><s n="m"/></r></p></e>
-<e srl="master"><p><l>master<s n="n"/></l><r>patró<s n="n"/><s n="m"/></r></p></e>
+<e slr="patró" srl="master"><p><l>master<s n="n"/></l><r>patró<s n="n"/><s n="m"/></r></p></e>
 
 <e srl="penalty D"><p><l>penalty<s n="n"/></l>    <r>pena<s n="n"/><s n="f"/></r></p></e>
 <e r="RL" srl="pity"><p><l>pity<s n="n"/></l>     <r>pena<s n="n"/><s n="f"/></r></p></e>
