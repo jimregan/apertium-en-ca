@@ -6745,6 +6745,37 @@
       </e>
     </pardef>
 
+<pardef n="fen/ici__n">
+      
+      <e>
+        <p>
+          <l>ícies</l>
+          <r>ici<s n="n"/><s n="f"/><s n="pl"/></r>
+        </p>
+      </e>
+      
+      <e>
+        <p>
+          <l>ícia</l>
+          <r>ici<s n="n"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      
+      <e>
+        <p>
+          <l>icis</l>
+          <r>ici<s n="n"/><s n="m"/><s n="pl"/></r>
+        </p>
+      </e>
+      
+      <e>
+        <p>
+          <l>ici</l>
+          <r>ici<s n="n"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+    </pardef>
+
 
    <pardef n="accionist/a__n">
       
@@ -83605,6 +83636,7 @@
 <e lm="onomatopeic"><i>onomatopei</i><par n="acadèmi/c__adj"/></e>
 
 <e lm="neutre"><i>neutr</i><par n="adept/e__adj"/></e>
+<e lm="mestre"><i>mestr</i><par n="adept/e__adj"/></e>
 
 <e lm="similar"><i>similar</i><par n="abdominal__adj"/></e>
 
@@ -84068,6 +84100,8 @@
 <e lm="domini orientat comercialment"><p><l>dominis<b/>orientats<b/>comercialment</l><r>domini<b/>orientat<b/>comercialment<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="gran mestre"><p><l>gran<b/>mestre</l><r>gran<b/>mestre<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="gran mestre"><p><l>grans<b/>mestres</l><r>gran<b/>mestre<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="fil dental"><p><l>fil<b/>dental</l><r>fil<b/>dental<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="fil dental"><p><l>fils<b/>dentals</l><r>fil<b/>dental<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="maldestre"><i>maldestr</i><par n="abstract/e__adj"/></e>
 <e lm="orientat comercialment"><i>orienta</i><par n="afortuna/t__adj"/><p><l><b/>comercialment</l><r><g><b/>comercialment</g></r></p></e>
 <e lm="condensat"><i>condensa</i><par n="afortuna/t__adj"/></e>
@@ -92599,6 +92633,7 @@
 <e lm="fill de puta"><i>fill</i><par n="abric__n"/><p><l><b/>de<b/>puta</l><r><g><b/>de<b/>puta</g></r></p></e>
 <e lm="final"><i>final</i><par n="abric__n"/></e>
 <e lm="final"><i>final</i><par n="accessibilitat__n"/></e>
+<e lm="semifinal"><i>semifinal</i><par n="accessibilitat__n"/></e>
 <e lm="finestra"><i>finestr</i><par n="abell/a__n"/></e>
 <e lm="foc"><i>foc</i><par n="abric__n"/></e>
 <e lm="fons"><i>fons</i><par n="campus__n"/></e>
@@ -92696,6 +92731,7 @@
 <e lm="llibertat de culte"><i>llibertat</i><par n="accessibilitat__n"/><p><l><b/>de<b/>culte</l><r><g><b/>de<b/>culte</g></r></p></e>
 <e lm="llibre"><i>llibre</i><par n="abric__n"/></e>
 <e lm="llista"><i>llist</i><par n="abell/a__n"/></e>
+<e lm="llista de control"><i>llist</i><par n="abell/a__n"/><p><l><b/>de<b/>control</l><r><g><b/>de<b/>control</g></r></p></e>
 <e lm="llit"><i>llit</i><par n="abric__n"/></e>
 <e lm="lloguer"><i>lloguer</i><par n="abric__n"/></e>
 <e lm="llum" c="això és 'llum' en femení, falta en masculí"><i>llum</i><par n="accessibilitat__n"/></e>
@@ -92945,6 +92981,7 @@
 <e lm="sentiment"><i>sentiment</i><par n="abric__n"/></e>
 <e lm="sentit"><i>sentit</i><par n="abric__n"/></e>
 <e lm="senyor"><i>senyor</i><par n="senyor__n"/></e>
+<e lm="fenici"><i>fen</i><par n="fen/ici__n"/></e>
 <e lm="sèrie"><i>sèrie</i><par n="accessibilitat__n"/></e>
 <e lm="servei"><i>servei</i><par n="abric__n"/></e>
 <e lm="setembre"><i>setembre</i><par n="abric__n"/></e>
@@ -93414,6 +93451,7 @@
 <e lm="cuiner"><i>cuiner</i><par n="senyor__n"/></e>
 <e lm="cuina"><i>cuin</i><par n="abell/a__n"/></e>
 <e lm="còpia"><i>còpi</i><par n="abell/a__n"/></e>
+<e lm="còpia de seguretat"><i>còpi</i><par n="abell/a__n"/><p><l><b/>de<b/>seguretat</l><r><g><b/>de<b/>seguretat</g></r></p></e>
 <e lm="exemplar"><i>exemplar</i><par n="abric__n"/></e>
 <e lm="nucli"><i>nucli</i><par n="abric__n"/></e>
 <e lm="cantonada"><i>cantonad</i><par n="abell/a__n"/></e>
@@ -93807,10 +93845,12 @@
 <e lm="ferro"><i>ferro</i><par n="abric__n"/></e>
 <e lm="funda"><i>fund</i><par n="abell/a__n"/></e>
 <e lm="jaqueta"><i>jaquet</i><par n="abell/a__n"/></e>
+<e lm="branqueta"><i>branquet</i><par n="abell/a__n"/></e>
 <e lm="embós"><i>emb</i><par n="calab/ós__n"/></e>
 <e lm="embús"><i>emb</i><par n="ab/ús__n"/></e>
 <e lm="melmelada"><i>melmelad</i><par n="abell/a__n"/></e>
 <e lm="texans"><i>texans</i><par n="afores__n"/></e>
+<e lm="bifocals"><i>bifocals</i><par n="afores__n"/></e>
 <e lm="gelea"><i>gele</i><par n="abell/a__n"/></e>
 <e lm="joia"><i>joi</i><par n="abell/a__n"/></e>
 <e lm="articulació"><i>articulaci</i><par n="acci/ó__n"/></e>
@@ -102158,7 +102198,7 @@
 <e lm="desinència"><i>desinènci</i><par n="abell/a__n"/></e>
 <e lm="autodefensa"><i>autodefens</i><par n="abell/a__n"/></e>
 <e lm="evolvent"><i>evolvent</i><par n="accessibilitat__n"/></e>
-<e lm="estepa"><i>estepa</i><par n="fi__n"/></e>
+<e lm="estepa"><i>estep</i><par n="abell/a__n"/></e>
 <e lm="col·licle"><i>col·licle</i><par n="abric__n"/></e>
 <e lm="col·licle" r="LR"><p><l>coŀlicle</l><r>col·licle</r></p><par n="abric__n"/></e>
 <e lm="polariscopi"><i>polariscopi</i><par n="abric__n"/></e>
@@ -117479,6 +117519,7 @@
 <e lm="cordó"><i>cord</i><par n="aband/ó__n"/></e>
 <e lm="dessuadora"><i>dessuador</i><par n="abell/a__n"/></e>
 <e lm="farmaciola"><i>farmaciol</i><par n="abell/a__n"/></e>
+<e lm="farmaciola de primers auxilis"><i>farmaciol</i><par n="abell/a__n"/><p><l><b/>de<b/>primers<b/>auxilis</l><r><g><b/>de<b/>primers<b/>auxilis</g></r></p></e>
 <e lm="actualització"><i>actualitzaci</i><par n="acci/ó__n"/></e>
 <e lm="propagació"><i>propagaci</i><par n="acci/ó__n"/></e>
 <e lm="pi"><i>pi</i><par n="pa__n"/></e>

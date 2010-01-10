@@ -1012,6 +1012,7 @@
 <e>       <p><l>onomatopoeic<s n="adj"/></l>      <r>onomatopeic<s n="adj"/></r></p></e>
 
 <e r="LR"><p><l>neuter<s n="adj"/></l>            <r>neutre<s n="adj"/></r></p></e>
+<e><p><l>master<s n="adj"/></l>            <r>mestre<s n="adj"/></r></p></e>
 
 <e>       <p><l>similar<s n="adj"/></l>           <r>similar<s n="adj"/><s n="mf"/></r></p></e>
 
@@ -19154,6 +19155,7 @@
 <e>       <p><l>election<s n="n"/></l>            <r>elecció<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>element<s n="n"/></l>             <r>element<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>end<s n="n"/></l>                 <r>final<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>semifinal<s n="n"/></l>                 <r>semifinal<s n="n"/><s n="f"/></r></p></e>
 <e r="RL" c="faltaria posar 'fi' masculí que es tradueix per 'aim'"><p><l>end<s n="n"/></l><r>fi<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>energy<s n="n"/></l>              <r>energia<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>enterprise<s n="n"/></l>          <r>empresa<s n="n"/><s n="f"/></r></p></e>
@@ -43677,6 +43679,8 @@
 <e r="RL"><p><l>adventurer<s n="n"/></l><r>aventurer<s n="n"/></r></p></e>
 <e r="LR"><p><l>albino<s n="n"/></l><r>albí<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>albino<s n="n"/></l><r>albí<s n="n"/></r></p></e>
+<e r="LR"><p><l>phoenician<s n="n"/></l><r>fenici<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>phoenician<s n="n"/></l><r>fenici<s n="n"/></r></p></e>
 <e vl="en_GB"><p><l>pyjamas<s n="n"/></l><r>pijama<s n="n"/><s n="m"/></r></p></e>
 <e vl="en_US"><p><l>pajamas<s n="n"/></l>             <r>pijama<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>palaeontologist<s n="n"/></l><r>paleontòleg<s n="n"/><s n="m"/></r></p></e>
@@ -44176,7 +44180,10 @@
 <e><p><l>cord<s n="n"/></l><r>cordó<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>sweatshirt<s n="n"/></l><r>dessuadora<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>kit<s n="n"/></l><r>caixa<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>medicine cabinet<s n="n"/></l><r>farmaciola<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>medicine<b/>cabinet<s n="n"/></l><r>farmaciola<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>first-aid<b/>kit<s n="n"/></l><r>farmaciola<g><b/>de<b/>primers<b/>auxilis</g><s n="n"/><s n="f"/></r></p></e>
+<e><p><l>dental<b/>floss<s n="n"/></l><r>fil<b/>dental<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>backup<s n="n"/></l><r>còpia<g><b/>de<b/>seguretat</g><s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>balm<s n="n"/></l><r>bàlsam<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>badge<s n="n"/></l><r>placa<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>torch<s n="n"/></l><r>llanterna<s n="n"/><s n="f"/></r></p></e>
@@ -44295,6 +44302,8 @@
 <e><p><l>anti-inflammatory<s n="n"/></l><r>antiinflamatori<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>dehumidifier<s n="n"/></l><r>deshumidificador<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>anaesthetic<s n="n"/></l><r>anestèsic<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>bifocals<s n="n"/></l><r>bifocals<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>twig<s n="n"/></l><r>branqueta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>disrespect<s n="n"/></l><r>falta<g><b/>de<b/>respecte</g><s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>lack<g><b/>of<b/>respect</g><s n="n"/></l><r>falta<g><b/>de<b/>respecte</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>validity<s n="n"/></l><r>validesa<s n="n"/><s n="f"/></r></p></e>
