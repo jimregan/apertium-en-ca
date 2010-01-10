@@ -36247,8 +36247,9 @@
 <e r="LR"><p><l>Mitterrand<s n="np"/><s n="cog"/><s n="pl"/></l><r>Mitterrand<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
 <e>       <p><l>Molony<s n="np"/><s n="cog"/><s n="sg"/></l><r>Molony<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>Molony<s n="np"/><s n="cog"/><s n="pl"/></l><r>Molony<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
-<e>       <p><l>Molotov<s n="np"/><s n="cog"/><s n="sg"/></l><r>Molotov<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
-<e r="LR"><p><l>Molotov<s n="np"/><s n="cog"/><s n="pl"/></l><r>Molotov<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
+<e r="RL">       <p><l>Molotov<s n="np"/><s n="cog"/><s n="sg"/></l><r>Molotov<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>Molotov<s n="np"/><s n="cog"/><s n="sg"/></l><r>Mólotov<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
+<e r="LR"><p><l>Molotov<s n="np"/><s n="cog"/><s n="pl"/></l><r>Mólotov<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
 <e>       <p><l>Monet<s n="np"/><s n="cog"/><s n="sg"/></l><r>Monet<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>Monet<s n="np"/><s n="cog"/><s n="pl"/></l><r>Monet<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
 <e>       <p><l>Moore<s n="np"/><s n="cog"/><s n="sg"/></l><r>Moore<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -36599,8 +36600,9 @@
 <e r="LR"><p><l>Yang<s n="np"/><s n="cog"/><s n="pl"/></l><r>Yang<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
 <e>       <p><l>Yanukovych<s n="np"/><s n="cog"/><s n="sg"/></l><r>Yanukovych<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>Yanukovych<s n="np"/><s n="cog"/><s n="pl"/></l><r>Yanukovych<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
-<e>       <p><l>Yeltsin<s n="np"/><s n="cog"/><s n="sg"/></l><r>Yeltsin<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
-<e r="LR"><p><l>Yeltsin<s n="np"/><s n="cog"/><s n="pl"/></l><r>Yeltsin<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
+<e r="LR">       <p><l>Yeltsin<s n="np"/><s n="cog"/><s n="sg"/></l><r>Yeltsin<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>Yeltsin<s n="np"/><s n="cog"/><s n="sg"/></l><r>Ieltsin<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
+<e r="LR"><p><l>Yeltsin<s n="np"/><s n="cog"/><s n="pl"/></l><r>Ieltsin<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
 <e>       <p><l>Young<s n="np"/><s n="cog"/><s n="sg"/></l><r>Young<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>Young<s n="np"/><s n="cog"/><s n="pl"/></l><r>Young<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
 <e>       <p><l>Yushchenko<s n="np"/><s n="cog"/><s n="sg"/></l><r>Yushchenko<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -37452,7 +37454,7 @@
 <e><p><l>Cosme<s n="np"/></l><r>Cosme<s n="np"/></r></p></e>
 <e><p><l>Costantino<s n="np"/></l><r>Costantino<s n="np"/></r></p></e>
 <e><p><l>Costanzo<s n="np"/></l><r>Costanzo<s n="np"/></r></p></e>
-<e><p><l>Count Dracula<s n="np"/></l><r>Count Dracula<s n="np"/></r></p></e>
+<e><p><l>Count<b/>Dracula<s n="np"/></l><r>comte<b/>Dràcula<s n="np"/></r></p></e>
 <e><p><l>Craig<s n="np"/></l><r>Craig<s n="np"/></r></p></e>
 <e><p><l>Crecenio<s n="np"/></l><r>Crecenio<s n="np"/></r></p></e>
 <e><p><l>Crescencio<s n="np"/></l><r>Crescencio<s n="np"/></r></p></e>
@@ -37675,7 +37677,8 @@
 <e><p><l>Dositeo<s n="np"/></l><r>Dositeo<s n="np"/></r></p></e>
 <e><p><l>Doug<s n="np"/></l><r>Doug<s n="np"/></r></p></e>
 <e><p><l>Douglas<s n="np"/></l><r>Douglas<s n="np"/></r></p></e>
-<e><p><l>Dracula<s n="np"/></l><r>Dracula<s n="np"/></r></p></e>
+<e r="RL"><p><l>Dracula<s n="np"/></l><r>Dracula<s n="np"/></r></p></e>
+<e><p><l>Dracula<s n="np"/></l><r>Dràcula<s n="np"/></r></p></e>
 <e><p><l>Drago<s n="np"/></l><r>Drago<s n="np"/></r></p></e>
 <e><p><l>Drake<s n="np"/></l><r>Drake<s n="np"/></r></p></e>
 <e><p><l>Draven<s n="np"/></l><r>Draven<s n="np"/></r></p></e>
@@ -40052,17 +40055,17 @@
 <e><p><l>Viviano<s n="np"/></l><r>Viviano<s n="np"/></r></p></e>
 <e><p><l>Vivien<s n="np"/></l><r>Vivien<s n="np"/></r></p></e>
 <e><p><l>Vlad<s n="np"/></l><r>Vlad<s n="np"/></r></p></e>
-<e><p><l>Vlad Dracula<s n="np"/></l><r>Vlad Dracula<s n="np"/></r></p></e>
-<e><p><l>Vlad Dracula Tepes<s n="np"/></l><r>Vlad Dracula Tepes<s n="np"/></r></p></e>
-<e><p><l>Vlad III Dracula<s n="np"/></l><r>Vlad III Dracula<s n="np"/></r></p></e>
-<e><p><l>Vlad III the Impaler<s n="np"/></l><r>Vlad III the Impaler<s n="np"/></r></p></e>
+<e><p><l>Vlad<b/>Dracula<s n="np"/></l><r>Vlad<b/>Dràcula<s n="np"/></r></p></e>
+<e><p><l>Vlad<b/>Dracula<b/>Tepes<s n="np"/></l><r>Vlad<b/>Dràcula<b/>Tepes<s n="np"/></r></p></e>
+<e><p><l>Vlad<b/>III<b/>Dracula<s n="np"/></l><r>Vlad<b/>III<b/>Dràcula<s n="np"/></r></p></e>
+<e><p><l>Vlad<b/>III<b/>the<b/>Impaler<s n="np"/></l><r>Vlad<b/>III<b/>l'Empalador<s n="np"/></r></p></e>
 <e><p><l>Vladimir<s n="np"/></l><r>Vladimir<s n="np"/></r></p></e>
 <e><p><l>Vladimiro<s n="np"/></l><r>Vladimiro<s n="np"/></r></p></e>
-<e><p><l>Vlad Tepes<s n="np"/></l><r>Vlad Tepes<s n="np"/></r></p></e>
-<e><p><l>Vlad the Impaler<s n="np"/></l><r>Vlad the Impaler<s n="np"/></r></p></e>
+<e><p><l>Vlad<b/>Tepes<s n="np"/></l><r>Vlad<b/>Tepes<s n="np"/></r></p></e>
+<e><p><l>Vlad<b/>the<b/>Impaler<s n="np"/></l><r>Vlad<b/>l'Empalador<s n="np"/></r></p></e>
 <e><p><l>Vulpiano<s n="np"/></l><r>Vulpiano<s n="np"/></r></p></e>
-<e><p><l>Vyacheslav Mikhailovich Molotov<s n="np"/></l><r>Vyacheslav Mikhailovich Molotov<s n="np"/></r></p></e>
-<e><p><l>Vyacheslav<b/>Molotov<s n="np"/></l><r>Vyacheslav<b/>Molotov<s n="np"/></r></p></e>
+<e><p><l>Vyacheslav<b/>Mikhailovich<b/>Molotov<s n="np"/></l><r>Viatxeslav<b/>Mikhàilovitx<b/>Mólotov<s n="np"/></r></p></e>
+<e><p><l>Vyacheslav<b/>Molotov<s n="np"/></l><r>Viatxeslav<b/>Mólotov<s n="np"/></r></p></e>
 <e><p><l>Wade<s n="np"/></l><r>Wade<s n="np"/></r></p></e>
 <e><p><l>Wady<s n="np"/></l><r>Wady<s n="np"/></r></p></e>
 <e><p><l>Walberto<s n="np"/></l><r>Walberto<s n="np"/></r></p></e>

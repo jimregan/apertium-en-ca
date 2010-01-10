@@ -110218,6 +110218,7 @@
 <e lm="Mitterrand"><i>Mitterrand</i><par n="Garcia__np"/></e>
 <e lm="Molony"><i>Molony</i><par n="Garcia__np"/></e>
 <e lm="Molotov"><i>Molotov</i><par n="Garcia__np"/></e>
+<e lm="Mólotov"><i>Mólotov</i><par n="Garcia__np"/></e>
 <e lm="Monet"><i>Monet</i><par n="Garcia__np"/></e>
 <e lm="Moore"><i>Moore</i><par n="Garcia__np"/></e>
 <e lm="Moran"><i>Moran</i><par n="Garcia__np"/></e>
@@ -110394,6 +110395,7 @@
 <e lm="Yang"><i>Yang</i><par n="Garcia__np"/></e>
 <e lm="Yanukovych"><i>Yanukovych</i><par n="Garcia__np"/></e>
 <e lm="Yeltsin"><i>Yeltsin</i><par n="Garcia__np"/></e>
+<e lm="Ieltsin"><i>Ieltsin</i><par n="Garcia__np"/></e>
 <e lm="Young"><i>Young</i><par n="Garcia__np"/></e>
 <e lm="Yushchenko"><i>Yushchenko</i><par n="Garcia__np"/></e>
 <e lm="Zabaleta"><i>Zabaleta</i><par n="Garcia__np"/></e>
@@ -111239,7 +111241,7 @@
 <e lm="Cosme"><i>Cosme</i><par n="Marc__np"/></e>
 <e lm="Costantino"><i>Costantino</i><par n="Marc__np"/></e>
 <e lm="Costanzo"><i>Costanzo</i><par n="Marc__np"/></e>
-<e lm="Count Dracula"><i>Count Dracula</i><par n="Marc__np"/></e>
+<e lm="comte Dràcula"><i>comte<b/>Dràcula</i><par n="Marc__np"/></e>
 <e lm="Craig"><i>Craig</i><par n="Marc__np"/></e>
 <e lm="Crecenio"><i>Crecenio</i><par n="Marc__np"/></e>
 <e lm="Crescencio"><i>Crescencio</i><par n="Marc__np"/></e>
@@ -111462,6 +111464,7 @@
 <e lm="Doug"><i>Doug</i><par n="Marc__np"/></e>
 <e lm="Douglas"><i>Douglas</i><par n="Marc__np"/></e>
 <e lm="Dracula"><i>Dracula</i><par n="Marc__np"/></e>
+<e lm="Dràcula"><i>Dràcula</i><par n="Marc__np"/></e>
 <e lm="Drago"><i>Drago</i><par n="Marc__np"/></e>
 <e lm="Drake"><i>Drake</i><par n="Marc__np"/></e>
 <e lm="Draven"><i>Draven</i><par n="Marc__np"/></e>
@@ -112904,7 +112907,7 @@
 <e lm="Michelangelo"><i>Michelangelo</i><par n="Marc__np"/></e>
 <e lm="Michele"><i>Michele</i><par n="Marc__np"/></e>
 <e lm="Mickey"><i>Mickey</i><par n="Marc__np"/></e>
-<e lm="Miguel de los Santos"><i>Miguel de los Santos</i><par n="Marc__np"/></e>
+<e lm="Miguel de los Santos"><i>Miguel<b/>de<b/>los<b/>Santos</i><par n="Marc__np"/></e>
 <e lm="Mikel"><i>Mikel</i><par n="Marc__np"/></e>
 <e lm="Mikhail"><i>Mikhail</i><par n="Marc__np"/></e>
 <e lm="Milad"><i>Milad</i><par n="Marc__np"/></e>
@@ -113838,17 +113841,17 @@
 <e lm="Viviano"><i>Viviano</i><par n="Marc__np"/></e>
 <e lm="Vivien"><i>Vivien</i><par n="Marc__np"/></e>
 <e lm="Vlad"><i>Vlad</i><par n="Marc__np"/></e>
-<e lm="Vlad Dracula"><i>Vlad Dracula</i><par n="Marc__np"/></e>
-<e lm="Vlad Dracula Tepes"><i>Vlad Dracula Tepes</i><par n="Marc__np"/></e>
-<e lm="Vlad III Dracula"><i>Vlad III Dracula</i><par n="Marc__np"/></e>
-<e lm="Vlad III the Impaler"><i>Vlad III the Impaler</i><par n="Marc__np"/></e>
+<e lm="Vlad Dràcula"><i>Vlad<b/>Dràcula</i><par n="Marc__np"/></e>
+<e lm="Vlad Dràcula Tepes"><i>Vlad<b/>Dràcula<b/>Tepes</i><par n="Marc__np"/></e>
+<e lm="Vlad III Dràcula"><i>Vlad<b/>III<b/>Dràcula</i><par n="Marc__np"/></e>
+<e lm="Vlad III l'Empalador"><i>Vlad<b/>III<b/>l'Empalador</i><par n="Marc__np"/></e>
 <e lm="Vladimir"><i>Vladimir</i><par n="Marc__np"/></e>
 <e lm="Vladimiro"><i>Vladimiro</i><par n="Marc__np"/></e>
 <e lm="Vlad Tepes"><i>Vlad Tepes</i><par n="Marc__np"/></e>
-<e lm="Vlad the Impaler"><i>Vlad the Impaler</i><par n="Marc__np"/></e>
+<e lm="Vlad l'Empalador"><i>Vlad<b/>l'Empalador</i><par n="Marc__np"/></e>
 <e lm="Vulpiano"><i>Vulpiano</i><par n="Marc__np"/></e>
-<e lm="Vyacheslav Mikhailovich Molotov"><i>Vyacheslav Mikhailovich Molotov</i><par n="Marc__np"/></e>
-<e lm="Vyacheslav Molotov"><i>Vyacheslav Molotov</i><par n="Marc__np"/></e>
+<e lm="Viatxeslav Mikhàilovitx Mólotov"><i>Viatxeslav<b/>Mikhàilovitx<b/>Mólotov</i><par n="Marc__np"/></e>
+<e lm="Viatxeslav Molotov"><i>Viatxeslav<b/>Mólotov</i><par n="Marc__np"/></e>
 <e lm="Wade"><i>Wade</i><par n="Marc__np"/></e>
 <e lm="Wady"><i>Wady</i><par n="Marc__np"/></e>
 <e lm="Walberto"><i>Walberto</i><par n="Marc__np"/></e>
