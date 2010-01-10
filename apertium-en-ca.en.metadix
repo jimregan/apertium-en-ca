@@ -35372,7 +35372,7 @@
     <e lm="diving" a="greenbreen"><i>diving</i><par n="house__n"/></e>
     <e lm="glycemic" a="greenbreen"><i>glycemic</i><par n="expensive__adj"/></e>
     <e lm="secretion" a="greenbreen"><i>secretion</i><par n="house__n"/></e>
-    <e lm="vitamin E" a="greenbreen"><i>vitamin E</i><par n="east__n"/></e>
+    <e lm="vitamin E" a="greenbreen"><i>vitamin<b/>E</i><par n="east__n"/></e>
     <e lm="dosage" a="greenbreen"><i>dosage</i><par n="house__n"/></e>
     <e lm="bodybuilder" a="greenbreen"><i>bodybuilder</i><par n="house__n"/></e>
     <e lm="absorption" a="greenbreen"><i>absorption</i><par n="house__n"/></e>

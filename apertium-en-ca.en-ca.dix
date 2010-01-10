@@ -19506,6 +19506,10 @@
 <e r="RL"><p><l>school<s n="n"/></l>              <r>col·legi<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>school<s n="n"/></l>              <r>escola<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>science<s n="n"/></l>             <r>ciència<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>pseudoscience<s n="n"/></l>             <r>pseudociència<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>peptide<s n="n"/></l>             <r>pèptid<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>parasite<s n="n"/></l>             <r>paràsit<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>whipped<b/>cream<s n="n"/></l>             <r>crema<b/>batuda<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>sea<s n="n"/></l>                 <r>mar<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>second<s n="n"/></l>              <r>segon<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>secretary<s n="n"/></l>           <r>secretari<s n="n"/><s n="GD"/></r></p></e>
@@ -20832,6 +20836,7 @@
 <e><p><l>spirit<b/>level<s n="n"/></l>             <r>nivell<g><b/>de<b/>bombolla</g><s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>coffee<g><b/>with<b/>milk</g><s n="n"/></l>             <r>cafè<g><b/>amb<b/>llet</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>white<b/>coffee<s n="n"/></l>             <r>cafè<g><b/>amb<b/>llet</g><s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>homeostasis<s n="n"/></l>             <r>homeòstasi<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>session<s n="n"/></l>             <r>sessió<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>sewing<s n="n"/></l>              <r>costura<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>sex<s n="n"/></l>                 <r>sexe<s n="n"/><s n="m"/></r></p></e>
@@ -21970,6 +21975,8 @@
 <e>       <p><l>arboriculture<s n="n"/></l>       <r>arboricultura<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>extortion<s n="n"/></l>           <r>extorsió<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>vitamin<s n="n"/></l>             <r>vitamina<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>vitamin<b/>E<s n="n"/></l>             <r>vitamina<b/>E<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>open<b/>source<b/>program<s n="n"/></l>             <r>programa<g><b/>de<b/>codi<b/>obert</g><s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>peg<s n="n"/></l>                 <r>clàvia<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>dendrochronology<s n="n"/></l>    <r>dendrocronologia<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>basketball<s n="n"/></l>          <r>bàsquet<s n="n"/><s n="m"/></r></p></e>
@@ -22436,6 +22443,7 @@
 <e>       <p><l>absolution<s n="n"/></l>          <r>absolució<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>preserve<s n="n"/></l>            <r>conserva<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>astronomy<s n="n"/></l>           <r>astronomia<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>radio<b/>astronomy<s n="n"/></l>           <r>radioastronomia<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>pineapple<s n="n"/></l>           <r>pinya<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>tulip<s n="n"/></l>               <r>tulipa<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>glycolipid<s n="n"/></l>          <r>glicolípid<s n="n"/><s n="m"/></r></p></e>
@@ -23498,6 +23506,8 @@
 <e>       <p><l>holomorphism<s n="n"/></l>        <r>holomorfisme<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>rhenium<s n="n"/></l>             <r>reni<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>telescope<s n="n"/></l>           <r>telescopi<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>radio<b/>telescope<s n="n"/></l>           <r>radiotelescopi<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>green<b/>bean<s n="n"/></l>           <r>mongeta<b/>verda<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>dropper<s n="n"/></l>             <r>comptagotes<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>dropper<s n="n"/><s n="ND"/></l>  <r>comptagotes<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e>       <p><l>glycine<s n="n"/></l>             <r>glicina<s n="n"/><s n="f"/></r></p></e>
@@ -23958,6 +23968,9 @@
 <e>       <p><l>spintronics<s n="n"/></l>     <r>espintrònica<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>emanation<s n="n"/></l>           <r>emanació<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>antiferromagnetism<s n="n"/></l>  <r>antiferromagnetisme<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>bioelectromagnetism<s n="n"/></l>  <r>bioelectromagnetisme<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>living<b/>being<s n="n"/></l>  <r>ésser<b/>viu<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>statistical<b/>mechanics<s n="n"/></l>  <r>mecànica<b/>estadística<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>symphysis<s n="n"/></l>           <r>símfisi<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>nectar<s n="n"/></l>              <r>nèctar<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>destroyer<s n="n"/></l>           <r>destructor<s n="n"/><s n="m"/></r></p></e>
@@ -30884,6 +30897,7 @@
 <e>       <p><l>allotype<s n="n"/></l>            <r>al·lotip<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>elevation<s n="n"/></l>           <r>alçat<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>amino<b/>acid<s n="n"/></l>       <r>aminoàcid<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>nucleic<b/>acid<s n="n"/></l>       <r>àcid<b/>nucleic<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>landlord<s n="n"/></l>            <r>amo<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>damping<s n="n"/></l>             <r>amortiment<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>riot<s n="n"/></l>     <r>amotinament<s n="n"/><s n="m"/></r></p></e>
@@ -44308,6 +44322,8 @@
 <e><p><l>bonding<s n="n"/></l><r>vinculació<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>discoverer<s n="n"/></l><r>descobridor<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>discoverer<s n="n"/></l><r>descobridor<s n="n"/></r></p></e>
+<e r="LR"><p><l>co-discoverer<s n="n"/></l><r>codescobridor<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>co-discoverer<s n="n"/></l><r>codescobridor<s n="n"/></r></p></e>
 <e><p><l>registry<s n="n"/></l><r>registre<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>valence<s n="n"/></l><r>valència<s n="n"/><s n="f"/></r></p></e>
 

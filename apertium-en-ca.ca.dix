@@ -83865,6 +83865,8 @@
 <e lm="node sinusal"><p><l>nodes<b/>sinusals</l><r>node<b/>sinusal<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="jornada laboral"><p><l>jornada<b/>laboral</l><r>jornada<b/>laboral<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="jornada laboral"><p><l>jornades<b/>laborals</l><r>jornada<b/>laboral<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="crema batuda"><p><l>crema<b/>batuda</l><r>crema<b/>batuda<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="crema batuda"><p><l>cremes<b/>batudes</l><r>crema<b/>batuda<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="gos guardià"><p><l>gos<b/>guardià</l><r>gos<b/>guardià<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="gos guardià"><p><l>gossos<b/>guardians</l><r>gos<b/>guardià<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="gos guardià"><p><l>gossa<b/>guardiana</l><r>gos<b/>guardià<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
@@ -84043,6 +84045,14 @@
     <e lm="nascut mort"><p><l>nascudes<b/>mortes</l><r>nascut<b/>mort<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="centre juvenil"><p><l>centre<b/>juvenil</l><r>centre<b/>juvenil<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="centre juvenil"><p><l>centres<b/>juvenils</l><r>centre<b/>juvenil<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="àcid nucleic"><p><l>àcid<b/>nucleic</l><r>àcid<b/>nucleic<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="àcid nucleic"><p><l>àcids<b/>nucleics</l><r>àcid<b/>nucleic<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="ésser viu"><p><l>ésser<b/>viu</l><r>ésser<b/>viu<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="ésser viu"><p><l>éssers<b/>vius</l><r>ésser<b/>viu<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="mecànica estadística"><p><l>mecànica<b/>estadística</l><r>mecànica<b/>estadística<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="mecànica estadística"><p><l>mecàniques<b/>estadístiques</l><r>mecànica<b/>estadística<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="mongeta verda"><p><l>mongeta<b/>verda</l><r>mongeta<b/>verda<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="mongeta verda"><p><l>mongetes<b/>verdes</l><r>mongeta<b/>verda<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="maldestre"><i>maldestr</i><par n="abstract/e__adj"/></e>
 <e lm="orientat comercialment"><i>orienta</i><par n="afortuna/t__adj"/><p><l><b/>comercialment</l><r><g><b/>comercialment</g></r></p></e>
 <e lm="condensat"><i>condensa</i><par n="afortuna/t__adj"/></e>
@@ -92402,6 +92412,9 @@
 <e lm="centenar"><i>centenar</i><par n="abric__n"/></e>
 <e lm="centre"><i>centre</i><par n="abric__n"/></e>
 <e lm="ciència"><i>ciènci</i><par n="abell/a__n"/></e>
+<e lm="pseudociència"><i>pseudociènci</i><par n="abell/a__n"/></e>
+<e lm="pèptid"><i>pèptid</i><par n="abric__n"/></e>
+<e lm="paràsit"><i>paràsit</i><par n="abric__n"/></e>
 <e lm="circulació"><i>circulaci</i><par n="acci/ó__n"/></e>
 <e lm="circumstància"><i>circumstànci</i><par n="abell/a__n"/></e>
 <e lm="ciutadà"><i>ciutad</i><par n="americ/à__n"/></e>
@@ -92851,6 +92864,7 @@
 <e lm="professor"><i>professor</i><par n="senyor__n"/></e>
 <e lm="profunditat"><i>profunditat</i><par n="accessibilitat__n"/></e>
 <e lm="programa"><i>program</i><par n="carism/a__n"/></e>
+<e lm="programa de codi obert"><i>program</i><par n="carism/a__n"/><p><l><b/>de<b/>codi<b/>obert</l><r><g><b/>de<b/>codi<b/>obert</g></r></p></e>
 <e lm="projecte"><i>projecte</i><par n="abric__n"/></e>
 <e lm="propietari"><i>propiet</i><par n="adjudicat/ari__n"/></e>
 <e lm="propietat"><i>propietat</i><par n="accessibilitat__n"/></e>
@@ -93326,6 +93340,7 @@
 <e lm="codi de barres"><i>codi</i><par n="abric__n"/><p><l><b/>de<b/>barres</l><r><g><b/>de<b/>barres</g></r></p></e>
 <e lm="cafè"><i>caf</i><par n="caf/è__n"/></e>
 <e lm="cafè amb llet"><i>caf</i><par n="caf/è__n"/><p><l><b/>amb<b/>llet</l><r><g><b/>amb<b/>llet</g></r></p></e>
+<e lm="homeòstasi"><i>homeòstasi</i><par n="accessibilitat__n"/></e>
 <e lm="fred"><i>fred</i><par n="abric__n"/></e>
 <e lm="refredat"><i>refredat</i><par n="abric__n"/></e>
 <e lm="col·lega"><i>col·leg</i><par n="col·leg/a__n"/></e>
@@ -94844,6 +94859,7 @@
 <e lm="antioxidant"><i>antioxidant</i><par n="abric__n"/></e>
 <e lm="porro"><i>porro</i><par n="abric__n"/></e>
 <e lm="paramagnetisme"><i>paramagnetisme</i><par n="abric__n"/></e>
+<e lm="bioelectromagnetisme"><i>bioelectromagnetisme</i><par n="abric__n"/></e>
 <e lm="lípid"><i>lípid</i><par n="abric__n"/></e>
 <e lm="flòcul"><i>flòcul</i><par n="abric__n"/></e>
 <e lm="pontífex"><i>pontífex</i><par n="abric__n"/></e>
@@ -96535,6 +96551,7 @@
 <e lm="rubèola"><i>rubèol</i><par n="abell/a__n"/></e>
 <e lm="tacòmetre"><i>tacòmetre</i><par n="abric__n"/></e>
 <e lm="telescopi"><i>telescopi</i><par n="abric__n"/></e>
+<e lm="radiotelescopi"><i>radiotelescopi</i><par n="abric__n"/></e>
 <e lm="dispnea"><i>dispne</i><par n="abell/a__n"/></e>
 <e lm="arquimesa"><i>arquimes</i><par n="abell/a__n"/></e>
 <e lm="angiologia"><i>angiologi</i><par n="abell/a__n"/></e>
@@ -100537,11 +100554,13 @@
 <e lm="suite"><i>suite</i><par n="accessibilitat__n"/></e>
 <e lm="fotocolorímetre"><i>fotocolorímetre</i><par n="abric__n"/></e>
 <e lm="astronomia"><i>astronomi</i><par n="abell/a__n"/></e>
+<e lm="radioastronomia"><i>radioastronomi</i><par n="abell/a__n"/></e>
 <e lm="mongeta"><i>monget</i><par n="abell/a__n"/></e>
 <e lm="conjuntiva"><i>conjuntiv</i><par n="abell/a__n"/></e>
 <e lm="macroinstrucció"><i>macroinstrucci</i><par n="acci/ó__n"/></e>
 <e lm="multiplet"><i>multiplet</i><par n="abric__n"/></e>
 <e lm="vitamina"><i>vitamin</i><par n="abell/a__n"/></e>
+<e lm="vitamina E"><i>vitamina<b/>E</i><par n="fi__n"/></e>
 <e lm="agressor"><i>agressor</i><par n="senyor__n"/></e>
 <e lm="electròlit"><i>electròlit</i><par n="abric__n"/></e>
 <e lm="infundíbul"><i>infundíbul</i><par n="abric__n"/></e>
@@ -117530,6 +117549,7 @@
 <e lm="aparició"><i>aparici</i><par n="acci/ó__n"/></e>
 <e lm="vinculació"><i>vinculaci</i><par n="acci/ó__n"/></e>
 <e lm="descobridor" a="prompsit2adn"><i>descobridor</i><par n="senyor__n"/></e>
+<e lm="codescobridor" a="prompsit2adn"><i>codescobridor</i><par n="senyor__n"/></e>
 <e lm="romanès"><i>roman</i><par n="angl/ès__n"/></e>
 <e lm="robòtica" a="prompsit2adn"><i>robòti</i><par n="acústi/ca__n"/></e>
 <e lm="ingenuïtat"><i>ingenuïtat</i><par n="accessibilitat__n"/></e>
