@@ -19140,6 +19140,10 @@
 <e r="RL"><p><l>doctor<s n="n"/></l>              <r>metge<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>dog<s n="n"/></l>                 <r>gos<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>dog<s n="n"/></l>                 <r>gos<s n="n"/></r></p></e>
+<e v="cat">       <p><l>fox<s n="n"/></l>     <r>guineu<s n="n"/><s n="f"/></r></p></e>
+<e v="cat" r="LR"><p><l>vixen<s n="n"/></l>     <r>guineu<s n="n"/><s n="f"/></r></p></e>
+<e r="LR" v="val"><p><l>vixen<s n="n"/></l><r>rabosa<s n="n"/><s n="f"/></r></p></e>
+<e v="val"><p><l>fox<s n="n"/></l>  <r>rabosa<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>bear<s n="n"/></l>                <r>ós<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>bear<s n="n"/></l>                <r>ós<s n="n"/></r></p></e>
 <e>       <p><l>door<s n="n"/></l>                <r>porta<s n="n"/><s n="f"/></r></p></e>
@@ -20463,6 +20467,7 @@
 <e>       <p><l>lemon<s n="n"/></l>               <r>llimona<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>length<s n="n"/></l>              <r>llargada<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>length<s n="n"/></l>              <r>longitud<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>wavelength<s n="n"/></l>              <r>longitud<g><b/>d'ona</g><s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>lesson<s n="n"/></l>              <r>lliçó<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>library<s n="n"/></l>             <r>biblioteca<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>licence<s n="n"/></l>             <r>llicència<s n="n"/><s n="f"/></r></p></e>
@@ -29239,6 +29244,7 @@
 <e>       <p><l>tomography<s n="n"/></l>          <r>tomografia<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>proerythroblast<s n="n"/></l>     <r>proeritroblast<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>subconsole<s n="n"/></l>          <r>subconsola<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>game<b/>console<s n="n"/></l>          <r>videoconsola<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>circumcision<s n="n"/></l>        <r>circumcisió<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>optimism<s n="n"/></l>            <r>optimisme<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>plume<s n="n"/></l>               <r>plomall<s n="n"/><s n="m"/></r></p></e>
@@ -43866,6 +43872,7 @@
 <e><p><l>cicatrisation<s n="n"/></l><r>cicatrització<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>collectivisation<s n="n"/></l><r>col·lectivització<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>deionisation<s n="n"/></l><r>desionització<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>photoionisation<s n="n"/></l><r>fotoionització<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>demineralisation<s n="n"/></l><r>desmineralització<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>demobilisation<s n="n"/></l><r>desmobilització<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>depolymerisation<s n="n"/></l><r>despolimerització<s n="n"/><s n="f"/></r></p></e>
@@ -44249,6 +44256,7 @@
 <e><p><l>deceitfulness<s n="n"/></l><r>falsedat<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>rooster<s n="n"/></l><r>gall<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>reef<s n="n"/></l><r>escull<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>coral<b/>reef<s n="n"/></l><r>escull<g><b/>de<b/>coral</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>subspecies<s n="n"/></l><r>subespècie<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>bastion<s n="n"/></l><r>baluard<s n="n"/><s n="m"/></r></p></e>
 <e vl="en_GB"><p><l>ferret<s n="n"/></l><r>fura<s n="n"/><s n="f"/></r></p></e>
@@ -44325,6 +44333,7 @@
 <e><p><l>mycology<s n="n"/></l><r>micologia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>neutron<b/>star<s n="n"/></l><r>estrella<g><b/>de<b/>neutrons</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>armillary<b/>sphere<s n="n"/></l><r>esfera<b/>armil·lar<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>underwear<s n="n"/></l><r>roba<b/>interior<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>organography<s n="n"/></l><r>organografia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>pillar<s n="n"/></l><r>pilar<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>reductionism<s n="n"/></l><r>reduccionisme<s n="n"/><s n="m"/></r></p></e>

@@ -84102,6 +84102,8 @@
 <e lm="gran mestre"><p><l>grans<b/>mestres</l><r>gran<b/>mestre<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="fil dental"><p><l>fil<b/>dental</l><r>fil<b/>dental<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="fil dental"><p><l>fils<b/>dentals</l><r>fil<b/>dental<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="roba interior"><p><l>roba<b/>interior</l><r>roba<b/>interior<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="roba interior"><p><l>robes<b/>interiors</l><r>roba<b/>interior<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="maldestre"><i>maldestr</i><par n="abstract/e__adj"/></e>
 <e lm="orientat comercialment"><i>orienta</i><par n="afortuna/t__adj"/><p><l><b/>comercialment</l><r><g><b/>comercialment</g></r></p></e>
 <e lm="condensat"><i>condensa</i><par n="afortuna/t__adj"/></e>
@@ -92657,6 +92659,8 @@
 <e lm="gent"><i>gent</i><par n="accessibilitat__n"/></e>
 <e lm="germà"><i>germ</i><par n="americ/à__n"/></e>
 <e lm="gos"><i>gos</i><par n="gos__n"/></e>
+<e v="cat" lm="guineu"><i>guineu</i><par n="accessibilitat__n"/></e>
+<e lm="rabosa" v="val"><p><l>rabos</l>          <r>rabos</r></p><par n="abell/a__n"/></e>
 
       <e lm="ós">
         <i>ós</i>
@@ -93902,6 +93906,7 @@
 <e lm="llimona"><i>llimon</i><par n="abell/a__n"/></e>
 <e lm="llargada"><i>llargad</i><par n="abell/a__n"/></e>
 <e lm="longitud"><i>longitud</i><par n="accessibilitat__n"/></e>
+<e lm="longitud d'ona"><i>longitud</i><par n="accessibilitat__n"/><p><l><b/>d'ona</l><r><g><b/>d'ona</g></r></p></e>
 <e lm="lliçó"><i>lliç</i><par n="acci/ó__n"/></e>
 <e lm="biblioteca"><i>bibliote</i><par n="acústi/ca__n"/></e>
 <e lm="llicència"><i>llicènci</i><par n="abell/a__n"/></e>
@@ -96059,6 +96064,7 @@
 <e lm="disenteria"><i>disenteri</i><par n="abell/a__n"/></e>
 <e lm="diseconomia"><i>diseconomi</i><par n="abell/a__n"/></e>
 <e lm="subconsola"><i>subconsol</i><par n="abell/a__n"/></e>
+<e lm="videoconsola"><i>videoconsol</i><par n="abell/a__n"/></e>
 <e lm="porositat"><i>porositat</i><par n="accessibilitat__n"/></e>
 <e lm="dinasta"><i>dinast</i><par n="carism/a__n"/></e>
 <e lm="ió"><i>i</i><par n="aband/ó__n"/></e>
@@ -103343,6 +103349,7 @@
 <e lm="torticoli"><i>torticoli</i><par n="abric__n"/></e>
 <e lm="pavimentació"><i>pavimentaci</i><par n="acci/ó__n"/></e>
 <e lm="desionització"><i>desionitzaci</i><par n="acci/ó__n"/></e>
+<e lm="fotoionització"><i>fotoionitzaci</i><par n="acci/ó__n"/></e>
 <e lm="modelador"><i>modelador</i><par n="senyor__n"/></e>
 <e lm="estri"><i>estri</i><par n="abric__n"/></e>
 <e lm="pintallavis"><i>pintallavis</i><par n="campus__n"/></e>
@@ -117558,6 +117565,7 @@
 <e lm="successió"><i>successi</i><par n="acci/ó__n"/></e>
 <e lm="gall"><i>gall</i><par n="abric__n"/></e>
 <e lm="escull"><i>escull</i><par n="abric__n"/></e>
+<e lm="escull de coral"><i>escull</i><par n="abric__n"/><p><l><b/>de<b/>coral</l><r><g><b/>de<b/>coral</g></r></p></e>
 <e lm="subespècie"><i>subespècie</i><par n="accessibilitat__n"/></e>
 <e lm="baluard" a="prompsit2adn"><i>baluard</i><par n="abric__n"/></e>
 <e lm="liró"><i>lir</i><par n="aband/ó__n"/></e>
