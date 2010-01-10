@@ -93210,7 +93210,7 @@
 <e lm="culpa"><i>culp</i><par n="abell/a__n"/></e>
 <e lm="falta"><i>falt</i><par n="abell/a__n"/></e>
 <e lm="falta de respecte"><i>falt</i><par n="abell/a__n"/><p><l><b/>de<b/>respecte</l><r><g><b/>de<b/>respecte</g></r></p></e>
-<e lm="anestèsic"><i>anestèsic</i><par n="abric__adj"/></e>
+<e lm="anestèsic"><i>anestèsic</i><par n="abric__n"/></e>
 <e lm="bloc"><i>bloc</i><par n="abric__n"/></e>
 <e lm="bloqueig"><i>bloqueig</i><par n="abric__n"/></e>
 <e lm="sang"><i>sang</i><par n="accessibilitat__n"/></e>
@@ -93936,6 +93936,7 @@
 <e lm="mode"><i>mode</i><par n="abric__n"/></e>
 <e lm="lluna"><i>llun</i><par n="abell/a__n"/></e>
 <e lm="lluna de mel"><i>llun</i><par n="abell/a__n"/><p><l><b/>de<b/>mel</l><r><g><b/>de<b/>mel</g></r></p></e>
+<e lm="captaire"><i>captaire</i><par n="acompanyant__n"/></e>
 <e lm="moció"><i>moci</i><par n="acci/ó__n"/></e>
 <e lm="moto"><i>moto</i><par n="accessibilitat__n"/></e>
 <e lm="motocicleta"><i>motociclet</i><par n="abell/a__n"/></e>
