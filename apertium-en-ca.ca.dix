@@ -84053,10 +84053,10 @@
 <e lm="mecànica estadística"><p><l>mecàniques<b/>estadístiques</l><r>mecànica<b/>estadística<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="mongeta verda"><p><l>mongeta<b/>verda</l><r>mongeta<b/>verda<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="mongeta verda"><p><l>mongetes<b/>verdes</l><r>mongeta<b/>verda<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-<e lm="esfera armil·lar"><p><l>esfera<b/>armil·lar</l><r>esfera<b/>armil·lar<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-<e lm="esfera armil·lar"><p><l>esferes<b/>armil·lars</l><r>esfera<b/>armil·lar<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-<e lm="esfera armil·lar" r="LR"><p><l>esfera<b/>armiŀlar</l><r>esfera<b/>armil·lar<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-<e lm="esfera armil·lar" r="LR"><p><l>esferes<b/>armiŀlars</l><r>esfera<b/>armil·lar<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="esfera armil·lar"><p><l>esfera<b/>armil·lar</l><r>esfera<b/>armil·lar<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="esfera armil·lar"><p><l>esferes<b/>armil·lars</l><r>esfera<b/>armil·lar<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="esfera armil·lar" r="LR"><p><l>esfera<b/>armiŀlar</l><r>esfera<b/>armil·lar<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="esfera armil·lar" r="LR"><p><l>esferes<b/>armiŀlars</l><r>esfera<b/>armil·lar<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="maldestre"><i>maldestr</i><par n="abstract/e__adj"/></e>
 <e lm="orientat comercialment"><i>orienta</i><par n="afortuna/t__adj"/><p><l><b/>comercialment</l><r><g><b/>comercialment</g></r></p></e>
 <e lm="condensat"><i>condensa</i><par n="afortuna/t__adj"/></e>
@@ -109861,6 +109861,7 @@
 <e lm="rendir"><i>rend</i><par n="abarat/ir-se__vblex"/></e>
 <e lm="llop"><i>llo</i><par n="llo/p__n"/></e>
 <e lm="embarassat"><i>embarassa</i><par n="afortuna/t__adj"/></e>
+<e lm="gelat"><i>gela</i><par n="afortuna/t__adj"/></e>
 <e lm="entendre malament"><i>ent</i><par n="at/endre__vblex"/><p><l><b/>malament</l><r><g><b/>malament</g></r></p></e>
 <e lm="gelosia"><i>gelosi</i><par n="abell/a__n"/></e>
 <e lm="coma"><i>com</i><par n="abell/a__n"/></e>

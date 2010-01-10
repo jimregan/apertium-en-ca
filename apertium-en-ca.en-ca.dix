@@ -7228,7 +7228,6 @@
 <e>       <p><l>stillborn<s n="adj"/></l>         <r>nascut<b/>mort<s n="adj"/></r></p></e>
 <e>       <p><l>compartmentalised<s n="adj"/></l>         <r>compartimentat<s n="adj"/></r></p></e>
 <e>       <p><l>subcompartmentalised<s n="adj"/></l>         <r>subcompartimentat<s n="adj"/></r></p></e>
-<e r="LR">       <p><l>freezing<s n="adj"/></l>         <r>gelat<s n="adj"/></r></p></e>
 <e>       <p><l>freshwater<s n="adj"/></l>         <r>d'aigua<b/>dolça<s n="adj"/><s n="mf"/></r></p></e>
 <e>       <p><l>saltwater<s n="adj"/></l>         <r>d'aigua<b/>salada<s n="adj"/><s n="mf"/></r></p></e>
 <e>       <p><l>freshwater<s n="n"/></l>         <r>aigua<b/>dolça<s n="n"/><s n="f"/></r></p></e>
@@ -20372,6 +20371,7 @@
 <e r="LR"><p><l>hurry<s n="n"/></l>               <r>pressa<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>ice<s n="n"/></l>                 <r>gel<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>ice<b/>cream<s n="n"/></l>        <r>gelat<s n="n"/><s n="m"/></r></p></e>
+<e r="LR">       <p><l>freezing<s n="adj"/></l>         <r>gelat<s n="adj"/></r></p></e>
 <e>       <p><l>ideal<s n="n"/></l>               <r>ideal<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>identity<s n="n"/></l>            <r>identitat<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>illness<s n="n"/></l>             <r>malaltia<s n="n"/><s n="f"/></r></p></e>
@@ -20832,8 +20832,8 @@
 <e r="LR"><p><l>presidential<b/>candidate<s n="n"/></l>             <r>candidat<g><b/>a<b/>la<b/>presidència</g><s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>presidential<b/>candidate<s n="n"/></l>             <r>candidat<g><b/>a<b/>la<b/>presidència</g><s n="n"/></r></p></e>
 <e r="LR"><p><l>candidate<g><b/>for<b/>the<b/>presidency</g><s n="n"/></l>             <r>candidat<g><b/>a<b/>la<b/>presidència</g><s n="n"/><s n="GD"/></r></p></e>
-<e><p><l>topic<g><b/>of<b/>conversation</g><s n="n"/></l>             <r>tema<g><b/>de<b/>conversa</g><s n="n"/><s n="f"/></r></p></e>
-<e r="LR"><p><l>conversation<b/>piece<s n="n"/></l>             <r>tema<g><b/>de<b/>conversa</g><s n="n"/><s n="f"/></r></p></e>
+<e><p><l>topic<g><b/>of<b/>conversation</g><s n="n"/></l>             <r>tema<g><b/>de<b/>conversa</g><s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>conversation<b/>piece<s n="n"/></l>             <r>tema<g><b/>de<b/>conversa</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>spirit<b/>level<s n="n"/></l>             <r>nivell<g><b/>de<b/>bombolla</g><s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>coffee<g><b/>with<b/>milk</g><s n="n"/></l>             <r>cafè<g><b/>amb<b/>llet</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>white<b/>coffee<s n="n"/></l>             <r>cafè<g><b/>amb<b/>llet</g><s n="n"/><s n="m"/></r></p></e>
@@ -21982,7 +21982,7 @@
 <e>       <p><l>extortion<s n="n"/></l>           <r>extorsió<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>vitamin<s n="n"/></l>             <r>vitamina<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>vitamin<b/>E<s n="n"/></l>             <r>vitamina<b/>E<s n="n"/><s n="f"/></r></p></e>
-<e>       <p><l>open<b/>source<b/>program<s n="n"/></l>             <r>programa<g><b/>de<b/>codi<b/>obert</g><s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>open<b/>source<b/>program<s n="n"/></l>             <r>programa<g><b/>de<b/>codi<b/>obert</g><s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>peg<s n="n"/></l>                 <r>clàvia<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>dendrochronology<s n="n"/></l>    <r>dendrocronologia<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>basketball<s n="n"/></l>          <r>bàsquet<s n="n"/><s n="m"/></r></p></e>
