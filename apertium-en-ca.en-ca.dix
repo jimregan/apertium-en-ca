@@ -36606,7 +36606,7 @@
 <e r="LR"><p><l>Yang<s n="np"/><s n="cog"/><s n="pl"/></l><r>Yang<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
 <e>       <p><l>Yanukovych<s n="np"/><s n="cog"/><s n="sg"/></l><r>Yanukovych<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>Yanukovych<s n="np"/><s n="cog"/><s n="pl"/></l><r>Yanukovych<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
-<e r="LR">       <p><l>Yeltsin<s n="np"/><s n="cog"/><s n="sg"/></l><r>Yeltsin<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
+<e r="RL">       <p><l>Yeltsin<s n="np"/><s n="cog"/><s n="sg"/></l><r>Yeltsin<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
 <e>       <p><l>Yeltsin<s n="np"/><s n="cog"/><s n="sg"/></l><r>Ieltsin<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>Yeltsin<s n="np"/><s n="cog"/><s n="pl"/></l><r>Ieltsin<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
 <e>       <p><l>Young<s n="np"/><s n="cog"/><s n="sg"/></l><r>Young<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -44982,8 +44982,10 @@
 <e><p><l>peahen<s n="n"/></l><r>paó<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>wrench<s n="n"/></l><r>clau<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>feng<b/>shui<s n="n"/></l><r>feng<b/>shui<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>Hebrew<s n="n"/></l><r>hebreu<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>Aramaic<s n="n"/></l><r>arameu<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>Hebrew<s n="n"/></l><r>hebreu<s n="n"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>Aramaic<s n="n"/></l><r>arameu<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>Hebrew<s n="n"/></l><r>hebreu<s n="n"/></r></p></e>
+<e r="RL"><p><l>Aramaic<s n="n"/></l><r>arameu<s n="n"/></r></p></e>
 <e><p><l>Punic<b/>War<s n="n"/></l><r>Guerra<b/>púnic<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>analgesic<s n="n"/></l><r>analgèsic<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>ibuprofen<s n="n"/></l><r>ibuprofén<s n="n"/><s n="m"/></r></p></e>
