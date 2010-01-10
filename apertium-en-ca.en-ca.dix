@@ -18280,6 +18280,7 @@
 <e r="LR"><p><l>as<b/>though<s n="cnjadv"/></l>   <r>com<b/>si<s n="cnjadv"/></r></p></e>
 
 <e>       <p><l>as<b/>well<b/>as<s n="cnjcoo"/></l><r>així<b/>com<s n="cnjcoo"/></r></p></e>
+<e><p><l>even<b/>so<s n="cnjadv"/></l>   <r>així<b/>i<b/>tot<s n="cnjadv"/></r></p></e>
 
 
 
@@ -19353,7 +19354,7 @@
 <e>       <p><l>noon<s n="n"/></l>                <r>migdia<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>north<s n="n"/></l>               <r>nord<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>notion<s n="n"/></l>              <r>idea<s n="n"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>number<s n="n"/></l>              <r>nombre<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>numeral<s n="n"/></l>              <r>nombre<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>number<s n="n"/></l>              <r>número<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>office<s n="n"/></l>              <r>oficina<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>officer<s n="n"/></l>             <r>agent<s n="n"/><s n="mf"/></r></p></e>
