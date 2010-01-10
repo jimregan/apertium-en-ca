@@ -21984,6 +21984,9 @@
 <e>       <p><l>vitamin<s n="n"/></l>             <r>vitamina<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>vitamin<b/>E<s n="n"/></l>             <r>vitamina<b/>E<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>open<b/>source<b/>program<s n="n"/></l>             <r>programa<g><b/>de<b/>codi<b/>obert</g><s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>open<b/>source<s n="n"/></l>             <r>codi<b/>obert<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>early<b/>repayment<s n="n"/></l>             <r>amortització<b/>anticipada<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>international<b/>community<s n="n"/></l>             <r>comunitat<b/>internacional<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>peg<s n="n"/></l>                 <r>clàvia<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>dendrochronology<s n="n"/></l>    <r>dendrocronologia<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>basketball<s n="n"/></l>          <r>bàsquet<s n="n"/><s n="m"/></r></p></e>
@@ -33519,6 +33522,7 @@
 <e>       <p><l>understand<s n="vblex"/></l>      <r>entendre<s n="vblex"/></r></p></e>
 <e r="RL"><p><l>use<s n="vblex"/></l>             <r>usar<s n="vblex"/></r></p></e>
 <e>       <p><l>use<s n="vblex"/></l>             <r>utilitzar<s n="vblex"/></r></p></e>
+<e>       <p><l>revitalise<s n="vblex"/></l>             <r>revitalitzar<s n="vblex"/></r></p></e>
 <e r="RL"><p><l>use<s n="vblex"/></l>             <r>fer<g><b/>servir</g><s n="vblex"/></r></p></e>
 <e>       <p><l>value<s n="vblex"/></l>           <r>valorar<s n="vblex"/></r></p></e>
 <e r="LR"><p><l>view<s n="vblex"/></l>            <r>veure<s n="vblex"/></r></p></e>

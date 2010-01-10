@@ -83166,6 +83166,7 @@
 <e lm="advocar"><i>advo</i><par n="abo/car__vblex"/></e>
 <e lm="agilitar"><i>agilit</i><par n="abander/ar__vblex"/></e>
 <e lm="agilitzar" a="prompsit"><i>agilitz</i><par n="abander/ar__vblex"/></e>
+<e lm="revitalitzar"><i>revitalitz</i><par n="abander/ar__vblex"/></e>
 <e lm="adjudicar"><i>adjudi</i><par n="abo/car__vblex"/></e>
 
 
@@ -84057,6 +84058,12 @@
 <e lm="esfera armil·lar"><p><l>esferes<b/>armil·lars</l><r>esfera<b/>armil·lar<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="esfera armil·lar" r="LR"><p><l>esfera<b/>armiŀlar</l><r>esfera<b/>armil·lar<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="esfera armil·lar" r="LR"><p><l>esferes<b/>armiŀlars</l><r>esfera<b/>armil·lar<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="codi obert"><p><l>codi<b/>obert</l><r>codi<b/>obert<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="codi obert"><p><l>codis<b/>oberts</l><r>codi<b/>obert<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="amortització anticipada"><p><l>amortització<b/>anticipada</l><r>amortització<b/>anticipada<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="amortització anticipada"><p><l>amortitzacions<b/>anticipades</l><r>amortització<b/>anticipada<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="comunitat internacional"><p><l>comunitat<b/>internacional</l><r>comunitat<b/>internacional<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="comunitat internacional"><p><l>comunitats<b/>internacionals</l><r>comunitat<b/>internacional<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="maldestre"><i>maldestr</i><par n="abstract/e__adj"/></e>
 <e lm="orientat comercialment"><i>orienta</i><par n="afortuna/t__adj"/><p><l><b/>comercialment</l><r><g><b/>comercialment</g></r></p></e>
 <e lm="condensat"><i>condensa</i><par n="afortuna/t__adj"/></e>
