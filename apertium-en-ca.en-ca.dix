@@ -21055,6 +21055,7 @@
 <e>       <p><l>understanding<s n="n"/></l>       <r>comprensió<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>uniform<s n="n"/></l>             <r>uniforme<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>universe<s n="n"/></l>   <r>univers<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>multiverse<s n="n"/></l>   <r>multivers<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>urge<s n="n"/></l>                <r>impuls<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>impulse<s n="n"/></l>             <r>impuls<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>vacation<s n="n"/><s n="sg"/></l> <r>vacances<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
@@ -21098,6 +21099,8 @@
 <e r="LR"><p><l>refuse<s n="n"/><s n="pl"/></l>   <r>residu<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e>       <p><l>wave<s n="n"/></l>                <r>ona<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>wave<s n="n"/></l>                <r>onada<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>tractability<s n="n"/></l>            <r>tractabilitat<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>derivative<s n="n"/></l>            <r>derivat<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>weakness<s n="n"/></l>            <r>debilitat<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>weakness<s n="n"/></l>            <r>decaïment<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>the<b/>web<s n="n"/></l>          <r>la<b/>xarxa<s n="n"/><s n="f"/></r></p></e>
@@ -21117,6 +21120,8 @@
 <e>       <p><l>wing<s n="n"/></l>                <r>ala<s n="n"/><s n="f"/></r></p></e>
 <e r="LR">       <p><l>winner<s n="n"/></l>              <r>guanyador<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>winner<s n="n"/></l>              <r>guanyador<s n="n"/></r></p></e>
+<e r="LR">       <p><l>experimentalist<s n="n"/></l>              <r>experimentador<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>experimentalist<s n="n"/></l>              <r>experimentador<s n="n"/></r></p></e>
 <e>       <p><l>winter<s n="n"/></l>              <r>hivern<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>plaster<s n="n"/></l>             <r>guix<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>witness<s n="n"/></l>             <r>testimoni<s n="n"/><s n="mf"/></r></p></e>
@@ -22005,6 +22010,7 @@
 <e>       <p><l>closing<s n="n"/></l>             <r>tancament<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>aminophenazone<s n="n"/></l>      <r>aminofenazona<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>clover<s n="n"/></l>              <r>trèvol<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>four-leaf<b/>clover<s n="n"/></l>              <r>trèvol<g><b/>de<b/>quatre<b/>fulles</g><s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>fermion<s n="n"/></l>             <r>fermió<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>pharyngotomy<s n="n"/></l>        <r>faringotomia<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>brutality<s n="n"/></l>           <r>brutalitat<s n="n"/><s n="f"/></r></p></e>
@@ -27736,6 +27742,7 @@
 <e>       <p><l>disproportionation<s n="n"/></l>  <r>desproporcionació<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>crystal<s n="n"/></l>             <r>cristall<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>physiology<s n="n"/></l>          <r>fisiologia<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>ecophysiology<s n="n"/></l>          <r>ecofisiologia<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>coupon<s n="n"/></l>              <r>cupó<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>zonule<s n="n"/></l>              <r>zònula<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>derusting<s n="n"/></l>           <r>desoxidació<s n="n"/><s n="f"/></r></p></e>
@@ -29196,6 +29203,7 @@
 <e>       <p><l>labeling<s n="n"/></l>            <r>marcatge<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>plasmalemma<s n="n"/></l>         <r>plasmalemma<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>saltworks<s n="n"/></l>           <r>salina<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>running<b/>water<s n="n"/></l>           <r>aigua<b/>corrent<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>intubation<s n="n"/></l>          <r>intubació<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>phalangette<s n="n"/></l>         <r>falangeta<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>hemolymph<s n="n"/></l>           <r>hemolimfa<s n="n"/><s n="f"/></r></p></e>
@@ -44270,6 +44278,12 @@
 <e><p><l>statistics<s n="n"/></l><r>estadístic<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>biomedicine<s n="n"/></l><r>biomedicina<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>genomics<s n="n"/></l><r>genòmica<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>cladistics<s n="n"/></l><r>cladística<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>phenetics<s n="n"/></l><r>fenètica<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>mycology<s n="n"/></l><r>micologia<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>neutron<b/>star<s n="n"/></l><r>estrella<g><b/>de<b/>neutrons</g><s n="n"/><s n="f"/></r></p></e>
+<e><p><l>armillary<b/>sphere<s n="n"/></l><r>esfera<b/>armil·lar<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>organography<s n="n"/></l><r>organografia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>pillar<s n="n"/></l><r>pilar<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>reductionism<s n="n"/></l><r>reduccionisme<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>precept<s n="n"/></l><r>precepte<s n="n"/><s n="m"/></r></p></e>

@@ -84053,6 +84053,10 @@
 <e lm="mecànica estadística"><p><l>mecàniques<b/>estadístiques</l><r>mecànica<b/>estadística<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="mongeta verda"><p><l>mongeta<b/>verda</l><r>mongeta<b/>verda<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="mongeta verda"><p><l>mongetes<b/>verdes</l><r>mongeta<b/>verda<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="esfera armil·lar"><p><l>esfera<b/>armil·lar</l><r>esfera<b/>armil·lar<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="esfera armil·lar"><p><l>esferes<b/>armil·lars</l><r>esfera<b/>armil·lar<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="esfera armil·lar" r="LR"><p><l>esfera<b/>armiŀlar</l><r>esfera<b/>armil·lar<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="esfera armil·lar" r="LR"><p><l>esferes<b/>armiŀlars</l><r>esfera<b/>armil·lar<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="maldestre"><i>maldestr</i><par n="abstract/e__adj"/></e>
 <e lm="orientat comercialment"><i>orienta</i><par n="afortuna/t__adj"/><p><l><b/>comercialment</l><r><g><b/>comercialment</g></r></p></e>
 <e lm="condensat"><i>condensa</i><par n="afortuna/t__adj"/></e>
@@ -92593,6 +92597,7 @@
 <e lm="formulari"><i>formulari</i><par n="abric__n"/></e>
 <e lm="foto"><i>foto</i><par n="accessibilitat__n"/></e>
 <e lm="fotografia"><i>fotografi</i><par n="abell/a__n"/></e>
+<e lm="organografia"><i>organografi</i><par n="abell/a__n"/></e>
 <e lm="full"><i>full</i><par n="abric__n"/></e>
 <e lm="funció"><i>funci</i><par n="acci/ó__n"/></e>
 <e lm="funcionament"><i>funcionament</i><par n="abric__n"/></e>
@@ -94311,6 +94316,7 @@
 <e lm="segell"><i>segell</i><par n="abric__n"/></e>
 <e lm="estand"><i>estand</i><par n="abric__n"/></e>
 <e lm="estrella"><i>estrell</i><par n="abell/a__n"/></e>
+<e lm="estrella de neutrons"><i>estrell</i><par n="abell/a__n"/><p><l><b/>de<b/>neutrons</l><r><g><b/>de<b/>neutrons</g></r></p></e>
 <e lm="estàtua"><i>estàtu</i><par n="abell/a__n"/></e>
 <e lm="estatus"><i>estatus</i><par n="campus__n"/></e>
 <e lm="vapor"><i>vapor</i><par n="abric__n"/></e>
@@ -94363,6 +94369,7 @@
 <e lm="llaminadura"><i>llaminadur</i><par n="abell/a__n"/></e>
 <e lm="inflament"><i>inflament</i><par n="abric__n"/></e>
 <e lm="natació"><i>natació</i><par n="fi__n"/></e>
+<e lm="aigua corrent"><i>aigua<b/>corrent</i><par n="fi__n"/></e>
 <e lm="oscil·lació"><i>oscil·laci</i><par n="acci/ó__n"/></e>
 <e lm="oscil·lació" r="LR"><p><l>osciŀlaci</l><r>oscil·laci</r></p><par n="acci/ó__n"/></e>
 <e lm="gronxador"><i>gronxador</i><par n="abric__n"/></e>
@@ -94495,6 +94502,7 @@
 <e lm="comprensió"><i>comprensi</i><par n="acci/ó__n"/></e>
 <e lm="uniforme"><i>uniforme</i><par n="abric__n"/></e>
 <e lm="univers"><i>univers</i><par n="as__n"/></e>
+<e lm="multivers"><i>multivers</i><par n="as__n"/></e>
 <e lm="vall"><i>vall</i><par n="accessibilitat__n"/></e>
 <e lm="furgó"><i>furg</i><par n="aband/ó__n"/></e>
 <e lm="camioneta"><i>camionet</i><par n="abell/a__n"/></e>
@@ -94527,6 +94535,7 @@
 <e lm="residu"><i>residu</i><par n="abric__n"/></e>
 <e lm="ona"><i>on</i><par n="abell/a__n"/></e>
 <e lm="debilitat"><i>debilitat</i><par n="accessibilitat__n"/></e>
+<e lm="tractabilitat"><i>tractabilitat</i><par n="accessibilitat__n"/></e>
 <e lm="decaïment"><i>decaïment</i><par n="abric__n"/></e>
 <e lm="teranyina"><i>teranyin</i><par n="abell/a__n"/></e>
 <e lm="web"><i>web</i><par n="abric__n"/></e>
@@ -94547,6 +94556,8 @@
 <e lm="vi"><i>vi</i><par n="bo__n"/></e>
 <e lm="ala"><i>al</i><par n="abell/a__n"/></e>
 <e lm="guanyador"><i>guanyador</i><par n="senyor__n"/></e>
+<e lm="experimentador"><i>experimentador</i><par n="senyor__n"/></e>
+<e lm="derivat"><i>derivat</i><par n="abric__n"/></e>
 <e lm="hivern"><i>hivern</i><par n="abric__n"/></e>
 <e lm="fil"><i>fil</i><par n="abric__n"/></e>
 <e lm="filferro"><i>filferro</i><par n="abric__n"/></e>
@@ -101058,6 +101069,7 @@
 <e lm="psefita"><i>psefit</i><par n="abell/a__n"/></e>
 <e lm="hipocamp"><i>hipocamp</i><par n="abric__n"/></e>
 <e lm="trèvol"><i>trèvol</i><par n="abric__n"/></e>
+<e lm="trèvol de quatre fulles"><i>trèvol</i><par n="abric__n"/><p><l><b/>de<b/>quatre<b/>fulles</l><r><g><b/>de<b/>quatre<b/>fulles</g></r></p></e>
 <e lm="remolinador"><i>remolinador</i><par n="senyor__n"/></e>
 <e lm="sumand"><i>sumand</i><par n="abric__n"/></e>
 <e lm="lapidadora"><i>lapidador</i><par n="abell/a__n"/></e>
@@ -103607,6 +103619,7 @@
 <e lm="insectívor"><i>insectívor</i><par n="abric__n"/></e>
 <e lm="interlineació"><i>interlineaci</i><par n="acci/ó__n"/></e>
 <e lm="fisiologia"><i>fisiologi</i><par n="abell/a__n"/></e>
+<e lm="ecofisiologia"><i>ecofisiologi</i><par n="abell/a__n"/></e>
 <e lm="suficiència"><i>suficiènci</i><par n="abell/a__n"/></e>
 <e lm="vocalització"><i>vocalitzaci</i><par n="acci/ó__n"/></e>
 <e lm="hiperostosi"><i>hiperostosi</i><par n="accessibilitat__n"/></e>
@@ -117517,6 +117530,8 @@
 <e lm="escorpió" a="prompsit"><i>escorpió</i><par n="guardaespatlles__n"/></e>
 <e lm="biomedicina" a="prompsit"><i>biomedicin</i><par n="abell/a__n"/></e>
 <e lm="genòmica"><i>genòmi</i><par n="acústi/ca__n"/></e>
+<e lm="cladística"><i>cladísti</i><par n="acústi/ca__n"/></e>
+<e lm="fenètica"><i>fenèti</i><par n="acústi/ca__n"/></e>
 <e lm="pilar"><i>pilar</i><par n="abric__n"/></e>
 <e lm="reduccionisme"><i>reduccionisme</i><par n="abric__n"/></e>
 <e lm="precepte"><i>precepte</i><par n="abric__n"/></e>
@@ -117537,6 +117552,7 @@
 <e lm="lleixiu"><i>lleixiu</i><par n="abric__n"/></e>
 <e lm="naturalisme" a="prompsit2adn"><i>naturalisme</i><par n="abric__n"/></e>
 <e lm="nanotecnologia" a="prompsit2adn"><i>nanotecnologi</i><par n="abell/a__n"/></e>
+<e lm="micologia"><i>micologi</i><par n="abell/a__n"/></e>
 <e lm="aplicabilitat"><i>aplicabilitat</i><par n="accessibilitat__n"/></e>
 <e lm="aerodinàmica" a="prompsit2adn"><i>aerodinàmi</i><par n="acústi/ca__n"/></e>
 <e lm="retroalimentació"><i>retroalimentaci</i><par n="acci/ó__n"/></e>
