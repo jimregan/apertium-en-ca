@@ -21016,6 +21016,7 @@
 <e>       <p><l>tonne<s n="n"/></l>               <r>tona<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>tool<s n="n"/></l>                <r>eina<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>tooth<s n="n"/></l>               <r>dent<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>dandelion<s n="n"/></l>               <r>dent<g><b/>de<b/>lleó</g><s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>topic<s n="n"/></l>               <r>tema<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>touch<s n="n"/></l>               <r>tacte<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>towel<s n="n"/></l>               <r>tovallola<s n="n"/><s n="f"/></r></p></e>
@@ -43659,6 +43660,8 @@
 <e><p><l>head<b/>office<s n="n"/></l><r>central<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>organiser<s n="n"/></l><r>organitzador<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>organiser<s n="n"/></l><r>organitzador<s n="n"/></r></p></e>
+<e r="LR"><p><l>impaler<s n="n"/></l><r>empalador<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>impaler<s n="n"/></l><r>empalador<s n="n"/></r></p></e>
 <e vl="en_GB"><p><l>pyjamas<s n="n"/></l><r>pijama<s n="n"/><s n="m"/></r></p></e>
 <e vl="en_US"><p><l>pajamas<s n="n"/></l>             <r>pijama<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>palaeontologist<s n="n"/></l><r>paleontòleg<s n="n"/><s n="m"/></r></p></e>

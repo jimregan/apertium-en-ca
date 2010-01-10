@@ -94429,6 +94429,7 @@
 <e lm="tona"><i>ton</i><par n="abell/a__n"/></e>
 <e lm="eina"><i>ein</i><par n="abell/a__n"/></e>
 <e lm="dent"><i>dent</i><par n="accessibilitat__n"/></e>
+<e lm="dent de lleó"><i>dent</i><par n="accessibilitat__n"/><p><l><b/>de<b/>lleó</l><r><g><b/>de<b/>lleó</g></r></p></e>
 <e lm="tacte"><i>tacte</i><par n="abric__n"/></e>
 <e lm="gira"><i>gir</i><par n="abell/a__n"/></e>
 <e lm="tovallola"><i>tovallol</i><par n="abell/a__n"/></e>
@@ -94524,6 +94525,7 @@
 <e lm="salari"><i>salari</i><par n="abric__n"/></e>
 <e lm="cintura"><i>cintur</i><par n="abell/a__n"/></e>
 <e lm="cambrer"><i>cambrer</i><par n="senyor__n"/></e>
+<e lm="empalador"><i>empalador</i><par n="senyor__n"/></e>
 <e lm="cartera"><i>carter</i><par n="abell/a__n"/></e>
 <e lm="escalfor"><i>escalfor</i><par n="fi__n"/></e>
 <e lm="advertència"><i>advertènci</i><par n="abell/a__n"/></e>

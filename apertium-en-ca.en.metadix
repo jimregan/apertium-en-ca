@@ -34794,6 +34794,7 @@
     <e lm="android" a="greenbreen"><i>android</i><par n="house__n"/></e>
     <e lm="tracker" a="greenbreen"><i>tracker</i><par n="house__n"/></e>
     <e lm="pavilion" a="greenbreen"><i>pavilion</i><par n="house__n"/></e>
+    <e lm="dandelion"><i>dandelion</i><par n="house__n"/></e>
     <e lm="sulphur" r="LR"><i>sulphur</i><par n="house__n"/>    </e>
     <e lm="sulphur" r="LR" a="greenbreen"><p><l>sulfur</l><r>sulphur</r></p><par n="house__n"/>    </e>
     <e lm="sulphur" r="RL" alt="en_GB"><i>sulphur</i><par n="house__n"/>    </e>
