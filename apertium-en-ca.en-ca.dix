@@ -19979,7 +19979,8 @@
 <e>       <p><l>click<s n="n"/></l>               <r>clic<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>climate<s n="n"/></l>             <r>clima<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>climbing<s n="n"/></l>            <r>escalada<s n="n"/><s n="f"/></r></p></e>
-<e r="LR"><p><l>closet<s n="n"/></l>              <r>armari<s n="n"/><s n="m"/></r></p></e>
+<e vl="en_US" srl="closet D"><p><l>closet<s n="n"/></l>              <r>armari<s n="n"/><s n="m"/></r></p></e>
+<e vl="en_GB" srl="cupboard D"><p><l>cupboard<s n="n"/></l>  <r>armari<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>clothes<s n="n"/><s n="pl"/></l>  <r>roba<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e r="RL"><p><l>cloth<s n="n"/><s n="pl"/></l>    <r>roba<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e r="LR"><p><l>clothing<s n="n"/></l>            <r>roba<s n="n"/><s n="f"/></r></p></e>
@@ -45539,7 +45540,6 @@
 <e slr="argument D"><p><l>argument<s n="n"/></l>  <r>argument<s n="n"/><s n="m"/></r></p></e>
 <e slr="argumentar D"><p><l>argue<s n="vblex"/></l><r>argumentar<s n="vblex"/></r></p></e>
 <e slr="arma D" c="(només en plural, arms (en-ca). En plural serà polisèmica de en a ca, (braços, armes) i en sg es traduirà només com a 'braç')"><p><l>arm<s n="n"/><s n="pl"/></l><r>arma<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-<e slr="armari D"><p><l>wardrobe<s n="n"/></l><r>armari<s n="n"/><s n="m"/></r></p></e>
 <e slr="arranjament D"><p><l>arrangement<s n="n"/></l><r>arranjament<s n="n"/><s n="m"/></r></p></e>
 <e slr="arreglar"><p><l>fix<s n="vblex"/></l>     <r>arreglar<s n="vblex"/></r></p></e>
 <e slr="arrossegar D"><p><l>drag<s n="vblex"/></l><r>arrossegar<s n="vblex"/></r></p></e>
@@ -46624,7 +46624,7 @@
 
 <e slr="segell" srl="seal"><p><l>seal<s n="n"/></l><r>segell<s n="n"/><s n="m"/></r></p></e>
 
-<e srl="season"><p><l>season<s n="n"/></l><r>estació<s n="n"/><s n="f"/></r></p></e>
+<e srl="station D"><p><l>station<s n="n"/></l>    <r>estació<s n="n"/><s n="f"/></r></p></e>
 <e slr="estació D" srl="season"><p><l>season<s n="n"/></l><r>estació<s n="n"/><s n="f"/></r></p></e>
 
 <e srl="study D"><p><l>study<s n="n"/></l>        <r>estudi<s n="n"/><s n="m"/></r></p></e>
