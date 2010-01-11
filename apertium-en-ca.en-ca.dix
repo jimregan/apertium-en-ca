@@ -722,6 +722,8 @@
 <e r="LR" a="doriua"><p><l>quiet<s n="adj"/><s n="sint"/></l><r>tranquil<s n="adj"/></r></p></e>
 <e>       <p><l>apathetic<s n="adj"/></l>         <r>apàtic<s n="adj"/></r></p></e>
 
+<e><p><l>coprime<s n="n"/></l>              <r>coprimer<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>coprime<s n="adj"/></l>              <r>coprimer<s n="adj"/></r></p></e>
 <e>       <p><l>homomorphic<s n="adj"/></l>       <r>homomòrfic<s n="adj"/></r></p></e>
 
 <e>       <p><l>extraordinary<s n="adj"/></l>     <r>extraordinari<s n="adj"/></r></p></e>
@@ -20382,8 +20384,8 @@
 <e r="LR"><p><l>hurry<s n="n"/></l>               <r>pressa<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>ice<s n="n"/></l>                 <r>gel<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>ice<b/>cream<s n="n"/></l>        <r>gelat<s n="n"/><s n="m"/></r></p></e>
-<e r="LR">       <p><l>freezing<s n="adj"/></l>         <r>gelat<s n="adj"/></r></p></e>
-<e>       <p><l>frozen<s n="adj"/></l>         <r>gelat<s n="adj"/></r></p></e>
+<e>       <p><l>freezing<s n="adj"/></l>         <r>gelat<s n="adj"/></r></p></e>
+<e r="LR">       <p><l>frosted<s n="adj"/></l>         <r>gelat<s n="adj"/></r></p></e>
 <e>       <p><l>ideal<s n="n"/></l>               <r>ideal<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>identity<s n="n"/></l>            <r>identitat<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>illness<s n="n"/></l>             <r>malaltia<s n="n"/><s n="f"/></r></p></e>
