@@ -25211,6 +25211,15 @@
     <e lm="non-existent"><i>non-existent</i><par n="expensive__adj"/>    </e>
     <e lm="non-EU"><i>non-EU</i><par n="expensive__adj"/>    </e>
     <e lm="non-EC"><i>non-EC</i><par n="expensive__adj"/>    </e>
+    <e lm="anti-tobacco"><i>anti-tobacco</i><par n="expensive__adj"/>    </e>
+    <e lm="contestable"><i>contestable</i><par n="expensive__adj"/>    </e>
+    <e lm="registrable"><i>registrable</i><par n="expensive__adj"/>    </e>
+    <e lm="claustral"><i>claustral</i><par n="expensive__adj"/>    </e>
+    <e lm="cloistral"><i>cloistral</i><par n="expensive__adj"/>    </e>
+    <e lm="cloistered"><i>cloistered</i><par n="expensive__adj"/>    </e>
+    <e lm="San Juan" r="RL"><i>San<b/>Juan</i><par n="expensive__adj"/>    </e>
+    <e lm="interregional"><i>interregional</i><par n="expensive__adj"/>    </e>
+    <e lm="inter-regional"><i>inter-regional</i><par n="expensive__adj"/>    </e>
     <e lm="normal"><i>normal</i><par n="expensive__adj"/>    </e>
     <e lm="normative"><i>normative</i><par n="expensive__adj"/>    </e>
     <e lm="north"><i>north</i><par n="long/__adj"/>    </e>

@@ -2388,6 +2388,13 @@
 
 <e>       <p><l>non-EU<s n="adj"/></l>        <r>extracomunitari<s n="adj"/></r></p></e>
 <e r="LR">       <p><l>non-EC<s n="adj"/></l>        <r>extracomunitari<s n="adj"/></r></p></e>
+<e>       <p><l>anti-tobacco<s n="adj"/></l>        <r>antitabac<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>registrable<s n="adj"/></l>        <r>enregistrable<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>contestable<s n="adj"/></l>        <r>contestable<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR">       <p><l>claustral<s n="adj"/></l>        <r>claustral<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR">       <p><l>cloistral<s n="adj"/></l>        <r>claustral<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>cloistered<s n="adj"/></l>        <r>claustral<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL">       <p><l>San<b/>Juan<s n="adj"/></l>        <r>santjoaner<s n="adj"/></r></p></e>
 
 <e>       <p><l>milky<s n="adj"/><s n="sint"/></l><r>lletós<s n="adj"/></r></p></e>
 
@@ -5442,7 +5449,8 @@
 <e>       <p><l>photographic<s n="adj"/></l>      <r>fotogràfic<s n="adj"/></r></p></e>
 
 <e>       <p><l>regional<s n="adj"/></l>          <r>regional<s n="adj"/><s n="mf"/></r></p></e>
-<e>       <p><l>inter-regional<s n="adj"/></l>    <r>interregional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR">       <p><l>inter-regional<s n="adj"/></l>    <r>interregional<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>interregional<s n="adj"/></l>    <r>interregional<s n="adj"/><s n="mf"/></r></p></e>
 
 <e>       <p><l>past<s n="adj"/></l>              <r>passat<s n="adj"/></r></p></e>
 
