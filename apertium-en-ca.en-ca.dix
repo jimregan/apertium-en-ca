@@ -593,7 +593,10 @@
 <e a="termcat"><p><l>box<b/>plot<s n="n"/></l><r>diagrama<g><b/>de<b/>caixa</g><s n="n"/><s n="m"/></r></p></e>
 <e a="termcat" r="RL"><p><l>box<b/>plot<s n="n"/></l><r>diagrama<g><b/>de<b/>capsa</g><s n="n"/><s n="m"/></r></p></e>
 <e a="termcat"><p><l>stem-and-leaf<b/>plot<s n="n"/></l><r>diagrama<g><b/>de<b/>tija<b/>i<b/>fulles</g><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>antarctic<s n="adj"/></l><r>antàrtic<s n="adj"/></r></p></e>
+<e><p><l>psychoactive<s n="adj"/></l><r>psicotròpic<s n="adj"/></r></p></e>
 <e a="termcat"><p><l>prismatic<s n="adj"/></l><r>prismàtic<s n="adj"/></r></p></e>
+<e><p><l>grumpy<s n="adj"/><s n="sint"/></l><r>rondinaire<s n="adj"/></r></p></e>
 <e a="termcat"><p><l>tetrahedral<s n="adj"/></l><r>tetraèdric<s n="adj"/></r></p></e>
 <e a="termcat"><p><l>polyhedral<s n="adj"/></l><r>polièdric<s n="adj"/></r></p></e>
 <e a="termcat"><p><l>octahedral<s n="adj"/></l><r>octaèdric<s n="adj"/></r></p></e>
@@ -1524,6 +1527,7 @@
 <e>       <p><l>japanese<s n="adj"/></l>          <r>japonès<s n="adj"/></r></p></e>
 <e>       <p><l>thai<s n="adj"/></l>              <r>tailandès<s n="adj"/></r></p></e>
 <e r="LR">       <p><l>jacobiste<s n="adj"/></l>         <r>jacobita<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR">       <p><l>jacobist<s n="adj"/></l>         <r>jacobita<s n="adj"/><s n="mf"/></r></p></e>
 <e>       <p><l>bolivian<s n="adj"/></l>          <r>bolivià<s n="adj"/></r></p></e>
 <e>       <p><l>bulgarian<s n="adj"/></l>         <r>búlgar<s n="adj"/></r></p></e>
 <e>       <p><l>portuguese<s n="adj"/></l>        <r>portuguès<s n="adj"/></r></p></e>
@@ -18897,6 +18901,7 @@
 <e>       <p><l>good<b/>afternoon<s n="ij"/></l>  <r>bona<b/>tarda<s n="ij"/></r></p></e>
 <e>       <p><l>good<b/>night<s n="ij"/></l>      <r>bona<b/>nit<s n="ij"/></r></p></e>
 <e>       <p><l>thank<b/>you<s n="ij"/></l>       <r>gràcies<s n="ij"/></r></p></e>
+<e>       <p><l>it's<b/>no<b/>use<b/>crying<b/>over<b/>spilt<b/>milk<s n="adv"/></l>       <r>al<b/>fet<b/>pit<s n="adv"/></r></p></e>
 <e r="LR">       <p><l>thanks<s n="ij"/></l>       <r>gràcies<s n="ij"/></r></p></e>
 <e r="LR">       <p><l>you're<b/>welcome<s n="ij"/></l>       <r>de<b/>res<s n="ij"/></r></p></e>
 
@@ -24791,6 +24796,7 @@
 <e>       <p><l>jeep<s n="n"/></l>                <r>jeep<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>keratosis<s n="n"/></l>           <r>ceratosi<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>nationalism<s n="n"/></l>         <r>nacionalisme<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>Great<b/>Depression<s n="np"/><s n="al"/></l>   <r>Gran<b/>depressió<s n="np"/><s n="al"/><s n="f"/></r></p></e>
 <e>       <p><l>United<b/>Nations<s n="np"/><s n="al"/></l>   <r>Nacions<b/>Unides<s n="np"/><s n="al"/><s n="f"/></r></p></e>
 <e>       <p><l>La<b/>Palma<s n="np"/><s n="loc"/></l>   <r>La<b/>Palma<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e>       <p><l>Canaries<s n="np"/><s n="loc"/></l>   <r>Canàries<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
@@ -44222,6 +44228,7 @@
 <e><p><l>medicine<b/>cabinet<s n="n"/></l><r>farmaciola<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>first-aid<b/>kit<s n="n"/></l><r>farmaciola<g><b/>de<b/>primers<b/>auxilis</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>dental<b/>floss<s n="n"/></l><r>fil<b/>dental<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>methylated<b/>spirit<s n="n"/></l><r>alcohol<b/>metílic<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>backup<s n="n"/></l><r>còpia<g><b/>de<b/>seguretat</g><s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>balm<s n="n"/></l><r>bàlsam<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>badge<s n="n"/></l><r>placa<s n="n"/><s n="f"/></r></p></e>

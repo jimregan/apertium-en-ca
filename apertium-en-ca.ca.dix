@@ -83321,6 +83321,8 @@
 <e lm="incendiari"><i>incendi</i><par n="adjudicat/ari__adj"/></e>
 
 <e lm="morfogenètic"><i>morfogenèti</i><par n="acadèmi/c__adj"/></e>
+<e lm="antàrtic"><i>antàrti</i><par n="acadèmi/c__adj"/></e>
+<e lm="psicotròpic"><i>psicotròpi</i><par n="acadèmi/c__adj"/></e>
 
 <e lm="autoimposat"><i>autoimposa</i><par n="afortuna/t__adj"/></e>
 <e lm="inspirat en"><i>inspira</i><par n="afortuna/t__adj"/><p><l><b/>en</l><r><g><b/>en</g></r></p></e>
@@ -84126,6 +84128,9 @@
 <e lm="sense educació"><i>sense<b/>educació</i><par n="multimèdia__adj"/></e>
 <e lm="compartimentat"><i>compartimenta</i><par n="afortuna/t__adj"/></e>
 <e lm="subcompartimentat"><i>subcompartimenta</i><par n="afortuna/t__adj"/></e>
+<e lm="alcohol metílic"><p><l>alcohol<b/>metílic</l><r>alcohol<b/>metílic<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="alcohol metílic"><p><l>alcohols<b/>metílics</l><r>alcohol<b/>metílic<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="rondinaire"><i>rondinaire</i><par n="abdominal__adj"/></e>
 
 
 <e lm="aigua dolça"><p><l>aigua<b/>dolça</l><r>aigua<b/>dolça<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
@@ -84139,6 +84144,7 @@
 <e lm="immemorial"><i>immemorial</i><par n="abdominal__adj"/></e>
 <e lm="des de temps antics"><i>des<b/>de<b/>temps<b/>antics</i><par n="sempre__adv"/></e>
 <e lm="des de temps immemorials"><i>des<b/>de<b/>temps<b/>immemorials</i><par n="sempre__adv"/></e>
+<e lm="al fet pit"><i>al<b/>fet<b/>pit</i><par n="sempre__adv"/></e>
 
 <e lm="fonològic"><i>fonològi</i><par n="acadèmi/c__adj"/></e>
 <e lm="meteorològic"><i>meteorològi</i><par n="acadèmi/c__adj"/></e>
@@ -106158,6 +106164,7 @@
 <e lm="Repsol"><i>Repsol</i><par n="ABC__np"/></e>
 <e lm="Telefónica"><i>Telefónica</i><par n="Telefónica__np"/></e>
 <e lm="Viquipèdia"><i>Viquipèdia</i><par n="Telefónica__np"/></e>
+<e lm="Gran depressió"><i>Gran<b/>depressió</i><par n="Telefónica__np"/></e>
 <e lm="Organització Mundial de la Salut"><i>Organització<b/>Mundial<b/>de<b/>la<b/>Salut</i><par n="Telefónica__np"/></e>
 <e lm="Sinn Féin"><i>Sinn<b/>Féin</i><par n="ABC__np"/></e>
 <e lm="Laboratori National de Los Alamos"><i>Laboratori<b/>National<b/>de<b/>Los<b/>Alamos</i><par n="ABC__np"/></e>
