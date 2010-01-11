@@ -34780,8 +34780,6 @@
     <e lm="gypsum" a="greenbreen"><i>gypsum</i><par n="house__n"/></e>
     <e lm="lime" a="greenbreen"><i>lime</i><par n="house__n"/></e>
     <e lm="quicksilver" a="greenbreen"><i>quicksilver</i><par n="house__n"/></e>
-    <e lm="Frenchman" a="greenbreen"><i>Frenchm</i><par n="m/an__n"/></e>
-    <e lm="Frenchwoman" a="greenbreen"><i>Frenchwom</i><par n="m/an__n"/></e>
     <e lm="ash" a="greenbreen"><i>ash</i><par n="access__n"/></e>
     <e lm="piracy" a="greenbreen"><i>pirac</i><par n="bab/y__n"/></e>
     <e lm="offender" a="greenbreen"><i>offender</i><par n="house__n"/></e>
@@ -35482,7 +35480,7 @@
     <e lm="equinox" a="greenbreen"><i>equinox</i><par n="access__n"/></e>
     <e lm="Hipparchus" a="greenbreen"><i>Hipparchus</i><par n="James__np"/></e>
     <e lm="zodiacal" a="greenbreen"><i>zodiacal</i><par n="expensive__adj"/></e>
-    <e lm="pre-Columbian" a="greenbreen"><i>pre-Columbian</i><par n="expensive__adj"/></e>
+    <e lm="pre-Columbian" a="greenbreen"><p><l>pre-Columbian</l><r>pre-columbian</r></p><par n="expensive__adj"/></e>
     <e lm="geocentric" a="greenbreen"><i>geocentric</i><par n="expensive__adj"/></e>
     <e lm="Eratosthenes" a="greenbreen"><i>Eratosthenes</i><par n="James__np"/></e>
     <e lm="armillary sphere" a="greenbreen"><i>armillary<b/>sphere</i><par n="house__n"/></e>

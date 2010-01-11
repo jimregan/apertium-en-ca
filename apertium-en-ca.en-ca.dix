@@ -3960,7 +3960,7 @@
 <e>       <p><l>insolvent<s n="adj"/></l>         <r>insolvent<s n="adj"/><s n="mf"/></r></p></e>
 
 <e>       <p><l>dasymetric<s n="adj"/></l>        <r>dasimètric<s n="adj"/></r></p></e>
-<e>       <p><l>supersymetric<s n="adj"/></l>        <r>supersimètric<s n="adj"/></r></p></e>
+<e>       <p><l>supersymmetric<s n="adj"/></l>        <r>supersimètric<s n="adj"/></r></p></e>
 
 <e>       <p><l>idiomorphic<s n="adj"/></l>       <r>idiomorf<s n="adj"/></r></p></e>
 
@@ -19140,10 +19140,10 @@
 <e r="RL"><p><l>doctor<s n="n"/></l>              <r>metge<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>dog<s n="n"/></l>                 <r>gos<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>dog<s n="n"/></l>                 <r>gos<s n="n"/></r></p></e>
-<e v="cat">       <p><l>fox<s n="n"/></l>     <r>guineu<s n="n"/><s n="f"/></r></p></e>
-<e v="cat" r="LR"><p><l>vixen<s n="n"/></l>     <r>guineu<s n="n"/><s n="f"/></r></p></e>
-<e r="LR" v="val"><p><l>vixen<s n="n"/></l><r>rabosa<s n="n"/><s n="f"/></r></p></e>
-<e v="val"><p><l>fox<s n="n"/></l>  <r>rabosa<s n="n"/><s n="f"/></r></p></e>
+<e vr="cat">       <p><l>fox<s n="n"/></l>     <r>guineu<s n="n"/><s n="f"/></r></p></e>
+<e vr="cat" r="LR"><p><l>vixen<s n="n"/></l>     <r>guineu<s n="n"/><s n="f"/></r></p></e>
+<e r="LR" vr="val"><p><l>vixen<s n="n"/></l><r>rabosa<s n="n"/><s n="f"/></r></p></e>
+<e vr="val"><p><l>fox<s n="n"/></l>  <r>rabosa<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>bear<s n="n"/></l>                <r>ós<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>bear<s n="n"/></l>                <r>ós<s n="n"/></r></p></e>
 <e>       <p><l>door<s n="n"/></l>                <r>porta<s n="n"/><s n="f"/></r></p></e>
@@ -20381,6 +20381,7 @@
 <e>       <p><l>ice<s n="n"/></l>                 <r>gel<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>ice<b/>cream<s n="n"/></l>        <r>gelat<s n="n"/><s n="m"/></r></p></e>
 <e r="LR">       <p><l>freezing<s n="adj"/></l>         <r>gelat<s n="adj"/></r></p></e>
+<e>       <p><l>frozen<s n="adj"/></l>         <r>gelat<s n="adj"/></r></p></e>
 <e>       <p><l>ideal<s n="n"/></l>               <r>ideal<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>identity<s n="n"/></l>            <r>identitat<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>illness<s n="n"/></l>             <r>malaltia<s n="n"/><s n="f"/></r></p></e>
@@ -20836,7 +20837,8 @@
 <e r="LR">       <p><l>senator<s n="n"/></l>             <r>senador<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>senator<s n="n"/></l>             <r>senador<s n="n"/></r></p></e>
 <e>       <p><l>separation<s n="n"/></l>          <r>separació<s n="n"/><s n="f"/></r></p></e>
-<e r="RL">       <p><l>servant<s n="n"/></l>             <r>mosso<s n="n"/><s n="m"/></r></p></e>
+<e r="RL">       <p><l>servant<s n="n"/></l>             <r>mosso<s n="n"/></r></p></e>
+<e r="LR">       <p><l>maid<s n="n"/></l>             <r>mosso<s n="n"/><s n="f"/></r></p></e>
 <e r="LR">       <p><l>servant<s n="n"/></l>             <r>criat<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>servant<s n="n"/></l>             <r>criat<s n="n"/></r></p></e>
 <e r="LR">       <p><l>stablehand<s n="n"/></l>             <r>mosso<g><b/>de<b/>quadra</g><s n="n"/><s n="GD"/></r></p></e>
@@ -20845,6 +20847,8 @@
 <e r="LR"><p><l>presidential<b/>candidate<s n="n"/></l>             <r>candidat<g><b/>a<b/>la<b/>presidència</g><s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>presidential<b/>candidate<s n="n"/></l>             <r>candidat<g><b/>a<b/>la<b/>presidència</g><s n="n"/></r></p></e>
 <e r="LR"><p><l>candidate<g><b/>for<b/>the<b/>presidency</g><s n="n"/></l>             <r>candidat<g><b/>a<b/>la<b/>presidència</g><s n="n"/><s n="GD"/></r></p></e>
+<e><p><l>house<g><b/>of<b/>Representatives</g><s n="n"/></l>             <r>cambra<g><b/>de<b/>Representats</g><s n="n"/><s n="f"/></r></p></e>
+<e><p><l>ascendent<s n="n"/></l>             <r>ascendent<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>topic<g><b/>of<b/>conversation</g><s n="n"/></l>             <r>tema<g><b/>de<b/>conversa</g><s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>conversation<b/>piece<s n="n"/></l>             <r>tema<g><b/>de<b/>conversa</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>spirit<b/>level<s n="n"/></l>             <r>nivell<g><b/>de<b/>bombolla</g><s n="n"/><s n="m"/></r></p></e>
@@ -45754,7 +45758,6 @@
 <e slr="espot"><p><l>spot<s n="n"/></l>           <r>espot<s n="n"/><s n="m"/></r></p></e>
 <e slr="espremuda D"><p><l>squeeze<s n="n"/></l>  <r>espremuda<s n="n"/><s n="f"/></r></p></e>
 <e slr="esquena"><p><l>back<s n="n"/></l>         <r>esquena<s n="n"/><s n="f"/></r></p></e>
-<e slr="estació D"><p><l>season<s n="n"/></l><r>estació<s n="n"/><s n="f"/></r></p></e>
 <e slr="estalviar"><p><l>save<s n="vblex"/></l>   <r>estalviar<s n="vblex"/></r></p></e>
 <e slr="estampar D"><p><l>stamp<s n="vblex"/></l> <r>estampar<s n="vblex"/></r></p></e>
 <e slr="estampat"><p><l>print<s n="n"/></l>       <r>estampat<s n="n"/><s n="m"/></r></p></e>
@@ -45777,7 +45780,6 @@
 <e slr="excitar"><p><l>arouse<s n="vblex"/></l>   <r>excitar<s n="vblex"/></r></p></e>
 <e slr="exhibició"><p><l>exhibition<s n="n"/></l> <r>exhibició<s n="n"/><s n="f"/></r></p></e>
 <e slr="expedient"><p><l>file<s n="n"/></l>       <r>expedient<s n="n"/><s n="m"/></r></p></e>
-<e slr="explotar D"><p><l>explode<s n="vblex"/></l><r>explotar<s n="vblex"/></r></p></e>
 <e slr="exposar D"><p><l>expose<s n="vblex"/></l> <r>exposar<s n="vblex"/></r></p></e>
 <e slr="exposició D"><p><l>exhibition<s n="n"/></l><r>exposició<s n="n"/><s n="f"/></r></p></e>
 <e slr="extensió D"><p><l>extension<s n="n"/></l> <r>extensió<s n="n"/><s n="f"/></r></p></e>
@@ -45805,7 +45807,6 @@
 <e slr="fila D"><p><l>row<s n="n"/></l>           <r>fila<s n="n"/><s n="f"/></r></p></e>
 <e slr="filar"><p><l>spin<s n="vblex"/></l>       <r>filar<s n="vblex"/></r></p></e>
 <e slr="filferro"><p><l>wire<s n="n"/></l>        <r>filferro<s n="n"/><s n="m"/></r></p></e>
-<e slr="filtar D"><p><l>leak<s n="vblex"/></l><r>filtrar<s n="vblex"/></r></p></e>
 <e slr="fixar D"><p><l>fix<s n="vblex"/></l>      <r>fixar<s n="vblex"/></r></p></e>
 <e slr="floridura"><p><l>mould<s n="n"/></l>      <r>floridura<s n="n"/><s n="f"/></r></p></e>
 <e slr="foca D"><p><l>seal<s n="n"/></l>          <r>foca<s n="n"/><s n="f"/></r></p></e>
@@ -45872,7 +45873,6 @@
 <e slr="interruptor D"><p><l>switch<s n="n"/></l> <r>interruptor<s n="n"/><s n="m"/></r></p></e>
 <e slr="introduir"><p><l>enter<s n="vblex"/></l>  <r>introduir<s n="vblex"/></r></p></e>
 <e slr="inundar"><p><l>drown<s n="vblex"/></l>    <r>inundar<s n="vblex"/><s n="pron"/></r></p></e>
-<e slr="invertir D"><p><l>reverse<s n="vblex"/></l><r>invertir<s n="vblex"/></r></p></e>
 <e slr="jaqueta D"><p><l>jacket<s n="n"/></l>     <r>jaqueta<s n="n"/><s n="f"/></r></p></e>
 <e slr="joieria"><p><l>jewellery<s n="n"/></l>    <r>joieria<s n="n"/><s n="f"/></r></p></e>
 <e slr="judici D" srl="judgement"><p><l>judgement<s n="n"/></l><r>judici<s n="n"/><s n="m"/></r></p></e>
@@ -45975,7 +45975,6 @@
 <e slr="pebrot"><p><l>pepper<s n="n"/></l>        <r>pebrot<s n="n"/><s n="m"/></r></p></e>
 <e slr="pedra D"><p><l>stone<s n="n"/></l>        <r>pedra<s n="n"/><s n="f"/></r></p></e>
 <e slr="pendent D"><p><l>slope<s n="n"/></l>      <r>pendent<s n="n"/><s n="m"/></r></p></e>
-<e slr="perdre D"><p><l>miss<s n="vblex"/></l><r>perdre<s n="vblex"/></r></p></e>
 <e slr="perforadora"><p><l>punch<s n="n"/></l>    <r>perforadora<s n="n"/><s n="f"/></r></p></e>
 <e slr="permetre D"><p><l>allow<s n="vblex"/></l> <r>permetre<s n="vblex"/></r></p></e>
 <e slr="permetre's D"><p><l>afford<s n="vblex"/></l><r>permetre's<s n="vblex"/><s n="pron"/></r></p></e>
@@ -46645,8 +46644,8 @@
 
 <e slr="segell" srl="seal"><p><l>seal<s n="n"/></l><r>segell<s n="n"/><s n="m"/></r></p></e>
 
-<e srl="station D"><p><l>station<s n="n"/></l>    <r>estació<s n="n"/><s n="f"/></r></p></e>
 <e srl="season"><p><l>season<s n="n"/></l><r>estació<s n="n"/><s n="f"/></r></p></e>
+<e slr="estació D" srl="season"><p><l>season<s n="n"/></l><r>estació<s n="n"/><s n="f"/></r></p></e>
 
 <e srl="study D"><p><l>study<s n="n"/></l>        <r>estudi<s n="n"/><s n="m"/></r></p></e>
 <e srl="studio"><p><l>studio<s n="n"/></l>        <r>estudi<s n="n"/><s n="m"/></r></p></e>
@@ -46766,13 +46765,13 @@
 <e srl="hope"><p><l>hope<s n="vblex"/></l>        <r>esperar<s n="vblex"/></r></p></e>
 
 <e srl="exploit D"><p><l>exploit<s n="vblex"/></l><r>explotar<s n="vblex"/></r></p></e>
-<e srl="explode"><p><l>explode<s n="vblex"/></l><r>explotar<s n="vblex"/></r></p></e>
+<e slr="explotar D" srl="explode"><p><l>explode<s n="vblex"/></l><r>explotar<s n="vblex"/></r></p></e>
 
 <e srl="feel D"><p><l>feel<s n="vblex"/></l>      <r>sentir<s n="vblex"/></r></p></e>
 <e srl="hear"><p><l>hear<s n="vblex"/></l>        <r>sentir<s n="vblex"/></r></p></e>
 
 <e srl="filter D"><p><l>filter<s n="vblex"/></l>  <r>filtrar<s n="vblex"/></r></p></e>
-<e srl="leak"><p><l>leak<s n="vblex"/></l><r>filtrar<s n="vblex"/></r></p></e>
+<e slr="filtar D" srl="leak"><p><l>leak<s n="vblex"/></l><r>filtrar<s n="vblex"/></r></p></e>
 
 <e srl="follow D"><p><l>follow<s n="vblex"/></l>  <r>seguir<s n="vblex"/></r></p></e>
 
@@ -46792,7 +46791,7 @@
 <e srl="mind"><p><l>mind<s n="vblex"/></l>        <r>importar<s n="vblex"/></r></p></e>
 
 <e srl="invest D"><p><l>invest<s n="vblex"/></l>  <r>invertir<s n="vblex"/></r></p></e>
-<e srl="reverse"><p><l>reverse<s n="vblex"/></l><r>invertir<s n="vblex"/></r></p></e>
+<e slr="invertir D" srl="reverse"><p><l>reverse<s n="vblex"/></l><r>invertir<s n="vblex"/></r></p></e>
 
 <e srl="investigate D"><p><l>investigate<s n="vblex"/></l><r>investigar<s n="vblex"/></r></p></e>
 <e srl="research"><p><l>research<s n="vblex"/></l><r>investigar<s n="vblex"/></r></p></e>
@@ -46809,7 +46808,7 @@
 <e srl="look" slr="semblar" c="(he looks tired)"><p><l>look<s n="vblex"/></l><r>semblar<s n="vblex"/></r></p></e>
 
 <e srl="lose D"><p><l>lose<s n="vblex"/></l>      <r>perdre<s n="vblex"/></r></p></e>
-<e srl="miss"><p><l>miss<s n="vblex"/></l><r>perdre<s n="vblex"/></r></p></e>
+<e slr="perdre D" srl="miss"><p><l>miss<s n="vblex"/></l><r>perdre<s n="vblex"/></r></p></e>
 
 <e srl="low D"><p><l>low<s n="adj"/><s n="sint"/></l><r>baix<s n="adj"/></r></p></e>
 <e slr="baix" srl="short"><p><l>short<s n="adj"/><s n="sint"/></l><r>baix<s n="adj"/></r></p></e>
