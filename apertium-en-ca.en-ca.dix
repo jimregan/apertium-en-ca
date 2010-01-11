@@ -596,7 +596,7 @@
 <e><p><l>antarctic<s n="adj"/></l><r>antàrtic<s n="adj"/></r></p></e>
 <e><p><l>psychoactive<s n="adj"/></l><r>psicotròpic<s n="adj"/></r></p></e>
 <e a="termcat"><p><l>prismatic<s n="adj"/></l><r>prismàtic<s n="adj"/></r></p></e>
-<e><p><l>grumpy<s n="adj"/><s n="sint"/></l><r>rondinaire<s n="adj"/></r></p></e>
+<e><p><l>grumpy<s n="adj"/><s n="sint"/></l><r>rondinaire<s n="adj"/><s n="mf"/></r></p></e>
 <e a="termcat"><p><l>tetrahedral<s n="adj"/></l><r>tetraèdric<s n="adj"/></r></p></e>
 <e a="termcat"><p><l>polyhedral<s n="adj"/></l><r>polièdric<s n="adj"/></r></p></e>
 <e a="termcat"><p><l>octahedral<s n="adj"/></l><r>octaèdric<s n="adj"/></r></p></e>
