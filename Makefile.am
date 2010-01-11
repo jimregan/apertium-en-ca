@@ -54,10 +54,10 @@ TARGETS = $(TARGETS_COMMON) \
 	xsltproc translate-to-default-equivalent.xsl $< | xsltproc --stringparam lang val --stringparam side left filter.xsl - | xsltproc --stringparam alt std alt.xsl - >$@
 
 .deps/$(PREFIX1).bil.dix: $(BASENAME).$(PREFIX1).dix
-	xsltproc --stringparam left en_GB --stringparam right cat --stringparam side right filterbil.xsl $< | xsltproc --stringparam alt std alt.xsl - >$@
+	xsltproc --stringparam left en_GB --stringparam right cat --stringparam side left filterbil.xsl $< | xsltproc --stringparam alt std alt.xsl - >$@
 
 .deps/$(PREFIX2).bil.dix: $(BASENAME).$(PREFIX1).dix
-	xsltproc --stringparam left en_GB --stringparam right cat --stringparam side left filterbil.xsl $< | xsltproc --stringparam alt std alt.xsl - >$@
+	xsltproc --stringparam left en_GB --stringparam right cat --stringparam side right filterbil.xsl $< | xsltproc --stringparam alt std alt.xsl - >$@
 
 .deps/$(PREFIX2)-US.bil.dix: $(BASENAME).$(PREFIX1).dix
 	xsltproc --stringparam left en_US --stringparam right cat --stringparam side left filterbil.xsl $< | xsltproc --stringparam alt std alt.xsl - >$@
