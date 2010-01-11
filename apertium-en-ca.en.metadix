@@ -25209,6 +25209,8 @@
     <e lm="nocturnal"><i>nocturnal</i><par n="expensive__adj"/>    </e>
     <e lm="noisy"><i>nois</i><par n="happ/y__adj"/>    </e>
     <e lm="non-existent"><i>non-existent</i><par n="expensive__adj"/>    </e>
+    <e lm="non-EU"><i>non-EU</i><par n="expensive__adj"/>    </e>
+    <e lm="non-EC"><i>non-EC</i><par n="expensive__adj"/>    </e>
     <e lm="normal"><i>normal</i><par n="expensive__adj"/>    </e>
     <e lm="normative"><i>normative</i><par n="expensive__adj"/>    </e>
     <e lm="north"><i>north</i><par n="long/__adj"/>    </e>

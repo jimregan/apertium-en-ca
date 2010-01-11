@@ -2386,6 +2386,9 @@
 
 <e>       <p><l>sulphurous<s n="adj"/></l>        <r>sulfúric<s n="adj"/></r></p></e>
 
+<e>       <p><l>non-EU<s n="adj"/></l>        <r>extracomunitari<s n="adj"/></r></p></e>
+<e r="LR">       <p><l>non-EC<s n="adj"/></l>        <r>extracomunitari<s n="adj"/></r></p></e>
+
 <e>       <p><l>milky<s n="adj"/><s n="sint"/></l><r>lletós<s n="adj"/></r></p></e>
 
 <e>       <p><l>differentiable<s n="adj"/></l>    <r>diferenciable<s n="adj"/><s n="mf"/></r></p></e>
