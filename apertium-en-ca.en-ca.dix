@@ -2389,11 +2389,17 @@
 <e>       <p><l>non-EU<s n="adj"/></l>        <r>extracomunitari<s n="adj"/></r></p></e>
 <e r="LR">       <p><l>non-EC<s n="adj"/></l>        <r>extracomunitari<s n="adj"/></r></p></e>
 <e>       <p><l>anti-tobacco<s n="adj"/></l>        <r>antitabac<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>registral<s n="adj"/></l>        <r>registral<s n="adj"/><s n="mf"/></r></p></e>
 <e>       <p><l>registrable<s n="adj"/></l>        <r>enregistrable<s n="adj"/><s n="mf"/></r></p></e>
 <e>       <p><l>contestable<s n="adj"/></l>        <r>contestable<s n="adj"/><s n="mf"/></r></p></e>
 <e r="LR">       <p><l>claustral<s n="adj"/></l>        <r>claustral<s n="adj"/><s n="mf"/></r></p></e>
 <e r="LR">       <p><l>cloistral<s n="adj"/></l>        <r>claustral<s n="adj"/><s n="mf"/></r></p></e>
 <e>       <p><l>cloistered<s n="adj"/></l>        <r>claustral<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>secretory<s n="adj"/></l>        <r>secretor<s n="adj"/></r></p></e>
+<e>       <p><l>registrar<s n="adj"/></l>        <r>registrador<s n="adj"/></r></p></e>
+<e r="LR">       <p><l>registrar<s n="n"/></l>        <r>registrador<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL">       <p><l>registrar<s n="n"/></l>        <r>registrador<s n="n"/></r></p></e>
+<e>       <p><l>cash<b/>register<s n="n"/></l>        <r>caixa<b/>registradora<s n="n"/><s n="f"/></r></p></e>
 <e r="RL">       <p><l>San<b/>Juan<s n="adj"/></l>        <r>santjoaner<s n="adj"/></r></p></e>
 
 <e>       <p><l>milky<s n="adj"/><s n="sint"/></l><r>lletós<s n="adj"/></r></p></e>

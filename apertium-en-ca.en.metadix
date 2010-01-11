@@ -22574,6 +22574,7 @@
     <e lm="region"><i>region</i><par n="house__n"/>    </e>
     <e lm="regionalism"><i>regionalism</i><par n="house__n"/>    </e>
     <e lm="register"><i>register</i><par n="house__n"/>    </e>
+    <e lm="cash register"><i>cash<b/>register</i><par n="house__n"/>    </e>
     <e lm="registration" a="carmentano"><i>registration</i><par n="house__n"/>    </e>
     <e lm="regret"><i>regret</i><par n="house__n"/>    </e>
     <e lm="regularity"><i>regularit</i><par n="bab/y__n"/>    </e>
@@ -25217,6 +25218,10 @@
     <e lm="claustral"><i>claustral</i><par n="expensive__adj"/>    </e>
     <e lm="cloistral"><i>cloistral</i><par n="expensive__adj"/>    </e>
     <e lm="cloistered"><i>cloistered</i><par n="expensive__adj"/>    </e>
+    <e lm="secretory"><i>secretory</i><par n="expensive__adj"/>    </e>
+    <e lm="registral"><i>registral</i><par n="expensive__adj"/>    </e>
+    <e lm="registrar"><i>registrar</i><par n="expensive__adj"/>    </e>
+    <e lm="registrar"><i>registrar</i><par n="house__n"/>    </e>
     <e lm="San Juan" r="RL"><i>San<b/>Juan</i><par n="expensive__adj"/>    </e>
     <e lm="interregional"><i>interregional</i><par n="expensive__adj"/>    </e>
     <e lm="inter-regional"><i>inter-regional</i><par n="expensive__adj"/>    </e>

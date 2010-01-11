@@ -84106,6 +84106,8 @@
 <e lm="roba interior"><p><l>robes<b/>interiors</l><r>roba<b/>interior<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="transbordador espacial"><p><l>transbordador<b/>espacial</l><r>transbordador<b/>espacial<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="transbordador espacial"><p><l>transbordadors<b/>espacials</l><r>transbordador<b/>espacial<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="caixa registradora"><p><l>caixa<b/>registradora</l><r>caixa<b/>registradora<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="caixa registradora"><p><l>caixes<b/>registradores</l><r>caixa<b/>registradora<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="maldestre"><i>maldestr</i><par n="abstract/e__adj"/></e>
 <e lm="orientat comercialment"><i>orienta</i><par n="afortuna/t__adj"/><p><l><b/>comercialment</l><r><g><b/>comercialment</g></r></p></e>
 <e lm="condensat"><i>condensa</i><par n="afortuna/t__adj"/></e>
@@ -117862,6 +117864,7 @@
 <e lm="regional"><i>regional</i><par n="abdominal__adj"/></e>
 <e lm="interregional"><i>interregional</i><par n="abdominal__adj"/></e>
 <e lm="registrador"><i>registrador</i><par n="absolut__adj"/></e>
+<e lm="registrador"><i>registrador</i><par n="senyor__n"/></e>
 <e lm="regi" a="prompsit2adn"><i>r</i><par n="r/egi__adj"/></e>
 <e lm="regionalista" a="prompsit2adn"><i>regionalist</i><par n="agrícol/a__adj"/></e>
 <e lm="registral" a="prompsit2adn"><i>registral</i><par n="abdominal__adj"/></e>
