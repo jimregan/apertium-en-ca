@@ -89559,6 +89559,7 @@
 <e lm="protestant"><i>protestant</i><par n="abdominal__adj"/></e> 
 <e lm="nudista"><i>nudist</i><par n="agrícol/a__adj"/></e>
 <e lm="jacobita" a="prompsit2uoc"><i>jacobit</i><par n="agrícol/a__adj"/></e>
+<e lm="meridional"><i>meridional</i><par n="acompanyant__n"/></e>
 
 
 <!-- FI ADJS BCN -->
@@ -94548,6 +94549,7 @@
 <e lm="ànec"><i>ànec</i><par n="acompanyant__n"/></e>
 <e lm="àlies"><i>àlies</i><par n="campus__n"/></e>
 <e lm="àlies" a="prompsit2adn"><i>àlies</i><par n="guardaespatlles__n"/></e>
+<e lm="del nord"><i>del<b/>nord</i><par n="guardaespatlles__n"/></e>
 <e lm="pilar"><i>pilar</i><par n="abric__n"/></e>
 <e lm="àrbitre"><i>àrbitre</i><par n="acompanyant__n"/></e>
 <e lm="nord-americà"><i>nord-americ</i><par n="afric/à__adj"/></e>

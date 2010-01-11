@@ -3277,6 +3277,9 @@
 <e r="RL"><p><l>unemployed<s n="adj"/></l>        <r>parat<s n="adj"/></r></p></e>
 <e>       <p><l>unemployed<s n="n"/><s n="pl"/></l><r>parat<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e>       <p><l>unemployed<b/>person<s n="n"/><s n="sg"/></l><r>parat<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e>       <p><l>southerner<s n="n"/></l>              <r>meridional<s n="n"/><s n="mf"/></r></p></e>
+<e r="LR">       <p><l>northerner<s n="n"/></l>              <r>del<b/>nord<s n="n"/><s n="mf"/><s n="sp"/></r></p></e>
+<e r="RL">       <p><l>northerner<s n="n"/><s n="ND"/></l>              <r>del<b/>nord<s n="n"/><s n="mf"/><s n="sp"/></r></p></e>
 <e>       <p><l>nudist<s n="n"/></l>              <r>nudista<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>Jacobite<s n="n"/></l>              <r>jacobita<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>surfer<s n="n"/></l>              <r>surfista<s n="n"/><s n="mf"/></r></p></e>
@@ -29079,14 +29082,15 @@
 <e>       <p><l>chromite<s n="n"/></l>            <r>cromita<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>photoreceiver<s n="n"/></l>       <r>fotoreceptor<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>euthanasia<s n="n"/></l>          <r>eutanàsia<s n="n"/><s n="f"/></r></p></e>
-<e>       <p><l>hydroxyde<s n="n"/></l>           <r>hidròxid<s n="n"/><s n="m"/></r></p></e>
+<e r="LR">       <p><l>hydroxyde<s n="n"/></l>           <r>hidròxid<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>reflexivity<s n="n"/></l>         <r>reflexivitat<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>idiolect<s n="n"/></l>            <r>idiolecte<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>neurocranium<s n="n"/></l>        <r>neurocrani<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>undecagon<s n="n"/></l>           <r>hendecàgon<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>subscript<s n="n"/></l>           <r>subíndex<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>copyright<s n="n"/></l>           <r>copyright<s n="n"/><s n="m"/></r></p></e>
-<e>       <p><l>amfetamine<s n="n"/></l>          <r>amfetamina<s n="n"/><s n="f"/></r></p></e>
+<e r="LR">       <p><l>amfetamine<s n="n"/></l>          <r>amfetamina<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>amphetamine<s n="n"/></l>          <r>amfetamina<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>pannier<s n="n"/></l>             <r>sàrria<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>anarchism<s n="n"/></l>           <r>anarquisme<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>hybrid<s n="n"/></l>              <r>híbrid<s n="n"/><s n="m"/></r></p></e>
@@ -43759,7 +43763,7 @@
 <e><p><l>brace<s n="n"/></l><r>tirant<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>victimisation<s n="n"/></l><r>victimització<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>visualisation<s n="n"/></l><r>visualització<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>steering<b/>wheel<s n="n"/></l><r>volant<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>steering<b/>wheel<s n="n"/></l><r>volant<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>approximation<s n="n"/></l><r>aproximació<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>stretcher<s n="n"/></l><r>llitera<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>albanian<s n="n"/></l><r>albanès<s n="n"/><s n="GD"/></r></p></e>
@@ -44090,8 +44094,8 @@
 <e><p><l>zip<s n="n"/></l><r>cremallera<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>lever<s n="n"/></l><r>palanca<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>segmentation<s n="n"/></l><r>segmentació<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>vapour<s n="n"/></l><r>vapor<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>remainder<s n="n"/></l><r>resta<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>vapour<s n="n"/></l><r>vapor<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>remainder<s n="n"/></l><r>resta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>refund<s n="n"/></l><r>reemborsament<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>mill<s n="n"/></l><r>molí<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>shredder<s n="n"/></l><r>trituradora<s n="n"/><s n="f"/></r></p></e>
