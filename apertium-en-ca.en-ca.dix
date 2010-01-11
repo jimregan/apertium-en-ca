@@ -6796,7 +6796,7 @@
 <e>       <p><l>symbolist<s n="adj"/></l>         <r>simbolista<s n="adj"/><s n="mf"/></r></p></e>
 
 <e>       <p><l>symmetrical<s n="adj"/></l>       <r>simètric<s n="adj"/></r></p></e>
-<e>       <p><l>supersymmetrical<s n="adj"/></l>       <r>supersimètric<s n="adj"/></r></p></e>
+<e r="LR">       <p><l>supersymmetrical<s n="adj"/></l>       <r>supersimètric<s n="adj"/></r></p></e>
 
 <e r="LR"><p><l>facile<s n="adj"/></l>            <r>simple<s n="adj"/><s n="mf"/></r></p></e>
 
@@ -9392,7 +9392,7 @@
 
 <e>       <p><l>with<b/>difficulty<s n="adv"/></l><r>amb<b/>dificultat<s n="adv"/></r></p></e>
 
-<e><p><l>in<b/>this<b/>case<s n="adv"/></l><r>en<b/>aquest<b/>cas<s n="adv"/></r></p></e>
+<e r="LR"><p><l>in<b/>this<b/>case<s n="adv"/></l><r>en<b/>aquest<b/>cas<s n="adv"/></r></p></e>
 <e><p><l>bomb-proof<s n="adv"/></l><r>a<b/>prova<b/>de<b/>bombes<s n="adv"/></r></p></e>
 <e r="LR"><p><l>by<b/>plane<s n="adv"/></l><r>per<b/>avió<s n="adv"/></r></p></e>
 <e><p><l>in<b/>bad<b/>faith<s n="adv"/></l><r>de<b/>mala<b/>fe<s n="adv"/></r></p></e>
@@ -19035,7 +19035,7 @@
 <e>       <p><l>mobile<b/>phone<s n="n"/></l>     <r>telèfon<b/>mòbil<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>cordless<b/>phone<s n="n"/></l>     <r>telèfon<g><b/>sense<b/>fil</g><s n="n"/><s n="m"/></r></p></e>
 <e r="LR">       <p><l>cordless<b/>telephone<s n="n"/></l>     <r>telèfon<g><b/>sense<b/>fil</g><s n="n"/><s n="m"/></r></p></e>
-<e>       <p><l>cordless<s n="adj"/></l>     <r>sense<b/>fil<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR">       <p><l>cordless<s n="adj"/></l>     <r>sense<b/>fil<s n="adj"/><s n="mf"/></r></p></e>
 <e>       <p><l>centre<s n="n"/></l>              <r>centre<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>century<s n="n"/></l>             <r>segle<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>snowman<s n="n"/></l>             <r>ninot<g><b/>de<b/>neu</g><s n="n"/><s n="m"/></r></p></e>
@@ -29248,7 +29248,7 @@
 <e>       <p><l>tomography<s n="n"/></l>          <r>tomografia<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>proerythroblast<s n="n"/></l>     <r>proeritroblast<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>subconsole<s n="n"/></l>          <r>subconsola<s n="n"/><s n="f"/></r></p></e>
-<e>       <p><l>game<b/>console<s n="n"/></l>          <r>videoconsola<s n="n"/><s n="f"/></r></p></e>
+<e r="LR">       <p><l>game<b/>console<s n="n"/></l>          <r>videoconsola<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>circumcision<s n="n"/></l>        <r>circumcisió<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>optimism<s n="n"/></l>            <r>optimisme<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>plume<s n="n"/></l>               <r>plomall<s n="n"/><s n="m"/></r></p></e>
@@ -43617,7 +43617,8 @@
 <e><p><l>ladybird<s n="n"/></l><r>marieta<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>liveliness<s n="n"/></l><r>vivacitat<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>seaboard<s n="n"/></l><r>litoral<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>bodyguard<s n="n"/></l><r>guardaespatlles<s n="n"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>bodyguard<s n="n"/></l><r>guardaespatlles<s n="n"/><s n="mf"/><s n="sp"/></r></p></e>
+<e r="RL"><p><l>bodyguard<s n="n"/><s n="ND"/></l><r>guardaespatlles<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>canalisation<s n="n"/></l><r>canalització<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>capitalisation<s n="n"/></l><r>capitalització<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>centralisation<s n="n"/></l><r>centralització<s n="n"/><s n="f"/></r></p></e>
@@ -44386,7 +44387,7 @@
 <e><p><l>sophistication<s n="n"/></l><r>sofisticació<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>quantification<s n="n"/></l><r>quantificació<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>parabola<s n="n"/></l><r>paràbola<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>arabic<s n="n"/></l><r>àrab<s n="n"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>arabic<s n="n"/></l><r>àrab<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>spontaneity<s n="n"/></l><r>espontaneïtat<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>emergence<s n="n"/></l><r>aparició<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>hydroxide<s n="n"/></l><r>hidròxid<s n="n"/><s n="m"/></r></p></e>
@@ -44788,6 +44789,7 @@
 <e><p><l>anaesthetic<s n="adj"/></l><r>anestèsic<s n="adj"/></r></p></e>
 <e><p><l>recreational<s n="adj"/></l><r>recreatiu<s n="adj"/></r></p></e>
 <e><p><l>correlated<s n="adj"/></l><r>correlatiu<s n="adj"/></r></p></e>
+<e><p><l>domesticated<s n="adj"/></l><r>domesticat<s n="adj"/></r></p></e>
 <e r="LR"><p><l>correlative<s n="adj"/></l><r>correlatiu<s n="adj"/></r></p></e>
 <e><p><l>innocuous<s n="adj"/></l><r>innocu<s n="adj"/></r></p></e>
 <e><p><l>advantageous<s n="adj"/></l><r>avantatjós<s n="adj"/></r></p></e>
@@ -45640,7 +45642,6 @@
 <e slr="concernir D"><p><l>concern<s n="vblex"/></l><r>concernir<s n="vblex"/></r></p></e>
 <e slr="concordar"><p><l>agree<s n="vblex"/></l>  <r>concordar<s n="vblex"/></r></p></e>
 <e slr="conducció D"><p><l>driving<s n="n"/></l>  <r>conducció<s n="n"/><s n="f"/></r></p></e>
-<e slr="confiança D"><p><l>trust<s n="n"/></l><r>confiança<s n="n"/><s n="f"/></r></p></e>
 <e slr="confinar"><p><l>confine<s n="vblex"/></l> <r>confinar<s n="vblex"/></r></p></e>
 <e slr="constar"><p><l>feature<s n="vblex"/></l>  <r>constar<s n="vblex"/></r></p></e>
 <e slr="contenidor D"><p><l>container<s n="n"/></l><r>contenidor<s n="n"/><s n="m"/></r></p></e>
@@ -45812,7 +45813,7 @@
 <e slr="foca D"><p><l>seal<s n="n"/></l>          <r>foca<s n="n"/><s n="f"/></r></p></e>
 <e slr="folrar"><p><l>line<s n="vblex"/></l>      <r>folrar<s n="vblex"/></r></p></e>
 <e slr="forca"><p><l>fork<s n="n"/></l>           <r>forca<s n="n"/><s n="f"/></r></p></e>
-<e slr="forma D"><p><l>form<s n="n"/></l><r>forma<s n="n"/><s n="f"/></r></p></e>
+<e slr="forma D" srl="form"><p><l>form<s n="n"/></l><r>forma<s n="n"/><s n="f"/></r></p></e>
 <e slr="formació D"><p><l>training<s n="n"/></l><r>formació<s n="n"/><s n="f"/></r></p></e>
 <e slr="formulari"><p><l>form<s n="n"/></l>       <r>formulari<s n="n"/><s n="m"/></r></p></e>
 <e slr="forn D"><p><l>oven<s n="n"/></l>          <r>forn<s n="n"/><s n="m"/></r></p></e>
@@ -46014,7 +46015,6 @@
 <e slr="premuda"><p><l>squeeze<s n="n"/></l>      <r>premuda<s n="n"/><s n="f"/></r></p></e>
 <e slr="prendre" c="(a coffee) "><p><l>take<s n="vblex"/></l><r>prendre<s n="vblex"/></r></p></e>
 <e slr="preocupar"><p><l>concern<s n="vblex"/></l><r>preocupar<s n="vblex"/></r></p></e>
-<e slr="pressupost"><p><l>estimate<s n="n"/></l><r>pressupost<s n="n"/><s n="m"/></r></p></e>
 <e slr="prestació" srl="benefit D"><p><l>benefit<s n="n"/></l><r>prestació<s n="n"/><s n="f"/></r></p></e>
 <e slr="primavera D"><p><l>spring<s n="n"/></l>   <r>primavera<s n="n"/><s n="f"/></r></p></e>
 <e slr="procedir D"><p><l>proceed<s n="vblex"/></l><r>procedir<s n="vblex"/></r></p></e>
@@ -46313,7 +46313,7 @@
 <e srl="emission" a="carmentano"><p><l>emission<s n="n"/></l><r>emissió<s n="n"/><s n="f"/></r></p></e>
 
 <e srl="budget D"><p><l>budget<s n="n"/></l>      <r>pressupost<s n="n"/><s n="m"/></r></p></e>
-<e srl="estimate"><p><l>estimate<s n="n"/></l>    <r>pressupost<s n="n"/><s n="m"/></r></p></e>
+<e slr="pressupost" srl="estimate"><p><l>estimate<s n="n"/></l><r>pressupost<s n="n"/><s n="m"/></r></p></e>
 
 <e srl="care D"><p><l>care<s n="n"/></l>          <r>cura<s n="n"/><s n="f"/></r></p></e>
 <e srl="cure"><p><l>cure<s n="n"/></l>            <r>cura<s n="n"/><s n="f"/></r></p></e>
@@ -46350,7 +46350,7 @@
 <e srl="lecture"><p><l>lecture<s n="n"/></l>      <r>conferència<s n="n"/><s n="f"/></r></p></e>
 
 <e srl="confidence D"><p><l>confidence<s n="n"/></l><r>confiança<s n="n"/><s n="f"/></r></p></e>
-<e srl="trust"><p><l>trust<s n="n"/></l><r>confiança<s n="n"/><s n="f"/></r></p></e>
+<e slr="confiança D" srl="trust"><p><l>trust<s n="n"/></l><r>confiança<s n="n"/><s n="f"/></r></p></e>
 
 <e srl="query D"><p><l>query<s n="n"/></l>        <r>consulta<s n="n"/><s n="f"/></r></p></e>
 <e srl="consultation"><p><l>consultation<s n="n"/></l><r>consulta<s n="n"/><s n="f"/></r></p></e>
@@ -46632,7 +46632,6 @@
 <e r="RL" srl="direction"><p><l>direction<s n="n"/></l><r>sentit<s n="n"/><s n="m"/></r></p></e>
 
 <e srl="shape D"><p><l>shape<s n="n"/></l>        <r>forma<s n="n"/><s n="f"/></r></p></e>
-<e srl="form"><p><l>form<s n="n"/></l>            <r>forma<s n="n"/><s n="f"/></r></p></e>
 
 <e srl="shock"><p><l>shock<s n="n"/></l>          <r>xoc<s n="n"/><s n="m"/></r></p></e>
 <e srl="crash D"><p><l>crash<s n="n"/></l><r>xoc<s n="n"/><s n="m"/></r></p></e>
