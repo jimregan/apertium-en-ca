@@ -84145,6 +84145,8 @@
 <e lm="paper higiènic"><p><l>papers<b/>higiènics</l><r>paper<b/>higiènic<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="roba bruta"><p><l>roba<b/>bruta</l><r>roba<b/>bruta<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="roba bruta"><p><l>robes<b/>brutes</l><r>roba<b/>bruta<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="torrent sanguini"><p><l>torrent<b/>sanguini</l><r>torrent<b/>sanguini<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="torrent sanguini"><p><l>torrents<b/>sanguinis</l><r>torrent<b/>sanguini<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 
 
 <e lm="aigua dolça"><p><l>aigua<b/>dolça</l><r>aigua<b/>dolça<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
@@ -94532,6 +94534,18 @@
 <e lm="gruix"><i>gruix</i><par n="as__n"/></e>
 <e lm="lladre"><i>lladre</i><par n="acompanyant__n"/></e>
 <e lm="amenaça"><i>amena</i><par n="adre/ça__n"/></e>
+<e lm="amenaça de mort"><i>amena</i><par n="adre/ça__n"/><p><l><b/>de<b/>mort</l><r><g><b/>de<b/>mort</g></r></p></e>
+<e lm="creatina"><i>creatin</i><par n="abell/a__n"/></e>
+<e lm="fosfocreatina"><i>fosfocreatin</i><par n="abell/a__n"/></e>
+<e lm="sequoia"><i>sequoi</i><par n="abell/a__n"/></e>
+<e lm="bit de control"><i>bit</i><par n="abric__n"/><p><l><b/>de<b/>control</l><r><g><b/>de<b/>control</g></r></p></e>
+<e lm="arginina"><i>arginin</i><par n="abell/a__n"/></e>
+<e lm="sarcopenia"><i>sarcopeni</i><par n="abell/a__n"/></e>
+<e lm="musculació"><i>musculaci</i><par n="acci/ó__n"/></e>
+<e lm="suplementació"><i>suplementaci</i><par n="acci/ó__n"/></e>
+<e lm="quarternió"><i>quarterni</i><par n="acci/ó__n"/></e>
+<e lm="precessió"><i>precessi</i><par n="acci/ó__n"/></e>
+<e lm="plançó"><i>planç</i><par n="aband/ó__n"/></e>
 <e lm="gorja"><i>gorj</i><par n="abell/a__n"/></e>
 <e lm="gola"><i>gol</i><par n="abell/a__n"/></e>
 <e lm="polze"><i>polze</i><par n="abric__n"/></e>
@@ -102668,6 +102682,7 @@
 <e lm="metacarp"><i>metacarp</i><par n="abric__n"/></e>
 <e lm="reproductor"><i>reproductor</i><par n="senyor__n"/></e>
 <e lm="reproductor de MP3"><i>reproductor</i><par n="abric__n"/><p><l><b/>de<b/>MP3</l><r><g><b/>de<b/>MP3</g></r></p></e>
+<e lm="reproductor de discs compactes"><i>reproductor</i><par n="abric__n"/><p><l><b/>de<b/>discs<b/>compactes</l><r><g><b/>de<b/>discs<b/>compactes</g></r></p></e>
 <e lm="ample de banda"><i>ample</i><par n="abric__n"/><p><l><b/>de<b/>banda</l><r><g><b/>de<b/>banda</g></r></p></e>
 <e lm="metre sobre el nivell del mar"><i>metre</i><par n="abric__n"/><p><l><b/>sobre<b/>el<b/>nivell<b/>del<b/>mar</l><r><g><b/>sobre<b/>el<b/>nivell<b/>del<b/>mar</g></r></p></e>
 <e lm="làrix"><i>làrix</i><par n="abric__n"/></e>
