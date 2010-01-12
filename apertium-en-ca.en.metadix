@@ -25222,6 +25222,12 @@
     <e lm="registral"><i>registral</i><par n="expensive__adj"/>    </e>
     <e lm="registrar"><i>registrar</i><par n="expensive__adj"/>    </e>
     <e lm="registrar"><i>registrar</i><par n="house__n"/>    </e>
+    <e lm="rushing"><i>rushing</i><par n="expensive__adj"/>    </e>
+    <e lm="ceasing"><i>ceasing</i><par n="expensive__adj"/>    </e>
+    <e lm="riot"><i>riot</i><par n="expensive__adj"/>    </e>
+    <e lm="phoney"><i>phoney</i><par n="expensive__adj"/>    </e>
+    <e lm="phony"><i>phony</i><par n="expensive__adj"/>    </e>
+    <e lm="riot"><i>riot</i><par n="expensive__adj"/>    </e>
     <e lm="San Juan" r="RL"><i>San<b/>Juan</i><par n="expensive__adj"/>    </e>
     <e lm="interregional"><i>interregional</i><par n="expensive__adj"/>    </e>
     <e lm="inter-regional"><i>inter-regional</i><par n="expensive__adj"/>    </e>
@@ -35707,6 +35713,7 @@
     <e lm="antiparticle" a="greenbreen"><i>antiparticle</i><par n="house__n"/></e>
     <e lm="multidimensional" a="greenbreen"><i>multidimensional</i><par n="expensive__adj"/></e>
     <e lm="Bose-Einstein condensate" a="greenbreen"><i>Bose-Einstein<b/>condensate</i><par n="house__n"/></e>
+    <e lm="condensate"><i>condensate</i><par n="house__n"/></e>
     <e lm="superconducting" a="greenbreen"><i>superconducting</i><par n="expensive__adj"/></e>
     <e lm="ferromagnetic" a="greenbreen"><i>ferromagnetic</i><par n="expensive__adj"/></e>
     <e lm="appropriately" a="greenbreen"><i>appropriately</i><par n="maybe__adv"/></e>

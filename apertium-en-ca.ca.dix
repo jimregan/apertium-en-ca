@@ -87665,6 +87665,9 @@
 <e lm="mat"><i>mat</i><par n="abdominal__adj"/></e>
 <e lm="mat"><i>mat</i><par n="abric__n"/></e>
 
+<e lm="condensat"><i>condensat</i><par n="abric__n"/></e>
+<e lm="condensat de Bose-Einstein"><i>condensat</i><par n="abric__n"/><p><l><b/>de<b/>Bose-Einstein</l><r><g><b/>de<b/>Bose-Einstein</g></r></p></e>
+
 <e lm="actuarial"><i>actuarial</i><par n="abdominal__adj"/></e>
 
 <e lm="humoral"><i>humoral</i><par n="abdominal__adj"/></e>
