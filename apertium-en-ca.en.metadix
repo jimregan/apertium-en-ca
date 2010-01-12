@@ -35771,7 +35771,7 @@
     <e lm="Fermat" a="greenbreen"><i>Fermat</i><par n="Smith__np"/></e>
     <e lm="unsolved" a="greenbreen"><i>unsolved</i><par n="expensive__adj"/></e>
     <e lm="Goldbach" a="greenbreen"><i>Goldbach</i><par n="Smith__np"/></e>
-    <e lm="quarternion" a="greenbreen"><i>quarternion</i><par n="house__n"/></e>
+    <e lm="quaternion" a="greenbreen"><i>quaternion</i><par n="house__n"/></e>
     <e lm="transfinite" a="greenbreen"><i>transfinite</i><par n="expensive__adj"/></e>
     <e lm="Euclidean" a="greenbreen"><par n="Ee"/><i>uclidean</i><par n="expensive__adj"/></e>
     <e lm="trigonometric" a="greenbreen"><i>trigonometric</i><par n="expensive__adj"/></e>
