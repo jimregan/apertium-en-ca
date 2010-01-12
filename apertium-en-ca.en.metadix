@@ -34517,14 +34517,12 @@
     <e lm="agreeable" a="greenbreen"><i>agreeable</i><par n="expensive__adj"/></e>
     <e lm="obedient" a="greenbreen"><i>obedient</i><par n="expensive__adj"/></e>
     <e lm="feng shui"><i>feng<b/>shui</i><par n="east__n"/></e>
-    <e lm="Hebrew" r="LR" a="greenbreen"><i>Hebrew</i><par n="house__n"/></e>
-    <e lm="Hebrew" r="RL" a="greenbreen"><p><l>Hebrew</l><r>hebrew</r></p><par n="house__n"/></e>
+    <e lm="Hebrew" a="greenbreen"><p><l>Hebrew</l><r>hebrew</r></p><par n="house__n"/></e>
     <e lm="Hebrew" a="greenbreen"><p><l>Hebrew</l><r>hebrew</r></p><par n="expensive__adj"/></e>
     <e lm="Aramaic" a="greenbreen"><i>Aramaic</i><par n="house__n"/></e>
-    <e lm="Phoenician" r="LR" a="greenbreen"><i>Phoenician</i><par n="house__n"/></e>
-    <e lm="Phoenician" r="RL" a="greenbreen"><p><l>Phoenician</l><r>phoenician</r></p><par n="house__n"/></e>
-    <e lm="handicrafts" a="greenbreen"><i>handicrafts</i><par n="alms__n"/></e>
-    <e lm="Punic War" a="greenbreen"><i>Punic War</i><par n="house__n"/></e>
+    <e lm="Phoenician" a="greenbreen"><p><l>Phoenician</l><r>phoenician</r></p><par n="house__n"/></e>
+    <e lm="handicraft" a="greenbreen"><i>handicraft</i><par n="house__n"/></e>
+    <e lm="Punic War" a="greenbreen"><i>Punic<b/>War</i><par n="house__n"/></e>
     <e lm="Carthage" a="greenbreen"><i>Carthage</i><par n="Barcelona__np"/></e>
     <e lm="deformation" a="greenbreen"><i>deformation</i><par n="house__n"/></e>
     <e lm="cleverly" a="greenbreen"><i>cleverly</i><par n="maybe__adv"/></e>
@@ -35731,16 +35729,14 @@
     <e lm="knotted" a="greenbreen"><i>knotted</i><par n="expensive__adj"/></e>
     <e lm="quipu" a="greenbreen"><i>quipu</i><par n="house__n"/></e>
     <e lm="numeral" a="greenbreen"><i>numeral</i><par n="expensive__adj"/></e>
-    <e lm="Egyptian" r="LR" a="greenbreen"><i>Egyptian</i><par n="house__n"/></e>
-    <e lm="Egyptian" r="RL" a="greenbreen"><p><l>Egyptian</l><r>egyptian</r></p><par n="house__n"/></e>
+    <e lm="Egyptian" a="greenbreen"><p><l>Egyptian</l><r>egyptian</r></p><par n="house__n"/></e>
     <e lm="Middle Kingdom" a="greenbreen"><i>Middle<b/>Kingdom</i><par n="Linux__np"/></e>
     <e lm="onwards" a="greenbreen"><i>onwards</i><par n="maybe__adv"/></e>
     <e lm="English-speaking" a="greenbreen"><i>English-speaking</i><par n="expensive__adj"/></e>
     <e lm="Catalan-speaking"><i>Catalan-speaking</i><par n="expensive__adj"/></e>
     <e lm="Spanish-speaking"><i>Spanish-speaking</i><par n="expensive__adj"/></e>
     <e lm="numeral" a="greenbreen"><i>numeral</i><par n="house__n"/></e>
-    <e lm="Babylonian" r="LR" a="greenbreen"><i>Babylonian</i><par n="house__n"/></e>
-    <e lm="Babylonian" r="RL" a="greenbreen"><p><l>Babylonian</l><r>babylonian</r></p><par n="house__n"/></e>
+    <e lm="Babylonian" a="greenbreen"><p><l>Babylonian</l><r>babylonian</r></p><par n="house__n"/></e>
     <e lm="e.g." a="greenbreen"><i>e.g.</i><par n="maybe__adv"/></e>
     <e lm="Wigner" a="greenbreen"><i>Wigner</i><par n="Smith__np"/></e>
     <e lm="Fourier" a="greenbreen"><i>Fourier</i><par n="Smith__np"/></e>

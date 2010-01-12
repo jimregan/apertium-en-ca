@@ -981,6 +981,7 @@
 <pardef n="taur/í__adj"><e><p><l>es</l><r>í<s n="adj"/><s n="f"/><s n="pl"/></r></p></e><e><p><l>a</l><r>í<s n="adj"/><s n="f"/><s n="sg"/></r></p></e><e><p><l>s</l><r>í<s n="adj"/><s n="m"/><s n="pl"/></r></p></e><e><p><l>í</l><r>í<s n="adj"/><s n="m"/><s n="sg"/></r></p></e></pardef>
 <pardef n="m/urri__adj"><e><p><l>úrries</l><r>urri<s n="adj"/><s n="f"/><s n="pl"/></r></p></e><e><p><l>úrria</l><r>urri<s n="adj"/><s n="f"/><s n="sg"/></r></p></e><e><p><l>urris</l><r>urri<s n="adj"/><s n="m"/><s n="pl"/></r></p></e><e><p><l>urri</l><r>urri<s n="adj"/><s n="m"/><s n="sg"/></r></p></e></pardef>
 <pardef n="eg/ipci__adj"><e><p><l>ípcies</l><r>ipci<s n="adj"/><s n="f"/><s n="pl"/></r></p></e><e><p><l>ípcia</l><r>ipci<s n="adj"/><s n="f"/><s n="sg"/></r></p></e><e><p><l>ipcis</l><r>ipci<s n="adj"/><s n="m"/><s n="pl"/></r></p></e><e><p><l>ipci</l><r>ipci<s n="adj"/><s n="m"/><s n="sg"/></r></p></e></pardef>
+<pardef n="eg/ipci__n"><e><p><l>ípcies</l><r>ipci<s n="n"/><s n="f"/><s n="pl"/></r></p></e><e><p><l>ípcia</l><r>ipci<s n="n"/><s n="f"/><s n="sg"/></r></p></e><e><p><l>ipcis</l><r>ipci<s n="n"/><s n="m"/><s n="pl"/></r></p></e><e><p><l>ipci</l><r>ipci<s n="n"/><s n="m"/><s n="sg"/></r></p></e></pardef>
 <pardef n="gal__adj"><e><p><l>·les</l><r><s n="adj"/><s n="f"/><s n="pl"/></r></p></e><e><p><l>·la</l><r><s n="adj"/><s n="f"/><s n="sg"/></r></p></e><e><p><l>s</l><r><s n="adj"/><s n="m"/><s n="pl"/></r></p></e><e><p><l/><r><s n="adj"/><s n="m"/><s n="sg"/></r></p></e></pardef>
 <pardef n="alacant/í__adj"><e><p><l>ines</l><r>í<s n="adj"/><s n="f"/><s n="pl"/></r></p></e><e><p><l>ina</l><r>í<s n="adj"/><s n="f"/><s n="sg"/></r></p></e><e><p><l>ins</l><r>í<s n="adj"/><s n="m"/><s n="pl"/></r></p></e><e><p><l>í</l><r>í<s n="adj"/><s n="m"/><s n="sg"/></r></p></e></pardef>
 <pardef n="bas/c__adj"><e><p><l>ques</l><r>c<s n="adj"/><s n="f"/><s n="pl"/></r></p></e><e><p><l>ca</l><r>c<s n="adj"/><s n="f"/><s n="sg"/></r></p></e><e><p><l>cos</l><r>c<s n="adj"/><s n="m"/><s n="pl"/></r></p></e><e r="LR"><p><l>cs</l><r>c<s n="adj"/><s n="m"/><s n="pl"/></r></p></e><e><p><l>c</l><r>c<s n="adj"/><s n="m"/><s n="sg"/></r></p></e></pardef>
@@ -83315,6 +83316,7 @@
 <e lm="contrari"><i>contr</i><par n="adjudicat/ari__adj"/></e>
 
 <e lm="egipci"><i>eg</i><par n="eg/ipci__adj"/></e>
+<e lm="egipci"><i>eg</i><par n="eg/ipci__n"/></e>
 
 <e lm="samoà"><i>samo</i><par n="afric/à__adj"/></e>
 
@@ -93281,6 +93283,11 @@
 <e lm="autor"><i>autor</i><par n="senyor__n"/></e>
 <e lm="tardor"><i>tardor</i><par n="accessibilitat__n"/></e>
 <e lm="bossa"><i>boss</i><par n="abell/a__n"/></e>
+<e lm="bossa d'escombraries"><i>boss</i><par n="abell/a__n"/><p><l><b/>d'escombraries</l><r><g><b/>d'escombraries</g></r></p></e>
+<e lm="desodorant"><i>desodorant</i><par n="abric__n"/></e>
+<e lm="metil"><i>metil</i><par n="abric__n"/></e>
+<e lm="glucòlisi"><i>glucòlisi</i><par n="accessibilitat__n"/></e>
+<e lm="detritívor"><i>detritívor</i><par n="senyor__n"/></e>
 <e lm="balanç de caixa"><i>balanç</i><par n="as__n"/><p><l><b/>de<b/>caixa</l><r><g><b/>de<b/>caixa</g></r></p></e>
 <e lm="saldo zero"><i>saldo</i><par n="abric__n"/><p><l><b/>zero</l><r><g><b/>zero</g></r></p></e>
 <e lm="balanç de comprovació"><i>balanç</i><par n="as__n"/><p><l><b/>de<b/>comprovació</l><r><g><b/>de<b/>comprovació</g></r></p></e>
@@ -94573,6 +94580,7 @@
 <e lm="lladre"><i>lladre</i><par n="acompanyant__n"/></e>
 <e lm="amenaça"><i>amena</i><par n="adre/ça__n"/></e>
 <e lm="amenaça de mort"><i>amena</i><par n="adre/ça__n"/><p><l><b/>de<b/>mort</l><r><g><b/>de<b/>mort</g></r></p></e>
+<e lm="manualitat"><i>manualitat</i><par n="accessibilitat__n"/></e>
 <e lm="creatina"><i>creatin</i><par n="abell/a__n"/></e>
 <e lm="fosfocreatina"><i>fosfocreatin</i><par n="abell/a__n"/></e>
 <e lm="sequoia"><i>sequoi</i><par n="abell/a__n"/></e>
@@ -117578,7 +117586,7 @@
 <e lm="peó"><i>pe</i><par n="amfitri/ó__n"/></e>
 <e lm="quars"><i>quars</i><par n="campus__n"/></e>
 <e lm="lleialtat"><i>lleialtat</i><par n="accessibilitat__n"/></e>
-<e lm="servent"><i>servent</i><par n="abric__n"/></e>
+<e lm="servent"><i>servent</i><par n="senyor__n"/></e>
 <e lm="mentor" a="prompsit2adn"><i>mentor</i><par n="senyor__n"/></e>
 <e lm="tutor"><i>tutor</i><par n="senyor__n"/></e>
 <e lm="xampú" a="prompsit2adn"><i>xampú</i><par n="abric__n"/></e>
