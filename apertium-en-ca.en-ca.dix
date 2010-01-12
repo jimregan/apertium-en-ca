@@ -44261,6 +44261,10 @@
 <e><p><l>first-aid<b/>kit<s n="n"/></l><r>farmaciola<g><b/>de<b/>primers<b/>auxilis</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>dental<b/>floss<s n="n"/></l><r>fil<b/>dental<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>gluon<s n="n"/></l><r>gluó<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>prion<s n="n"/></l><r>prió<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>astrolabe<s n="n"/></l><r>astrolabi<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>half<b/>brother<s n="n"/></l><r>mig<b/>germà<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>half<b/>sister<s n="n"/></l><r>mig<b/>germà<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>callipers<s n="n"/><s n="pl"/></l><r>peu<g><b/>de<b/>rei</g><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e r="RL"><p><l>callipers<s n="n"/><s n="pl"/></l><r>peu<g><b/>de<b/>rei</g><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e><p><l>jalapeño<s n="n"/></l><r>jalapeño<s n="n"/><s n="m"/></r></p></e>
@@ -44290,6 +44294,9 @@
 <e><p><l>manacles<s n="n"/></l><r>esposes<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>discoloration<s n="n"/></l><r>decoloració<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>syntax<s n="n"/></l><r>sintaxi<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>adenosine<b/>triphosphate<s n="n"/></l><r>trifosfat<g><b/>d'adenosina</g><s n="n"/><s n="f"/></r></p></e>
+<e><p><l>operating<b/>system<s n="n"/></l><r>sistema<b/>operatiu<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>tensor<b/>calculus<s n="n"/></l><r>càlcul<b/>tensorial<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>fuzzy<b/>logic<s n="n"/></l><r>lògica<b/>difusa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>drug<b/>trafficker<s n="n"/></l><r>traficant<g><b/>de<b/>drogues</g><s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>bloodstream<s n="n"/></l><r>torrent<b/>sanguini<s n="n"/><s n="m"/></r></p></e>

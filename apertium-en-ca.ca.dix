@@ -84149,7 +84149,15 @@
 <e lm="torrent sanguini"><p><l>torrents<b/>sanguinis</l><r>torrent<b/>sanguini<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="lògica difusa"><p><l>lògica<b/>difusa</l><r>lògica<b/>difusa<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="lògica difusa"><p><l>lògiques<b/>difuses</l><r>lògica<b/>difusa<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="sistema operatiu"><p><l>sistema<b/>operatiu</l><r>sistema<b/>operatiu<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="sistema operatiu"><p><l>sistemes<b/>operatius</l><r>sistema<b/>operatiu<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="càlcul tensorial"><p><l>càlcul<b/>tensorial</l><r>càlcul<b/>tensorial<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="càlcul tensorial"><p><l>càlculs<b/>tensorials</l><r>càlcul<b/>tensorial<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 
+<e lm="mig germà"><p><l>mig<b/>germà</l><r>mig<b/>germà<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="mig germà"><p><l>mitjos<b/>germans</l><r>mig<b/>germà<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="mig germà"><p><l>mitja<b/>germana</l><r>mig<b/>germà<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="mig germà"><p><l>mitges<b/>germanes</l><r>mig<b/>germà<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 
 <e lm="aigua dolça"><p><l>aigua<b/>dolça</l><r>aigua<b/>dolça<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="aigua dolça"><p><l>aigües<b/>dolces</l><r>aigua<b/>dolça<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
@@ -92628,6 +92636,8 @@
 <e lm="esforç"><i>esforç</i><par n="as__n"/></e>
 <e lm="esglaó"><i>esgla</i><par n="aband/ó__n"/></e>
 <e lm="gluó"><i>glu</i><par n="aband/ó__n"/></e>
+<e lm="prió"><i>pri</i><par n="aband/ó__n"/></e>
+<e lm="astrolabi"><i>astrolabi</i><par n="abric__n"/></e>
 <e lm="església"><i>esglési</i><par n="abell/a__n"/></e>
 <e lm="espai"><i>espai</i><par n="abric__n"/></e>
 <e lm="espanyol"><i>espanyol</i><par n="senyor__n"/></e>
@@ -96688,6 +96698,7 @@
 <e lm="visceroptosi"><i>visceroptosi</i><par n="accessibilitat__n"/></e>
 <e lm="facomatosi"><i>facomatosi</i><par n="accessibilitat__n"/></e>
 <e lm="metafosfat"><i>metafosfat</i><par n="abric__n"/></e>
+<e lm="trifosfati d'adenosina"><i>metafosfat</i><par n="abric__n"/><p><l><b/>d'adenosina</l><r><g><b/>d'adenosina</g></r></p></e>
 <e lm="carburador"><i>carburador</i><par n="abric__n"/></e>
 <e lm="estabilització"><i>estabilitzaci</i><par n="acci/ó__n"/></e>
 <e lm="videocasset"><i>videocasset</i><par n="abric__n"/></e>
