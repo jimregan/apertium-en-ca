@@ -35482,8 +35482,8 @@
     <e lm="validity" a="greenbreen"><i>validit</i><par n="bab/y__n"/></e>
     <e lm="adimensional" a="greenbreen"><i>adimensional</i><par n="expensive__adj"/></e>
     <e lm="plasma" a="greenbreen"><i>plasma</i><par n="house__n"/></e>
-    <e lm="Lagrangian" a="greenbreen"><i>Lagrangian</i><par n="expensive__adj"/></e>
-    <e lm="Lagrangian" a="greenbreen"><i>Lagrangian</i><par n="house__n"/></e>
+    <e lm="Lagrangian" a="greenbreen"><p><l>Lagrangian</l><r>lagrangian</r></p><par n="expensive__adj"/></e>
+    <e lm="Lagrangian" a="greenbreen"><p><l>Lagrangian</l><r>lagrangian</r></p><par n="house__n"/></e>
     <e lm="Eulerian" a="greenbreen"><i>Eulerian</i><par n="expensive__adj"/></e>
     <e lm="obtaining" r="RL" a="greenbreen"><i>obtaining</i><par n="house__n"/></e>
     <e lm="compressible" a="greenbreen"><i>compressible</i><par n="expensive__adj"/></e>

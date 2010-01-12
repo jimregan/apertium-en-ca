@@ -83270,6 +83270,7 @@
 <e lm="mig"><i>mi</i><par n="mi/g__adj"/></e>
 
 <e lm="mitjà"><i>mitj</i><par n="afric/à__adj"/></e>
+<e lm="lagrangià"><i>lagrangi</i><par n="afric/à__adj"/></e>
 
 <e lm="mundial"><i>mundial</i><par n="abdominal__adj"/></e>
 
@@ -84138,6 +84139,10 @@
 <e lm="alcohol metílic"><p><l>alcohol<b/>metílic</l><r>alcohol<b/>metílic<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="alcohol metílic"><p><l>alcohols<b/>metílics</l><r>alcohol<b/>metílic<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="rondinaire"><i>rondinaire</i><par n="abdominal__adj"/></e>
+<e lm="bàlsam labial"><p><l>bàlsam<b/>labial</l><r>bàlsam<b/>labial<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="bàlsam labial"><p><l>bàlsams<b/>labials</l><r>bàlsam<b/>labial<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="paper higiènic"><p><l>paper<b/>higiènic</l><r>paper<b/>higiènic<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="paper higiènic"><p><l>papers<b/>higiènics</l><r>paper<b/>higiènic<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 
 
 <e lm="aigua dolça"><p><l>aigua<b/>dolça</l><r>aigua<b/>dolça<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
@@ -84147,6 +84152,7 @@
 <e lm="declaració de conformitat"><i>declaraci</i><par n="acci/ó__n"/><p><l><b/>de<b/>conformitat</l><r><g><b/>de<b/>conformitat</g></r></p></e>
 <e lm="ninot de neu"><i>ninot</i><par n="abric__n"/><p><l><b/>de<b/>neu</l><r><g><b/>de<b/>neu</g></r></p></e>
 <e lm="guardià"><i>guardi</i><par n="americ/à__n"/></e>
+<e lm="lagrangià"><i>lagrangi</i><par n="americ/à__n"/></e>
 <e lm="exponencial"><i>exponencial</i><par n="abdominal__adj"/></e>
 <e lm="immemorial"><i>immemorial</i><par n="abdominal__adj"/></e>
 <e lm="des de temps antics"><i>des<b/>de<b/>temps<b/>antics</i><par n="sempre__adv"/></e>
@@ -92611,6 +92617,7 @@
 <e lm="esfondrament"><i>esfondrament</i><par n="abric__n"/></e>
 <e lm="esforç"><i>esforç</i><par n="as__n"/></e>
 <e lm="esglaó"><i>esgla</i><par n="aband/ó__n"/></e>
+<e lm="gluó"><i>glu</i><par n="aband/ó__n"/></e>
 <e lm="església"><i>esglési</i><par n="abell/a__n"/></e>
 <e lm="espai"><i>espai</i><par n="abric__n"/></e>
 <e lm="espanyol"><i>espanyol</i><par n="senyor__n"/></e>
@@ -92899,7 +92906,11 @@
 <e lm="bombeta"><i>bombet</i><par n="abell/a__n"/></e>
 <e lm="petroli"><i>petroli</i><par n="abric__n"/></e>
 <e lm="peu"><i>peu</i><par n="abric__n"/></e>
+<e lm="peu de rei"><i>peu</i><par n="abric__n"/><p><l><b/>de<b/>rei</l><r><g><b/>de<b/>rei</g></r></p></e>
+<e lm="jalapeño"><i>jalapeño</i><par n="abric__n"/></e>
+<e lm="ramen"><i>ramen</i><par n="abric__n"/></e>
 <e lm="píndola"><i>píndol</i><par n="abell/a__n"/></e>
+<e lm="pelussa"><i>peluss</i><par n="abell/a__n"/></e>
 <e lm="pis"><i>pis</i><par n="as__n"/></e>
 <e lm="pla"><i>pla</i><par n="bo__n"/></e>
 <e lm="plaça"><i>pla</i><par n="adre/ça__n"/></e>
@@ -94126,6 +94137,7 @@
 <e lm="planeta"><i>planet</i><par n="carism/a__n"/></e>
 <e lm="plàstic"><i>plàstic</i><par n="abric__n"/></e>
 <e lm="plat"><i>plat</i><par n="abric__n"/></e>
+<e lm="plat de paper"><i>plat</i><par n="abric__n"/><p><l><b/>de<b/>paper</l><r><g><b/>de<b/>paper</g></r></p></e>
 <e lm="planxa"><i>planx</i><par n="abell/a__n"/></e>
 <e lm="làmina"><i>làmin</i><par n="abell/a__n"/></e>
 <e lm="placa"><i>pla</i><par n="acústi/ca__n"/></e>

@@ -2412,6 +2412,9 @@
 <e vl="en_US">       <p><l>phony<s n="adj"/></l>        <r>farsant<s n="adj"/></r></p></e>
 <e r="RL">       <p><l>low<s n="adj"/></l>        <r>rasant<s n="adj"/></r></p></e>
 <e>       <p><l>riot<s n="adj"/></l>        <r>antidistubis<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>lagrangian<s n="adj"/></l>        <r>lagrangià<s n="adj"/></r></p></e>
+<e r="LR">       <p><l>lagrangian<s n="n"/></l>        <r>lagrangià<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL">       <p><l>lagrangian<s n="n"/></l>        <r>lagrangià<s n="n"/></r></p></e>
 
 <e>       <p><l>milky<s n="adj"/><s n="sint"/></l><r>lletós<s n="adj"/></r></p></e>
 
@@ -44256,6 +44259,16 @@
 <e><p><l>medicine<b/>cabinet<s n="n"/></l><r>farmaciola<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>first-aid<b/>kit<s n="n"/></l><r>farmaciola<g><b/>de<b/>primers<b/>auxilis</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>dental<b/>floss<s n="n"/></l><r>fil<b/>dental<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>gluon<s n="n"/></l><r>gluó<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>callipers<s n="n"/><s n="pl"/></l><r>peu<g><b/>de<b/>rei</g><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l>callipers<s n="n"/><s n="pl"/></l><r>peu<g><b/>de<b/>rei</g><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e><p><l>jalapeño<s n="n"/></l><r>jalapeño<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>lint<s n="n"/></l><r>pelussa<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>floss<s n="n"/></l><r>pelussa<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>lip<b/>gloss<s n="n"/></l><r>bàlsam<b/>labial<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>toilet<b/>paper<s n="n"/></l><r>paper<b/>higiènic<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>ramen<s n="n"/></l><r>ramen<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>paper<b/>plate<s n="n"/></l><r>plat<g><b/>de<b/>paper</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>methylated<b/>spirit<s n="n"/></l><r>alcohol<b/>metílic<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>backup<s n="n"/></l><r>còpia<g><b/>de<b/>seguretat</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>Bose-Einstein<b/>condensate<s n="n"/></l><r>condensat<g><b/>de<b/>Bose-Einstein</g><s n="n"/><s n="m"/></r></p></e>
