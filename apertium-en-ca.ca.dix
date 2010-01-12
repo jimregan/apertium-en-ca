@@ -84143,6 +84143,8 @@
 <e lm="bàlsam labial"><p><l>bàlsams<b/>labials</l><r>bàlsam<b/>labial<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="paper higiènic"><p><l>paper<b/>higiènic</l><r>paper<b/>higiènic<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="paper higiènic"><p><l>papers<b/>higiènics</l><r>paper<b/>higiènic<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="roba bruta"><p><l>roba<b/>bruta</l><r>roba<b/>bruta<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="roba bruta"><p><l>robes<b/>brutes</l><r>roba<b/>bruta<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 
 
 <e lm="aigua dolça"><p><l>aigua<b/>dolça</l><r>aigua<b/>dolça<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
@@ -92574,6 +92576,7 @@
 <e lm="dilluns"><i>dilluns</i><par n="campus__n"/></e>
 <e lm="dimarts"><i>dimarts</i><par n="campus__n"/></e>
 <e lm="dimecres"><i>dimecres</i><par n="campus__n"/></e>
+<e lm="Dimecres de Cendra"><i>Dimecres<b/>de<b/>Cendra</i><par n="campus__n"/></e>
 <e lm="direcció"><i>direcci</i><par n="acci/ó__n"/></e>
 <e lm="director"><i>director</i><par n="senyor__n"/></e>
 <e lm="inspector"><i>inspector</i><par n="senyor__n"/></e>
@@ -92909,6 +92912,8 @@
 <e lm="peu de rei"><i>peu</i><par n="abric__n"/><p><l><b/>de<b/>rei</l><r><g><b/>de<b/>rei</g></r></p></e>
 <e lm="jalapeño"><i>jalapeño</i><par n="abric__n"/></e>
 <e lm="ramen"><i>ramen</i><par n="abric__n"/></e>
+<e lm="ponxo"><i>ponxo</i><par n="abric__n"/></e>
+<e lm="iniciador"><i>iniciador</i><par n="senyor__n"/></e>
 <e lm="píndola"><i>píndol</i><par n="abell/a__n"/></e>
 <e lm="pelussa"><i>peluss</i><par n="abell/a__n"/></e>
 <e lm="pis"><i>pis</i><par n="as__n"/></e>
@@ -102662,6 +102667,9 @@
 <e lm="cereal"><i>cereal</i><par n="abric__n"/></e>
 <e lm="metacarp"><i>metacarp</i><par n="abric__n"/></e>
 <e lm="reproductor"><i>reproductor</i><par n="senyor__n"/></e>
+<e lm="reproductor de MP3"><i>reproductor</i><par n="abric__n"/><p><l><b/>de<b/>MP3</l><r><g><b/>de<b/>MP3</g></r></p></e>
+<e lm="ample de banda"><i>ample</i><par n="abric__n"/><p><l><b/>de<b/>banda</l><r><g><b/>de<b/>banda</g></r></p></e>
+<e lm="metre sobre el nivell del mar"><i>metre</i><par n="abric__n"/><p><l><b/>sobre<b/>el<b/>nivell<b/>del<b/>mar</l><r><g><b/>sobre<b/>el<b/>nivell<b/>del<b/>mar</g></r></p></e>
 <e lm="làrix"><i>làrix</i><par n="abric__n"/></e>
 <e lm="monsó"><i>mons</i><par n="aband/ó__n"/></e>
 <e lm="al·losterisme"><i>al·losterisme</i><par n="abric__n"/></e>

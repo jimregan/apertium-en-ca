@@ -44265,7 +44265,8 @@
 <e><p><l>jalapeño<s n="n"/></l><r>jalapeño<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>lint<s n="n"/></l><r>pelussa<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>floss<s n="n"/></l><r>pelussa<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>lip<b/>gloss<s n="n"/></l><r>bàlsam<b/>labial<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>lip<b/>gloss<s n="n"/></l><r>bàlsam<b/>labial<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>lip<b/>balm<s n="n"/></l><r>bàlsam<b/>labial<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>toilet<b/>paper<s n="n"/></l><r>paper<b/>higiènic<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>ramen<s n="n"/></l><r>ramen<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>paper<b/>plate<s n="n"/></l><r>plat<g><b/>de<b/>paper</g><s n="n"/><s n="m"/></r></p></e>
@@ -44273,6 +44274,17 @@
 <e><p><l>backup<s n="n"/></l><r>còpia<g><b/>de<b/>seguretat</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>Bose-Einstein<b/>condensate<s n="n"/></l><r>condensat<g><b/>de<b/>Bose-Einstein</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>condensate<s n="n"/></l><r>condensat<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>poncho<s n="n"/></l><r>ponxo<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>dirty<b/>clothes<s n="n"/><s n="pl"/></l><r>roba<b/>bruta<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l>dirty<b/>clothes<s n="n"/><s n="pl"/></l><r>roba<b/>bruta<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e r="LR"><p><l>laundry<s n="n"/></l><r>roba<b/>bruta<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>MP3<b/>player<s n="n"/></l><r>reproductor<g><b/>de<b/>MP3</g><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>bandwidth<s n="n"/></l><r>ample<g><b/>de<b/>banda</g><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>metre<g><b/>above<b/>sea<b/>level</g><s n="n"/></l><r>metre<g><b/>sobre<b/>el<b/>nivell<b/>del<b/>mar</g><s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>Ash<b/>Wednesday<s n="n"/><s n="ND"/></l><r>Dimecres<b/>de<b/>Cendra<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+<e r="RL"><p><l>Ash<b/>Wednesday<s n="n"/></l><r>Dimecres<b/>de<b/>Cendra<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>initiator<s n="n"/></l><r>iniciador<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>initiator<s n="n"/></l><r>iniciador<s n="n"/></r></p></e>
 <e r="LR"><p><l>balm<s n="n"/></l><r>bàlsam<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>badge<s n="n"/></l><r>placa<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>torch<s n="n"/></l><r>llanterna<s n="n"/><s n="f"/></r></p></e>

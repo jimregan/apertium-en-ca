@@ -34939,6 +34939,7 @@
     <e lm="deodorant" a="greenbreen"><i>deodorant</i><par n="house__n"/></e>
     <e lm="balm" a="greenbreen"><i>balm</i><par n="house__n"/></e>
     <e lm="lip balm" a="greenbreen"><i>lip<b/>balm</i><par n="house__n"/></e>
+    <e lm="lip gloss"><i>lip<b/>gloss</i><par n="house__n"/></e>
     <e lm="hygienic" a="greenbreen"><i>hygienic</i><par n="expensive__adj"/></e>
     <e lm="toilet paper" a="greenbreen"><i>toilet<b/>paper</i><par n="house__n"/></e>
     <e lm="laundry" a="greenbreen"><i>laundr</i><par n="bab/y__n"/></e>
