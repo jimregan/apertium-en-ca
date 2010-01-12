@@ -597,6 +597,7 @@
 <e><p><l>psychoactive<s n="adj"/></l><r>psicotròpic<s n="adj"/></r></p></e>
 <e a="termcat"><p><l>prismatic<s n="adj"/></l><r>prismàtic<s n="adj"/></r></p></e>
 <e><p><l>grumpy<s n="adj"/><s n="sint"/></l><r>rondinaire<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>passionate<s n="adj"/></l><r>apassionat<s n="adj"/></r></p></e>
 <e a="termcat"><p><l>tetrahedral<s n="adj"/></l><r>tetraèdric<s n="adj"/></r></p></e>
 <e a="termcat"><p><l>polyhedral<s n="adj"/></l><r>polièdric<s n="adj"/></r></p></e>
 <e a="termcat"><p><l>octahedral<s n="adj"/></l><r>octaèdric<s n="adj"/></r></p></e>
@@ -19246,6 +19247,7 @@
 <e>       <p><l>growth<s n="n"/></l>              <r>creixement<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>guest<s n="n"/></l>               <r>convidat<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>hair<s n="n"/></l>                <r>cabell<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>haircut<s n="n"/></l>                <r>tall<g><b/>de<b/>cabell</g><s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>half<s n="n"/></l>                <r>meitat<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>hall<s n="n"/></l>                <r>sala<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>hall<s n="n"/></l>                <r>vestíbul<s n="n"/><s n="m"/></r></p></e>
@@ -19935,6 +19937,7 @@
 <e r="RL"><p><l>buyer<s n="n"/></l>               <r>comprador<s n="n"/></r></p></e>
 <e>       <p><l>cable<s n="n"/></l>               <r>cable<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>cake<s n="n"/></l>                <r>pastís<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>pancake<s n="n"/></l>                <r>crep<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>calculation<s n="n"/></l>         <r>càlcul<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>calm<s n="n"/></l>                <r>calma<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>camera<s n="n"/></l>              <r>càmera<s n="n"/><s n="f"/></r></p></e>
@@ -21060,6 +21063,25 @@
 <e>       <p><l>tomato<s n="n"/></l>              <r>tomàquet<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>ton<s n="n"/></l>                 <r>tona<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>tonne<s n="n"/></l>               <r>tona<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>megaton<s n="n"/></l>               <r>megatón<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>tranquiliser<s n="n"/></l>               <r>tranquilitzant<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>impasse<s n="n"/></l>               <r>impasse<s n="n"/><s n="m"/></r></p></e>
+<e r="LR">       <p><l>stalemate<s n="n"/></l>               <r>impasse<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>thorax<s n="n"/></l>               <r>tòrax<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>outskirts<s n="n"/></l>               <r>afores<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>tidal<b/>force<s n="n"/></l>               <r>força<g><b/>de<b/>marea</g><s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>soundtrack<s n="n"/></l>               <r>banda<b/>sonora<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>echidna<s n="n"/></l>               <r>equidna<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>whey<s n="n"/></l>               <r>sèrum<g><b/>de<b/>llet</g><s n="n"/><s n="m"/></r></p></e>
+<e vl="en_US">       <p><l>french<b/>fry<s n="n"/></l>               <r>patata<b/>fregida<s n="n"/><s n="f"/></r></p></e>
+<e vl="en_GB" r="RL">       <p><l>chip<s n="n"/></l>               <r>patata<b/>fregida<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>viceroy<s n="n"/></l>               <r>virrei<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>android<s n="n"/></l>               <r>androide<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>roentgenium<s n="n"/></l><r>roentgeni<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>rapeseed<b/>oil<s n="n"/></l><r>oli<g><b/>de<b/>colza</g><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>rapeseed<s n="n"/></l><r>colza<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>safflower<s n="n"/></l><r>càrtam<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>question<b/>mark<s n="n"/></l><r>signe<g><b/>d'interrogació</g><s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>tool<s n="n"/></l>                <r>eina<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>tooth<s n="n"/></l>               <r>dent<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>dandelion<s n="n"/></l>               <r>dent<g><b/>de<b/>lleó</g><s n="n"/><s n="f"/></r></p></e>
@@ -35546,7 +35568,7 @@
 <e><p><l>encode<s n="vblex"/></l><r>codificar<s n="vblex"/></r></p></e>
 <e>       <p><l>take<g><b/>refuge</g><s n="vblex"/></l>            <r>refugiar-se<s n="vblex"/><s n="pron"/></r></p></e>
 
-<e r="RL"><p><l>to<b/>begin<b/>with<s n="adv"/></l><r>d'entrada<s n="adv"/></r></p></e>
+<e><p><l>to<b/>begin<b/>with<s n="adv"/></l><r>d'entrada<s n="adv"/></r></p></e>
 <e><p><l>in<b/>more<b/>detail<s n="adv"/></l><r>amb<b/>més<b/>detall<s n="adv"/></r></p></e>
 <e r="LR"><p><l>rule<b/>based<s n="adj"/></l><r>basat<g><b/>en<b/>regles</g><s n="adj"/></r></p></e>
 <e><p><l>rule-based<s n="adj"/></l><r>basat<g><b/>en<b/>regles</g><s n="adj"/></r></p></e>

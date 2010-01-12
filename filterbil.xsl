@@ -135,10 +135,6 @@
     </xsl:when>
     <xsl:when test="count(./@r)=0 and not(./@vr=$right) and count(./@vl)=0">
       <xsl:choose>
-        <xsl:when test="$side=string('right')">
-        </xsl:when>
-        <xsl:otherwise>
-      <xsl:choose>
         <xsl:when test="not(count(./@slr)=0) and not(count(./@srl)=0)">
           <e slr="{./@slr}" srl="{./@srl}" r="RL">
             <xsl:apply-templates/>
@@ -158,8 +154,6 @@
           <e r="RL">
             <xsl:apply-templates/>
           </e>
-        </xsl:otherwise>
-      </xsl:choose>
         </xsl:otherwise>
       </xsl:choose>
     </xsl:when>

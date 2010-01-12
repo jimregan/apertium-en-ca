@@ -83200,6 +83200,8 @@
 <e lm="revitalitzar"><i>revitalitz</i><par n="abander/ar__vblex"/></e>
 <e lm="adjudicar"><i>adjudi</i><par n="abo/car__vblex"/></e>
 
+<e lm="crep"><i>crep</i><par n="abric__n"/></e>
+
 
 <!-- <e lm="anomenat"><i>anomenat</i><par n="prova_aa"/></e> MG-->
 
@@ -83325,6 +83327,7 @@
 <e lm="psicotròpic"><i>psicotròpi</i><par n="acadèmi/c__adj"/></e>
 
 <e lm="autoimposat"><i>autoimposa</i><par n="afortuna/t__adj"/></e>
+<e lm="apassionat"><i>apassiona</i><par n="afortuna/t__adj"/></e>
 <e lm="inspirat en"><i>inspira</i><par n="afortuna/t__adj"/><p><l><b/>en</l><r><g><b/>en</g></r></p></e>
 
 <!-- 	 
@@ -84110,6 +84113,10 @@
 <e lm="transbordador espacial"><p><l>transbordadors<b/>espacials</l><r>transbordador<b/>espacial<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="caixa registradora"><p><l>caixa<b/>registradora</l><r>caixa<b/>registradora<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="caixa registradora"><p><l>caixes<b/>registradores</l><r>caixa<b/>registradora<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="banda sonora"><p><l>banda<b/>sonora</l><r>banda<b/>sonora<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="banda sonora"><p><l>bandes<b/>sonores</l><r>banda<b/>sonora<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="patata fregida"><p><l>patata<b/>fregida</l><r>patata<b/>fregida<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="patata fregida"><p><l>patates<b/>fregides</l><r>patata<b/>fregida<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="maldestre"><i>maldestr</i><par n="abstract/e__adj"/></e>
 <e lm="orientat comercialment"><i>orienta</i><par n="afortuna/t__adj"/><p><l><b/>comercialment</l><r><g><b/>comercialment</g></r></p></e>
 <e lm="condensat"><i>condensa</i><par n="afortuna/t__adj"/></e>
@@ -92350,9 +92357,10 @@
 
      
 <e lm="taxa"><i>tax</i><par n="abell/a__n"/></e>
+<e lm="equidna"><i>equidn</i><par n="abell/a__n"/></e>
 <e lm="taxa de mortalitat infantil"><i>tax</i><par n="abell/a__n"/><p><l><b/>de<b/>mortalitat<b/>infantil</l><r><g><b/>de<b/>mortalitat<b/>infantil</g></r></p></e>
 <e lm="talonari"><i>talonari</i><par n="abric__n"/></e>
-<e lm="talonarii de xecs"><i>talonari</i><par n="abric__n"/><p><l><b/>de<b/>xecs</l><r><g><b/>de<b/>xecs</g></r></p></e>
+<e lm="talonari de xecs"><i>talonari</i><par n="abric__n"/><p><l><b/>de<b/>xecs</l><r><g><b/>de<b/>xecs</g></r></p></e>
 
 <e lm="casa"><i>cas</i><par n="abell/a__n"/></e>
 <e lm="ratolí"><i>ratol</i><par n="boc/í__n"/></e>
@@ -92654,6 +92662,7 @@
 <e lm="font"><i>font</i><par n="accessibilitat__n"/></e>
 <e lm="font d'inflació"><i>font</i><par n="accessibilitat__n"/><p><l><b/>d'inflació</l><r><g><b/>d'inflació</g></r></p></e>
 <e lm="força"><i>for</i><par n="adre/ça__n"/></e>
+<e lm="força de marea"><i>for</i><par n="adre/ça__n"/><p><l><b/>de<b/>marea</l><r><g><b/>de<b/>marea</g></r></p></e>
 <e lm="forma"><i>form</i><par n="abell/a__n"/></e>
 <e lm="formació"><i>formaci</i><par n="acci/ó__n"/></e>
 <e lm="formulari"><i>formulari</i><par n="abric__n"/></e>
@@ -92805,6 +92814,7 @@
 <e lm="model"><i>model</i><par n="abric__n"/></e>
 <e lm="moment">	<i>moment</i>	<par n="abric__n"/></e>
 <e lm="món"><i>m</i><par n="m/ón__n"/></e>
+<e lm="megatón"><i>megat</i><par n="m/ón__n"/></e>
 <e lm="moneda"><i>moned</i><par n="abell/a__n"/></e>
 <e lm="mort"><i>mort</i><par n="accessibilitat__n"/></e>
 <e lm="mort"><i>mort</i><par n="abric__n"/></e>
@@ -92837,6 +92847,7 @@
 <e lm="oferta"><i>ofert</i><par n="abell/a__n"/></e>
 <e lm="oficina"><i>oficin</i><par n="abell/a__n"/></e>
 <e lm="oli"><i>oli</i><par n="abric__n"/></e>
+<e lm="oli de colza"><i>oli</i><par n="abric__n"/><p><l><b/>de<b/>colza</l><r><g><b/>de<b/>colza</g></r></p></e>
 <e lm="operació"><i>operaci</i><par n="acci/ó__n"/></e>
 <e lm="opinió"><i>opini</i><par n="acci/ó__n"/></e>
 <e lm="oportunitat"><i>oportunitat</i><par n="accessibilitat__n"/></e>
@@ -93514,6 +93525,7 @@
 <e lm="costum"><i>costum</i><par n="abric__n"/></e>
 <e lm="duana"><i>duan</i><par n="abell/a__n"/></e>
 <e lm="tall"><i>tall</i><par n="abric__n"/></e>
+<e lm="tall de cabell"><i>tall</i><par n="abric__n"/><p><l><b/>de<b/>cabell</l><r><g><b/>de<b/>cabell</g></r></p></e>
 <e lm="tallada"><i>tallad</i><par n="abell/a__n"/></e>
 <e lm="cicle"><i>cicle</i><par n="abric__n"/></e>
 <e lm="ciclisme"><i>ciclisme</i><par n="abric__n"/></e>
@@ -93866,6 +93878,15 @@
 <e lm="embús"><i>emb</i><par n="ab/ús__n"/></e>
 <e lm="melmelada"><i>melmelad</i><par n="abell/a__n"/></e>
 <e lm="texans"><i>texans</i><par n="afores__n"/></e>
+<e lm="afores"><i>afores</i><par n="afores__n"/></e>
+<e lm="impasse"><i>impasse</i><par n="abric__n"/></e>
+<e lm="virrei"><i>virrei</i><par n="abric__n"/></e>
+<e lm="androide"><i>androide</i><par n="abric__n"/></e>
+<e lm="roentgeni"><i>roentgeni</i><par n="abric__n"/></e>
+<e lm="càrtam"><i>càrtam</i><par n="abric__n"/></e>
+<e lm="colza"><i>colz</i><par n="abell/a__n"/></e>
+<e lm="tranquilitzant"><i>tranquilitzant</i><par n="abric__n"/></e>
+<e lm="tòrax"><i>tòrax</i><par n="abric__n"/></e>
 <e lm="bifocals"><i>bifocals</i><par n="afores__n"/></e>
 <e lm="gelea"><i>gele</i><par n="abell/a__n"/></e>
 <e lm="joia"><i>joi</i><par n="abell/a__n"/></e>
@@ -94325,6 +94346,7 @@
 <e lm="dutxa"><i>dutx</i><par n="abell/a__n"/></e>
 <e lm="senyal"><i>senyal</i><par n="abric__n"/></e>
 <e lm="signe"><i>signe</i><par n="abric__n"/></e>
+<e lm="signe d'interrogació"><i>signe</i><par n="abric__n"/><p><l><b/>d'interrogació</l><r><g><b/>d'interrogació</g></r></p></e>
 <e lm="signatura"><i>signatur</i><par n="abell/a__n"/></e>
 <e lm="silenci"><i>silenci</i><par n="abric__n"/></e>
 <e lm="seda"><i>sed</i><par n="abell/a__n"/></e>
@@ -100429,6 +100451,7 @@
 <e lm="llenguatge"><i>llenguatge</i><par n="abric__n"/></e>
 <e lm="llenguatge de programació"><i>llenguatge</i><par n="abric__n"/><p><l><b/>de<b/>programació</l><r><g><b/>de<b/>programació</g></r></p></e>
 <e lm="sèrum"><i>sèrum</i><par n="abric__n"/></e>
+<e lm="sèrum de llet"><i>sèrum</i><par n="abric__n"/><p><l><b/>de<b/>llet</l><r><g><b/>de<b/>llet</g></r></p></e>
 <e lm="tecnetró"><i>tecnetr</i><par n="aband/ó__n"/></e>
 <e lm="contrapuntista"><i>contrapuntist</i><par n="accionist/a__n"/></e>
 <e lm="salmonel·la"><i>salmonel·l</i><par n="abell/a__n"/></e>

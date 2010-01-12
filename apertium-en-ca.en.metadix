@@ -34722,7 +34722,7 @@
     <e lm="analgesic" a="greenbreen"><i>analgesic</i><par n="expensive__adj"/></e>
     <e lm="analgesic" a="greenbreen"><i>analgesic</i><par n="house__n"/></e>
     <e lm="painkiller" a="greenbreen"><i>painkiller</i><par n="house__n"/></e>
-    <e lm="tranquilizer" a="greenbreen"><i>tranquilizer</i><par n="house__n"/></e>
+    <e lm="tranquilizer" a="greenbreen"><i>tranquili</i><par n="z_s"/><i>er</i><par n="house__n"/></e>
     <e lm="sedative" a="greenbreen"><i>sedative</i><par n="house__n"/></e>
     <e lm="deadly" a="greenbreen"><i>deadl</i><par n="happ/y__adj"/></e>
     <e lm="paracetamol" r="LR" a="greenbreen"><i>paracetamol</i><par n="house__n"/></e>
