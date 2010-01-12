@@ -3844,7 +3844,19 @@
 <e>       <p><l>sinister<s n="adj"/></l>          <r>sinistre<s n="adj"/></r></p></e>
 
 <e>       <p><l>lean<s n="adj"/><s n="sint"/></l> <r>magre<s n="adj"/></r></p></e>
-
+<e r="LR">       <p><l>skinny<s n="adj"/><s n="sint"/></l> <r>magre<s n="adj"/></r></p></e>
+<e><p><l>trigonometric<s n="adj"/></l><r>trigonomètric<s n="adj"/></r></p></e>
+<e><p><l>synergistic<s n="adj"/></l><r>sinèrgic<s n="adj"/></r></p></e>
+<e><p><l>temperate<s n="adj"/></l><r>temperat<s n="adj"/></r></p></e>
+<e><p><l>sikh<s n="adj"/></l><r>sikh<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>sonic<s n="adj"/></l><r>sònic<s n="adj"/></r></p></e>
+<e><p><l>anechoic<s n="adj"/></l><r>anecoic<s n="adj"/></r></p></e>
+<e><p><l>semi-anechoic<s n="adj"/></l><r>semianecoic<s n="adj"/></r></p></e>
+<e><p><l>Eulerian<s n="adj"/></l><r>eulerià<s n="adj"/></r></p></e>
+<e><p><l>perennial<s n="adj"/></l><r>perenne<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>geocentric<s n="adj"/></l><r>geocèntric<s n="adj"/></r></p></e>
+<e><p><l>genomic<s n="adj"/></l><r>genòmic<s n="adj"/></r></p></e>
+<e><p><l>motorised<s n="adj"/></l><r>motoritzat<s n="adj"/></r></p></e>
 
 <e>       <p><l>lysosomal<s n="adj"/></l>         <r>lysosòmic<s n="adj"/></r></p></e>
 
