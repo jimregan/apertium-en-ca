@@ -46267,40 +46267,22 @@
 <e srl="commercial"><p><l>commercial<s n="n"/></l><r>anunci<s n="n"/><s n="m"/></r></p></e>
 <e srl="advert"><p><l>advert<s n="n"/></l><r>anunci<s n="n"/><s n="m"/></r></p></e>
 
-<e r="LR"><p><l>announcement<s n="n"/></l>   <r>anunci<s n="n"/><s n="m"/></r></p></e>
-<e r="LR"><p><l>commercial<s n="n"/></l>     <r>anunci<s n="n"/><s n="m"/></r></p></e>
-
 <e srl="arrival D"><p><l>arrival<s n="n"/></l>    <r>arribada<s n="n"/><s n="f"/></r></p></e>
 <e slr="arribada D" srl="finish"><p><l>finish<s n="n"/></l><r>arribada<s n="n"/><s n="f"/></r></p></e>
-
-<e r="RL"><p><l>arrival<s n="n"/></l>        <r>arribada<s n="n"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>finish<s n="n"/></l>         <r>arribada<s n="n"/><s n="f"/></r></p></e>
 
 <e srl="aspect D"><p><l>aspect<s n="n"/></l>      <r>aspecte<s n="n"/><s n="m"/></r></p></e>
 <e srl="appearance"><p><l>appearance<s n="n"/></l><r>aspecte<s n="n"/><s n="m"/></r></p></e>
 
-<e r="LR"><p><l>aspect<s n="n"/></l>         <r>aspecte<s n="n"/><s n="m"/></r></p></e>
-<e r="LR"><p><l>appearance<s n="n"/></l>     <r>aspecte<s n="n"/><s n="m"/></r></p></e>
-
 <e srl="council D"><p><l>council<s n="n"/></l>    <r>consell<s n="n"/><s n="m"/></r></p></e>
 <e srl="advice"><p><l>advice<s n="n"/></l>        <r>consell<s n="n"/><s n="m"/></r></p></e>
 
-<e r="LR"><p><l>council<s n="n"/></l>        <r>consell<s n="n"/><s n="m"/></r></p></e>
-<e r="LR"><p><l>advice<s n="n"/></l>         <r>consell<s n="n"/><s n="m"/></r></p></e>
-
 <e srl="anger D"><p><l>anger<s n="n"/></l>        <r>ràbia<s n="n"/><s n="f"/></r></p></e>
 <e srl="rabies"><p><l>rabies<s n="n"/></l>        <r>ràbia<s n="n"/><s n="f"/></r></p></e>
-<e r="LR"><p><l>rage<s n="n"/></l>                <r>ràbia<s n="n"/><s n="f"/></r></p></e>
 
-<e r="LR"><p><l>anger<s n="n"/></l>          <r>ràbia<s n="n"/><s n="f"/></r></p></e>
-<e r="LR"><p><l>rabies<s n="n"/></l>         <r>ràbia<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>rage<s n="n"/></l>           <r>ràbia<s n="n"/><s n="f"/></r></p></e>
 
 <e srl="answer D"><p><l>answer<s n="n"/></l>      <r>resposta<s n="n"/><s n="f"/></r></p></e>
 <e srl="response"><p><l>response<s n="n"/></l>    <r>resposta<s n="n"/><s n="f"/></r></p></e>
-
-<e r="LR"><p><l>answer<s n="n"/></l>         <r>resposta<s n="n"/><s n="f"/></r></p></e>
-<e r="LR"><p><l>response<s n="n"/></l>       <r>resposta<s n="n"/><s n="f"/></r></p></e>
 
 <e slr="audiència" srl="hearing"><p><l>hearing<s n="n"/></l><r>audiència<s n="n"/><s n="f"/></r></p></e>
 <e srl="audience D"><p><l>audience<s n="n"/></l>  <r>audiència<s n="n"/><s n="f"/></r></p></e>
@@ -46371,8 +46353,8 @@
 <e srl="commitment D"><p><l>commitment<s n="n"/></l><r>compromís<s n="n"/><s n="m"/></r></p></e>
 <e srl="engagement"><p><l>engagement<s n="n"/></l><r>compromís<s n="n"/><s n="m"/></r></p></e>
 
-<e r="RL" slr="company"><p><l>partner<s n="n"/></l><r>company<s n="n"/></r></p></e>
-<e r="LR"><p><l>partner<s n="n"/></l><r>company<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>partner<s n="n"/></l><r>company<s n="n"/></r></p></e>
+<e r="LR" slr="company"><p><l>partner<s n="n"/></l><r>company<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL" srl="companion"><p><l>companion<s n="n"/></l><r>company<s n="n"/></r></p></e>
 <e r="LR"><p><l>companion<s n="n"/></l><r>company<s n="n"/><s n="GD"/></r></p></e>
 
