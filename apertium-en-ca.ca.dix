@@ -84147,6 +84147,8 @@
 <e lm="roba bruta"><p><l>robes<b/>brutes</l><r>roba<b/>bruta<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="torrent sanguini"><p><l>torrent<b/>sanguini</l><r>torrent<b/>sanguini<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="torrent sanguini"><p><l>torrents<b/>sanguinis</l><r>torrent<b/>sanguini<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="lògica difusa"><p><l>lògica<b/>difusa</l><r>lògica<b/>difusa<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="lògica difusa"><p><l>lògiques<b/>difuses</l><r>lògica<b/>difusa<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 
 
 <e lm="aigua dolça"><p><l>aigua<b/>dolça</l><r>aigua<b/>dolça<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
@@ -92405,6 +92407,9 @@
 <e lm="agent"><i>agent</i><par n="acompanyant__n"/></e>
 <e lm="líder"><i>líder</i><par n="acompanyant__n"/></e>
 <e lm="traficant"><i>traficant</i><par n="acompanyant__n"/></e>
+<e lm="traficant de drogues"><i>traficant</i><par n="acompanyant__n"/><p><l><b/>de<b/>drogues</l><r><g><b/>de<b/>drogues</g></r></p></e>
+<e lm="decoloració"><i>decoloraci</i><par n="acci/ó__n"/></e>
+<e lm="sintaxi" a="prompsit"><i>sintaxi</i><par n="accessibilitat__n"/></e>
 <e lm="aigua"><i>aig</i><par n="aig/ua__n"/></e>
 <e lm="aire"><i>aire</i><par n="abric__n"/></e>
 <e lm="ajuda"><i>ajud</i><par n="abell/a__n"/></e>
@@ -92936,6 +92941,7 @@
 <e lm="por"><i>por</i><par n="accessibilitat__n"/></e>
 <e lm="porta"><i>port</i><par n="abell/a__n"/></e>
 <e lm="port"><i>port</i><par n="abric__n"/></e>
+<e lm="port seriï"><i>port</i><par n="abric__n"/><p><l><b/>seriï</l><r><g><b/>seriï</g></r></p></e>
 <e lm="portaveu"><i>portaveu</i><par n="acompanyant__n"/></e>
 <e lm="posició"><i>posici</i><par n="acci/ó__n"/></e>
 <e lm="possibilitat"><i>possibilitat</i><par n="accessibilitat__n"/></e>
@@ -93779,6 +93785,7 @@
 <e lm="buit"><i>buit</i><par n="abric__n"/></e>
 <e lm="garatge"><i>garatge</i><par n="abric__n"/></e>
 <e lm="escombraries"><i>escombraries</i><par n="escombraries__n"/></e>
+<e lm="esposes"><i>esposes</i><par n="escombraries__n"/></e>
 <e lm="Nacions Unides"><i>Nacions<b/>Unides</i><par n="Nacions_Unides__np"/></e>
 <e lm="forces de seguretat"><i>forces<b/>de<b/>seguretat</i><par n="escombraries__n"/></e>
 <e lm="forces armades"><i>forces<b/>armades</i><par n="escombraries__n"/></e>
@@ -94544,6 +94551,7 @@
 <e lm="musculació"><i>musculaci</i><par n="acci/ó__n"/></e>
 <e lm="suplementació"><i>suplementaci</i><par n="acci/ó__n"/></e>
 <e lm="quaternió"><i>quaterni</i><par n="acci/ó__n"/></e>
+<e lm="impresos"><i>impresos</i><par n="afores__n"/></e>
 <e lm="precessió"><i>precessi</i><par n="acci/ó__n"/></e>
 <e lm="plançó"><i>planç</i><par n="aband/ó__n"/></e>
 <e lm="gorja"><i>gorj</i><par n="abell/a__n"/></e>
