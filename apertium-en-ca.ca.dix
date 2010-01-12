@@ -84153,6 +84153,10 @@
 <e lm="sistema operatiu"><p><l>sistemes<b/>operatius</l><r>sistema<b/>operatiu<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="càlcul tensorial"><p><l>càlcul<b/>tensorial</l><r>càlcul<b/>tensorial<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="càlcul tensorial"><p><l>càlculs<b/>tensorials</l><r>càlcul<b/>tensorial<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="cullera dosificadora"><p><l>cullera<b/>dosificadora</l><r>cullera<b/>dosificadora<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="cullera dosificadora"><p><l>culleres<b/>dosificadores</l><r>cullera<b/>dosificadora<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="cullera medidora"><p><l>cullera<b/>medidora</l><r>cullera<b/>medidora<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="cullera medidora"><p><l>culleres<b/>medidores</l><r>cullera<b/>medidora<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 
 <e lm="mig germà"><p><l>mig<b/>germà</l><r>mig<b/>germà<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="mig germà"><p><l>mitjos<b/>germans</l><r>mig<b/>germà<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
@@ -93016,6 +93020,7 @@
 <e lm="responsabilitat"><i>responsabilitat</i><par n="accessibilitat__n"/></e>
 <e lm="responsable"><i>responsable</i><par n="acompanyant__n"/></e>
 <e lm="resposta"><i>respost</i><par n="abell/a__n"/></e>
+<e lm="resposta de freqüència"><i>respost</i><par n="abell/a__n"/><p><l><b/>de<b/>freqüència</l><r><g><b/>de<b/>freqüència</g></r></p></e>
 <e lm="resta"><i>rest</i><par n="abell/a__n"/></e>
 <e lm="restaurant"><i>restaurant</i><par n="abric__n"/></e>
 <e lm="resultat"><i>resultat</i><par n="abric__n"/></e>
@@ -93191,18 +93196,34 @@
 <e lm="accident de circulació"><i>accident</i><par n="abric__n"/><p><l><b/>de<b/>circulació</l><r><g><b/>de<b/>circulació</g></r></p></e>
 <e lm="allotjament"><i>allotjament</i><par n="abric__n"/></e>
 <e lm="abús"><i>ab</i><par n="ab/ús__n"/></e>
-<e lm="abús"><i>ab</i><par n="ab/ús__n"/><p><l><b/>de<b/>poder</l><r><g><b/>de<b/>poder</g></r></p></e>
+<e lm="abús de poder"><i>ab</i><par n="ab/ús__n"/><p><l><b/>de<b/>poder</l><r><g><b/>de<b/>poder</g></r></p></e>
 <e lm="absència"><i>absènci</i><par n="abell/a__n"/></e>
 <e lm="compte d'estalvis"><i>compte</i><par n="abric__n"/><p><l><b/>d'estalvis</l><r><g><b/>d'estalvis</g></r></p></e>
 <e lm="número de compte"><i>número</i><par n="abric__n"/>	<p>	  <l><b/>de<b/>compte</l>	  <r><g><b/>de<b/>compte</g></r>	</p></e>
+<e lm="retorno de carro"><i>retorno</i><par n="abric__n"/>	<p>	  <l><b/>de<b/>carro</l>	  <r><g><b/>de<b/>carro</g></r>	</p></e>
 <e lm="consecució"><i>consecuci</i><par n="acci/ó__n"/></e>
 <e lm="àcid"><i>àcid</i><par n="abric__n"/></e>
+<e lm="equinocci"><i>equinocci</i><par n="abric__n"/></e>
+<e lm="quàsar"><i>quàsar</i><par n="abric__n"/></e>
+<e lm="púlsar"><i>púlsar</i><par n="abric__n"/></e>
+<e lm="parsec"><i>parsec</i><par n="abric__n"/></e>
+<e lm="pàrsec"><i>pàrsec</i><par n="abric__n"/></e>
+<e lm="viroide"><i>viroide</i><par n="abric__n"/></e>
+<e lm="quipu"><i>quipu</i><par n="abric__n"/></e>
+<e lm="orbitador"><i>orbitador</i><par n="abric__n"/></e>
+<e lm="elegit"><i>elegi</i><par n="advoca/t__n"/></e>
+<e lm="supernova"><i>supernov</i><par n="abell/a__n"/></e>
+<e lm="filogènia"><i>filogèni</i><par n="abell/a__n"/></e>
+<e lm="subdisciplina"><i>subdisciplin</i><par n="abell/a__n"/></e>
+<e lm="miosina"><i>miosin</i><par n="abell/a__n"/></e>
+<e lm="visó"><i>vis</i><par n="aband/ó__n"/></e>
 <e lm="actor"><i>actor</i><par n="abric__n"/></e>
 <e lm="addició"><i>addici</i><par n="acci/ó__n"/></e>
 <e lm="admiració"><i>admiraci</i><par n="acci/ó__n"/></e>
 <e lm="adreça"><i>adre</i><par n="adre/ça__n"/></e>
 <e lm="adreça de memòria"><i>adre</i><par n="adre/ça__n"/><p><l><b/>de<b/>memòria</l><r><g><b/>de<b/>memòria</g></r></p></e>
 <e lm="adreça del vent"><i>adre</i><par n="adre/ça__n"/><p><l><b/>del<b/>vent</l><r><g><b/>del<b/>vent</g></r></p></e>
+<e lm="adreça base"><i>adre</i><par n="adre/ça__n"/><p><l><b/>base</l><r><g><b/>base</g></r></p></e>
 <e lm="adult"><i>adult</i><par n="senyor__n"/></e>
 <e lm="avançament"><i>avançament</i><par n="abric__n"/></e>
 <e lm="avenç"><i>avenç</i><par n="as__n"/></e>
