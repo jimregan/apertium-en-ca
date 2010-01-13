@@ -3869,6 +3869,9 @@
 <e><p><l>Julian<s n="adj"/></l><r>julià<s n="adj"/></r></p></e>
 <e><p><l>Callisto<s n="np"/><s n="al"/></l><r>Cal·listo<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e><p><l>Callistoan<s n="adj"/></l><r>cal·listià<s n="adj"/></r></p></e>
+<e><p><l>Thebes<s n="np"/><s n="loc"/></l><r>Tebes<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>Thebes<s n="np"/><s n="loc"/></l><r>Tebas<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e c="Only seems to exist in fem, 'Tebes' for masc."><p><l>Theban<s n="adj"/></l><r>tebà<s n="adj"/></r></p></e>
 <e><p><l>haitian<s n="adj"/></l><r>haitià<s n="adj"/></r></p></e>
 <e><p><l>multicellular<s n="adj"/></l><r>pluricel·lular<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>lesbian<s n="adj"/></l><r>lesbiana<s n="adj"/><s n="mf"/></r></p></e>
@@ -44424,8 +44427,8 @@
 <e r="LR"><p><l>redwood<s n="n"/></l><r>sequoia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>bandwidth<s n="n"/></l><r>ample<g><b/>de<b/>banda</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>metre<g><b/>above<b/>sea<b/>level</g><s n="n"/></l><r>metre<g><b/>sobre<b/>el<b/>nivell<b/>del<b/>mar</g><s n="n"/><s n="m"/></r></p></e>
-<e r="LR"><p><l>Ash<b/>Wednesday<s n="n"/><s n="ND"/></l><r>Dimecres<b/>de<b/>Cendra<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-<e r="RL"><p><l>Ash<b/>Wednesday<s n="n"/></l><r>Dimecres<b/>de<b/>Cendra<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>Ash<b/>Wednesday<s n="n"/><s n="ND"/></l><r>Dimecres<b/>de<b/>Cendra<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+<e r="LR"><p><l>Ash<b/>Wednesday<s n="n"/></l><r>Dimecres<b/>de<b/>Cendra<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>initiator<s n="n"/></l><r>iniciador<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>initiator<s n="n"/></l><r>iniciador<s n="n"/></r></p></e>
 <e r="LR"><p><l>balm<s n="n"/></l><r>bàlsam<s n="n"/><s n="m"/></r></p></e>

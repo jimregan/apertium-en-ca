@@ -110014,6 +110014,8 @@
 <e lm="Pozuelo" a="prompsit2cdl"><i>Pozuelo</i><par n="Afganistan__np"/></e>
 <e lm="Pozuelo de Alarcón" a="prompsit2cdl"><i>Pozuelo<b/>de<b/>Alarcón</i><par n="Afganistan__np"/></e>
 <e lm="descatalogar" a="prompsit2cdl"><i>descatalog</i><par n="afalag/ar__vblex"/></e>
+<e lm="Tebes"><i>Tebes</i><par n="Afganistan__np"/></e>
+<e lm="Tebas"><i>Tebas</i><par n="Afganistan__np"/></e>
 
 <e lm="en conjunt"><i>en<b/>conjunt</i><par n="sempre__adv"/></e>
 <e lm="irregularment"><i>irregularment</i><par n="sempre__adv"/></e>
@@ -117967,6 +117969,7 @@
 <e lm="cal·listià"><i>cal·listi</i><par n="afric/à__adj"/></e>
 <e lm="cal·listià" r="LR"><p><l>caŀlisti</l><r>cal·listi</r></p><par n="afric/à__adj"/></e>
 <e lm="haitià"><i>haiti</i><par n="afric/à__adj"/></e>
+<e lm="tebà"><i>teb</i><par n="afric/à__adj"/></e>
 <e lm="perjudicial"><i>perjudicial</i><par n="abdominal__adj"/></e>
 <e lm="bàrbar"><i>bàrbar</i><par n="absolut__adj"/></e>
 <e lm="indeclinable"><i>indeclinable</i><par n="abdominal__adj"/></e>
