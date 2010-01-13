@@ -34954,7 +34954,7 @@
     <e lm="rapeseed oil" a="greenbreen"><i>rapeseed<b/>oil</i><par n="house__n"/></e>
     <e lm="rapeseed" a="greenbreen"><i>rapeseed</i><par n="house__n"/></e>
     <e lm="safflower" a="greenbreen"><i>safflower</i><par n="house__n"/></e>
-    <e lm="iodized" a="greenbreen"><i>iodized</i><par n="expensive__adj"/></e>
+    <e lm="iodized" a="greenbreen"><i>iodi</i><par n="z_s"/><i>ed</i><par n="expensive__adj"/></e>
     <e lm="baking powder" a="greenbreen"><i>baking<b/>powder</i><par n="house__n"/></e>
     <e lm="baking soda" a="greenbreen"><i>baking<b/>soda</i><par n="house__n"/></e>
     <e lm="MP3 player" a="greenbreen"><i>MP3<b/>player</i><par n="house__n"/></e>
@@ -35545,7 +35545,8 @@
     <e lm="gamma ray" a="greenbreen"><i>gamma<b/>ray</i><par n="house__n"/></e>
     <e lm="refrigeration" a="greenbreen"><i>refrigeration</i><par n="house__n"/></e>
     <e lm="radio telescope" a="greenbreen"><i>radio<b/>telescope</i><par n="house__n"/></e>
-    <e lm="analyzable" a="greenbreen"><i>analyzable</i><par n="expensive__adj"/></e>
+    <e lm="analyzable" a="greenbreen"><p><l>analyzable</l><r>analysable</r></p><par n="expensive__adj"/></e>
+    <e lm="analysable"><i>analysable</i><par n="expensive__adj"/></e>
     <e lm="interstellar" a="greenbreen"><i>interstellar</i><par n="expensive__adj"/></e>
     <e lm="intergalactic" a="greenbreen"><i>intergalactic</i><par n="expensive__adj"/></e>
     <e lm="supernova" a="greenbreen"><i>supernova</i><par n="house__n"/></e>

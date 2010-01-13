@@ -3869,6 +3869,19 @@
 <e><p><l>saline<s n="adj"/></l><r>salí<s n="adj"/></r></p></e>
 <e><p><l>salt<b/>lake<s n="n"/></l><r>llac<b/>salat<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>salt<b/>lake<s n="n"/></l><r>llac<b/>salí<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>reflective<s n="adj"/></l><r>reflectant<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>reflecting<s n="adj"/></l><r>reflector<s n="adj"/></r></p></e>
+<e><p><l>paleontological<s n="adj"/></l><r>paleontològic<s n="adj"/></r></p></e>
+<e><p><l>prosodic<s n="adj"/></l><r>prosòdic<s n="adj"/></r></p></e>
+<e><p><l>unsolved<s n="adj"/></l><r>no<b/>resolt<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>undecidable<s n="adj"/></l><r>indecidible<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>trustworthy<s n="adj"/></l><r>fidedigne<s n="adj"/></r></p></e>
+<e><p><l>superconducting<s n="adj"/></l><r>superconductor<s n="adj"/></r></p></e>
+<e><p><l>saturated<s n="adj"/></l><r>saturat<s n="adj"/></r></p></e>
+<e><p><l>walled<s n="adj"/></l><r>emmurallat<s n="adj"/></r></p></e>
+<e><p><l>stingy<s n="adj"/><s n="sint"/></l><r>gasiu<s n="adj"/></r></p></e>
+<e><p><l>rooted<s n="adj"/></l><r>radicat<s n="adj"/></r></p></e>
+<e><p><l>cluttered<s n="adj"/></l><r>abarrotat<s n="adj"/></r></p></e>
 
 <e>       <p><l>lysosomal<s n="adj"/></l>         <r>lysosòmic<s n="adj"/></r></p></e>
 
