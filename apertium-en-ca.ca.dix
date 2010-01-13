@@ -924,6 +924,32 @@
 <pardef n="ce/c__adj"><e><p><l>gues</l><r>c<s n="adj"/><s n="f"/><s n="pl"/></r></p></e><e><p><l>ga</l><r>c<s n="adj"/><s n="f"/><s n="sg"/></r></p></e><e><p><l>cs</l><r>c<s n="adj"/><s n="m"/><s n="pl"/></r></p></e><e><p><l>c</l><r>c<s n="adj"/><s n="m"/><s n="sg"/></r></p></e></pardef>
 <pardef n="access/ori__adj"><e><p><l>òries</l><r>ori<s n="adj"/><s n="f"/><s n="pl"/></r></p></e><e><p><l>òria</l><r>ori<s n="adj"/><s n="f"/><s n="sg"/></r></p></e><e><p><l>oris</l><r>ori<s n="adj"/><s n="m"/><s n="pl"/></r></p></e><e><p><l>ori</l><r>ori<s n="adj"/><s n="m"/><s n="sg"/></r></p></e></pardef>
 <pardef n="su/ís__adj"><e><p><l>ïsses</l><r>ís<s n="adj"/><s n="f"/><s n="pl"/></r></p></e><e><p><l>ïssa</l><r>ís<s n="adj"/><s n="f"/><s n="sg"/></r></p></e><e><p><l>ïssos</l><r>ís<s n="adj"/><s n="m"/><s n="pl"/></r></p></e><e><p><l>ís</l><r>ís<s n="adj"/><s n="m"/><s n="sg"/></r></p></e></pardef>
+    <pardef n="caducif/oli__adj">
+      <e>
+        <p>
+          <l>òlies</l>
+          <r>oli<s n="adj"/><s n="f"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>òlia</l>
+          <r>oli<s n="adj"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>olis</l>
+          <r>oli<s n="adj"/><s n="m"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>oli</l>
+          <r>oli<s n="adj"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <pardef n="belg/a__adj">
       
@@ -85978,7 +86004,15 @@
 <e lm="ventral"><i>ventral</i><par n="abdominal__adj"/></e>
 <e lm="zodiacal"><i>zodiacal</i><par n="abdominal__adj"/></e>
 <e lm="sacerdotal"><i>sacerdotal</i><par n="abdominal__adj"/></e>
-
+<e lm="tensional"><i>tensional</i><par n="abdominal__adj"/></e>
+<e lm="newtonià"><i>newtoni</i><par n="afric/à__adj"/></e>
+<e lm="oscil·lant"><i>oscil·lant</i><par n="abdominal__adj"/></e>
+<e lm="oscil·lant" r="LR"><p><l>osciŀlant</l><r>oscil·lant</r></p><par n="abdominal__adj"/></e>
+<e lm="intimidant"><i>intimidant</i><par n="abdominal__adj"/></e>
+<e lm="descarregable"><i>descarregable</i><par n="abdominal__adj"/></e>
+<e lm="adipós"><i>adip</i><par n="aliment/ós__adj"/></e>
+<e lm="caducifoli"><i>caducif</i><par n="caducif/oli__adj"/></e>
+<e lm="perennifoli"><i>perennif</i><par n="caducif/oli__adj"/></e>
 
 <e lm="insondable"><i>insondable</i><par n="abdominal__adj"/></e>
 
