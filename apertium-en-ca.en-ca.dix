@@ -2406,10 +2406,10 @@
 <e r="RL">       <p><l>registrar<s n="n"/></l>        <r>registrador<s n="n"/></r></p></e>
 <e>       <p><l>cash<b/>register<s n="n"/></l>        <r>caixa<b/>registradora<s n="n"/><s n="f"/></r></p></e>
 <e r="RL">       <p><l>San<b/>Juan<s n="adj"/></l>        <r>santjoaner<s n="adj"/></r></p></e>
-<e>       <p><l>ceasing<s n="adj"/></l>        <r>cessant<s n="adj"/></r></p></e>
-<e>       <p><l>rushing<s n="adj"/></l>        <r>apressant<s n="adj"/></r></p></e>
-<e vl="en_GB">       <p><l>phoney<s n="adj"/></l>        <r>farsant<s n="adj"/></r></p></e>
-<e vl="en_US">       <p><l>phony<s n="adj"/></l>        <r>farsant<s n="adj"/></r></p></e>
+<e>       <p><l>ceasing<s n="adj"/></l>        <r>cessant<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>rushing<s n="adj"/></l>        <r>apressant<s n="adj"/><s n="mf"/></r></p></e>
+<e vl="en_GB">       <p><l>phoney<s n="adj"/></l>        <r>farsant<s n="adj"/><s n="mf"/></r></p></e>
+<e vl="en_US">       <p><l>phony<s n="adj"/></l>        <r>farsant<s n="adj"/><s n="mf"/></r></p></e>
 <e r="RL">       <p><l>low<s n="adj"/></l>        <r>rasant<s n="adj"/></r></p></e>
 <e>       <p><l>riot<s n="adj"/></l>        <r>antidistubis<s n="adj"/><s n="mf"/></r></p></e>
 <e>       <p><l>lagrangian<s n="adj"/></l>        <r>lagrangià<s n="adj"/></r></p></e>
@@ -3866,9 +3866,12 @@
 <e><p><l>geocentric<s n="adj"/></l><r>geocèntric<s n="adj"/></r></p></e>
 <e><p><l>genomic<s n="adj"/></l><r>genòmic<s n="adj"/></r></p></e>
 <e><p><l>motorised<s n="adj"/></l><r>motoritzat<s n="adj"/></r></p></e>
+<e><p><l>Julian<s n="adj"/></l><r>julià<s n="adj"/></r></p></e>
+<e><p><l>Callisto<s n="np"/><s n="al"/></l><r>Cal·listo<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+<e><p><l>Callistoan<s n="adj"/></l><r>cal·listià<s n="adj"/></r></p></e>
 <e><p><l>multicellular<s n="adj"/></l><r>pluricel·lular<s n="adj"/><s n="mf"/></r></p></e>
-<e><p><l>lesbian<s n="adj"/></l><r>lesbiana<s n="adj"/><s n="f"/></r></p></e>
-<e><p><l>multilayered<s n="adj"/></l><r>multicapa<s n="adj"/><s n="f"/></r></p></e>
+<e><p><l>lesbian<s n="adj"/></l><r>lesbiana<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>multilayered<s n="adj"/></l><r>multicapa<s n="adj"/><s n="mf"/></r></p></e>
 <e r="LR"><p><l>jaunty<s n="adj"/><s n="sint"/></l><r>desenfadat<s n="adj"/></r></p></e>
 <e r="RL"><p><l>confident<s n="adj"/></l><r>desenfadat<s n="adj"/></r></p></e>
 <e><p><l>mistaken<s n="adj"/></l><r>equivocat<s n="adj"/></r></p></e>
@@ -32576,6 +32579,7 @@
 <e>       <p><l>Norway<s n="np"/><s n="loc"/></l> <r>Noruega<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e>       <p><l>Madeira<s n="np"/><s n="loc"/></l><r>Madeira<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e>       <p><l>Cuba<s n="np"/><s n="loc"/></l>   <r>Cuba<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e>       <p><l>Carthage<s n="np"/><s n="loc"/></l>   <r>Cartago<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e>       <p><l>Bolivia<s n="np"/><s n="loc"/></l><r>Bolívia<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e>       <p><l>Denmark<s n="np"/><s n="loc"/></l><r>Dinamarca<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e r="LR">       <p><l>Bermuda<s n="np"/><s n="loc"/><s n="pl"/></l><r>Bermudes<s n="np"/><s n="loc"/><s n="f"/><s n="pl"/></r></p></e>
@@ -43835,6 +43839,7 @@
 <e r="RL"><p><l>adventurer<s n="n"/></l><r>aventurer<s n="n"/></r></p></e>
 <e r="LR"><p><l>albino<s n="n"/></l><r>albí<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>albino<s n="n"/></l><r>albí<s n="n"/></r></p></e>
+<e><p><l>albino<s n="adj"/></l><r>albí<s n="adj"/></r></p></e>
 <e r="LR"><p><l>phoenician<s n="n"/></l><r>fenici<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>phoenician<s n="n"/></l><r>fenici<s n="n"/></r></p></e>
 <e vl="en_GB"><p><l>pyjamas<s n="n"/></l><r>pijama<s n="n"/><s n="m"/></r></p></e>
@@ -44383,7 +44388,7 @@
 <e r="LR"><p><l>lip<b/>gloss<s n="n"/></l><r>bàlsam<b/>labial<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>lip<b/>balm<s n="n"/></l><r>bàlsam<b/>labial<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>toilet<b/>paper<s n="n"/></l><r>paper<b/>higiènic<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>ramen<s n="n"/></l><r>ramen<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>ramen<s n="n"/></l><r>ramen<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>paper<b/>plate<s n="n"/></l><r>plat<g><b/>de<b/>paper</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>methylated<b/>spirit<s n="n"/></l><r>alcohol<b/>metílic<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>backup<s n="n"/></l><r>còpia<g><b/>de<b/>seguretat</g><s n="n"/><s n="f"/></r></p></e>
@@ -44405,7 +44410,7 @@
 <e><p><l>handicraft<s n="n"/></l><r>manualitat<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>discoloration<s n="n"/></l><r>decoloració<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>syntax<s n="n"/></l><r>sintaxi<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>adenosine<b/>triphosphate<s n="n"/></l><r>trifosfat<g><b/>d'adenosina</g><s n="n"/><s n="f"/></r></p></e>
+<e><p><l>adenosine<b/>triphosphate<s n="n"/></l><r>trifosfat<g><b/>d'adenosina</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>operating<b/>system<s n="n"/></l><r>sistema<b/>operatiu<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>tensor<b/>calculus<s n="n"/></l><r>càlcul<b/>tensorial<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>fuzzy<b/>logic<s n="n"/></l><r>lògica<b/>difusa<s n="n"/><s n="f"/></r></p></e>
@@ -45258,10 +45263,10 @@
 <e><p><l>peahen<s n="n"/></l><r>paó<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>wrench<s n="n"/></l><r>clau<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>feng<b/>shui<s n="n"/></l><r>feng<b/>shui<s n="n"/><s n="m"/></r></p></e>
-<e r="LR"><p><l>Hebrew<s n="n"/></l><r>hebreu<s n="n"/><s n="GD"/></r></p></e>
-<e r="LR"><p><l>Aramaic<s n="n"/></l><r>arameu<s n="n"/><s n="GD"/></r></p></e>
-<e r="RL"><p><l>Hebrew<s n="n"/></l><r>hebreu<s n="n"/></r></p></e>
-<e r="RL"><p><l>Aramaic<s n="n"/></l><r>arameu<s n="n"/></r></p></e>
+<e r="LR"><p><l>hebrew<s n="n"/></l><r>hebreu<s n="n"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>aramaic<s n="n"/></l><r>arameu<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>hebrew<s n="n"/></l><r>hebreu<s n="n"/></r></p></e>
+<e r="RL"><p><l>aramaic<s n="n"/></l><r>arameu<s n="n"/></r></p></e>
 <e><p><l>Punic<b/>War<s n="n"/></l><r>Guerra<b/>púnic<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>analgesic<s n="n"/></l><r>analgèsic<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>ibuprofen<s n="n"/></l><r>ibuprofén<s n="n"/><s n="m"/></r></p></e>

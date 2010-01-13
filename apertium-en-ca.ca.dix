@@ -784,6 +784,23 @@
       <e>
         <p>
           <l>es</l>
+          <r>a<s n="adj"/><s n="mf"/><s n="pl"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>a</l>
+          <r>a<s n="adj"/><s n="mf"/><s n="sg"/></r>
+        </p>
+      </e>
+    </pardef>
+<!--
+<pardef n="lesbian/a__adj">
+
+      <e>
+        <p>
+          <l>es</l>
           <r>a<s n="adj"/><s n="f"/><s n="pl"/></r>
         </p>
       </e>
@@ -795,7 +812,7 @@
         </p>
       </e>
     </pardef>
-
+-->
 <pardef n="contempor/ani__adj"><e><p><l>ànies</l><r>ani<s n="adj"/><s n="f"/><s n="pl"/></r></p></e><e><p><l>ània</l><r>ani<s n="adj"/><s n="f"/><s n="sg"/></r></p></e><e><p><l>anis</l><r>ani<s n="adj"/><s n="m"/><s n="pl"/></r></p></e><e><p><l>ani</l><r>ani<s n="adj"/><s n="m"/><s n="sg"/></r></p></e></pardef>
 
 <pardef n="afortuna/t__adj">
@@ -83298,6 +83315,7 @@
 
 <e lm="mitjà"><i>mitj</i><par n="afric/à__adj"/></e>
 <e lm="lagrangià"><i>lagrangi</i><par n="afric/à__adj"/></e>
+<e lm="julià"><i>juli</i><par n="afric/à__adj"/></e>
 
 <e lm="mundial"><i>mundial</i><par n="abdominal__adj"/></e>
 
@@ -89738,6 +89756,7 @@
 <e lm="llatí"><i>llat</i><par n="alacant/í__n"/></e>
 <e lm="palestí"><i>palest</i><par n="alacant/í__n"/></e>
 <e lm="albí"><i>alb</i><par n="alacant/í__n"/></e>
+<e lm="albí"><i>alb</i><par n="alacant/í__adj"/></e>
 
 <e lm="de vida"><i>de<b/>vida</i><par n="multimèdia__adj"/></e>
 <e lm="de classe mitjana"><i>de<b/>classe<b/>mitjana</i><par n="multimèdia__adj"/></e>
@@ -96831,7 +96850,7 @@
 <e lm="visceroptosi"><i>visceroptosi</i><par n="accessibilitat__n"/></e>
 <e lm="facomatosi"><i>facomatosi</i><par n="accessibilitat__n"/></e>
 <e lm="metafosfat"><i>metafosfat</i><par n="abric__n"/></e>
-<e lm="trifosfati d'adenosina"><i>metafosfat</i><par n="abric__n"/><p><l><b/>d'adenosina</l><r><g><b/>d'adenosina</g></r></p></e>
+<e lm="trifosfati d'adenosina"><i>trifosfat</i><par n="abric__n"/><p><l><b/>d'adenosina</l><r><g><b/>d'adenosina</g></r></p></e>
 <e lm="carburador"><i>carburador</i><par n="abric__n"/></e>
 <e lm="estabilització"><i>estabilitzaci</i><par n="acci/ó__n"/></e>
 <e lm="videocasset"><i>videocasset</i><par n="abric__n"/></e>
@@ -105533,6 +105552,7 @@
 <e lm="Creta"><i>Creta</i><par n="Barcelona__np"/></e>
 <e lm="Croàcia"><i>Croàcia</i><par n="Barcelona__np"/></e>
 <e lm="Cuba"><i>Cuba</i><par n="Barcelona__np"/></e>
+<e lm="Cartago"><i>Cartago</i><par n="Afganistan__np"/></e>
 <e lm="Dakar"><i>Dakar</i><par n="Afganistan__np"/></e>
 <e lm="Damasc"><i>Damasc</i><par n="Afganistan__np"/></e>
 <e lm="Dinamarca"><i>Dinamarca</i><par n="Barcelona__np"/></e>
@@ -106375,6 +106395,8 @@
 <e lm="Microsoft"><i>Microsoft</i><par n="ABC__np"/></e>
 <e lm="Barça"><i>Barça</i><par n="ABC__np"/></e>
 <e lm="Repsol"><i>Repsol</i><par n="ABC__np"/></e>
+<e lm="Cal·listo"><i>Cal·listo</i><par n="ABC__np"/></e>
+<e lm="Cal·listo" r="LR"><p><l>Caŀlisto</l><r>Cal·listo</r></p><par n="ABC__np"/></e>
 <e lm="Telefónica"><i>Telefónica</i><par n="Telefónica__np"/></e>
 <e lm="Viquipèdia"><i>Viquipèdia</i><par n="Telefónica__np"/></e>
 <e lm="Gran depressió"><i>Gran<b/>depressió</i><par n="Telefónica__np"/></e>
@@ -117942,6 +117964,8 @@
 <e lm="absorbent" a="prompsit2adn"><i>absorbent</i><par n="abdominal__adj"/></e>
 <e lm="cardiovascular"><i>cardiovascular</i><par n="abdominal__adj"/></e>
 <e lm="llatinoamericà"><i>llatinoameric</i><par n="afric/à__adj"/></e>
+<e lm="cal·listià"><i>cal·listi</i><par n="afric/à__adj"/></e>
+<e lm="cal·listià" r="LR"><p><l>caŀlisti</l><r>cal·listi</r></p><par n="afric/à__adj"/></e>
 <e lm="perjudicial"><i>perjudicial</i><par n="abdominal__adj"/></e>
 <e lm="bàrbar"><i>bàrbar</i><par n="absolut__adj"/></e>
 <e lm="indeclinable"><i>indeclinable</i><par n="abdominal__adj"/></e>
