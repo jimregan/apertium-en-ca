@@ -34991,8 +34991,7 @@
     <e lm="superlative" a="greenbreen"><i>superlative</i><par n="expensive__adj"/></e>
     <e lm="superlative" a="greenbreen"><i>superlative</i><par n="house__n"/></e>
     <e lm="Haitian" a="greenbreen"><p><l>Haitian</l><r>haitian</r></p><par n="expensive__adj"/></e>
-    <e lm="Haitian" r="LR" a="greenbreen"><i>Haitian</i><par n="house__n"/></e>
-    <e lm="Haitian" r="RL" a="greenbreen"><p><l>Haitian</l><r>haitian</r></p><par n="house__n"/></e>
+    <e lm="Haitian" a="greenbreen"><p><l>Haitian</l><r>haitian</r></p><par n="house__n"/></e>
     <e lm="pay slip" a="greenbreen"><i>pay<b/>slip</i><par n="house__n"/></e>
     <e lm="propagation" a="greenbreen"><i>propagation</i><par n="house__n"/></e>
     <e lm="fluid" a="greenbreen"><i>fluid</i><par n="house__n"/></e>
