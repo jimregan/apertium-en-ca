@@ -3294,7 +3294,16 @@
 <e>       <p><l>southerner<s n="n"/></l>              <r>meridional<s n="n"/><s n="mf"/></r></p></e>
 <e r="LR">       <p><l>northerner<s n="n"/></l>              <r>del<b/>nord<s n="n"/><s n="mf"/><s n="sp"/></r></p></e>
 <e r="RL">       <p><l>northerner<s n="n"/><s n="ND"/></l>              <r>del<b/>nord<s n="n"/><s n="mf"/><s n="sp"/></r></p></e>
+<e r="LR">       <p><l>bully<s n="n"/></l>              <r>perdonavides<s n="n"/><s n="m"/></r></p></e>
+<e r="RL">       <p><l>bully<s n="n"/><s n="ND"/></l>              <r>perdonavides<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+<e r="LR">       <p><l>thug<s n="n"/></l>              <r>perdonavides<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>answering<b/>machine<s n="n"/></l>              <r>contestador<b/>automàtic<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>roentgenium<s n="n"/></l>              <r>roentgueni<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>nudist<s n="n"/></l>              <r>nudista<s n="n"/><s n="mf"/></r></p></e>
+<e>       <p><l>tempo<s n="n"/></l>              <r>tempo<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>Game<b/>Boy<s n="n"/></l>              <r>Game<b/>Boy<s n="n"/><s n="m"/></r></p></e>
+<e a="termcat">       <p><l>puncture<s n="n"/></l>              <r>punxada<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>Ethernet<s n="n"/></l>              <r>Ethernet<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>Jacobite<s n="n"/></l>              <r>jacobita<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>surfer<s n="n"/></l>              <r>surfista<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>nudist<s n="adj"/></l>            <r>nudista<s n="adj"/><s n="mf"/></r></p></e>
@@ -19131,11 +19140,11 @@
 <e r="RL"><p><l>Catalan<s n="n"/></l>             <r>català<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>cause<s n="n"/></l>               <r>causa<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>cellphone<s n="n"/></l>           <r>telèfon<b/>mòbil<s n="n"/><s n="m"/></r></p></e>
-<e r="LR"><p><l>cell<b/>phone<s n="n"/></l>       <r>telèfon<b/>mòbil<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>cellular<b/>phone<s n="n"/></l>   <r>telèfon<b/>mòbil<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>cellular<b/>telephone<s n="n"/></l><r>telèfon<b/>mòbil<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>mobile<b/>telephone<s n="n"/></l> <r>telèfon<b/>mòbil<s n="n"/><s n="m"/></r></p></e>
-<e>       <p><l>mobile<b/>phone<s n="n"/></l>     <r>telèfon<b/>mòbil<s n="n"/><s n="m"/></r></p></e>
+<e vl="en_US"><p><l>cell<b/>phone<s n="n"/></l>       <r>telèfon<b/>mòbil<s n="n"/><s n="m"/></r></p></e>
+<e vl="en_GB">       <p><l>mobile<b/>phone<s n="n"/></l>     <r>telèfon<b/>mòbil<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>cordless<b/>phone<s n="n"/></l>     <r>telèfon<g><b/>sense<b/>fil</g><s n="n"/><s n="m"/></r></p></e>
 <e r="LR">       <p><l>cordless<b/>telephone<s n="n"/></l>     <r>telèfon<g><b/>sense<b/>fil</g><s n="n"/><s n="m"/></r></p></e>
 <e r="LR">       <p><l>cordless<s n="adj"/></l>     <r>sense<b/>fil<s n="adj"/><s n="mf"/></r></p></e>
@@ -21144,6 +21153,7 @@
 <e r="LR">       <p><l>stalemate<s n="n"/></l>               <r>impasse<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>thorax<s n="n"/></l>               <r>tòrax<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>outskirts<s n="n"/></l>               <r>afores<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>headphones<s n="n"/></l>               <r>auriculars<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>tidal<b/>force<s n="n"/></l>               <r>força<g><b/>de<b/>marea</g><s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>soundtrack<s n="n"/></l>               <r>banda<b/>sonora<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>echidna<s n="n"/></l>               <r>equidna<s n="n"/><s n="f"/></r></p></e>
@@ -43723,7 +43733,12 @@
 <e><p><l>mousehole<s n="n"/></l><r>ratera<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>fowl<s n="n"/></l><r>au<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>scorpion<s n="n"/></l><r>escorpí<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>Scorpio<s n="n"/><s n"ND"/></l><r>escorpió<s n="n"/><s n="mf"/><s n="sp"/></r></p></e>
+<e r="LR"><p><l>Scorpio<s n="n"/></l><r>escorpió<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>mosquito<s n="n"/></l><r>mosquit<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>baking<b/>soda<s n="n"/></l><r>bicarbonat<g><b/>de<b/>sodi</g><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>bicarbonate<s n="n"/></l><r>bicarbonat<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>bicarbonate<g><b/>of<b/>soda</g><s n="n"/></l><r>bicarbonat<g><b/>de<b/>sodi</g><s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>aubergine<s n="n"/></l><r>albergínia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>necklace<s n="n"/></l><r>collaret<s n="n"/><s n="m"/></r></p></e>
 <e c="check"><p><l>bench<s n="n"/></l><r>banc<s n="n"/><s n="m"/></r></p></e>

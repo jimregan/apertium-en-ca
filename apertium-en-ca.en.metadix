@@ -34958,11 +34958,11 @@
     <e lm="iodized" a="greenbreen"><i>iodi</i><par n="z_s"/><i>ed</i><par n="expensive__adj"/></e>
     <e lm="baking powder" a="greenbreen"><i>baking<b/>powder</i><par n="house__n"/></e>
     <e lm="baking soda" a="greenbreen"><i>baking<b/>soda</i><par n="house__n"/></e>
+    <e lm="bicarbonate"><i>bicarbonate</i><par n="house__n"/></e>
+    <e lm="bicarbonate of soda"><i>bicarbonate</i><par n="house__n"/><p><l><b/>of<b/>soda</l><r><b/>of<b/>soda</g></r></p></e>
     <e lm="MP3 player" a="greenbreen"><i>MP3<b/>player</i><par n="house__n"/></e>
-    <e lm="mobile phone" r="LR" a="greenbreen"><i>mobile<b/>phone</i><par n="house__n"/></e>
-    <e lm="mobile phone" r="LR" a="greenbreen"><p><l>cell<b/>phone</l><r>mobile<b/>phone</r></p><par n="house__n"/></e>
-    <e lm="mobile phone" r="RL" alt="en_GB" a="greenbreen"><i>mobile<b/>phone</i><par n="house__n"/></e>
-    <e lm="mobile phone" r="RL" alt="en_US" a="greenbreen"><p><l>cell<b/>phone</l><r>mobile<b/>phone</r></p><par n="house__n"/></e>
+    <e lm="mobile phone" a="greenbreen"><i>mobile<b/>phone</i><par n="house__n"/></e>
+    <e lm="cell phone" a="greenbreen"><i>cell<b/>phone</i></p><par n="house__n"/></e>
     <e lm="badge" a="greenbreen"><i>badge</i><par n="house__n"/></e>
     <e lm="identification badge" a="greenbreen"><i>identification<b/>badge</i><par n="house__n"/></e>
     <e lm="identification badge" r="LR" a="greenbreen"><p><l>ID<b/>badge</l><r>identification<b/>badge</r></p><par n="house__n"/></e>

@@ -84189,6 +84189,8 @@
 <e lm="llac salat"><p><l>llacs<b/>salats</l><r>llac<b/>salat<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="llac salí"><p><l>llac<b/>salí</l><r>llac<b/>salí<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="llac salí"><p><l>llacs<b/>salins</l><r>llac<b/>salí<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="contestador automàtic"><p><l>contestador<b/>automàtic</l><r>contestador<b/>automàtic<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="contestador automàtic"><p><l>contestadors<b/>automàtics</l><r>contestador<b/>automàtic<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 
 <e lm="mig germà"><p><l>mig<b/>germà</l><r>mig<b/>germà<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="mig germà"><p><l>mitjos<b/>germans</l><r>mig<b/>germà<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
@@ -92480,6 +92482,7 @@
      
 <e lm="taxa"><i>tax</i><par n="abell/a__n"/></e>
 <e lm="equidna"><i>equidn</i><par n="abell/a__n"/></e>
+<e lm="roentgueni"><i>roentgueni</i><par n="abric__n"/></e>
 <e lm="taxa de mortalitat infantil"><i>tax</i><par n="abell/a__n"/><p><l><b/>de<b/>mortalitat<b/>infantil</l><r><g><b/>de<b/>mortalitat<b/>infantil</g></r></p></e>
 <e lm="talonari"><i>talonari</i><par n="abric__n"/></e>
 <e lm="talonari de xecs"><i>talonari</i><par n="abric__n"/><p><l><b/>de<b/>xecs</l><r><g><b/>de<b/>xecs</g></r></p></e>
@@ -92687,6 +92690,7 @@
 <e lm="diferència"><i>diferènci</i><par n="abell/a__n"/></e>
 <e lm="dificultat"><i>dificultat</i><par n="accessibilitat__n"/></e>
 <e lm="dijous"><i>dijous</i><par n="campus__n"/></e>
+<e lm="perdonavides"><i>perdonavides</i><par n="campus__n"/></e>
 <e lm="dilluns"><i>dilluns</i><par n="campus__n"/></e>
 <e lm="dimarts"><i>dimarts</i><par n="campus__n"/></e>
 <e lm="dimecres"><i>dimecres</i><par n="campus__n"/></e>
@@ -94038,10 +94042,15 @@
 <e lm="melmelada"><i>melmelad</i><par n="abell/a__n"/></e>
 <e lm="texans"><i>texans</i><par n="afores__n"/></e>
 <e lm="afores"><i>afores</i><par n="afores__n"/></e>
+<e lm="auriculars"><i>auriculars</i><par n="afores__n"/></e>
 <e lm="impasse"><i>impasse</i><par n="abric__n"/></e>
 <e lm="virrei"><i>virrei</i><par n="abric__n"/></e>
 <e lm="androide"><i>androide</i><par n="abric__n"/></e>
 <e lm="roentgeni"><i>roentgeni</i><par n="abric__n"/></e>
+<e lm="tempo"><i>tempo</i><par n="abric__n"/></e>
+<e lm="Game Boy"><i>Game<b/>Boy</i><par n="abric__n"/></e>
+<e lm="punxada"><i>punxad</i><par n="abell/a__n"/></e>
+<e lm="Ethernet"><i>Ethernet</i><par n="accessibilitat__n"/></e>
 <e lm="càrtam"><i>càrtam</i><par n="abric__n"/></e>
 <e lm="colza"><i>colz</i><par n="abell/a__n"/></e>
 <e lm="tranquilitzant"><i>tranquilitzant</i><par n="abric__n"/></e>
@@ -95012,6 +95021,8 @@
 <e lm="orfenat"><i>orfenat</i><par n="abric__n"/></e>
 <e lm="halterofília"><i>halterofíli</i><par n="abell/a__n"/></e>
 <e lm="policarbonat"><i>policarbonat</i><par n="abric__n"/></e>
+<e lm="bicarbonat"><i>bicarbonat</i><par n="abric__n"/></e>
+<e lm="bicarbonat de sodi"><i>bicarbonat</i><par n="abric__n"/><p><l><b/>de<b/>sodi</l><r><g><b/>de<b/>sodi</g></r></p></e>
 <e lm="visibilitat"><i>visibilitat</i><par n="accessibilitat__n"/></e>
 <e lm="reconfiguració"><i>reconfiguraci</i><par n="acci/ó__n"/></e>
 <e lm="hemopericardi"><i>hemopericardi</i><par n="abric__n"/></e>
