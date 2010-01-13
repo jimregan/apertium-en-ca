@@ -3857,6 +3857,18 @@
 <e><p><l>geocentric<s n="adj"/></l><r>geocèntric<s n="adj"/></r></p></e>
 <e><p><l>genomic<s n="adj"/></l><r>genòmic<s n="adj"/></r></p></e>
 <e><p><l>motorised<s n="adj"/></l><r>motoritzat<s n="adj"/></r></p></e>
+<e><p><l>multicellular<s n="adj"/></l><r>pluricel·lular<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>lesbian<s n="adj"/></l><r>lesbiana<s n="adj"/><s n="f"/></r></p></e>
+<e><p><l>multilayered<s n="adj"/></l><r>multicapa<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>jaunty<s n="adj"/><s n="sint"/></l><r>desenfadat<s n="adj"/></r></p></e>
+<e r="RL"><p><l>confident<s n="adj"/></l><r>desenfadat<s n="adj"/></r></p></e>
+<e><p><l>mistaken<s n="adj"/></l><r>equivocat<s n="adj"/></r></p></e>
+<e><p><l>vitamin<s n="adj"/></l><r>vitamínic<s n="adj"/></r></p></e>
+<e><p><l>multivitamin<s n="adj"/></l><r>multivitamínic<s n="adj"/></r></p></e>
+<e><p><l>salty<s n="adj"/><s n="sint"/></l><r>salat<s n="adj"/></r></p></e>
+<e><p><l>saline<s n="adj"/></l><r>salí<s n="adj"/></r></p></e>
+<e><p><l>salt<b/>lake<s n="n"/></l><r>llac<b/>salat<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>salt<b/>lake<s n="n"/></l><r>llac<b/>salí<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>lysosomal<s n="adj"/></l>         <r>lysosòmic<s n="adj"/></r></p></e>
 

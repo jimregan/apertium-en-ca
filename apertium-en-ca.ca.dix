@@ -84159,6 +84159,10 @@
 <e lm="cullera dosificadora"><p><l>culleres<b/>dosificadores</l><r>cullera<b/>dosificadora<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="cullera medidora"><p><l>cullera<b/>medidora</l><r>cullera<b/>medidora<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="cullera medidora"><p><l>culleres<b/>medidores</l><r>cullera<b/>medidora<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="llac salat"><p><l>llac<b/>salat</l><r>llac<b/>salat<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="llac salat"><p><l>llacs<b/>salats</l><r>llac<b/>salat<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="llac salí"><p><l>llac<b/>salí</l><r>llac<b/>salí<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="llac salí"><p><l>llacs<b/>salins</l><r>llac<b/>salí<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 
 <e lm="mig germà"><p><l>mig<b/>germà</l><r>mig<b/>germà<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="mig germà"><p><l>mitjos<b/>germans</l><r>mig<b/>germà<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
@@ -85925,6 +85929,7 @@
 <e lm="temperat"><i>tempera</i><par n="afortuna/t__adj"/></e>
 <e lm="sikh"><i>sikh</i><par n="abdominal__adj"/></e>
 <e lm="sònic"><i>sòni</i><par n="acadèmi/c__adj"/></e>
+<e lm="salí"><i>sal</i><par n="alacant/í__adj"/></e>
 <e lm="anecoic"><i>anecoi</i><par n="acadèmi/c__adj"/></e>
 <e lm="semianecoic"><i>semianecoi</i><par n="acadèmi/c__adj"/></e>
 <e lm="eulerià"><i>euleri</i><par n="afric/à__adj"/></e>
@@ -85932,6 +85937,15 @@
 <e lm="geocèntric"><i>geocèntri</i><par n="acadèmi/c__adj"/></e>
 <e lm="genòmic"><i>genòmi</i><par n="acadèmi/c__adj"/></e>
 <e lm="motoritzat"><i>motoritza</i><par n="afortuna/t__adj"/></e>
+<e lm="pluricel·lular"><i>pluricel·lular</i><par n="abdominal__adj"/></e>
+<e lm="pluricel·lular" r="LR"><p><l>pluriceŀlular</l><r>pluricel·lular</r></p><par n="abdominal__adj"/></e>
+<e lm="lesbiana"><i>lesbian</i><par n="lesbian/a__adj"/></e>
+<e lm="multicapa"><i>multicap</i><par n="lesbian/a__adj"/></e>
+<e lm="desenfadat"><i>desenfada</i><par n="afortuna/t__adj"/></e>
+<e lm="equivocat"><i>equivoca</i><par n="afortuna/t__adj"/></e>
+<e lm="vitamínic"><i>vitamíni</i><par n="acadèmi/c__adj"/></e>
+<e lm="multivitamínic"><i>multivitamíni</i><par n="acadèmi/c__adj"/></e>
+<e lm="salat"><i>sala</i><par n="afortuna/t__adj"/></e>
 
 <e lm="insondable"><i>insondable</i><par n="abdominal__adj"/></e>
 
