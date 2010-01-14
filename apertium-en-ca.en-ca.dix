@@ -2413,7 +2413,7 @@
 <e vl="en_GB">       <p><l>phoney<s n="adj"/></l>        <r>farsant<s n="adj"/><s n="mf"/></r></p></e>
 <e vl="en_US">       <p><l>phony<s n="adj"/></l>        <r>farsant<s n="adj"/><s n="mf"/></r></p></e>
 <e r="RL">       <p><l>low<s n="adj"/></l>        <r>rasant<s n="adj"/></r></p></e>
-<e>       <p><l>riot<s n="adj"/></l>        <r>antidistubis<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>riot<s n="adj"/></l>        <r>antidisturbis<s n="adj"/><s n="mf"/></r></p></e>
 <e>       <p><l>lagrangian<s n="adj"/></l>        <r>lagrangià<s n="adj"/></r></p></e>
 <e r="LR">       <p><l>lagrangian<s n="n"/></l>        <r>lagrangià<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL">       <p><l>lagrangian<s n="n"/></l>        <r>lagrangià<s n="n"/></r></p></e>
@@ -3300,7 +3300,6 @@
 <e r="RL">       <p><l>bully<s n="n"/><s n="ND"/></l>              <r>perdonavides<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR">       <p><l>thug<s n="n"/></l>              <r>perdonavides<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>answering<b/>machine<s n="n"/></l>              <r>contestador<b/>automàtic<s n="n"/><s n="m"/></r></p></e>
-<e>       <p><l>roentgenium<s n="n"/></l>              <r>roentgueni<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>nudist<s n="n"/></l>              <r>nudista<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>tempo<s n="n"/></l>              <r>tempo<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>Game<b/>Boy<s n="n"/></l>              <r>Game<b/>Boy<s n="n"/><s n="m"/></r></p></e>
@@ -7189,6 +7188,7 @@
 <e>       <p><l>analogous<s n="adj"/></l>         <r>anàleg<s n="adj"/></r></p></e>
 
 <e>       <p><l>angrily<s n="adv"/></l>           <r>airadament<s n="adv"/></r></p></e>
+<e>       <p><l>on<b/>a<b/>shoestring<s n="adv"/></l>           <r>amb<b/>poquíssim<b/>diners<s n="adv"/></r></p></e>
 <e>       <p><l>in<b/>alphabetical<b/>order<s n="adv"/></l>           <r>per<b/>ordre<b/>alfabètic<s n="adv"/></r></p></e>
 
 <e>       <p><l>annually<s n="adv"/></l>          <r>anualment<s n="adv"/></r></p></e>
@@ -20525,6 +20525,7 @@
 <e>       <p><l>ice<s n="n"/></l>                 <r>gel<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>ice<b/>cream<s n="n"/></l>        <r>gelat<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>freezing<s n="adj"/></l>         <r>gelat<s n="adj"/></r></p></e>
+<e>       <p><l>ideal<s n="n"/></l>               <r>ideal<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>identity<s n="n"/></l>            <r>identitat<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>illness<s n="n"/></l>             <r>malaltia<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>imagination<s n="n"/></l>         <r>imaginació<s n="n"/><s n="f"/></r></p></e>
@@ -21189,6 +21190,7 @@
 <e>       <p><l>viceroy<s n="n"/></l>               <r>virrei<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>android<s n="n"/></l>               <r>androide<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>roentgenium<s n="n"/></l><r>roentgeni<s n="n"/><s n="m"/></r></p></e>
+<e r="RL">       <p><l>roentgenium<s n="n"/></l>              <r>roentgueni<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>rapeseed<b/>oil<s n="n"/></l><r>oli<g><b/>de<b/>colza</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>rapeseed<s n="n"/></l><r>colza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>safflower<s n="n"/></l><r>càrtam<s n="n"/><s n="m"/></r></p></e>
