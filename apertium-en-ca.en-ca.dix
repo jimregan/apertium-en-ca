@@ -3308,7 +3308,7 @@
 <e>       <p><l>Jacobite<s n="n"/></l>              <r>jacobita<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>surfer<s n="n"/></l>              <r>surfista<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>nudist<s n="adj"/></l>            <r>nudista<s n="adj"/><s n="mf"/></r></p></e>
-<e>       <p><l>Jacobist<s n="adj"/></l>            <r>jacobita<s n="adj"/><s n="mf"/></r></p></e>
+<e>       <p><l>jacobist<s n="adj"/></l>            <r>jacobita<s n="adj"/><s n="mf"/></r></p></e>
 <e r="LR">       <p><l>cold-short<s n="adj"/></l>        <r>agre<s n="adj"/></r></p></e>
 
 <e>       <p><l>epenthetic<s n="adj"/></l>        <r>epentètic<s n="adj"/></r></p></e>
@@ -3539,6 +3539,7 @@
 <e>       <p><l>unnatural<s n="adj"/></l>         <r>antinatural<s n="adj"/><s n="mf"/></r></p></e>
 
 <e>       <p><l>greasy<s n="adj"/><s n="sint"/></l><r>greixós<s n="adj"/></r></p></e>
+<e r="LR">       <p><l>oily<s n="adj"/><s n="sint"/></l><r>greixós<s n="adj"/></r></p></e>
 
 <e>       <p><l>cadastral<s n="adj"/></l>         <r>cadastral<s n="adj"/><s n="mf"/></r></p></e>
 
@@ -3946,6 +3947,14 @@
 <e><p><l>meaningless<s n="adj"/></l><r>sense<b/>sentit<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>mutant<s n="adj"/></l><r>mutant<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>deadly<s n="adj"/><s n="sint"/></l><r>mortífer<s n="adj"/></r></p></e>
+<e><p><l>male<s n="adj"/></l><r>mascle<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>hypersonic<s n="adj"/></l><r>hipersònic<s n="adj"/></r></p></e>
+<e><p><l>falsifiable<s n="adj"/></l><r>falsable<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>exhausting<s n="adj"/></l><r>esgotador<s n="adj"/></r></p></e>
+<e><p><l>articulate<s n="adj"/></l><r>articulat<s n="adj"/></r></p></e>
+<e><p><l>inarticulate<s n="adj"/></l><r>inarticulat<s n="adj"/></r></p></e>
+<e><p><l>soapy<s n="adj"/><s n="sint"/></l><r>sabonós<s n="adj"/></r></p></e>
+<e><p><l>inclement<s n="adj"/></l><r>inclement<s n="adj"/><s n="mf"/></r></p></e>
 
 
 <e>       <p><l>lysosomal<s n="adj"/></l>         <r>lysosòmic<s n="adj"/></r></p></e>
@@ -45308,6 +45317,7 @@
 <e r="RL"><p><l>aramaic<s n="n"/></l><r>arameu<s n="n"/></r></p></e>
 <e><p><l>Punic<b/>War<s n="n"/></l><r>Guerra<b/>púnic<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>analgesic<s n="n"/></l><r>analgèsic<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>analgesic<s n="adj"/></l><r>analgèsic<s n="adj"/></r></p></e>
 <e><p><l>ibuprofen<s n="n"/></l><r>ibuprofén<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>applet<s n="n"/></l><r>miniaplicació<s n="n"/><s n="f"/></r></p></e>
 

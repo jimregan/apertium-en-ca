@@ -86048,6 +86048,14 @@
 <e lm="sense sentit"><i>sense<b/>sentit</i><par n="multimèdia__adj"/></e>
 <e lm="mutant"><i>mutant</i><par n="abdominal__adj"/></e>
 <e lm="mortífer"><i>mortífer</i><par n="absolut__adj"/></e>
+<e lm="mascle"><i>mascle</i><par n="abdominal__adj"/></e>
+<e lm="falsable"><i>falsable</i><par n="abdominal__adj"/></e>
+<e lm="esgotador"><i>esgotador</i><par n="absolut__adj"/></e>
+<e lm="articulat" a="prompsit"><i>articula</i><par n="afortuna/t__adj"/></e>
+<e lm="inarticulat"><i>inarticula</i><par n="afortuna/t__adj"/></e>
+<e lm="analgèsic"><i>analgèsi</i><par n="acadèmi/c__adj"/></e>
+<e lm="sabonós"><i>sabon</i><par n="afectu/ós__adj"/></e>
+<e lm="inclement"><i>inclement</i><par n="abdominal__adj"/></e>
 
 <e lm="insondable"><i>insondable</i><par n="abdominal__adj"/></e>
 
@@ -86062,6 +86070,7 @@
 <e lm="fiable"><i>fiable</i><par n="abdominal__adj"/></e>
 
 <e lm="supersònic"><i>supersòni</i><par n="acadèmi/c__adj"/></e>
+<e lm="hipersònic"><i>hipersòni</i><par n="acadèmi/c__adj"/></e>
 <e lm="transònic"><i>transòni</i><par n="acadèmi/c__adj"/></e>
 <e lm="subsònic"><i>subsòni</i><par n="acadèmi/c__adj"/></e>
 <e lm="veloç"><i>velo</i><par n="preco/ç__adj"/></e>
@@ -89729,7 +89738,6 @@
 <e lm="ortodox"><i>ortodox</i><par n="annex__adj"/></e>
 <e lm="protestant"><i>protestant</i><par n="abdominal__adj"/></e> 
 <e lm="nudista"><i>nudist</i><par n="agrícol/a__adj"/></e>
-<e lm="jacobita" a="prompsit2uoc"><i>jacobit</i><par n="agrícol/a__adj"/></e>
 <e lm="meridional"><i>meridional</i><par n="acompanyant__n"/></e>
 
 
