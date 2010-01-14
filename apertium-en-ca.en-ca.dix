@@ -3944,6 +3944,8 @@
 <e><p><l>rear<s n="adj"/></l><r>de<b/>darrere<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>on<b/>duty<s n="adj"/></l><r>de<b/>torn<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>meaningless<s n="adj"/></l><r>sense<b/>sentit<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>mutant<s n="adj"/></l><r>mutant<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>deadly<s n="adj"/><s n="sint"/></l><r>mortífer<s n="adj"/></r></p></e>
 
 
 <e>       <p><l>lysosomal<s n="adj"/></l>         <r>lysosòmic<s n="adj"/></r></p></e>
@@ -18611,6 +18613,7 @@
 <e r="LR"><p><l>few<s n="det"/><s n="qnt"/></l>   <r>poc<s n="det"/><s n="qnt"/><s n="GD"/></r></p></e>
 <e r="RL" c="en plural"><p><l>few<s n="det"/><s n="qnt"/><s n="pl"/></l><r>poc<s n="det"/><s n="qnt"/><s n="m"/><s n="pl"/></r></p></e>
 <e r="RL" c="en plural"><p><l>few<s n="det"/><s n="qnt"/><s n="pl"/></l><r>poc<s n="det"/><s n="qnt"/><s n="f"/><s n="pl"/></r></p></e>
+<e r="LR"><p><l>few<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></l>   <r>poc<s n="det"/><s n="qnt"/><s n="GD"/><s n="pl"/></r></p></e>
 
 <e r="LR"><p><l>a<b/>few<s n="det"/><s n="qnt"/></l><r>uns<b/>quants<s n="det"/><s n="qnt"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>a<b/>few<s n="det"/><s n="qnt"/><s n="pl"/></l>          <r>uns<b/>quants<s n="det"/><s n="qnt"/><s n="m"/><s n="pl"/></r></p></e>
