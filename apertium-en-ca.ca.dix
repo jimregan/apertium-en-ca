@@ -105643,6 +105643,11 @@
 <e lm="Costa Rica"><i>Costa<b/>Rica</i><par n="Barcelona__np"/></e>
 <e lm="Sevilla"><i>Sevilla</i><par n="Barcelona__np"/></e>
 <e lm="República Federal d'Alemanya"><i>República<b/>Federal<b/>d'Alemanya</i><par n="Barcelona__np"/></e>
+<e lm="Chicago"><i>Chicago</i><par n="Afganistan__np"/></e>
+<e lm="Nagasaki"><i>Nagasaki</i><par n="Afganistan__np"/></e>
+<e lm="Hiroshima"><i>Hiroshima</i><par n="Barcelona__np"/></e>
+<e lm="Escandinàvia"><i>Escandinàvia</i><par n="Barcelona__np"/></e>
+<e lm="Índies"><i>Índies</i><par n="Bahames__np"/></e>
 <e lm="Illes Anglonormandes"><i>Illes<b/>Anglonormandes</i><par n="Bahames__np"/></e>
 <e lm="Illes Balears"><i>Illes<b/>Balears</i><par n="Bahames__np"/></e>
 <e lm="Antilles angleses"><i>Antilles<b/>angleses</i><par n="Bahames__np"/></e>
@@ -106406,6 +106411,13 @@
 <e lm="GNU"><i>GNU</i><par n="ABC__np"/></e>
 <e lm="Linux"><i>Linux</i><par n="ABC__np"/></e>
 <e lm="El Correo"><i>El<b/>Correo</i><par n="ABC__np"/></e>
+<e lm="Texas Instruments"><i>Texas<b/>Instruments</i><par n="ABC__np"/></e>
+<e lm="Telescopi espacial Hubble"><i>Telescopi<b/>espacial<b/>Hubble</i><par n="ABC__np"/></e>
+<e lm="Hubble"><i>Hubble</i><par n="ABC__np"/></e>
+<e lm="Ganimedes"><i>Ganimedes</i><par n="ABC__np"/></e>
+<e lm="Plistocè"><i>Plistocè</i><par n="ABC__np"/></e>
+<e lm="Pleistocè"><i>Pleistocè</i><par n="ABC__np"/></e>
+<e lm="Universitat de Pisa"><i>Universitat<b/>de<b/>Pisa</i><par n="Telefónica__np"/></e>
 <e lm="Athletic Club Bilbao"><i>Athletic<b/>Club<b/>Bilbao</i><par n="ABC__np"/></e>
 <e lm="RAID"><i>RAID</i><par n="ABC__np"/></e>
 <e lm="Unix"><i>Unix</i><par n="ABC__np"/></e>

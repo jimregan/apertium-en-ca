@@ -3873,7 +3873,7 @@
 <e><p><l>Callistoan<s n="adj"/></l><r>cal·listià<s n="adj"/></r></p></e>
 <e><p><l>Thebes<s n="np"/><s n="loc"/></l><r>Tebes<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>Thebes<s n="np"/><s n="loc"/></l><r>Tebas<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
-<e><p><l>Middle<b/>Kingdom<s n="np"/><s n="loc"/></l><r>Imperi<b/>mitjà<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Middle<b/>Kingdom<s n="np"/><s n="al"/></l><r>Imperi<b/>mitjà<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e c="Only seems to exist in fem, 'Tebes' for masc."><p><l>Theban<s n="adj"/></l><r>tebà<s n="adj"/></r></p></e>
 <e><p><l>haitian<s n="adj"/></l><r>haitià<s n="adj"/></r></p></e>
 <e r="LR"><p><l>haitian<s n="n"/></l><r>haitià<s n="n"/><s n="GD"/></r></p></e>
@@ -20525,8 +20525,6 @@
 <e>       <p><l>ice<s n="n"/></l>                 <r>gel<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>ice<b/>cream<s n="n"/></l>        <r>gelat<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>freezing<s n="adj"/></l>         <r>gelat<s n="adj"/></r></p></e>
-<e r="LR">       <p><l>frosted<s n="adj"/></l>         <r>gelat<s n="adj"/></r></p></e>
-<e>       <p><l>ideal<s n="n"/></l>               <r>ideal<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>identity<s n="n"/></l>            <r>identitat<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>illness<s n="n"/></l>             <r>malaltia<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>imagination<s n="n"/></l>         <r>imaginació<s n="n"/><s n="f"/></r></p></e>
@@ -21723,7 +21721,7 @@
 <e>       <p><l>fovea<s n="n"/></l>               <r>fòvea<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>ligroin<s n="n"/></l>             <r>ligroïna<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>echinoderm<s n="n"/></l>          <r>equinoderm<s n="n"/><s n="m"/></r></p></e>
-<e>       <p><l>quaternion<s n="n"/></l>          <r>quatern<s n="n"/><s n="m"/></r></p></e>
+<e r="RL">       <p><l>quaternion<s n="n"/></l>          <r>quatern<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>plastidome<s n="n"/></l>          <r>plastidoma<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>agnosia<s n="n"/></l>             <r>agnòsia<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>lesbianism<s n="n"/></l>          <r>lesbianisme<s n="n"/><s n="m"/></r></p></e>
@@ -32236,6 +32234,7 @@
 <e>       <p><l>Georgia<s n="np"/><s n="loc"/></l><r>Geòrgia<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e>       <p><l>Nassau<s n="np"/><s n="loc"/></l> <r>Nassau<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Barcelonès<s n="np"/><s n="loc"/></l><r>Barcelonès<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Indies<s n="np"/><s n="loc"/></l><r>Índies<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>Magdalen<b/>Islands<s n="np"/><s n="loc"/></l><r>Illes<b/>de<b/>la<b/>Magdalena<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>Virgin<b/>Islands<s n="np"/><s n="loc"/></l><r>Illes<b/>Verges<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>British<b/>Virgin<b/>Islands<s n="np"/><s n="loc"/></l><r>Illes<b/>Verges<b/>Britàniques<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
@@ -32336,6 +32335,16 @@
 <e><p><l>El<b/>Correo<s n="np"/><s n="al"/></l><r>El<b/>Correo<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e><p><l>Federal<b/>Republic<b/>of<b/>Germany<s n="np"/><s n="loc"/></l><r>República<b/>Federal<b/>d'Alemanya<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>British<b/>West<b/>Indies<s n="np"/><s n="loc"/></l><r>Antilles<b/>angleses<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Chicago<s n="np"/><s n="loc"/></l><r>Chicago<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Hiroshima<s n="np"/><s n="loc"/></l><r>Hiroshima<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Nagasaki<s n="np"/><s n="loc"/></l><r>Nagasaki<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Scandinavia<s n="np"/><s n="loc"/></l><r>Escandinàvia<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Hubble<s n="np"/><s n="al"/></l><r>Hubble<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+<e><p><l>Hubble<b/>Space<b/>Telescope<s n="np"/><s n="al"/></l><r>Telescopi<b/>espacial<b/>Hubble<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+<e><p><l>Ganymede<s n="np"/><s n="al"/></l><r>Ganimedes<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+<e><p><l>Pleistocene<s n="np"/><s n="al"/></l><r>Plistocè<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>Pleistocene<s n="np"/><s n="al"/></l><r>Pleistocè<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+<e><p><l>University<b/>of<b/>Pisa<s n="np"/><s n="al"/></l><r>Universitat<b/>de<b/>Pisa<s n="np"/><s n="al"/><s n="f"/></r></p></e>
 
 <e a="greenbreen"><i>i.e.<s n="adv"/></i></e>
 
@@ -33206,6 +33215,7 @@
 
     <e>  <p><l>20th<b/>Century<b/>Fox<s n="np"/><s n="al"/></l><r>20th<b/>Century<b/>Fox<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e>       <p><l>Linux<s n="np"/><s n="al"/></l>   <r>Linux<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+<e>       <p><l>Texas<b/>Instruments<s n="np"/><s n="al"/></l>   <r>Texas<b/>Instruments<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e>       <p><l>Athletic<b/>Bilbao<s n="np"/><s n="al"/></l>   <r>Athletic<b/>Club<b/>Bilbao<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e>       <p><l>RAID<s n="np"/><s n="al"/></l>   <r>RAID<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e>       <p><l>Los<b/>Alamos<b/>National<b/>Laboratory<s n="np"/><s n="al"/></l>   <r>Laboratori<b/>National<b/>de<b/>Los<b/>Alamos<s n="np"/><s n="al"/><s n="m"/></r></p></e>
@@ -44272,7 +44282,7 @@
 <e r="RL"><p><l>quartz<s n="n"/><s n="ND"/></l><r>quars<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>loyalty<s n="n"/></l><r>lleialtat<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>manservant<s n="n"/></l><r>servent<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>maid<s n="n"/></l><r>servent<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>maid<s n="n"/></l><r>servent<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>memorial<s n="n"/></l><r>monument<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>mentor<s n="n"/></l><r>mentor<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>mentor<s n="n"/></l><r>mentor<s n="n"/></r></p></e>
@@ -44575,7 +44585,8 @@
 <e><p><l>twig<s n="n"/></l><r>branqueta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>sapling<s n="n"/></l><r>plançó<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>quaternion<s n="n"/></l><r>quaternió<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>printed<b/>matter<s n="n"/></l><r>impresos<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>printed<b/>matter<s n="n"/><s n="pl"/></l><r>impresos<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e r="LR"><p><l>printed<b/>matter<s n="n"/><s n="sg"/></l><r>impresos<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e><p><l>serial<b/>port<s n="n"/></l><r>port<g><b/>seriï</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>disrespect<s n="n"/></l><r>falta<g><b/>de<b/>respecte</g><s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>lack<g><b/>of<b/>respect</g><s n="n"/></l><r>falta<g><b/>de<b/>respecte</g><s n="n"/><s n="f"/></r></p></e>
@@ -44589,7 +44600,6 @@
 <e><p><l>neutrino<s n="n"/></l><r>neutrí<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>neutrino<s n="n"/><s n="pl"/></l><r>neutrí<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e><p><l>refrigeration<s n="n"/></l><r>refrigeració<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>scorpio<s n="n"/></l><r>escorpió<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>stripping<b/>agent<s n="n"/></l><r>decapant<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>statistics<s n="n"/></l><r>estadístic<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>biomedicine<s n="n"/></l><r>biomedicina<s n="n"/><s n="f"/></r></p></e>
@@ -44605,7 +44615,6 @@
 <e><p><l>reductionism<s n="n"/></l><r>reduccionisme<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>precept<s n="n"/></l><r>precepte<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>obscurantism<s n="n"/></l><r>obscurantisme<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>mechanics<s n="n"/></l><r>mecànic<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>dispersion<s n="n"/></l><r>dispersió<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>reformulation<s n="n"/></l><r>reformulació<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>induction<s n="n"/></l><r>inducció<s n="n"/><s n="f"/></r></p></e>
@@ -45786,7 +45795,6 @@
 <e slr="anella"><p><l>ring<s n="n"/></l>          <r>anella<s n="n"/><s n="f"/></r></p></e>
 <e slr="anomenar" c="(they call him Peter)"><p><l>call<s n="vblex"/></l><r>anomenar<s n="vblex"/></r></p></e>
 <e slr="ànsia" srl="anxiety D"><p><l>anxiety<s n="n"/></l><r>ànsia<s n="n"/><s n="f"/></r></p></e>
-<e slr="anunci"><p><l>notice<s n="n"/></l><r>anunci<s n="n"/><s n="m"/></r></p></e>
 <e slr="aparellar D"><p><l>match<s n="vblex"/></l><r>aparellar<s n="vblex"/></r></p></e>
 <e slr="aparèixer D"><p><l>appear<s n="vblex"/></l><r>aparèixer<s n="vblex"/></r></p></e>
 <e slr="apel·lació D"><p><l>appeal<s n="n"/></l>  <r>apel·lació<s n="n"/><s n="f"/></r></p></e>
