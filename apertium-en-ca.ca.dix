@@ -83968,6 +83968,8 @@
 <e lm="nus viari"><p><l>nusos<b/>viaris</l><r>nus<b/>viari<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="estació seca"><p><l>estació<b/>seca</l><r>estació<b/>seca<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="estació seca"><p><l>estacions<b/>seques</l><r>estació<b/>seca<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="estació plujosa"><p><l>estació<b/>plujosa</l><r>estació<b/>plujosa<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="estació plujosa"><p><l>estacions<b/>plujoses</l><r>estació<b/>plujosa<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="estació humida"><p><l>estació<b/>humida</l><r>estació<b/>humida<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="estació humida"><p><l>estacions<b/>humides</l><r>estació<b/>humida<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e lm="estació meteorològica"><p><l>estació<b/>meteorològica</l><r>estació<b/>meteorològica<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
@@ -84213,6 +84215,8 @@
 <e lm="domini públic"><p><l>dominis<b/>públics</l><r>domini<b/>públic<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="dofí mular"><p><l>dofí<b/>mular</l><r>dofí<b/>mular<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="dofí mular"><p><l>dofins<b/>mulars</l><r>dofí<b/>mular<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="freqüència cardíaca"><p><l>freqüència<b/>cardíaca</l><r>freqüència<b/>cardíaca<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e lm="freqüència cardíaca"><p><l>freqüències<b/>cardíaques</l><r>freqüència<b/>cardíaca<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 
 <e lm="mig germà"><p><l>mig<b/>germà</l><r>mig<b/>germà<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="mig germà"><p><l>mitjos<b/>germans</l><r>mig<b/>germà<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
@@ -86056,6 +86060,8 @@
 <e lm="analgèsic"><i>analgèsi</i><par n="acadèmi/c__adj"/></e>
 <e lm="sabonós"><i>sabon</i><par n="afectu/ós__adj"/></e>
 <e lm="inclement"><i>inclement</i><par n="abdominal__adj"/></e>
+<e lm="plujós"><i>pluj</i><par n="afectu/ós__adj"/></e>
+<e lm="solt"><i>solt</i><par n="absolut__adj"/></e>
 
 <e lm="insondable"><i>insondable</i><par n="abdominal__adj"/></e>
 
@@ -92735,6 +92741,8 @@
 <e lm="diferència"><i>diferènci</i><par n="abell/a__n"/></e>
 <e lm="dificultat"><i>dificultat</i><par n="accessibilitat__n"/></e>
 <e lm="dijous"><i>dijous</i><par n="campus__n"/></e>
+<e lm="trencanous"><i>trencanous</i><par n="campus__n"/></e>
+<e lm="busseig"><i>busseig</i><par n="campus__n"/></e>
 <e lm="perdonavides"><i>perdonavides</i><par n="campus__n"/></e>
 <e lm="dilluns"><i>dilluns</i><par n="campus__n"/></e>
 <e lm="dimarts"><i>dimarts</i><par n="campus__n"/></e>
@@ -94326,6 +94334,7 @@
 <e lm="pinta"><i>pint</i><par n="abell/a__n"/></e>
 <e lm="conducte"><i>conducte</i><par n="abric__n"/></e>
 <e lm="tub"><i>tub</i><par n="abric__n"/></e>
+<e lm="cubell"><i>cubell</i><par n="abric__n"/></e>
 <e lm="canonada"><i>canonad</i><par n="abell/a__n"/></e>
 <e lm="pipa"><i>pip</i><par n="abell/a__n"/></e>
 <e lm="brea"><i>bre</i><par n="abell/a__n"/></e>
@@ -94421,6 +94430,7 @@
 <e lm="lector de codi de barres"><i>lector</i><par n="abric__n"/><p><l><b/>de<b/>codi<b/>de<b/>barres</l><r><g><b/>de<b/>codi<b/>de<b/>barres</g></r></p></e>
 <e lm="darrere"><i>darrere</i><par n="abric__n"/></e>
 <e lm="rebut"><i>rebut</i><par n="abric__n"/></e>
+<e lm="rebut de salari"><i>rebut</i><par n="abric__n"/><p><l><b/>de<b/>salari</l><r><g><b/>de<b/>salari</g></r></p></e>
 <e lm="recepció"><i>recepci</i><par n="acci/ó__n"/></e>
 <e lm="reconeixement"><i>reconeixement</i><par n="abric__n"/></e>
 <e lm="enregistrament"><i>enregistrament</i><par n="abric__n"/></e>

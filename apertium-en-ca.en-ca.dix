@@ -3300,6 +3300,8 @@
 <e r="RL">       <p><l>bully<s n="n"/><s n="ND"/></l>              <r>perdonavides<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR">       <p><l>thug<s n="n"/></l>              <r>perdonavides<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>answering<b/>machine<s n="n"/></l>              <r>contestador<b/>automàtic<s n="n"/><s n="m"/></r></p></e>
+<e r="LR">       <p><l>jar<s n="n"/></l>              <r>pot<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>tub<s n="n"/></l>              <r>cubell<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>nudist<s n="n"/></l>              <r>nudista<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>tempo<s n="n"/></l>              <r>tempo<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>Game<b/>Boy<s n="n"/></l>              <r>Game<b/>Boy<s n="n"/><s n="m"/></r></p></e>
@@ -19624,8 +19626,17 @@
 <e><p><l>bus<b/>station<s n="n"/></l><r>estació<g><b/>d'autobusos</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>police<b/>station<s n="n"/></l><r>estació<g><b/>de<b/>policia</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>dry<b/>season<s n="n"/></l><r>estació<b/>seca<s n="n"/><s n="f"/></r></p></e>
-<e r="LR"><p><l>wet<b/>season<s n="n"/></l><r>estació<b/>humida<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>rainy<b/>season<s n="n"/></l><r>estació<b/>humida<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>wet<b/>season<s n="n"/></l><r>estació<b/>humida<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>rainy<b/>season<s n="n"/></l><r>estació<b/>plujosa<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>rainy<s n="adj"/><s n="sint"/></l><r>plujós<s n="adj"/></r></p></e>
+<e><p><l>loose<s n="adj"/><s n="sint"/></l><r>solt<s n="adj"/></r></p></e>
+<e r="LR"><p><l>pay<b/>slip<s n="n"/></l><r>rebut<g><b/>de<b/>salari</g><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>payslip<s n="n"/></l><r>rebut<g><b/>de<b/>salari</g><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>heart<b/>rate<s n="n"/></l><r>freqüència<b/>cardíaca<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>nutcracker<s n="n"/></l><r>trencanous<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>nutcracker<s n="n"/><s n="ND"/></l><r>trencanous<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+<e r="LR"><p><l>diving<s n="n"/></l><r>busseig<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>diving<s n="n"/><s n="ND"/></l><r>busseig<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>railroad<s n="n"/></l>            <r>ferrocarril<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>infant<b/>mortality<b/>rate<s n="n"/></l>     <r>taxa<g><b/>de<b/>mortalitat<b/>infantil</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>tax<b/>haven<s n="n"/></l>     <r>paradís<b/>fiscal<s n="n"/><s n="m"/></r></p></e>

@@ -29107,7 +29107,7 @@
     <e lm="E.H. Sukarra"><i>E.H.<b/>Sukarra</i><par n="Linux__np"/>    </e>
     <e lm="breadwinner">	<i>breadwinner</i> 	<par n="house__n"/>      </e>
     <e lm="Jacobite">	  <i>Jacobite</i> 	  <par n="house__n"/> 	</e>
-    <e lm="Jacobite">	  <i>Jacobite</i> 	  <par n="expensive__adj"/> 	</e>
+    <e lm="Jacobite"><p><l>Jacobite</l><r>jacobite</r></p><par n="expensive__adj"/> 	</e>
     <e lm="solar cooker">	  <i>solar<b/>cooker</i> 	  <par n="house__n"/> 	</e>
     <e lm="stability">	  <i>stabilit</i> 	  <par n="bab/y__n"/> 	</e>
     <e lm="stock exchange">	  <i>stock<b/>exchange</i> 	  <par n="house__n"/> 	</e>
@@ -34994,6 +34994,7 @@
     <e lm="Haitian" a="greenbreen"><p><l>Haitian</l><r>haitian</r></p><par n="expensive__adj"/></e>
     <e lm="Haitian" a="greenbreen"><p><l>Haitian</l><r>haitian</r></p><par n="house__n"/></e>
     <e lm="pay slip" a="greenbreen"><i>pay<b/>slip</i><par n="house__n"/></e>
+    <e lm="payslip" a="greenbreen"><i>payslip</i><par n="house__n"/></e>
     <e lm="propagation" a="greenbreen"><i>propagation</i><par n="house__n"/></e>
     <e lm="fluid" a="greenbreen"><i>fluid</i><par n="house__n"/></e>
     <e lm="momentum" a="greenbreen"><i>moment</i><par n="maxim/um__n"/></e>
@@ -35110,6 +35111,7 @@
     <e lm="death penalty" a="greenbreen"><i>death<b/>penalty</i><par n="house__n"/></e>
     <e lm="greasy" a="greenbreen"><i>greas</i><par n="happ/y__adj"/></e>
     <e lm="oily" a="greenbreen"><i>oil</i><par n="happ/y__adj"/></e>
+    <e lm="rainy"><i>rain</i><par n="happ/y__adj"/></e>
     <e lm="telephone" a="greenbreen"><i>telephone</i><par n="expensive__adj"/></e>
     <e lm="television" a="greenbreen"><i>television</i><par n="expensive__adj"/></e>
     <e lm="tidy" a="greenbreen"><i>tid</i><par n="happ/y__adj"/></e>
