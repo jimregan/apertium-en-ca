@@ -3301,6 +3301,8 @@
 <e r="LR">       <p><l>thug<s n="n"/></l>              <r>perdonavides<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>answering<b/>machine<s n="n"/></l>              <r>contestador<b/>automàtic<s n="n"/><s n="m"/></r></p></e>
 <e r="LR">       <p><l>jar<s n="n"/></l>              <r>pot<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>rematch<s n="n"/></l>              <r>rematx<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>revenge<b/>match<s n="n"/></l>              <r>matx<g><b/>de<b/>revenja</g><s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>tub<s n="n"/></l>              <r>cubell<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>nudist<s n="n"/></l>              <r>nudista<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>tempo<s n="n"/></l>              <r>tempo<s n="n"/><s n="m"/></r></p></e>
@@ -3957,6 +3959,7 @@
 <e><p><l>inarticulate<s n="adj"/></l><r>inarticulat<s n="adj"/></r></p></e>
 <e><p><l>soapy<s n="adj"/><s n="sint"/></l><r>sabonós<s n="adj"/></r></p></e>
 <e><p><l>inclement<s n="adj"/></l><r>inclement<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>chess<s n="adj"/></l><r>escaquístic<s n="adj"/></r></p></e>
 
 
 <e>       <p><l>lysosomal<s n="adj"/></l>         <r>lysosòmic<s n="adj"/></r></p></e>
@@ -19630,13 +19633,19 @@
 <e><p><l>rainy<b/>season<s n="n"/></l><r>estació<b/>plujosa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>rainy<s n="adj"/><s n="sint"/></l><r>plujós<s n="adj"/></r></p></e>
 <e><p><l>loose<s n="adj"/><s n="sint"/></l><r>solt<s n="adj"/></r></p></e>
+<e r="LR"><p><l>knowledgeable<s n="adj"/></l><r>savi<s n="adj"/></r></p></e>
+<e r="LR"><p><l>knack<s n="n"/></l><r>habilitat<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>pay<b/>slip<s n="n"/></l><r>rebut<g><b/>de<b/>salari</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>payslip<s n="n"/></l><r>rebut<g><b/>de<b/>salari</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>heart<b/>rate<s n="n"/></l><r>freqüència<b/>cardíaca<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>preview<s n="n"/></l><r>preestrena<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>chess<b/>piece<s n="n"/></l><r>peça<g><b/>d'escacs</g><s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>nutcracker<s n="n"/></l><r>trencanous<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>nutcracker<s n="n"/><s n="ND"/></l><r>trencanous<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>diving<s n="n"/></l><r>busseig<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>diving<s n="n"/><s n="ND"/></l><r>busseig<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+<e r="LR"><p><l>can<b/>opener<s n="n"/></l><r>obrellaunes<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>can<b/>opener<s n="n"/><s n="ND"/></l><r>obrellaunes<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>railroad<s n="n"/></l>            <r>ferrocarril<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>infant<b/>mortality<b/>rate<s n="n"/></l>     <r>taxa<g><b/>de<b/>mortalitat<b/>infantil</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>tax<b/>haven<s n="n"/></l>     <r>paradís<b/>fiscal<s n="n"/><s n="m"/></r></p></e>
@@ -19719,6 +19728,7 @@
 <e>       <p><l>south<s n="n"/></l>               <r>sud<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>space<s n="n"/></l>               <r>espai<s n="n"/><s n="m"/></r></p></e>
 
+<e r="LR"><p><l>Spanish<s n="n"/></l>            <r>espanyol<s n="n"/><s n="GD"/></r></p></e>
 <e r="LR"><p><l>Spaniard<s n="n"/></l>            <r>espanyol<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>Spanish<s n="n"/><s n="pl"/></l>  <r>espanyol<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>Spaniard<s n="n"/><s n="sg"/></l> <r>espanyol<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -44388,7 +44398,8 @@
 <e><p><l>cowgirl<s n="n"/></l><r>vaquer<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>briefcase<s n="n"/></l><r>maletí<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>enchantment<s n="n"/></l><r>encantament<s n="n"/><s n="m"/></r></p></e>
-<e r="LR"><p><l>psychiatrist<s n="n"/></l><r>psiquiatre<s n="n"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>psychiatrist<s n="n"/><s n="sg"/></l><r>psiquiatre<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>psychiatrist<s n="n"/><s n="pl"/></l><r>psiquiatre<s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>psychiatrist<s n="n"/></l><r>psiquiatre<s n="n"/></r></p></e>
 <e><p><l>gang<s n="n"/></l><r>colla<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>bail<s n="n"/></l><r>fiança<s n="n"/><s n="f"/></r></p></e>
@@ -46768,7 +46779,8 @@
 <e srl="marriage D"><p><l>marriage<s n="n"/></l>  <r>matrimoni<s n="n"/><s n="m"/></r></p></e>
 <e r="RL" srl="couple"><p><l>couple<s n="n"/></l> <r>matrimoni<s n="n"/><s n="m"/></r></p></e>
 
-<e srl="match"><p><l>match<s n="n"/></l>          <r>partit<s n="n"/><s n="m"/></r></p></e>
+<e srl="match" slr="partit D"><p><l>match<s n="n"/></l>          <r>partit<s n="n"/><s n="m"/></r></p></e>
+<e srl="match" slr="matx"><p><l>match<s n="n"/></l>          <r>matx<s n="n"/><s n="m"/></r></p></e>
 <e slr="partit D" srl="party D"><p><l>party<s n="n"/></l><r>partit<s n="n"/><s n="m"/></r></p></e>
 
 <e srl="meat D"><p><l>meat<s n="n"/></l>          <r>carn<s n="n"/><s n="f"/></r></p></e>

@@ -21425,6 +21425,8 @@
     <e lm="master"><i>master</i><par n="house__n"/>    </e>
     <e lm="masturbation"><i>masturbation</i><par n="house__n"/>    </e>
     <e lm="match"><i>match</i><par n="access__n"/>    </e>
+    <e lm="rematch"><i>rematch</i><par n="access__n"/>    </e>
+    <e lm="revenge match"><i>revenge<b/>match</i><par n="access__n"/>    </e>
     <e lm="mate"><i>mate</i><par n="house__n"/>    </e>
     <e lm="material"><i>material</i><par n="house__n"/>    </e>
     <e lm="materialism"><i>materialism</i><par n="house__n"/>    </e>

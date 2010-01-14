@@ -86062,6 +86062,7 @@
 <e lm="inclement"><i>inclement</i><par n="abdominal__adj"/></e>
 <e lm="plujós"><i>pluj</i><par n="afectu/ós__adj"/></e>
 <e lm="solt"><i>solt</i><par n="absolut__adj"/></e>
+<e lm="escaquístic"><i>escaquísti</i><par n="acadèmi/c__adj"/></e>
 
 <e lm="insondable"><i>insondable</i><par n="abdominal__adj"/></e>
 
@@ -92743,7 +92744,9 @@
 <e lm="dijous"><i>dijous</i><par n="campus__n"/></e>
 <e lm="trencanous"><i>trencanous</i><par n="campus__n"/></e>
 <e lm="busseig"><i>busseig</i><par n="campus__n"/></e>
+<e lm="obrellaunes"><i>obrellaunes</i><par n="campus__n"/></e>
 <e lm="perdonavides"><i>perdonavides</i><par n="campus__n"/></e>
+<e lm="preestrena"><i>preestren</i><par n="abell/a__n"/></e>
 <e lm="dilluns"><i>dilluns</i><par n="campus__n"/></e>
 <e lm="dimarts"><i>dimarts</i><par n="campus__n"/></e>
 <e lm="dimecres"><i>dimecres</i><par n="campus__n"/></e>
@@ -93068,6 +93071,7 @@
 <e lm="patró"><i>patr</i><par n="aband/ó__n"/></e>
 <e lm="pau"><i>pau</i><par n="accessibilitat__n"/></e>
 <e lm="peça"><i>pe</i><par n="adre/ça__n"/></e>
+<e lm="peça d'escacs"><i>pe</i><par n="adre/ça__n"/><p><l><b/>d'escacs</l><r><g><b/>d'escacs</g></r></p></e>
 <e lm="pedra"><i>pedr</i><par n="abell/a__n"/></e>
 <e lm="pel·lícula"><i>pel·lícul</i><par n="abell/a__n"/></e>
 <e lm="pel·lícula" r="LR"><p><l>peŀlícul</l><r>pel·lícul</r></p><par n="abell/a__n"/></e>
@@ -104772,6 +104776,9 @@
 <e lm="matollar"><i>matollar</i><par n="abric__n"/></e>
 <e lm="matricidi"><i>matricidi</i><par n="abric__n"/></e>
 <e lm="matxet"><i>matxet</i><par n="abric__n"/></e>
+<e lm="matx"><i>matx</i><par n="abric__n"/></e>
+<e lm="rematx"><i>rematx</i><par n="abric__n"/></e>
+<e lm="matx de revenja"><i>matx</i><par n="abric__n"/><p><l><b/>de<b/>revenja</l><r><b/>de<b/>revenja</g></r></p></e>
 <e lm="meconi"><i>meconi</i><par n="abric__n"/></e>
 <e lm="menut"><i>menut</i><par n="abric__n"/></e>
 <e lm="menyspreu"><i>menyspreu</i><par n="abric__n"/></e>
