@@ -3303,6 +3303,7 @@
 <e r="LR">       <p><l>jar<s n="n"/></l>              <r>pot<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>rematch<s n="n"/></l>              <r>rematx<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>revenge<b/>match<s n="n"/></l>              <r>matx<g><b/>de<b/>revenja</g><s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>chess<b/>player<s n="n"/></l>              <r>escaquista<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>tub<s n="n"/></l>              <r>cubell<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>nudist<s n="n"/></l>              <r>nudista<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>tempo<s n="n"/></l>              <r>tempo<s n="n"/><s n="m"/></r></p></e>

@@ -104778,7 +104778,7 @@
 <e lm="matxet"><i>matxet</i><par n="abric__n"/></e>
 <e lm="matx"><i>matx</i><par n="abric__n"/></e>
 <e lm="rematx"><i>rematx</i><par n="abric__n"/></e>
-<e lm="matx de revenja"><i>matx</i><par n="abric__n"/><p><l><b/>de<b/>revenja</l><r><b/>de<b/>revenja</g></r></p></e>
+<e lm="matx de revenja"><i>matx</i><par n="abric__n"/><p><l><b/>de<b/>revenja</l><r><g><b/>de<b/>revenja</g></r></p></e>
 <e lm="meconi"><i>meconi</i><par n="abric__n"/></e>
 <e lm="menut"><i>menut</i><par n="abric__n"/></e>
 <e lm="menyspreu"><i>menyspreu</i><par n="abric__n"/></e>
@@ -105052,6 +105052,7 @@
 <e lm="infantesa"><i>infantes</i><par n="abell/a__n"/></e>
 <e lm="col·leccionista"><i>col·leccionist</i><par n="accionist/a__n"/></e>
 <e lm="col·leccionista" r="LR"><p><l>coŀleccionist</l><r>col·leccionist</r></p><par n="accionist/a__n"/></e>
+<e lm="escaquista"><i>escaquist</i><par n="accionist/a__n"/></e>
 <e lm="composició"><i>composici</i><par n="acci/ó__n"/></e>
 <e lm="consciència"><i>consciènci</i><par n="abell/a__n"/></e>
 <e lm="disfressa"><i>disfress</i><par n="abell/a__n"/></e>
