@@ -84209,6 +84209,10 @@
 <e lm="llac salí"><p><l>llacs<b/>salins</l><r>llac<b/>salí<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="contestador automàtic"><p><l>contestador<b/>automàtic</l><r>contestador<b/>automàtic<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="contestador automàtic"><p><l>contestadors<b/>automàtics</l><r>contestador<b/>automàtic<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="domini públic"><p><l>domini<b/>públic</l><r>domini<b/>públic<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="domini públic"><p><l>dominis<b/>públics</l><r>domini<b/>públic<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="dofí mular"><p><l>dofí<b/>mular</l><r>dofí<b/>mular<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="dofí mular"><p><l>dofins<b/>mulars</l><r>dofí<b/>mular<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 
 <e lm="mig germà"><p><l>mig<b/>germà</l><r>mig<b/>germà<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="mig germà"><p><l>mitjos<b/>germans</l><r>mig<b/>germà<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
@@ -85149,6 +85153,7 @@
 <e lm="tibant"><i>tibant</i><par n="abdominal__adj"/></e>
 
 <e lm="psicofisiològic"><i>psicofisiològi</i><par n="acadèmi/c__adj"/></e>
+<e lm="morfofisiològic"><i>morfofisiològi</i><par n="acadèmi/c__adj"/></e>
 
 <e lm="uniforme"><i>uniforme</i><par n="abdominal__adj"/></e>
 
@@ -86033,6 +86038,10 @@
 <e lm="adipós"><i>adip</i><par n="aliment/ós__adj"/></e>
 <e lm="caducifoli"><i>caducif</i><par n="caducif/oli__adj"/></e>
 <e lm="perennifoli"><i>perennif</i><par n="caducif/oli__adj"/></e>
+<e lm="vibratori"><i>vibrat</i><par n="access/ori__adj"/></e>
+<e lm="noticios" c="check"><i>noticios</i><par n="annex__adj"/></e>
+<e lm="malèvol"><i>malèvol</i><par n="absolut__adj"/></e>
+<e lm="jovià"><i>jovi</i><par n="afric/à__adj"/></e>
 
 <e lm="insondable"><i>insondable</i><par n="abdominal__adj"/></e>
 
@@ -92597,6 +92606,7 @@
 <e lm="cabell"><i>cabell</i><par n="abric__n"/></e>
 <e lm="caiguda"><i>caigud</i><par n="abell/a__n"/></e>
 <e lm="caixa"><i>caix</i><par n="abell/a__n"/></e>
+<e lm="caixa de ressonància"><i>caix</i><par n="abell/a__n"/><p><l><b/>de<b/>ressonància</l><r><g><b/>de<b/>ressonància</g></r></p></e>
 <e lm="cama"><i>cam</i><par n="abell/a__n"/></e>
 <e lm="camí"><i>cam</i><par n="boc/í__n"/></e>
 <e lm="campanya"><i>campany</i><par n="abell/a__n"/></e>
@@ -93207,6 +93217,7 @@
 <e lm="teatre"><i>teatre</i><par n="abric__n"/></e>
 <e lm="tècnic"><i>tècni</i><par n="asiàti/c__n"/></e>
 <e lm="tecnologia"><i>tecnologi</i><par n="abell/a__n"/></e>
+<e lm="mastologia"><i>mastologi</i><par n="abell/a__n"/></e>
 <e lm="telèfon"><i>telèfon</i><par n="abric__n"/></e>
 <e lm="telèfon sense fil"><i>telèfon</i><par n="abric__n"/><p><l><b/>sense<b/>fil</l><r><g><b/>sense<b/>fil</g></r></p></e>
 <e lm="televisió"><i>televisi</i><par n="acci/ó__n"/></e>
@@ -105394,6 +105405,7 @@
 
 <!--noms propis Dori -->
 <e lm="Medina"><i>Medina</i><par n="Barcelona__np"/></e>
+<e lm="Imperi mitjà"><i>Imperi<b/>mitjà</i><par n="Barcelona__np"/></e>
 <e lm="Aràbia" a="doriua"><i>Aràbia</i><par n="Barcelona__np"/></e>
 <e lm="Colúmbia" a="doriua"><i>Colúmbia</i><par n="Barcelona__np"/></e>
 <e lm="Detroit" a="doriua"><i>Detroit</i><par n="Afganistan__np"/></e>

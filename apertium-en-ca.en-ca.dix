@@ -2344,6 +2344,8 @@
 <e>       <p><l>taut<s n="adj"/></l>              <r>tibant<s n="adj"/><s n="mf"/></r></p></e>
 
 <e>       <p><l>psychophysiologic<s n="adj"/></l> <r>psicofisiològic<s n="adj"/></r></p></e>
+<e>       <p><l>morphophysiological<s n="adj"/></l> <r>morfofisiològic<s n="adj"/></r></p></e>
+<e r="LR">       <p><l>morphophysiologic<s n="adj"/></l> <r>morfofisiològic<s n="adj"/></r></p></e>
 
 <e>       <p><l>uniform<s n="adj"/></l>           <r>uniforme<s n="adj"/><s n="mf"/></r></p></e>
 
@@ -3871,6 +3873,7 @@
 <e><p><l>Callistoan<s n="adj"/></l><r>cal·listià<s n="adj"/></r></p></e>
 <e><p><l>Thebes<s n="np"/><s n="loc"/></l><r>Tebes<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>Thebes<s n="np"/><s n="loc"/></l><r>Tebas<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Middle<b/>Kingdom<s n="np"/><s n="loc"/></l><r>Imperi<b/>mitjà<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e c="Only seems to exist in fem, 'Tebes' for masc."><p><l>Theban<s n="adj"/></l><r>tebà<s n="adj"/></r></p></e>
 <e><p><l>haitian<s n="adj"/></l><r>haitià<s n="adj"/></r></p></e>
 <e><p><l>multicellular<s n="adj"/></l><r>pluricel·lular<s n="adj"/><s n="mf"/></r></p></e>
@@ -3908,6 +3911,7 @@
 <e><p><l>antepenultimate<s n="adj"/></l><r>antepenúltim<s n="adj"/></r></p></e>
 <e><p><l>cladistic<s n="adj"/></l><r>cladístic<s n="adj"/></r></p></e>
 <e><p><l>verifiable<s n="adj"/></l><r>verificable<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>testable<s n="adj"/></l><r>verificable<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>vertebrate<s n="adj"/></l><r>vertebrat<s n="adj"/></r></p></e>
 <e><p><l>rotational<s n="adj"/></l><r>rotacional<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>reigning<s n="adj"/></l><r>reinant<s n="adj"/></r></p></e>
@@ -3927,6 +3931,15 @@
 <e><p><l>adipose<s n="adj"/></l><r>adipós<s n="adj"/></r></p></e>
 <e><p><l>deciduous<s n="adj"/></l><r>caducifoli<s n="adj"/></r></p></e>
 <e><p><l>evergreen<s n="adj"/></l><r>perennifoli<s n="adj"/></r></p></e>
+<e><p><l>vibratory<s n="adj"/></l><r>vibratori<s n="adj"/></r></p></e>
+<e><p><l>news<s n="adj"/></l><r>noticios<s n="adj"/></r></p></e>
+<e><p><l>sounding<b/>board<s n="n"/></l><r>caixa<g><b/>de<b/>ressonància</g><s n="n"/><s n="f"/></r></p></e>
+<e><p><l>public<b/>domain<s n="n"/></l><r>domini<b/>públic<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>bottlenose<b/>dolphin<s n="n"/></l><r>dofí<b/>mular<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>mammalogy<s n="n"/></l><r>mastologia<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>malevolent<s n="adj"/></l><r>malèvol<s n="adj"/></r></p></e>
+<e><p><l>Jovian<s n="adj"/></l><r>jovià<s n="adj"/></r></p></e>
+
 
 <e>       <p><l>lysosomal<s n="adj"/></l>         <r>lysosòmic<s n="adj"/></r></p></e>
 
