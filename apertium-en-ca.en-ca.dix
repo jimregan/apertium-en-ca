@@ -3876,6 +3876,8 @@
 <e><p><l>Middle<b/>Kingdom<s n="np"/><s n="loc"/></l><r>Imperi<b/>mitjà<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e c="Only seems to exist in fem, 'Tebes' for masc."><p><l>Theban<s n="adj"/></l><r>tebà<s n="adj"/></r></p></e>
 <e><p><l>haitian<s n="adj"/></l><r>haitià<s n="adj"/></r></p></e>
+<e r="LR"><p><l>haitian<s n="n"/></l><r>haitià<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>haitian<s n="n"/></l><r>haitià<s n="n"/></r></p></e>
 <e><p><l>multicellular<s n="adj"/></l><r>pluricel·lular<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>lesbian<s n="adj"/></l><r>lesbiana<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>multilayered<s n="adj"/></l><r>multicapa<s n="adj"/><s n="mf"/></r></p></e>
@@ -3939,6 +3941,10 @@
 <e><p><l>mammalogy<s n="n"/></l><r>mastologia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>malevolent<s n="adj"/></l><r>malèvol<s n="adj"/></r></p></e>
 <e><p><l>Jovian<s n="adj"/></l><r>jovià<s n="adj"/></r></p></e>
+<e><p><l>sought-after<s n="adj"/></l><r>cotitzat<s n="adj"/></r></p></e>
+<e><p><l>rear<s n="adj"/></l><r>de<b/>darrere<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>on<b/>duty<s n="adj"/></l><r>de<b/>torn<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>meaningless<s n="adj"/></l><r>sense<b/>sentit<s n="adj"/><s n="mf"/></r></p></e>
 
 
 <e>       <p><l>lysosomal<s n="adj"/></l>         <r>lysosòmic<s n="adj"/></r></p></e>
@@ -4847,6 +4853,7 @@
 
 <e>       <p><l>specific<s n="adj"/></l>          <r>específic<s n="adj"/></r></p></e>
 <e>       <p><l>interspecific<s n="adj"/></l>          <r>interespecífic<s n="adj"/></r></p></e>
+<e>       <p><l>intraspecific<s n="adj"/></l>          <r>intraespecífic<s n="adj"/></r></p></e>
 
 <e>       <p><l>sudden<s n="adj"/></l>            <r>sobtat<s n="adj"/></r></p></e>
 
@@ -18412,6 +18419,7 @@
 <e r="LR"><p><l>as<b/>though<s n="cnjadv"/></l>   <r>com<b/>si<s n="cnjadv"/></r></p></e>
 
 <e>       <p><l>as<b/>well<b/>as<s n="cnjcoo"/></l><r>així<b/>com<s n="cnjcoo"/></r></p></e>
+<e r="LR">       <p><l>as<b/>well<b/>as<s n="cnjadv"/></l><r>així<b/>com<s n="cnjcoo"/></r></p></e>
 <e><p><l>even<b/>so<s n="cnjadv"/></l>   <r>així<b/>i<b/>tot<s n="cnjadv"/></r></p></e>
 
 

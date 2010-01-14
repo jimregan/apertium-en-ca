@@ -86042,6 +86042,10 @@
 <e lm="noticios" c="check"><i>noticios</i><par n="annex__adj"/></e>
 <e lm="malèvol"><i>malèvol</i><par n="absolut__adj"/></e>
 <e lm="jovià"><i>jovi</i><par n="afric/à__adj"/></e>
+<e lm="cotitzat"><i>cotitza</i><par n="afortuna/t__adj"/></e>
+<e lm="de darrere"><i>de<b/>darrere</i><par n="multimèdia__adj"/></e>
+<e lm="de torn"><i>de<b/>torn</i><par n="multimèdia__adj"/></e>
+<e lm="sense sentit"><i>sense<b/>sentit</i><par n="multimèdia__adj"/></e>
 
 <e lm="insondable"><i>insondable</i><par n="abdominal__adj"/></e>
 
@@ -87698,6 +87702,7 @@
 
 <e lm="específic"><i>específi</i><par n="acadèmi/c__adj"/></e>
 <e lm="interespecífic"><i>interespecífi</i><par n="acadèmi/c__adj"/></e>
+<e lm="intraespecífic"><i>intraespecífi</i><par n="acadèmi/c__adj"/></e>
 
 <e lm="sobtat"><i>sobta</i><par n="afortuna/t__adj"/></e>
 
@@ -117981,6 +117986,7 @@
 <e lm="cal·listià"><i>cal·listi</i><par n="afric/à__adj"/></e>
 <e lm="cal·listià" r="LR"><p><l>caŀlisti</l><r>cal·listi</r></p><par n="afric/à__adj"/></e>
 <e lm="haitià"><i>haiti</i><par n="afric/à__adj"/></e>
+<e lm="haitià"><i>haiti</i><par n="americ/à__n"/></e>
 <e lm="tebà"><i>teb</i><par n="afric/à__adj"/></e>
 <e lm="perjudicial"><i>perjudicial</i><par n="abdominal__adj"/></e>
 <e lm="bàrbar"><i>bàrbar</i><par n="absolut__adj"/></e>
