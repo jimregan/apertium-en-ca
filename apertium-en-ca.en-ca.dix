@@ -3878,7 +3878,7 @@
 <e><p><l>Callistoan<s n="adj"/></l><r>cal·listià<s n="adj"/></r></p></e>
 <e><p><l>Thebes<s n="np"/><s n="loc"/></l><r>Tebes<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>Thebes<s n="np"/><s n="loc"/></l><r>Tebas<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
-<e><p><l>Middle<b/>Kingdom<s n="np"/><s n="al"/></l><r>Imperi<b/>mitjà<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Middle<b/>Kingdom<s n="np"/><s n="al"/></l><r>Imperi<b/>mitjà<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e c="Only seems to exist in fem, 'Tebes' for masc."><p><l>Theban<s n="adj"/></l><r>tebà<s n="adj"/></r></p></e>
 <e><p><l>haitian<s n="adj"/></l><r>haitià<s n="adj"/></r></p></e>
 <e r="LR"><p><l>haitian<s n="n"/></l><r>haitià<s n="n"/><s n="GD"/></r></p></e>
@@ -19634,9 +19634,22 @@
 <e><p><l>rainy<b/>season<s n="n"/></l><r>estació<b/>plujosa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>rainy<s n="adj"/><s n="sint"/></l><r>plujós<s n="adj"/></r></p></e>
 <e><p><l>loose<s n="adj"/><s n="sint"/></l><r>solt<s n="adj"/></r></p></e>
+<e r="LR"><p><l>knotty<s n="adj"/><s n="sint"/></l><r>nodós<s n="adj"/></r></p></e>
+<e><p><l>knotted<s n="adj"/></l><r>nodós<s n="adj"/></r></p></e>
 <e r="LR"><p><l>knowledgeable<s n="adj"/></l><r>savi<s n="adj"/></r></p></e>
 <e r="LR"><p><l>knack<s n="n"/></l><r>habilitat<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>pay<b/>slip<s n="n"/></l><r>rebut<g><b/>de<b/>salari</g><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>ingrown<b/>toenail<s n="n"/></l><r>unglera<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>warden<s n="n"/></l><r>alcaid<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>spur<s n="n"/></l><r>esperó<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>fine<b/>dust<s n="n"/></l><r>polsim<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>urban<b/>area<s n="n"/></l><r>casc<b/>urbà<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>rainstorm<s n="n"/></l><r>temporal<g><b/>de<b/>pluges</g><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>postponement<s n="n"/></l><r>postergació<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>dent<s n="n"/></l><r>abonyegadura<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>exam<b/>table<s n="n"/></l><r>taula<g><b/>d'exploració</g><s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>diffuser<s n="n"/></l><r>difusor<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>diffuser<s n="n"/></l><r>difusor<s n="n"/></r></p></e>
 <e><p><l>payslip<s n="n"/></l><r>rebut<g><b/>de<b/>salari</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>heart<b/>rate<s n="n"/></l><r>freqüència<b/>cardíaca<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>preview<s n="n"/></l><r>preestrena<s n="n"/><s n="f"/></r></p></e>
@@ -44419,6 +44432,7 @@
 <e><p><l>medicine<b/>cabinet<s n="n"/></l><r>farmaciola<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>first-aid<b/>kit<s n="n"/></l><r>farmaciola<g><b/>de<b/>primers<b/>auxilis</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>dental<b/>floss<s n="n"/></l><r>fil<b/>dental<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>Gordian<b/>knot<s n="n"/></l><r>nus<b/>gordià<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>gluon<s n="n"/></l><r>gluó<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>prion<s n="n"/></l><r>prió<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>astrolabe<s n="n"/></l><r>astrolabi<s n="n"/><s n="m"/></r></p></e>

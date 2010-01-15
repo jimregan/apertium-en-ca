@@ -84217,6 +84217,11 @@
 <e lm="dofí mular"><p><l>dofins<b/>mulars</l><r>dofí<b/>mular<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e lm="freqüència cardíaca"><p><l>freqüència<b/>cardíaca</l><r>freqüència<b/>cardíaca<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 <e lm="freqüència cardíaca"><p><l>freqüències<b/>cardíaques</l><r>freqüència<b/>cardíaca<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e lm="nus gordià"><p><l>nus<b/>gordià</l><r>nus<b/>gordià<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="nus gordià"><p><l>nusos<b/>gordians</l><r>nus<b/>gordià<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="casc urbà"><p><l>casc<b/>urbà</l><r>casc<b/>urbà<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e lm="casc urbà"><p><l>cascos<b/>urbans</l><r>casc<b/>urbà<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e lm="casc urbà" r="LR"><p><l>cascs<b/>urbans</l><r>casc<b/>urbà<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 
 <e lm="mig germà"><p><l>mig<b/>germà</l><r>mig<b/>germà<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e lm="mig germà"><p><l>mitjos<b/>germans</l><r>mig<b/>germà<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
@@ -86063,6 +86068,7 @@
 <e lm="plujós"><i>pluj</i><par n="afectu/ós__adj"/></e>
 <e lm="solt"><i>solt</i><par n="absolut__adj"/></e>
 <e lm="escaquístic"><i>escaquísti</i><par n="acadèmi/c__adj"/></e>
+<e lm="nodós"><i>nod</i><par n="afectu/ós__adj"/></e>
 
 <e lm="insondable"><i>insondable</i><par n="abdominal__adj"/></e>
 
@@ -92532,6 +92538,12 @@
 
      
 <e lm="taxa"><i>tax</i><par n="abell/a__n"/></e>
+<e lm="unglera"><i>ungler</i><par n="abell/a__n"/></e>
+<e lm="alcaid"><i>alcaid</i><par n="abric__n"/></e>
+<e lm="esperó"><i>esper</i><par n="aband/ó__n"/></e>
+<e lm="polsim"><i>polsim</i><par n="abric__n"/></e>
+<e lm="postergació"><i>postergaci</i><par n="acci/ó__n"/></e>
+<e lm="abonyegadura"><i>abonyegadur</i><par n="abell/a__n"/></e>
 <e lm="equidna"><i>equidn</i><par n="abell/a__n"/></e>
 <e lm="roentgueni"><i>roentgueni</i><par n="abric__n"/></e>
 <e lm="taxa de mortalitat infantil"><i>tax</i><par n="abell/a__n"/><p><l><b/>de<b/>mortalitat<b/>infantil</l><r><g><b/>de<b/>mortalitat<b/>infantil</g></r></p></e>
@@ -93241,6 +93253,8 @@
 <e lm="taula"><i>taul</i><par n="abell/a__n"/></e>
 <e lm="tauler"><i>tauler</i><par n="abric__n"/></e>
 <e lm="tauler d'escacs"><i>tauler</i><par n="abric__n"/><p><l><b/>d'escacs</l><r><g><b/>d'escacs</g></r></p></e>
+<e lm="taula d'exploració"><i>taul</i><par n="abell/a__n"/><p><l><b/>d'exploració</l><r><g><b/>d'exploració</g></r></p></e>
+<e lm="difusor"><i>difusor</i><par n="senyor__n"/></e>
 <e lm="taxista"><i>taxist</i><par n="accionist/a__n"/></e>
 <e lm="teatre"><i>teatre</i><par n="abric__n"/></e>
 <e lm="tècnic"><i>tècni</i><par n="asiàti/c__n"/></e>
@@ -94657,6 +94671,7 @@
 <e lm="empremta"><i>empremt</i><par n="abell/a__n"/></e>
 <e lm="tempesta"><i>tempest</i><par n="abell/a__n"/></e>
 <e lm="temporal"><i>temporal</i><par n="abric__n"/></e>
+<e lm="temporal de pluges"><i>temporal</i><par n="abric__n"/><p><l><b/>de<b/>pluges</l><r><g><b/>de<b/>pluges</g></r></p></e>
 <e lm="tensió"><i>tensi</i><par n="acci/ó__n"/></e>
 <e lm="torçada"><i>torçad</i><par n="abell/a__n"/></e>
 <e lm="esquinç"><i>esquinç</i><par n="as__n"/></e>
@@ -105439,7 +105454,6 @@
 
 <!--noms propis Dori -->
 <e lm="Medina"><i>Medina</i><par n="Barcelona__np"/></e>
-<e lm="Imperi mitjà"><i>Imperi<b/>mitjà</i><par n="Barcelona__np"/></e>
 <e lm="Aràbia" a="doriua"><i>Aràbia</i><par n="Barcelona__np"/></e>
 <e lm="Colúmbia" a="doriua"><i>Colúmbia</i><par n="Barcelona__np"/></e>
 <e lm="Detroit" a="doriua"><i>Detroit</i><par n="Afganistan__np"/></e>
@@ -106439,6 +106453,7 @@
 <e lm="20th Century Fox"><i>20th<b/>Century<b/>Fox</i><par n="ABC__np"/>    </e>
 <e lm="GNU"><i>GNU</i><par n="ABC__np"/></e>
 <e lm="Linux"><i>Linux</i><par n="ABC__np"/></e>
+<e lm="Imperi mitjà"><i>Imperi<b/>mitjà</i><par n="ABC__np"/></e>
 <e lm="El Correo"><i>El<b/>Correo</i><par n="ABC__np"/></e>
 <e lm="Texas Instruments"><i>Texas<b/>Instruments</i><par n="ABC__np"/></e>
 <e lm="Telescopi espacial Hubble"><i>Telescopi<b/>espacial<b/>Hubble</i><par n="ABC__np"/></e>
