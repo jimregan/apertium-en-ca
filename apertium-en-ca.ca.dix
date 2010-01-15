@@ -3948,6 +3948,21 @@
       </e>
     </pardef>
 
+    <pardef n="po/cs__prn">      
+      <e>
+        <p>
+          <l>ques</l>
+          <r>cs<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cs</l>
+          <r>cs<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
+
 <pardef n="/de__det"><!--MG: Inclou contracció amb articles-->
       <e r="LR"> 
 	<p>
@@ -85545,6 +85560,7 @@
 <e lm="monolític"><i>monolíti</i><par n="acadèmi/c__adj"/></e>
 
 <e lm="fi"><i>fi</i><par n="bo__adj"/></e>
+<e lm="hiperfi"><i>hiperfi</i><par n="bo__adj"/></e>
 
 <e lm="desavantatjat"><i>desavantatja</i><par n="afortuna/t__adj"/></e>
 
@@ -86080,9 +86096,17 @@
 <e lm="vendible"><i>vendible</i><par n="abdominal__adj"/></e>
 <e lm="de manera incòmoda"><i>de<b/>manera<b/>incòmoda</i><par n="sempre__adv"/></e>
 <e lm="en un tres i no res"><i>en<b/>un<b/>tres<b/>i<b/>no<b/>res</i><par n="sempre__adv"/></e>
+<e lm="consideracions millors"><i>consideracions<b/>millors</i><par n="sempre__adv"/></e>
+<e lm="bulliciosament"><i>bulliciosament</i><par n="sempre__adv"/></e>
 <e lm="divisiu"><i>divisi</i><par n="abusi/u__adj"/></e>
 <e lm="ordenat"><i>ordena</i><par n="afortuna/t__adj"/></e>
 <e lm="meridià"><i>meridi</i><par n="afric/à__adj"/></e>
+<e lm="del desenvolupament"><i>del<b/>desenvolupament</i><par n="multimèdia__adj"/></e>
+<e lm="engavanyador"><i>engavanyador</i><par n="absolut__adj"/></e>
+<e lm="oxíton"><i>oxíton</i><par n="absolut__adj"/></e>
+<e lm="gestor"><i>gestor</i><par n="absolut__adj"/></e>
+<e lm="accionari"><i>accion</i><par n="adjudicat/ari__adj"/></e>
+<e lm="difusor"><i>difusor</i><par n="absolut__adj"/></e>
 
 <e lm="insondable"><i>insondable</i><par n="abdominal__adj"/></e>
 
@@ -92288,6 +92312,7 @@
 <e lm="molt"><i>molt</i><par n="bastant__det"/></e>
 <e lm="novè"><i>nov</i><par n="des/è__det"/></e>
 <e lm="poc"><i>po</i><par n="po/c__det"/></e>
+<e lm="pocs"><i>po</i><par n="po/cs__prn"/></e>
 <e lm="primer"><i>primer</i><par n="tercer__det"/></e>
 <e lm="prou"><i>prou</i><par n="massa__det"/></e>
 <e lm="qualsevol" c="i què passa amb 'un dia qualsevol' - seria més aviat adj"><i>quals</i><par n="quals/evol__det"/></e>
@@ -92543,6 +92568,7 @@
 <e lm="bona nit"><i>bona<b/>nit</i><par n="a_reveure__ij"/></e>
 <e lm="gràcies"><i>gràcies</i><par n="a_reveure__ij"/></e>
 <e lm="de res" r="RL"><i>de<b/>res</i><par n="a_reveure__ij"/></e>
+<e lm="bingo"><i>bingo</i><par n="a_reveure__ij"/></e>
 
 
 

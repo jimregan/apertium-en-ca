@@ -1529,6 +1529,7 @@
 <e>       <p><l>thai<s n="adj"/></l>              <r>tailandès<s n="adj"/></r></p></e>
 <e r="LR">       <p><l>jacobiste<s n="adj"/></l>         <r>jacobita<s n="adj"/><s n="mf"/></r></p></e>
 <e r="LR">       <p><l>jacobist<s n="adj"/></l>         <r>jacobita<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR">       <p><l>jacobite<s n="adj"/></l>         <r>jacobita<s n="adj"/><s n="mf"/></r></p></e>
 <e>       <p><l>bolivian<s n="adj"/></l>          <r>bolivià<s n="adj"/></r></p></e>
 <e>       <p><l>bulgarian<s n="adj"/></l>         <r>búlgar<s n="adj"/></r></p></e>
 <e>       <p><l>portuguese<s n="adj"/></l>        <r>portuguès<s n="adj"/></r></p></e>
@@ -3959,6 +3960,10 @@
 <e r="LR"><p><l>strenuous<s n="adj"/></l><r>esgotador<s n="adj"/></r></p></e>
 <e><p><l>marketable<s n="adj"/></l><r>vendible<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>awkwardly<s n="adv"/></l><r>de<b/>manera<b/>incòmoda<s n="adv"/></r></p></e>
+<e><p><l>in<b/>a<b/>jiffy<s n="adv"/></l><r>en<b/>un<b/>tres<b/>i<b/>no<b/>res<s n="adv"/></r></p></e>
+<e><p><l>best<b/>regards<s n="adv"/></l><r>consideracions<b/>millors<s n="adv"/></r></p></e>
+<e><p><l>boisterously<s n="adv"/></l><r>bulliciosament<s n="adv"/></r></p></e>
+<e><p><l>bingo<s n="ij"/></l><r>bingo<s n="ij"/></r></p></e>
 <e><p><l>divisive<s n="adj"/></l><r>divisiu<s n="adj"/></r></p></e>
 <e><p><l>orderly<s n="adj"/></l><r>ordenat<s n="adj"/></r></p></e>
 <e><p><l>articulate<s n="adj"/></l><r>articulat<s n="adj"/></r></p></e>
@@ -3967,6 +3972,12 @@
 <e><p><l>inclement<s n="adj"/></l><r>inclement<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>chess<s n="adj"/></l><r>escaquístic<s n="adj"/></r></p></e>
 <e><p><l>meridian<s n="adj"/></l><r>meridià<s n="adj"/></r></p></e>
+<e><p><l>developmental<s n="adj"/></l><r>del<b/>desenvolupament<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>embarrassing<s n="adj"/></l><r>engavanyador<s n="adj"/></r></p></e>
+<e><p><l>oxytonic<s n="adj"/></l><r>oxíton<s n="adj"/></r></p></e>
+<e><p><l>managing<s n="adj"/></l><r>gestor<s n="adj"/></r></p></e>
+<e><p><l>stock<s n="adj"/></l><r>accionari<s n="adj"/></r></p></e>
+<e><p><l>diffusing<s n="adj"/></l><r>difusor<s n="adj"/></r></p></e>
 
 
 <e>       <p><l>lysosomal<s n="adj"/></l>         <r>lysosòmic<s n="adj"/></r></p></e>
@@ -18635,7 +18646,9 @@
 <e r="LR"><p><l>few<s n="det"/><s n="qnt"/></l>   <r>poc<s n="det"/><s n="qnt"/><s n="GD"/></r></p></e>
 <e r="RL" c="en plural"><p><l>few<s n="det"/><s n="qnt"/><s n="pl"/></l><r>poc<s n="det"/><s n="qnt"/><s n="m"/><s n="pl"/></r></p></e>
 <e r="RL" c="en plural"><p><l>few<s n="det"/><s n="qnt"/><s n="pl"/></l><r>poc<s n="det"/><s n="qnt"/><s n="f"/><s n="pl"/></r></p></e>
-<e r="LR"><p><l>few<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></l>   <r>poc<s n="det"/><s n="qnt"/><s n="GD"/><s n="pl"/></r></p></e>
+<e r="LR"><p><l>few<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></l>   <r>pocs<s n="prn"/><s n="tn"/><s n="GD"/><s n="pl"/></r></p></e>
+<e r="RL"><p><l>few<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></l>   <r>pocs<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/></r></p></e>
+<e r="RL"><p><l>few<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></l>   <r>pocs<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></r></p></e>
 
 <e r="LR"><p><l>a<b/>few<s n="det"/><s n="qnt"/></l><r>uns<b/>quants<s n="det"/><s n="qnt"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>a<b/>few<s n="det"/><s n="qnt"/><s n="pl"/></l>          <r>uns<b/>quants<s n="det"/><s n="qnt"/><s n="m"/><s n="pl"/></r></p></e>
@@ -19652,7 +19665,7 @@
 <e><p><l>fine<b/>dust<s n="n"/></l><r>polsim<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>urban<b/>area<s n="n"/></l><r>casc<b/>urbà<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>rainstorm<s n="n"/></l><r>temporal<g><b/>de<b/>pluges</g><s n="n"/><s n="m"/></r></p></e>
-<e><p><l>eye<b/>exam<s n="n"/></l><r>examen<g><b/>dels<b/>ulls</g><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>eye<b/>examination<s n="n"/></l><r>examen<g><b/>dels<b/>ulls</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>bus<b/>pass<s n="n"/></l><r>abonament<g><b/>d'autobús</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>breadwinner<s n="n"/></l><r>suport<g><b/>de<b/>la<b/>família</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>grouse<s n="n"/></l><r>gall<b/>fer<s n="n"/><s n="m"/></r></p></e>
@@ -20594,6 +20607,7 @@
 <e>       <p><l>ice<s n="n"/></l>                 <r>gel<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>ice<b/>cream<s n="n"/></l>        <r>gelat<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>freezing<s n="adj"/></l>         <r>gelat<s n="adj"/></r></p></e>
+<e>       <p><l>hyperfine<s n="adj"/></l>         <r>hiperfi<s n="adj"/></r></p></e>
 <e>       <p><l>ideal<s n="n"/></l>               <r>ideal<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>identity<s n="n"/></l>            <r>identitat<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>illness<s n="n"/></l>             <r>malaltia<s n="n"/><s n="f"/></r></p></e>
