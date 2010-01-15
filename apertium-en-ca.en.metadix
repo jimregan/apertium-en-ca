@@ -35555,11 +35555,11 @@
     <e lm="gamma ray" a="greenbreen"><i>gamma<b/>ray</i><par n="house__n"/></e>
     <e lm="refrigeration" a="greenbreen"><i>refrigeration</i><par n="house__n"/></e>
     <e lm="radio telescope" a="greenbreen"><i>radio<b/>telescope</i><par n="house__n"/></e>
-    <e lm="analyzable" a="greenbreen"><p><l>analyzable</l><r>analysable</r></p><par n="expensive__adj"/></e>
-    <e lm="analysable"><i>analysable</i><par n="expensive__adj"/></e>
+    <e lm="analyzable" a="greenbreen"><i>analy</i><par n="z_s"/>able</i><par n="expensive__adj"/></e>
     <e lm="interstellar" a="greenbreen"><i>interstellar</i><par n="expensive__adj"/></e>
     <e lm="intergalactic" a="greenbreen"><i>intergalactic</i><par n="expensive__adj"/></e>
     <e lm="supernova" a="greenbreen"><i>supernova</i><par n="house__n"/></e>
+    <e lm="ascendent"><i>ascendent</i><par n="house__n"/></e>
     <e lm="Magellan" a="greenbreen"><i>Magellan</i><par n="Smith__np"/></e>
     <e lm="Scorpio" a="greenbreen"><i>Scorpio</i><par n="house__n"/></e>
     <e lm="spicy" a="greenbreen"><i>spic</i><par n="happ/y__adj"/></e>
