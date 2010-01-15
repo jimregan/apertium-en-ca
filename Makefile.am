@@ -244,7 +244,7 @@ empty.bin: empty.t1x
 	apertium-validate-transfer empty.t1x
 	apertium-preprocess-transfer empty.t1x $@
 
-EXTRA_DIST=$(BASENAME).$(LANG1).metadix .deps/$(PREFIX1).bil.dix \
+EXTRA_DIST=$(BASENAME).$(LANG1).metadix  $(BASENAME).$(PREFIX1).dix \
 	   $(BASENAME).post-$(LANG1).dix $(BASENAME).post-$(LANG2).dix \
 	   $(BASENAME).$(LANG2).dix $(BASENAME).$(LANG1).tsx \
 	   $(BASENAME).$(LANG2).tsx empty.t1x \
