@@ -30129,7 +30129,6 @@
 <e r="RL">       <p><l>guardian<s n="n"/></l>           <r>guardià<s n="n"/></r></p></e>
 <e r="LR">       <p><l>sheep<b/>dog<s n="n"/></l>           <r>gos<b/>pastor<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL">       <p><l>sheep<b/>dog<s n="n"/></l>           <r>gos<b/>pastor<s n="n"/></r></p></e>
-<e srl="index D"><p><l>index<s n="n"/></l>        <r>índex<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>index<b/>finger<s n="n"/></l>           <r>dit<b/>índex<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>middle<b/>finger<s n="n"/></l>           <r>dit<b/>mitger<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>ring<b/>finger<s n="n"/></l>           <r>dit<b/>anular<s n="n"/><s n="m"/></r></p></e>
@@ -35660,7 +35659,6 @@
 <e>       <p><l>biological<b/>weapon<s n="n"/></l><r>arma<b/>biològica<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>nuclear<b/>weapon<s n="n"/></l>   <r>arma<b/>nuclear<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>chemical<b/>weapon<s n="n"/></l>  <r>arma<b/>química<s n="n"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>permission<s n="n"/></l>          <r>autorització<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>assault<s n="vblex"/></l>         <r>agredir<s n="vblex"/></r></p></e>
 <e>       <p><l>alert<s n="vblex"/></l>           <r>alertar<s n="vblex"/></r></p></e>
 <e>       <p><l>congratulate<s n="vblex"/></l>    <r>felicitar<s n="vblex"/></r></p></e>
@@ -43890,7 +43888,7 @@
 <e r="LR"><p><l>bicarbonate<g><b/>of<b/>soda</g><s n="n"/></l><r>bicarbonat<g><b/>de<b/>sodi</g><s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>aubergine<s n="n"/></l><r>albergínia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>necklace<s n="n"/></l><r>collaret<s n="n"/><s n="m"/></r></p></e>
-<e c="check"><p><l>bench<s n="n"/></l><r>banc<s n="n"/><s n="m"/></r></p></e>
+<e c="check" r="LR"><p><l>bench<s n="n"/></l><r>banc<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>disco<s n="n"/></l><r>discoteca<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>thirst<s n="n"/></l><r>set<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>thirst<s n="n"/><s n="pl"/></l><r>set<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
@@ -44325,9 +44323,9 @@
 <e><p><l>lumber<s n="n"/></l><r>fusta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>sidewalk<s n="n"/></l><r>vorera<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>hen<s n="n"/></l><r>gallina<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>raven<s n="n"/></l><r>corb<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>raven<s n="n"/></l><r>corb<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>crow<s n="n"/></l><r>corb<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>owl<s n="n"/></l><r>mussol<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>owl<s n="n"/></l><r>mussol<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>ram<s n="n"/></l><r>carner<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>donkey<s n="n"/></l><r>ruc<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>donkey<s n="n"/></l><r>ruc<s n="n"/></r></p></e>
@@ -44369,15 +44367,14 @@
 <e><p><l>mill<s n="n"/></l><r>molí<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>shredder<s n="n"/></l><r>trituradora<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>pizza<s n="n"/></l><r>pizza<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>font<s n="n"/></l><r>font<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>ratchet<s n="n"/></l><r>trinquet<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>infringement<s n="n"/></l><r>contravenció<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>incursion<s n="n"/></l><r>incursió<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>indentation<s n="n"/></l><r>sagnia<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>inequity<s n="n"/></l><r>injustícia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>ingestion<s n="n"/></l><r>ingestió<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>toenail<s n="n"/></l><r>ungla<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>interchange<s n="n"/></l><r>intercanvi<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>toenail<s n="n"/></l><r>ungla<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>interchange<s n="n"/></l><r>intercanvi<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>interloper<s n="n"/></l><r>intrús<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>intern<s n="n"/></l><r>intern<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>intern<s n="n"/></l><r>intern<s n="n"/></r></p></e>
@@ -44625,7 +44622,7 @@
 <e><p><l>drug<b/>trafficking<s n="n"/></l><r>narcotràfic<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>hispanic<s n="n"/></l><r>hispà<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>hispanic<s n="n"/></l><r>hispà<s n="n"/></r></p></e>
-<e><p><l>fare<s n="n"/></l><r>bitllet<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>fare<s n="n"/></l><r>bitllet<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>lavishness<s n="n"/></l><r>fastuositat<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>platypus<s n="n"/></l><r>ornitorinc<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>snout<s n="n"/></l><r>musell<s n="n"/><s n="m"/></r></p></e>
@@ -44656,12 +44653,14 @@
 <e><p><l>download<s n="n"/></l><r>descàrrega<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>lifting<s n="n"/></l><r>aixecament<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>comet<s n="n"/></l><r>cometa<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>stratum<s n="n"/></l><r>estrat<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>comet<s n="n"/></l><r>cometa<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>stratum<s n="n"/></l><r>estrat<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>games<b/>console<s n="n"/></l><r>videoconsola<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>palette<s n="n"/></l><r>paleta<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>combat<s n="n"/></l><r>combat<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>combat<s n="n"/></l><r>combat<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>alias<s n="n"/></l><r>àlies<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="RL"><p><l>alias<s n="n"/><s n="ND"/></l><r>àlies<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>alias<s n="n"/><s n="ND"/></l><r>àlies<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>suspense<s n="n"/></l><r>suspens<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>signaling<s n="n"/></l><r>senyalització<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>megabyte<s n="n"/></l><r>megaoctet<s n="n"/><s n="m"/></r></p></e>
@@ -44755,7 +44754,6 @@
 <e><p><l>bleach<s n="n"/></l><r>lleixiu<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>biochemistry<s n="n"/></l><r>bioquímica<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>naturalism<s n="n"/></l><r>naturalisme<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>conduction<s n="n"/></l><r>conducció<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>nanotechnology<s n="n"/></l><r>nanotecnologia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>applicability<s n="n"/></l><r>aplicabilitat<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>aerodynamics<s n="n"/></l><r>aerodinàmica<s n="n"/><s n="f"/></r></p></e>
@@ -44770,7 +44768,7 @@
 <e><p><l>parabola<s n="n"/></l><r>paràbola<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>arabic<s n="n"/></l><r>àrab<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>spontaneity<s n="n"/></l><r>espontaneïtat<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>emergence<s n="n"/></l><r>aparició<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>emergence<s n="n"/></l><r>aparició<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>hydroxide<s n="n"/></l><r>hidròxid<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>bonding<s n="n"/></l><r>vinculació<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>discoverer<s n="n"/></l><r>descobridor<s n="n"/><s n="GD"/></r></p></e>
@@ -45551,7 +45549,6 @@
 <e r="LR" slr="clavilla"><p><l>plug<s n="n"/></l> <r>clavilla<s n="n"/><s n="f"/></r></p></e>
 <e r="LR" slr="collita D"><p><l>crop<s n="n"/></l><r>collita<s n="n"/><s n="f"/></r></p></e>
 <e r="LR" slr="com D" c="as you - com tu"><p><l>as<s n="pr"/></l><r>com<s n="pr"/></r></p></e>
-<e r="LR" slr="company D"><p><l>fellow<s n="n"/></l><r>company<s n="n"/><s n="GD"/></r></p></e>
 <e r="LR" slr="compassió D"><p><l>sympathy<s n="n"/></l><r>compassió<s n="n"/><s n="f"/></r></p></e>
 <e r="LR" slr="complir" c="(requirements, deures)"><p><l>meet<s n="vblex"/></l><r>complir<s n="vblex"/></r></p></e>
 <e r="LR" slr="conduir D"><p><l>conduct<s n="vblex"/></l><r>conduir<s n="vblex"/></r></p></e>
@@ -45789,7 +45786,6 @@
 <e r="LR" slr="taca D"><p><l>spot<s n="n"/></l>   <r>taca<s n="n"/><s n="f"/></r></p></e>
 <e r="LR" slr="tancar D"><p><l>enclose<s n="vblex"/></l><r>tancar<s n="vblex"/></r></p></e>
 <e r="LR" slr="tap"><p><l>plug<s n="n"/></l>      <r>tap<s n="n"/><s n="m"/></r></p></e>
-<e r="LR" slr="tarifa"><p><l>rate<s n="n"/></l>   <r>tarifa<s n="n"/><s n="f"/></r></p></e>
 <e r="LR" slr="tasca" a="carmentano"><p><l>undertaking<s n="n"/></l><r>tasca<s n="n"/><s n="f"/></r></p></e>
 <e r="LR" slr="tauler"><p><l>panel<s n="n"/></l>  <r>tauler<s n="n"/><s n="m"/></r></p></e>
 <e r="LR" slr="teatre D"><p><l>drama<s n="n"/></l><r>teatre<s n="n"/><s n="m"/></r></p></e>
@@ -45844,7 +45840,6 @@
 <e r="RL" srl="pay D"><p><l>pay<s n="vblex"/></l> <r>ingressar<s n="vblex"/></r></p></e>
 <e r="RL" srl="poverty">       <p><l>poverty<s n="n"/></l>            <r>misèria<s n="n"/><s n="f"/></r></p></e>
 <e r="RL" srl="provision"><p><l>provision<s n="n"/><s n="sg"/></l><r>prestació<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-<e r="RL" srl="rate"><p><l>rate<s n="n"/></l>     <r>taxa<s n="n"/><s n="f"/></r></p></e>
 <e r="RL" srl="ride"><p><l>ride<s n="n"/></l>     <r>passejada<s n="n"/><s n="f"/></r></p></e>
 <e r="RL" srl="rise D"><p><l>rise<s n="n"/></l>   <r>pujada<s n="n"/><s n="f"/></r></p></e>
 <e r="RL" srl="road D"><p><l>road<s n="n"/></l>   <r>via<s n="n"/><s n="f"/></r></p></e>
@@ -46001,7 +45996,6 @@
 <e slr="colpejar D"><p><l>hit<s n="vblex"/></l>   <r>colpejar<s n="vblex"/></r></p></e>
 <e slr="col·leccionar"><p><l>collect<s n="vblex"/></l><r>col·leccionar<s n="vblex"/></r></p></e>
 <e slr="col·lecció D"><p><l>collection<s n="n"/></l><r>col·lecció<s n="n"/><s n="f"/></r></p></e>
-<e slr="comandament"><p><l>driving<s n="n"/></l>  <r>comandament<s n="n"/><s n="m"/></r></p></e>
 <e slr="combat"><p><l>fight<s n="n"/></l>         <r>combat<s n="n"/><s n="m"/></r></p></e>
 <e slr="commutador"><p><l>switch<s n="n"/></l>    <r>commutador<s n="n"/><s n="m"/></r></p></e>
 <e slr="comoditat D"><p><l>comfort<s n="n"/></l>  <r>comoditat<s n="n"/><s n="f"/></r></p></e>
@@ -46015,7 +46009,9 @@
 <e slr="concedir"><p><l>concede<s n="vblex"/></l> <r>concedir<s n="vblex"/></r></p></e>
 <e slr="concernir D"><p><l>concern<s n="vblex"/></l><r>concernir<s n="vblex"/></r></p></e>
 <e slr="concordar"><p><l>agree<s n="vblex"/></l>  <r>concordar<s n="vblex"/></r></p></e>
-<e slr="conducció D"><p><l>driving<s n="n"/></l>  <r>conducció<s n="n"/><s n="f"/></r></p></e>
+<e slr="conducció D" srl="driving"><p><l>driving<s n="n"/></l>  <r>conducció<s n="n"/><s n="f"/></r></p></e>
+<e srl="conduction D"><p><l>conduction<s n="n"/></l><r>conducció<s n="n"/><s n="f"/></r></p></e>
+<e slr="comandament"><p><l>driving<s n="n"/></l>  <r>comandament<s n="n"/><s n="m"/></r></p></e>
 <e slr="confinar"><p><l>confine<s n="vblex"/></l> <r>confinar<s n="vblex"/></r></p></e>
 <e slr="constar"><p><l>feature<s n="vblex"/></l>  <r>constar<s n="vblex"/></r></p></e>
 <e slr="contenidor D"><p><l>container<s n="n"/></l><r>contenidor<s n="n"/><s n="m"/></r></p></e>
@@ -46564,7 +46560,6 @@
 <e slr="xutar"><p><l>kick<s n="vblex"/></l>       <r>xutar<s n="vblex"/></r></p></e>
 <e slr="xàfec"><p><l>shower<s n="n"/></l>         <r>xàfec<s n="n"/><s n="m"/></r></p></e>
 <e slr="àmbit"><p><l>field<s n="n"/></l>          <r>àmbit<s n="n"/><s n="m"/></r></p></e>
-<e slr="índex D"><p><l>rate<s n="n"/></l><r>índex<s n="n"/><s n="m"/></r></p></e>
 <e slr="òrgan D"><p><l>organ<s n="n"/></l>        <r>òrgan<s n="n"/><s n="m"/></r></p></e>
 
 <!-- AMBIG CA~EN, order by POS, Alphabet, Default on CA side -->
@@ -46679,10 +46674,11 @@
 <e srl="commitment D"><p><l>commitment<s n="n"/></l><r>compromís<s n="n"/><s n="m"/></r></p></e>
 <e srl="engagement"><p><l>engagement<s n="n"/></l><r>compromís<s n="n"/><s n="m"/></r></p></e>
 
-<e r="RL" srl="companion"><p><l>partner<s n="n"/></l><r>company<s n="n"/></r></p></e>
+<e r="RL" srl="partner"><p><l>partner<s n="n"/></l><r>company<s n="n"/></r></p></e>
 <e r="LR" slr="company"><p><l>partner<s n="n"/></l><r>company<s n="n"/><s n="GD"/></r></p></e>
-<e r="RL" srl="companion"><p><l>companion<s n="n"/></l><r>company<s n="n"/></r></p></e>
+<e r="RL" srl="companion D"><p><l>companion<s n="n"/></l><r>company<s n="n"/></r></p></e>
 <e r="LR"><p><l>companion<s n="n"/></l><r>company<s n="n"/><s n="GD"/></r></p></e>
+<e r="LR" slr="company D"><p><l>fellow<s n="n"/></l><r>company<s n="n"/><s n="GD"/></r></p></e>
 
 <e r="RL" srl="director D"><p><l>director<s n="n"/></l><r>director<s n="n"/></r></p></e>
 <e r="RL" srl="conductor" a="carmentano"><p><l>conductor<s n="n"/></l><r>director<s n="n"/></r></p></e>
@@ -46776,6 +46772,7 @@
 
 <e srl="source D"><p><l>source<s n="n"/></l>      <r>font<s n="n"/><s n="f"/></r></p></e>
 <e srl="fountain"><p><l>fountain<s n="n"/></l>    <r>font<s n="n"/><s n="f"/></r></p></e>
+<e srl="font"><p><l>font<s n="n"/></l><r>font<s n="n"/><s n="f"/></r></p></e>
 
 <e srl="skin D"><p><l>skin<s n="n"/></l>          <r>pell<s n="n"/><s n="f"/></r></p></e>
 <e srl="leather"><p><l>leather<s n="n"/></l>      <r>pell<s n="n"/><s n="f"/></r></p></e>
@@ -46827,7 +46824,10 @@
 <e slr="impressió D" srl="printing"><p><l>printing<s n="n"/></l><r>impressió<s n="n"/><s n="f"/></r></p></e>
 
 <e slr="índex D" srl="rate"><p><l>rate<s n="n"/></l><r>índex<s n="n"/><s n="m"/></r></p></e>
+<e srl="index D"><p><l>index<s n="n"/></l>        <r>índex<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>rating<s n="n"/></l>              <r>índex<s n="n"/><s n="m"/></r></p></e>
+<e r="RL" srl="rate"><p><l>rate<s n="n"/></l>     <r>taxa<s n="n"/><s n="f"/></r></p></e>
+<e r="LR" slr="tarifa"><p><l>rate<s n="n"/></l>   <r>tarifa<s n="n"/><s n="f"/></r></p></e>
 
 <e srl="interpretation D"><p><l>interpretation<s n="n"/></l><r>interpretació<s n="n"/><s n="f"/></r></p></e>
 <e r="RL" srl="performance"><p><l>performance<s n="n"/></l><r>interpretació<s n="n"/><s n="f"/></r></p></e>
@@ -46856,7 +46856,7 @@
 <e r="RL" srl="couple"><p><l>couple<s n="n"/></l> <r>matrimoni<s n="n"/><s n="m"/></r></p></e>
 
 <e srl="match" slr="partit D"><p><l>match<s n="n"/></l>          <r>partit<s n="n"/><s n="m"/></r></p></e>
-<e srl="match" slr="matx"><p><l>match<s n="n"/></l>          <r>matx<s n="n"/><s n="m"/></r></p></e>
+<e slr="matx"><p><l>match<s n="n"/></l>          <r>matx<s n="n"/><s n="m"/></r></p></e>
 <e slr="partit D" srl="party D"><p><l>party<s n="n"/></l><r>partit<s n="n"/><s n="m"/></r></p></e>
 
 <e srl="meat D"><p><l>meat<s n="n"/></l>          <r>carn<s n="n"/><s n="f"/></r></p></e>
