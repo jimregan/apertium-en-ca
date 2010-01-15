@@ -3954,8 +3954,11 @@
 <e><p><l>mutant<s n="adj"/></l><r>mutant<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>deadly<s n="adj"/><s n="sint"/></l><r>mortífer<s n="adj"/></r></p></e>
 <e><p><l>male<s n="adj"/></l><r>mascle<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>custom<s n="adj"/></l><r>fet<g><b/>per<b/>encàrrec</g><s n="adj"/></r></p></e>
 <e><p><l>hypersonic<s n="adj"/></l><r>hipersònic<s n="adj"/></r></p></e>
 <e><p><l>falsifiable<s n="adj"/></l><r>falsable<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>compressible<s n="adj"/></l><r>compressible<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>then<s n="cnjadv"/></l><r>llavors<s n="cnjadv"/></r></p></e>
 <e><p><l>exhausting<s n="adj"/></l><r>esgotador<s n="adj"/></r></p></e>
 <e r="LR"><p><l>strenuous<s n="adj"/></l><r>esgotador<s n="adj"/></r></p></e>
 <e><p><l>marketable<s n="adj"/></l><r>vendible<s n="adj"/><s n="mf"/></r></p></e>
@@ -3978,6 +3981,17 @@
 <e><p><l>managing<s n="adj"/></l><r>gestor<s n="adj"/></r></p></e>
 <e><p><l>stock<s n="adj"/></l><r>accionari<s n="adj"/></r></p></e>
 <e><p><l>diffusing<s n="adj"/></l><r>difusor<s n="adj"/></r></p></e>
+<e><p><l>Galilean<s n="adj"/></l><r>galileà<s n="adj"/></r></p></e>
+<e><p><l>metazoan<s n="adj"/></l><r>metazoic<s n="adj"/></r></p></e>
+<e><p><l>subtractive<s n="adj"/></l><r>subtractiu<s n="adj"/></r></p></e>
+<e><p><l>glycemic<s n="adj"/></l><r>glucèmic<s n="adj"/></r></p></e>
+<e><p><l>iodised<s n="adj"/></l><r>ioditzat<s n="adj"/></r></p></e>
+<e><p><l>proparoxytone<s n="adj"/></l><r>proparoxíton<s n="adj"/></r></p></e>
+<e><p><l>glamourous<s n="adj"/></l><r>glamourós<s n="adj"/></r></p></e>
+<e><p><l>organismic<s n="adj"/></l><r>de<b/>organisme<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>ergogenic<s n="adj"/></l><r>ergogènic<s n="adj"/></r></p></e>
+<e srl="striped D"><p><l>striped<s n="adj"/></l><r>rallat<s n="adj"/></r></p></e>
+<e srl="grated"><p><l>grated<s n="adj"/></l><r>rallat<s n="adj"/></r></p></e>
 
 
 <e>       <p><l>lysosomal<s n="adj"/></l>         <r>lysosòmic<s n="adj"/></r></p></e>
@@ -18810,6 +18824,7 @@
 <e r="RL"><p><l>in<s n="pr"/></l>                 <r>dins<b/>de<s n="pr"/></r></p></e>
 <e r="RL"><p><l>in<s n="pr"/></l>                 <r>a<b/>dins<b/>de<s n="pr"/></r></p></e>
 <e r="RL"><p><l>in<s n="pr"/></l>                 <r>dins<s n="pr"/></r></p></e>
+<e r="LR"><p><l>inside<s n="pr"/></l>                 <r>dins<s n="pr"/></r></p></e>
 <e>       <p><l>in<b/>spite<b/>of<s n="pr"/></l>  <r>malgrat<s n="pr"/></r></p></e>
 <e r="LR"><p><l>into<s n="pr"/></l>               <r>a<s n="pr"/></r></p></e>
 <e>       <p><l>like<s n="pr"/></l>               <r>com<s n="pr"/></r></p></e>
@@ -19192,6 +19207,7 @@
 <e>       <p><l>building<s n="n"/></l>            <r>edifici<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>businessman<s n="n"/></l>         <r>home<g><b/>de<b/>negocis</g><s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>business<s n="n"/></l>            <r>negoci<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>incompleteness<s n="n"/></l>            <r>incompletud<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>bus<s n="n"/></l>                 <r>autobús<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>bus<s n="n"/></l>                 <r>bus<s n="n"/><s n="m"/></r></p></e>
 <e r="LR">       <p><l>call_for<s n="n"/></l>                <r>sol·licitud<s n="n"/><s n="f"/></r></p></e>
@@ -20183,6 +20199,7 @@
 <e r="LR"><p><l>chase<s n="n"/></l>               <r>persecució<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>cheek<s n="n"/></l>               <r>galta<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>cheese<s n="n"/></l>              <r>formatge<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>grated<b/>cheese<s n="n"/></l>              <r>formatge<b/>rallat<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>chemical<s n="n"/></l>            <r>substància<b/>química<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>chemist<s n="n"/></l>             <r>farmacèutic<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>chemist's<s n="n"/></l>           <r>farmàcia<s n="n"/><s n="f"/></r></p></e>
@@ -20286,6 +20303,10 @@
 <e r="RL"><p><l>job<s n="n"/></l>                 <r>ofici<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>credit<s n="n"/></l>              <r>crèdit<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>credit<b/>card<s n="n"/></l>      <r>targeta<g><b/>de<b/>crèdit</g><s n="n"/><s n="f"/></r></p></e>
+<e r="LR">       <p><l>identification<b/>card<s n="n"/></l>      <r>targeta<g><b/>d'identitat</g><s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>ID<b/>card<s n="n"/></l>      <r>targeta<g><b/>d'identitat</g><s n="n"/><s n="f"/></r></p></e>
+<e r="LR">       <p><l>ID<b/>badge<s n="n"/></l>      <r>placa<g><b/>d'identitat</g><s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>identification<b/>badge<s n="n"/></l>      <r>placa<g><b/>d'identitat</g><s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>criminal<s n="n"/></l>            <r>criminal<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>criminal<s n="n"/></l>            <r>delinqüent<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>criterion<s n="n"/></l>           <r>criteri<s n="n"/><s n="m"/></r></p></e>
@@ -30600,6 +30621,8 @@
 <e>       <p><l>aesthete<s n="n"/></l>            <r>esteta<s n="n"/><s n="mf"/></r></p></e>
 <e r="LR">       <p><l>psychologist<s n="n"/></l>        <r>psicòleg<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>psychologist<s n="n"/></l>        <r>psicòleg<s n="n"/></r></p></e>
+<e r="LR">       <p><l>phenomenologist<s n="n"/></l>        <r>fenomenòleg<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>phenomenologist<s n="n"/></l>        <r>fenomenòleg<s n="n"/></r></p></e>
 <e r="LR">       <p><l>banker<s n="n"/></l>              <r>banquer<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>banker<s n="n"/></l>              <r>banquer<s n="n"/></r></p></e>
 <e>       <p><l>legist<s n="n"/></l>              <r>legista<s n="n"/><s n="mf"/></r></p></e>

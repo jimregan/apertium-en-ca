@@ -34754,6 +34754,8 @@
     <e lm="hardness" a="greenbreen"><i>hardness</i><par n="access__n"/></e>
     <e lm="groove" a="greenbreen"><i>groove</i><par n="house__n"/></e>
     <e lm="grated" a="greenbreen"><i>grated</i><par n="expensive__adj"/></e>
+    <e lm="striped"><i>striped</i><par n="expensive__adj"/></e>
+    <e lm="grated cheese"><i>grated<b/>cheese</i><par n="house__n"/></e>
     <e lm="torsion" a="greenbreen"><i>torsion</i><par n="house__n"/></e>
     <e lm="reproducibility" a="greenbreen"><i>reproducibilit</i><par n="bab/y__n"/></e>
     <e lm="ophthalmologist" a="greenbreen"><i>ophthalmologist</i><par n="house__n"/></e>
@@ -34969,7 +34971,9 @@
     <e lm="cell phone" a="greenbreen"><i>cell<b/>phone</i><par n="house__n"/></e>
     <e lm="badge" a="greenbreen"><i>badge</i><par n="house__n"/></e>
     <e lm="identification badge" a="greenbreen"><i>identification<b/>badge</i><par n="house__n"/></e>
-    <e lm="identification badge" r="LR" a="greenbreen"><p><l>ID<b/>badge</l><r>identification<b/>badge</r></p><par n="house__n"/></e>
+    <e lm="ID badge" a="greenbreen"><i>ID<b/>badge</i><par n="house__n"/></e>
+    <e lm="identification card"><i>identification<b/>card</i><par n="house__n"/></e>
+    <e lm="ID card"><i>ID<b/>card</i><par n="house__n"/></e>
     <e lm="torch" r="LR" a="greenbreen"><i>torch</i><par n="access__n"/>    </e>
     <e lm="torch" r="LR" a="greenbreen"><p><l>flashlight</l><r>torch</r></p><par n="house__n"/></e>
     <e lm="torch" r="RL" alt="en_GB" a="greenbreen"><i>torch</i><par n="access__n"/>    </e>
