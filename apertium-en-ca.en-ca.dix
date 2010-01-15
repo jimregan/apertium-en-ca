@@ -3879,7 +3879,7 @@
 <e><p><l>Thebes<s n="np"/><s n="loc"/></l><r>Tebes<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>Thebes<s n="np"/><s n="loc"/></l><r>Tebas<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Middle<b/>Kingdom<s n="np"/><s n="al"/></l><r>Imperi<b/>mitjà<s n="np"/><s n="al"/><s n="m"/></r></p></e>
-<e c="Only seems to exist in fem, 'Tebes' for masc."><p><l>Theban<s n="adj"/></l><r>tebà<s n="adj"/></r></p></e>
+<e c="Only seems to exist in fem, 'Tebes' for masc."><p><l>theban<s n="adj"/></l><r>tebà<s n="adj"/></r></p></e>
 <e><p><l>haitian<s n="adj"/></l><r>haitià<s n="adj"/></r></p></e>
 <e r="LR"><p><l>haitian<s n="n"/></l><r>haitià<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>haitian<s n="n"/></l><r>haitià<s n="n"/></r></p></e>
@@ -19657,7 +19657,7 @@
 <e><p><l>wading<b/>bird<s n="n"/></l><r>ocell<g><b/>camallargs</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>concertmaster<s n="n"/></l><r>concertino<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>lookout<s n="n"/></l><r>vigia<s n="n"/><s n="mf"/></r></p></e>
-<e><p><l>glasses<s n="n"/></l><r>ulleres<s n="n"/><s n="mf"/></r></p></e>
+<e><p><l>glasses<s n="n"/></l><r>ulleres<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>cornflour<s n="n"/></l><r>farina<g><b/>de<b/>blat<b/>de<b/>moro</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>baking<b/>powder<s n="n"/></l><r>llevat<g><b/>en<b/>pols</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>earplug<s n="n"/></l><r>tap<g><b/>per<b/>a<b/>les<b/>orelles</g><s n="n"/><s n="m"/></r></p></e>
