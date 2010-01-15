@@ -47198,43 +47198,6 @@
 <e srl="alone"><p><l>alone<s n="adj"/></l>        <r>sol<s n="adj"/></r></p></e>
 <e r="RL" srl="only D"><p><l>only<s n="adj"/></l> <r>sol<s n="adj"/></r></p></e>
 
-
-
-<!--
-<e r="LR"><p><l>time<s n="n"/></l>              <r>temps<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-<e r="LR"><p><l>weather<s n="n"/><s n="sg"/></l><r>temps<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-<e r="LR"><p><l>weather<s n="n"/><s n="pl"/></l><r>temps<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-<e r="RL"><p><l>time<s n="n"/><s n="ND"/></l>   <r>temps<s n="n"/><s n=":0"/><s n="m"/><s n="sp"/></r></p></e>
-<e r="RL"><p><l>weather<s n="n"/><s n="sg"/></l><r>temps<s n="n"/><s n=":1"/><s n="m"/><s n="sp"/></r></p></e>
-
-<e r="LR"><p><l>language<s n="n"/></l>        <r>llengua<s n="n"/><s n="f"/></r></p></e>
-<e r="LR"><p><l>tongue<s n="n"/></l>          <r>llengua<s n="n"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>language<s n="n"/></l>        <r>llengua<s n="n"/><s n=":0"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>tongue<s n="n"/></l>          <r>llengua<s n="n"/><s n=":1"/><s n="f"/></r></p></e>
-
-<e r="LR"><p><l>station<s n="n"/></l>         <r>estació<s n="n"/><s n="f"/></r></p></e>
-<e r="LR"><p><l>season<s n="n"/></l>          <r>estació<s n="n"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>station<s n="n"/></l>         <r>estació<s n="n"/><s n=":0"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>season<s n="n"/></l>          <r>estació<s n="n"/><s n=":1"/><s n="f"/></r></p></e>
-
-<e r="LR"><p><l>earth<s n="n"/></l>         <r>terra<s n="n"/><s n="f"/></r></p></e>
-<e r="LR"><p><l>land<s n="n"/></l>          <r>terra<s n="n"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>land<s n="n"/></l>          <r>terra<s n="n"/><s n=":0"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>earth<s n="n"/></l>         <r>terra<s n="n"/><s n=":1"/><s n="f"/></r></p></e>
-
-<e r="LR"><p><l>ground<s n="n"/></l>         <r>terra<s n="n"/><s n="m"/></r></p></e>
-<e r="LR"><p><l>floor<s n="n"/></l>          <r>terra<s n="n"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>floor<s n="n"/></l>          <r>terra<s n="n"/><s n=":0"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>ground<s n="n"/></l>         <r>terra<s n="n"/><s n=":1"/><s n="m"/></r></p></e>
-
-<e r="RL"><p><l>humid<s n="adj"/></l>             <r>humit<s n="adj"/><s n=":0"/></r></p></e>
-<e r="RL"><p><l>wet<s n="adj"/></l>               <r>humit<s n="adj"/><s n=":1"/></r></p></e>
-<e r="LR"><p><l>humid<s n="adj"/></l>             <r>humit<s n="adj"/></r></p></e>
-<e r="LR"><p><l>wet<s n="adj"/></l>               <r>humit<s n="adj"/></r></p></e>
--->
-
-
-
   </section>
 
 
