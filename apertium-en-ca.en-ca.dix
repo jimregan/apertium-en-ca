@@ -19076,7 +19076,7 @@
 
 <!-- NOMS -->
 
-<e><p><l>House<g><b/>of<b/>Representatives</g><s n="n"/></l><r>Cambra<g><b/>de<b/>Representats</g><s n="n"/><s n="f"/></r></p></e> 
+<e><p><l>House<g><b/>of<b/>Representatives</g><s n="n"/></l><r>cambra<g><b/>de<b/>Representats</g><s n="n"/><s n="f"/></r></p></e> 
 <e>       <p><l>Arab<s n="n"/></l>                <r>àrab<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>Asian<s n="n"/></l>               <r>asiàtic<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>British<s n="n"/></l>             <r>britànic<s n="n"/><s n="m"/></r></p></e>
@@ -21096,7 +21096,6 @@
 <e r="LR"><p><l>presidential<b/>candidate<s n="n"/></l>             <r>candidat<g><b/>a<b/>la<b/>presidència</g><s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>presidential<b/>candidate<s n="n"/></l>             <r>candidat<g><b/>a<b/>la<b/>presidència</g><s n="n"/></r></p></e>
 <e r="LR"><p><l>candidate<g><b/>for<b/>the<b/>presidency</g><s n="n"/></l>             <r>candidat<g><b/>a<b/>la<b/>presidència</g><s n="n"/><s n="GD"/></r></p></e>
-<e><p><l>House<g><b/>of<b/>Representatives</g><s n="n"/></l>             <r>Cambra<g><b/>de<b/>Representats</g><s n="n"/><s n="f"/></r></p></e>
 <e><p><l>ascendent<s n="n"/></l>             <r>ascendent<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>topic<g><b/>of<b/>conversation</g><s n="n"/></l>             <r>tema<g><b/>de<b/>conversa</g><s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>conversation<b/>piece<s n="n"/></l>             <r>tema<g><b/>de<b/>conversa</g><s n="n"/><s n="m"/></r></p></e>
@@ -21334,7 +21333,7 @@
 <e>       <p><l>tune<s n="n"/></l>                <r>tonada<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>twin<s n="n"/></l>                <r>bessó<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>twin<s n="n"/></l>                <r>bessó<s n="n"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>twist<s n="n"/></l>               <r>torsió<s n="n"/><s n="f"/></r></p></e>
+<e r="RL" srl="twist D"><p><l>twist<s n="n"/></l>               <r>torsió<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>twist<s n="n"/></l>               <r>gir<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>tyre<s n="n"/></l>                <r>pneumàtic<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>tire<s n="n"/></l>                <r>pneumàtic<s n="n"/><s n="m"/></r></p></e>
@@ -30818,7 +30817,6 @@
 <e r="RL"><p><l>loafer<s n="n"/></l>              <r>gandul<s n="n"/></r></p></e>
 <e r="RL"><p><l>librarian<s n="n"/></l>           <r>bibliotecari<s n="n"/></r></p></e>
 <e r="RL"><p><l>bandit<s n="n"/></l>              <r>bandit<s n="n"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>statistician<s n="n"/></l>        <r>estadístic<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>sculptor<s n="n"/></l>            <r>escultor<s n="n"/></r></p></e>
 <e r="RL"><p><l>modeller<s n="n"/></l>            <r>modelador<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>millionaire<s n="n"/></l>         <r>milionari<s n="n"/></r></p></e>
@@ -44031,7 +44029,7 @@
 <e><p><l>victimisation<s n="n"/></l><r>victimització<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>visualisation<s n="n"/></l><r>visualització<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>steering<b/>wheel<s n="n"/></l><r>volant<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>approximation<s n="n"/></l><r>aproximació<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>approximation<s n="n"/></l><r>aproximació<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>stretcher<s n="n"/></l><r>llitera<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>albanian<s n="n"/></l><r>albanès<s n="n"/><s n="GD"/></r></p></e>
 <e r="LR"><p><l>andalusian<s n="n"/></l><r>andalús<s n="n"/><s n="GD"/></r></p></e>
@@ -44276,7 +44274,7 @@
 <e><p><l>barrack<s n="n"/></l><r>barraca<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>shortage<s n="n"/></l><r>escassetat<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>eyelash<s n="n"/></l><r>pestanya<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>vault<s n="n"/></l><r>volta<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>vault<s n="n"/></l><r>volta<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>brazilian<s n="n"/></l><r>brasiler<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>brazilian<s n="n"/></l><r>brasiler<s n="n"/></r></p></e>
 <e><p><l>infidelity<s n="n"/></l><r>infidelitat<s n="n"/><s n="f"/></r></p></e>
@@ -44382,7 +44380,7 @@
 <e r="LR"><p><l>kickoff<s n="n"/></l><r>servei<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>labourer<s n="n"/></l><r>peó<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>labourer<s n="n"/></l><r>peó<s n="n"/></r></p></e>
-<e><p><l>liaison<s n="n"/></l><r>enllaç<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>liaison<s n="n"/></l><r>enllaç<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>linkage<s n="n"/></l><r>connexió<s n="n"/><s n="f"/></r></p></e>
 <e vl="en_GB"><p><l>liqueur<s n="n"/></l><r>licor<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>quartz<s n="n"/></l><r>quars<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -44405,7 +44403,7 @@
 <e><p><l>flare-up<s n="n"/></l><r>flamarada<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>hardness<s n="n"/></l><r>duresa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>groove<s n="n"/></l><r>solc<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>torsion<s n="n"/></l><r>torsió<s n="n"/><s n="f"/></r></p></e>
+<e srl="torsion"><p><l>torsion<s n="n"/></l><r>torsió<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>chess<s n="n"/><s n="pl"/></l><r>escac<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e><p><l>chess<s n="n"/><s n="sg"/></l><r>escac<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>chess<s n="n"/><s n="sg"/></l><r>escac<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -44426,7 +44424,7 @@
 <e r="LR"><p><l>cashier<s n="n"/></l><r>caixer<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>cashier<s n="n"/></l><r>caixer<s n="n"/></r></p></e>
 <e r="LR"><p><l>gypsum<s n="n"/></l><r>guix<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>lime<s n="n"/></l><r>llima<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>lime<s n="n"/></l><r>llima<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>quicksilver<s n="n"/></l><r>argent<b/>viu<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>frenchman<s n="n"/></l><r>gal<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>frenchwoman<s n="n"/></l><r>gal<s n="n"/><s n="f"/></r></p></e>
@@ -44576,7 +44574,7 @@
 <e r="LR"><p><l>torch<s n="n"/></l><r>llanterna<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>penknife<s n="n"/></l><r>navalla<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>backpack<s n="n"/></l><r>motxilla<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>hedge<s n="n"/></l><r>tanca<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>hedge<s n="n"/></l><r>tanca<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>update<s n="n"/></l><r>actualització<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>propagation<s n="n"/></l><r>propagació<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>momentum<s n="n"/></l><r>moment<s n="n"/><s n="m"/></r></p></e>
@@ -44733,7 +44731,7 @@
 <e><p><l>formalism<s n="n"/></l><r>formalisme<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>subtraction<s n="n"/></l><r>substracció<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>multiplication<s n="n"/></l><r>multiplicació<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>tally<s n="n"/></l><r>compte<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>tally<s n="n"/></l><r>compte<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>babylonian<s n="n"/></l><r>babiloni<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>babylonian<s n="n"/></l><r>babiloni<s n="n"/></r></p></e>
 <e r="LR"><p><l>precision<s n="n"/></l><r>precisió<s n="n"/><s n="f"/></r></p></e>
