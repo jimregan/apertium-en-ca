@@ -93512,6 +93512,7 @@
 <e lm="biologia"><i>biologi</i><par n="abell/a__n"/></e>
 <e lm="ocell"><i>ocell</i><par n="abric__n"/></e>
 <e lm="ocell camallargs"><i>ocell</i><par n="abric__n"/><p><l><b/>camallargs</l><r><g><b/>camallargs</g></r></p></e>
+<e lm="concertino"><i>concertino</i><par n="abric__n"/></e>
 <e lm="galeta"><i>galet</i><par n="abell/a__n"/></e>
 <e lm="mossegada"><i>mossegad</i><par n="abell/a__n"/></e>
 <e lm="negre"><i>negr</i><par n="addict/e__n"/></e>
@@ -93583,7 +93584,9 @@
 <e lm="candidat a la presidència"><i>candidat</i><par n="senyor__n"/><p><l><b/>a<b/>la<b/>presidència</l><r><g><b/>a<b/>la<b/>presidència</g></r></p></e>
 <e lm="caramel"><i>caramel</i><par n="abric__n"/></e>
 <e lm="tap"><i>tap</i><par n="abric__n"/></e>
+<e lm="tap per a les orelles"><i>tap</i><par n="abric__n"/><p><l><b/>per<b/>a<b/>les<b/>orelles</l><r><g><b/>per<b/>a<b/>les<b/>orelles</g></r></p></e>
 <e lm="gorra"><i>gorr</i><par n="abell/a__n"/></e>
+<e lm="ulleres"><i>ulleres</i><par n="escombraries__n"/></e>
 <e lm="capacitat"><i>capacitat</i><par n="accessibilitat__n"/></e>
 <e lm="incapacitat"><i>incapacitat</i><par n="accessibilitat__n"/></e>
 <e lm="capità"><i>capit</i><par n="americ/à__n"/></e>
@@ -93791,6 +93794,7 @@
 <e lm="delícia"><i>delíci</i><par n="abell/a__n"/></e>
 <e lm="lliurament"><i>lliurament</i><par n="abric__n"/></e>
 <e lm="dentista"><i>dentist</i><par n="accionist/a__n"/></e>
+<e lm="vigia"><i>vigi</i><par n="accionist/a__n"/></e>
 <e lm="dipòsit"><i>dipòsit</i><par n="abric__n"/></e>
 <e lm="descripció"><i>descripci</i><par n="acci/ó__n"/></e>
 <e lm="desert"><i>desert</i><par n="abric__n"/></e>
@@ -93973,6 +93977,7 @@
 <e lm="inundació"><i>inundaci</i><par n="acci/ó__n"/></e>
 <e lm="crescuda"><i>crescud</i><par n="abell/a__n"/></e>
 <e lm="farina"><i>farin</i><par n="abell/a__n"/></e>
+<e lm="farina de blat de moro"><i>farin</i><par n="abell/a__n"/><p><l><b/>de<b/>blat<b/>de<b/>moro</l><r><g><b/>de<b/>blat<b/>de<b/>moro</g></r></p></e>
 <e lm="flux"><i>flux</i><par n="abric__n"/></e>
 <e lm="flor"><i>flor</i><par n="accessibilitat__n"/></e>
 <e lm="grip"><i>grip</i><par n="accessibilitat__n"/></e>
@@ -103038,6 +103043,7 @@
 <e lm="eternitat"><i>eternitat</i><par n="accessibilitat__n"/></e>
 <e lm="arquet"><i>arquet</i><par n="abric__n"/></e>
 <e lm="llevat"><i>llevat</i><par n="abric__n"/></e>
+<e lm="llevat en pols"><i>llevat</i><par n="abric__n"/><p><l><b/>en<b/>pols</l><r><g><b/>en<b/>pols</g></r></p></e>
 <e lm="tribut"><i>tribut</i><par n="abric__n"/></e>
 <e lm="guaiacol"><i>guaiacol</i><par n="abric__n"/></e>
 <e lm="díode"><i>díode</i><par n="abric__n"/></e>
