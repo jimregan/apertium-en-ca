@@ -3956,11 +3956,17 @@
 <e><p><l>hypersonic<s n="adj"/></l><r>hipersònic<s n="adj"/></r></p></e>
 <e><p><l>falsifiable<s n="adj"/></l><r>falsable<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>exhausting<s n="adj"/></l><r>esgotador<s n="adj"/></r></p></e>
+<e r="LR"><p><l>strenuous<s n="adj"/></l><r>esgotador<s n="adj"/></r></p></e>
+<e><p><l>marketable<s n="adj"/></l><r>vendible<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>awkwardly<s n="adv"/></l><r>de<b/>manera<b/>incòmoda<s n="adv"/></r></p></e>
+<e><p><l>divisive<s n="adj"/></l><r>divisiu<s n="adj"/></r></p></e>
+<e><p><l>orderly<s n="adj"/></l><r>ordenat<s n="adj"/></r></p></e>
 <e><p><l>articulate<s n="adj"/></l><r>articulat<s n="adj"/></r></p></e>
 <e><p><l>inarticulate<s n="adj"/></l><r>inarticulat<s n="adj"/></r></p></e>
 <e><p><l>soapy<s n="adj"/><s n="sint"/></l><r>sabonós<s n="adj"/></r></p></e>
 <e><p><l>inclement<s n="adj"/></l><r>inclement<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>chess<s n="adj"/></l><r>escaquístic<s n="adj"/></r></p></e>
+<e><p><l>meridian<s n="adj"/></l><r>meridià<s n="adj"/></r></p></e>
 
 
 <e>       <p><l>lysosomal<s n="adj"/></l>         <r>lysosòmic<s n="adj"/></r></p></e>
@@ -4713,6 +4719,7 @@
 <e>       <p><l>scornful<s n="adj"/></l>          <r>menyspreador<s n="adj"/></r></p></e>
 
 <e>       <p><l>famous<s n="adj"/></l>            <r>famós<s n="adj"/></r></p></e>
+<e r="LR">      <p><l>renowned<s n="adj"/></l>            <r>famós<s n="adj"/></r></p></e>
 
 <e>       <p><l>bureaucratic<s n="adj"/></l>      <r>burocràtic<s n="adj"/></r></p></e>
 
@@ -19966,7 +19973,6 @@
 <e>       <p><l>adventure<s n="n"/></l>           <r>aventura<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>advertisement<s n="n"/></l>       <r>anunci<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>ad<s n="n"/></l>                  <r>anunci<s n="n"/><s n="m"/></r></p></e>
-<e r="LR"><p><l>advert<s n="n"/></l>              <r>publicitat<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>advertising<s n="n"/></l>         <r>publicitat<s n="n"/><s n="f"/></r></p></e>
 <e r="RL" c="també podria ser 'call'"><p><l>announcement<s n="n"/></l><r>convocatòria<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>affair<s n="n"/></l>              <r>afer<s n="n"/><s n="m"/></r></p></e>
@@ -45063,6 +45069,7 @@
 <e><p><l>pirate<s n="adj"/></l><r>pirata<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>plastic<s n="adj"/></l><r>plàstic<s n="adj"/></r></p></e>
 <e r="LR"><p><l>prime<s n="adj"/></l><r>primer<s n="adj"/></r></p></e>
+<e r="LR"><p><l>foremost<s n="adj"/></l><r>primer<s n="adj"/></r></p></e>
 <e><p><l>saint<s n="adj"/></l><r>sant<s n="adj"/></r></p></e>
 <e><p><l>secret<s n="adj"/></l><r>secret<s n="adj"/></r></p></e>
 <e><p><l>semifinalist<s n="adj"/></l><r>semifinalista<s n="adj"/><s n="mf"/></r></p></e>
@@ -45841,7 +45848,7 @@
 <e slr="adonar-se de D"><p><l>realise<s n="vblex"/></l><r>adonar-se<g><b/>de</g><s n="vblex"/><s n="pron"/></r></p></e>
 <e slr="advertència"><p><l>warning<s n="n"/></l>  <r>advertència<s n="n"/><s n="f"/></r></p></e>
 <e slr="afeitament"><p><l>shaving<s n="n"/></l>   <r>afaitament<s n="n"/><s n="m"/></r></p></e>
- <e slr="aficionat D" srl="fan D"><p><l>fan<s n="n"/></l><r>aficionat<s n="n"/><s n="m"/></r></p></e>
+<e slr="aficionat D" srl="fan D"><p><l>fan<s n="n"/></l><r>aficionat<s n="n"/><s n="m"/></r></p></e>
 <e slr="afusellament"><p><l>shooting<s n="n"/></l><r>afusellament<s n="n"/><s n="m"/></r></p></e>
 <e slr="agafament"><p><l>hold<s n="n"/></l>       <r>agafament<s n="n"/><s n="m"/></r></p></e>
 <e slr="agafar D"><p><l>take<s n="vblex"/></l>    <r>agafar<s n="vblex"/></r></p></e>
