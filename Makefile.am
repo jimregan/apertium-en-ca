@@ -14,16 +14,14 @@ BASENAME=apertium-$(PREFIX1)
 
 TARGETS_COMMON = $(PREFIX1).automorf.bin $(PREFIX1).autobil.bin $(PREFIX1).autogen.bin \
      $(PREFIX1).autopgen.bin $(PREFIX2).automorf.bin $(PREFIX2).autobil.bin \
-     $(PREFIX2).autogen.bin $(PREFIX2).autopgen.bin $(PREFIX1).lextormono.bin $(PREFIX2).lextormono.bin \
-     $(PREFIX1).lextorbil.bin $(PREFIX2).lextorbil.bin $(PREFIX1).genitive.bin \
+     $(PREFIX2).autogen.bin $(PREFIX2).autopgen.bin \
+     $(PREFIX1).genitive.bin \
      $(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin \
      $(PREFIX1)-poly.autobil.bin $(PREFIX2)-poly.autobil.bin empty.bin \
      $(PREFIX2).t1x.bin $(PREFIX2).t2x.bin $(PREFIX2).t3x.bin modes \
      $(PREFIX2b).autogen.bin $(PREFVAR2)$(PREFIX1).autobil.bin
 
-TARGETS = $(TARGETS_COMMON) \
-	  $(BASENAME).$(LANG1)-lextor.dix $(BASENAME).$(LANG2)-lextor.dix \
-	  $(BASENAME).$(PREFIX1)-lextor.dix $(BASENAME).$(PREFIX2)-lextor.dix 
+TARGETS = $(TARGETS_COMMON)
 
 .deps/$(LANG1).metadix: $(BASENAME).$(LANG1).metadix
 	if [ ! -d .deps ]; then mkdir .deps; fi
@@ -79,10 +77,18 @@ $(PREFIX1).automorf.bin: .deps/$(LANG1).dix $(BASENAME).$(LANG1).acx
 #	lt-comp lr $(BASENAME).$(LANG1).dixtmp1 $@ $(BASENAME).$(LANG1).acx
 #	@rm $(BASENAME).$(LANG1).dixtmp1
 
-$(PREFIX1).autobil.bin: .deps/$(PREFIX1).bil.dix
+.deps/$(BASENAME).$(PREFIX1).dix: $(BASENAME).$(PREFIX1).dix lexchoicebil.xsl
+	if [ ! -d .deps ]; then mkdir .deps; fi
+	xsltproc lexchoicebil.xsl $(BASENAME).$(PREFIX1).dix > $@
+
+$(PREFIX1).autobil.bin: .deps/$(BASENAME).$(PREFIX1).dix
 	apertium-validate-dictionary $<
-	xsltproc translate-to-default-equivalent.xsl $< >tmp$(PREFIX1).autobil.dix
-	lt-comp lr tmp$(PREFIX1).autobil.dix $@
+	lt-comp lr .deps/$(BASENAME).$(PREFIX1).dix $@
+
+#$(PREFIX1).autobil.bin: .deps/$(PREFIX1).bil.dix
+#	apertium-validate-dictionary $<
+#	xsltproc translate-to-default-equivalent.xsl $< >tmp$(PREFIX1).autobil.dix
+#	lt-comp lr tmp$(PREFIX1).autobil.dix $@
 #	rm tmp$(PREFIX1).autobil.dix
 
 $(PREFVAR2)$(PREFIX1).autobil.bin: .deps/$(PREFVAR2)$(PREFIX1).bil.dix
@@ -149,63 +155,63 @@ $(PREFIX2).autopgen.bin: $(BASENAME).post-$(LANG1).dix
 	apertium-validate-dictionary $(BASENAME).post-$(LANG1).dix
 	lt-comp lr $(BASENAME).post-$(LANG1).dix $@
 
-$(BASENAME).$(LANG1)-lextor.dix: .deps/$(PREFIX1).bil.dix
-	apertium-validate-dictionary .deps/$(PREFIX1).bil.dix
-	apertium-gen-lextormono rl .deps/$(PREFIX1).bil.dix $@
+#$(BASENAME).$(LANG1)-lextor.dix: .deps/$(PREFIX1).bil.dix
+#	apertium-validate-dictionary .deps/$(PREFIX1).bil.dix
+#	apertium-gen-lextormono rl .deps/$(PREFIX1).bil.dix $@
 
-$(BASENAME).$(LANG2)-lextor.dix: .deps/$(PREFIX2).bil.dix
-	apertium-validate-dictionary .deps/$(PREFIX2).bil.dix
-	apertium-gen-lextormono lr .deps/$(PREFIX2).bil.dix $@
-
-$(BASENAME).$(PREFVAR2)$(LANG1)-lextor.dix: .deps/$(PREFVAR2)$(PREFIX1).bil.dix
-	apertium-validate-dictionary .deps/$(PREFIX1).bil.dix
-	apertium-gen-lextormono rl .deps/$(PREFIX1).bil.dix $@
-
-$(BASENAME).$(LANG2)_US-lextor.dix: .deps/$(PREFIX2)_US.bil.dix
-	apertium-validate-dictionary .deps/$(PREFIX2).bil.dix
-	apertium-gen-lextormono lr .deps/$(PREFIX2).bil.dix $@
-
-$(PREFIX1).lextormono.bin: $(BASENAME).$(LANG1)-lextor.dix
-	lt-comp lr $(BASENAME).$(LANG1)-lextor.dix $@
-
-$(PREFIX2).lextormono.bin: $(BASENAME).$(LANG2)-lextor.dix
-	lt-comp lr $(BASENAME).$(LANG2)-lextor.dix $@
-
-$(PREFVAR2)$(PREFIX1).lextormono.bin: $(BASENAME).$(PREFVAR2)$(LANG1)-lextor.dix
-	lt-comp lr $(BASENAME).$(LANG1)-lextor.dix $@
-
-$(PREFIX2)_US.lextormono.bin: $(BASENAME).$(LANG2)_US-lextor.dix
-	lt-comp lr $(BASENAME).$(LANG2)-lextor.dix $@
-
-
-$(BASENAME).$(PREFIX1)-lextor.dix: .deps/$(PREFIX1).bil.dix
-	apertium-validate-dictionary .deps/$(PREFIX1).bil.dix
-	apertium-gen-lextorbil rl .deps/$(PREFIX1).bil.dix $@
-
-$(BASENAME).$(PREFIX2)-lextor.dix: .deps/$(PREFIX2).bil.dix
-	apertium-validate-dictionary .deps/$(PREFIX2).bil.dix
-	apertium-gen-lextorbil lr .deps/$(PREFIX2).bil.dix $@
-
-$(BASENAME).$(PREFVAR2)$(PREFIX1)-lextor.dix: .deps/$(PREFVAR2)$(PREFIX1).bil.dix
-	apertium-validate-dictionary .deps/$(PREFVAR2)$(PREFIX1).bil.dix
-	apertium-gen-lextorbil rl .deps/$(PREFVAR2)$(PREFIX1).bil.dix $@
-
-$(BASENAME).$(PREFIX2)_US-lextor.dix: .deps/$(PREFIX2)_US.bil.dix
-	apertium-validate-dictionary .deps/$(PREFIX2)_US.bil.dix
-	apertium-gen-lextorbil lr .deps/$(PREFIX2)_US.bil.dix $@
-
-$(PREFIX1).lextorbil.bin: $(BASENAME).$(PREFIX1)-lextor.dix
-	lt-comp lr $(BASENAME).$(PREFIX1)-lextor.dix $@
-
-$(PREFIX2).lextorbil.bin: $(BASENAME).$(PREFIX2)-lextor.dix
-	lt-comp lr $(BASENAME).$(PREFIX2)-lextor.dix $@
-
-$(PREFVAR2)$(PREFIX1).lextorbil.bin: $(BASENAME).$(PREFVAR2)$(PREFIX1)-lextor.dix
-	lt-comp lr $(BASENAME).$(PREFVAR2)$(PREFIX1)-lextor.dix $@
-
-$(PREFIX2)_US.lextorbil.bin: $(BASENAME).$(PREFIX2)_US-lextor.dix
-	lt-comp lr $(BASENAME).$(PREFIX2)_US-lextor.dix $@
-
+#$(BASENAME).$(LANG2)-lextor.dix: .deps/$(PREFIX2).bil.dix
+#	apertium-validate-dictionary .deps/$(PREFIX2).bil.dix
+#	apertium-gen-lextormono lr .deps/$(PREFIX2).bil.dix $@
+#
+#$(BASENAME).$(PREFVAR2)$(LANG1)-lextor.dix: .deps/$(PREFVAR2)$(PREFIX1).bil.dix
+#	apertium-validate-dictionary .deps/$(PREFIX1).bil.dix
+#	apertium-gen-lextormono rl .deps/$(PREFIX1).bil.dix $@
+#
+#$(BASENAME).$(LANG2)_US-lextor.dix: .deps/$(PREFIX2)_US.bil.dix
+#	apertium-validate-dictionary .deps/$(PREFIX2).bil.dix
+#	apertium-gen-lextormono lr .deps/$(PREFIX2).bil.dix $@
+#
+#$(PREFIX1).lextormono.bin: $(BASENAME).$(LANG1)-lextor.dix
+#	lt-comp lr $(BASENAME).$(LANG1)-lextor.dix $@
+#
+#$(PREFIX2).lextormono.bin: $(BASENAME).$(LANG2)-lextor.dix
+#	lt-comp lr $(BASENAME).$(LANG2)-lextor.dix $@
+#
+#$(PREFVAR2)$(PREFIX1).lextormono.bin: $(BASENAME).$(PREFVAR2)$(LANG1)-lextor.dix
+#	lt-comp lr $(BASENAME).$(LANG1)-lextor.dix $@
+#
+#$(PREFIX2)_US.lextormono.bin: $(BASENAME).$(LANG2)_US-lextor.dix
+#	lt-comp lr $(BASENAME).$(LANG2)-lextor.dix $@
+#
+#
+#$(BASENAME).$(PREFIX1)-lextor.dix: .deps/$(PREFIX1).bil.dix
+#	apertium-validate-dictionary .deps/$(PREFIX1).bil.dix
+#	apertium-gen-lextorbil rl .deps/$(PREFIX1).bil.dix $@
+#
+#$(BASENAME).$(PREFIX2)-lextor.dix: .deps/$(PREFIX2).bil.dix
+#	apertium-validate-dictionary .deps/$(PREFIX2).bil.dix
+#	apertium-gen-lextorbil lr .deps/$(PREFIX2).bil.dix $@
+#
+#$(BASENAME).$(PREFVAR2)$(PREFIX1)-lextor.dix: .deps/$(PREFVAR2)$(PREFIX1).bil.dix
+#	apertium-validate-dictionary .deps/$(PREFVAR2)$(PREFIX1).bil.dix
+#	apertium-gen-lextorbil rl .deps/$(PREFVAR2)$(PREFIX1).bil.dix $@
+#
+#$(BASENAME).$(PREFIX2)_US-lextor.dix: .deps/$(PREFIX2)_US.bil.dix
+#	apertium-validate-dictionary .deps/$(PREFIX2)_US.bil.dix
+#	apertium-gen-lextorbil lr .deps/$(PREFIX2)_US.bil.dix $@
+#
+#$(PREFIX1).lextorbil.bin: $(BASENAME).$(PREFIX1)-lextor.dix
+#	lt-comp lr $(BASENAME).$(PREFIX1)-lextor.dix $@
+#
+#$(PREFIX2).lextorbil.bin: $(BASENAME).$(PREFIX2)-lextor.dix
+#	lt-comp lr $(BASENAME).$(PREFIX2)-lextor.dix $@
+#
+#$(PREFVAR2)$(PREFIX1).lextorbil.bin: $(BASENAME).$(PREFVAR2)$(PREFIX1)-lextor.dix
+#	lt-comp lr $(BASENAME).$(PREFVAR2)$(PREFIX1)-lextor.dix $@
+#
+#$(PREFIX2)_US.lextorbil.bin: $(BASENAME).$(PREFIX2)_US-lextor.dix
+#	lt-comp lr $(BASENAME).$(PREFIX2)_US-lextor.dix $@
+#
 $(PREFIX1)-poly.autobil.bin: $(BASENAME).$(PREFIX1)-poly.dix
 	lt-comp lr $(BASENAME).$(PREFIX1)-poly.dix $@
 
@@ -251,7 +257,6 @@ EXTRA_DIST=$(BASENAME).$(LANG1).metadix  $(BASENAME).$(PREFIX1).dix \
 	   $(BASENAME).$(PREFIX1)-poly.dix $(BASENAME).$(PREFIX2)-poly.dix \
 	   $(PREFIX1).prob $(PREFIX2).prob \
 	   buscaPar.xsl principal.xsl apertium-en-ca.en.metadix \
-	   $(PREFIX1).lextor $(PREFIX2).lextor \
 	   $(PREFIX1)-supervised.make $(PREFIX1)-unsupervised.make \
 	   $(PREFIX2)-supervised.make $(PREFIX2)-unsupervised.make \
 	   $(LANG1)-tagger-data/README $(LANG2)-tagger-data/README \
@@ -272,8 +277,6 @@ apertium_en_ca_DATA=$(PREFIX1).automorf.bin $(PREFIX2).automorf.bin \
 		    $(PREFVAR2)$(PREFIX1).autogen.bin $(PREFVAR2)$(PREFIX1).autopgen.bin\
 		    $(PREFIX1)-poly.autobil.bin $(PREFIX2)-poly.autobil.bin \
 		    $(PREFIX1).prob $(PREFIX2).prob \
-		    $(PREFIX1).lextormono.bin $(PREFIX2).lextormono.bin \
-		    $(PREFIX1).lextorbil.bin $(PREFIX2).lextorbil.bin \
 	            $(BASENAME).$(PREFIX1).genitive.t1x \
 		    $(PREFIX1).genitive.bin  \
 		    $(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin \

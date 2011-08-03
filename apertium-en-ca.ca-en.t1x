@@ -481,6 +481,10 @@ del transfer i les regles. Potser seria necessari redefinir les regles.
       <attr-item tags="vbhaver.pp"/>
     </def-attr>
 
+    <def-attr n="a_prep">
+      <attr-item tags="pr"/>
+    </def-attr>
+
     <def-attr n="a_prn">
       <attr-item tags="prn"/>
     </def-attr>
@@ -6073,9 +6077,9 @@ del transfer i les regles. Potser seria necessari redefinir les regles.
 	      <with-param pos="2"/>
 	      <with-param pos="3"/>
 	    </call-macro>
-	    <call-macro n="f_bcond"> 
+	    <!--<call-macro n="f_bcond"> 
 	      <with-param pos="3"/>
-	    </call-macro>
+	    </call-macro>-->
 	  </otherwise>
 	    
 	</choose>

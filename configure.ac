@@ -46,6 +46,16 @@ AC_DEFUN([PKG_CHECK_APERTIUM], [
 
 PKG_CHECK_APERTIUM
 
+AC_PATH_PROG(APERTIUMCOMP, apertium-compiler, no)
+if test x$ac_cv_path_APERTIUMCOMP = x
+then
+  AC_MSG_ERROR([You don't have apertium-compiler installed.])
+fi
+if test x$ac_cv_path_APERTIUMCOMP = xno
+then
+  AC_MSG_ERROR([You don't have apertium-compiler installed.])
+fi
+ 
 AC_PATH_PROG(XSLTPROC, xsltproc, no)
 if test x$ac_cv_path_XSLTPROC = x
 then

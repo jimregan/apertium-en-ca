@@ -928,7 +928,6 @@
     <e><p><l>MRI<s n="n"/><s n="acr"/></l><r>IRM<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
     <e><p><l>MS-DOS<s n="n"/><s n="acr"/></l><r>MS-DOS<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
     <e><p><l>Maoism<s n="n"/></l><r>maoisme<s n="n"/><s n="m"/></r></p></e>
-    <e slr="març D"><p><l>March<s n="n"/></l><r>març<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>marxism<s n="n"/></l><r>marxisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>marxist<s n="n"/></l><r>marxista<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>May<s n="n"/></l><r>maig<s n="n"/><s n="m"/></r></p></e>
@@ -1114,8 +1113,6 @@
     <e><p><l>absurdity<s n="n"/></l><r>absurditat<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>abulia<s n="n"/></l><r>abúlia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>abundance<s n="n"/></l><r>abundància<s n="n"/><s n="f"/></r></p></e>
-    <e srl="abuse D"><p><l>abuse<s n="n"/></l><r>abús<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>abuse<g><b/>of<b/>power</g><s n="n"/></l><r>abús<g><b/>de<b/>poder</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>abvolt<s n="n"/></l><r>abvolt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>abyss<s n="n"/></l><r>abisme<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>academician<s n="n"/></l><r>acadèmic<s n="n"/><s n="GD"/></r></p></e>
@@ -1401,6 +1398,9 @@
     <e r="LR" a="doriua"><p><l>aide<s n="n"/></l><r>assessor<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>aileron<s n="n"/></l><r>aleró<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>aim<s n="n"/></l><r>objectiu<s n="n"/><s n="m"/></r></p></e>
+    <e srl="objective"><p><l>objective<s n="n"/></l><r>objectiu<s n="n"/><s n="m"/></r></p></e>
+    <e srl="goal"><p><l>goal<s n="n"/></l><r>objectiu<s n="n"/><s n="m"/></r></p></e>
+    <e slr="objectiu D" srl="target"><p><l>target<s n="n"/></l><r>objectiu<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>air<s n="n"/></l><r>aire<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>airbus<s n="n"/></l><r>aerobús<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>aircraft<s n="n"/></l><r>aeronau<s n="n"/><s n="f"/></r></p></e>
@@ -6894,9 +6894,6 @@
     <e a="carmentano"><p><l>gay<s n="n"/></l><r>gai<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>gazelle<s n="n"/></l><r>gasela<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gazette<s n="n"/></l><r>gaseta<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR" slr="equip"><p><l>gear<s n="n"/></l><r>equip<s n="n"/><s n="m"/></r></p></e>
-    <e slr="engranatge D"><p><l>gear<s n="n"/></l><r>engranatge<s n="n"/><s n="m"/></r></p></e>
-    <e slr="marxa" srl="gear"><p><l>gear<s n="n"/></l><r>marxa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gearing<s n="n"/></l><r>dentatge<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>gelifruction<s n="n"/></l><r>gelifluxió<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gelling<s n="n"/></l><r>gelificació<s n="n"/><s n="f"/></r></p></e>
@@ -9352,7 +9349,11 @@
     <e><p><l>marathon<s n="n"/></l><r>marató<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>marble<s n="n"/></l><r>marbre<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>marcasite<s n="n"/></l><r>marcassita<s n="n"/><s n="f"/></r></p></e>
-    <e srl="march D"><p><l>march<s n="n"/></l><r>marxa<s n="n"/><s n="f"/></r></p></e>
+    <e c="slr:D"><p><l>March<s n="n"/></l><r>març<s n="n"/><s n="m"/></r></p></e>
+    <e c="srl:D"><p><l>march<s n="n"/></l><r>marxa<s n="n"/><s n="f"/></r></p></e>
+    <e c="slr:D"><p><l>gear<s n="n"/></l><r>engranatge<s n="n"/><s n="m"/></r></p></e>
+    <e slr="1" srl="1"><p><l>gear<s n="n"/></l><r>marxa<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="2"><p><l>gear<s n="n"/></l><r>equip<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>marchioness<s n="n"/></l><r>marquès<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mare<s n="n"/></l><r>euga<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>margarine<s n="n"/></l><r>margarina<s n="n"/><s n="f"/></r></p></e>
@@ -9819,7 +9820,6 @@
     <e><p><l>miscellanea<s n="n"/></l><r>miscel·lània<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>misconception<s n="n"/></l><r>error<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>misfortune<s n="n"/></l><r>desgràcia<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL" srl="misfortune D"><p><l>misfortune<s n="n"/></l><r>misèria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>misgovernment<s n="n"/></l><r>desgovern<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>mishap<s n="n"/></l><r>contratemps<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>mishap<s n="n"/><s n="ND"/></l><r>contratemps<s n="n"/><s n="m"/></r></p></e>
@@ -9832,7 +9832,9 @@
     <e><p><l>mistletoe<s n="n"/></l><r>vesc<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>mistral<s n="n"/></l><r>mestral<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>misunderstanding<s n="n"/></l><r>malentès<s n="n"/><s n="m"/></r></p></e>
-    <e srl="misuse"><p><l>misuse<s n="n"/></l><r>abús<s n="n"/><s n="m"/></r></p></e>
+    <e c="srl:0"><p><l>abuse<s n="n"/></l><r>abús<s n="n"/><s n="m"/></r></p></e>
+    <e   srl="1"><p><l>misuse<s n="n"/></l><r>abús<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>abuse<g><b/>of<b/>power</g><s n="n"/></l><r>abús<g><b/>de<b/>poder</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>mitigation<s n="n"/></l><r>atenuació<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mitochondrion<s n="n"/></l><r>mitocondri<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>mitoribosome<s n="n"/></l><r>mitoribosoma<s n="n"/><s n="m"/></r></p></e>
@@ -10491,7 +10493,6 @@
     <e slr="objecte D"><p><l>object<s n="n"/></l><r>objecte<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>objection<s n="n"/></l><r>objecció<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>objectivation<s n="n"/></l><r>objectivació<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>objective<s n="n"/></l><r>objectiu<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>objectivism<s n="n"/></l><r>objectivisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>objectivity<s n="n"/></l><r>objectivitat<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>objector<s n="n"/></l><r>objector<s n="n"/><s n="GD"/></r></p></e>
@@ -11629,7 +11630,11 @@
     <e slr="aiguavés"><p><l>pitch<s n="n"/></l><r>aiguavés<s n="n"/><s n="m"/></r></p></e>
     <e slr="brea"><p><l>pitch<s n="n"/></l><r>brea<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pitching<s n="n"/></l><r>capcineig<s n="n"/><s n="m"/></r></p></e>
+
+    <e r="RL" c="slr:0"><p><l>misfortune<s n="n"/></l><r>misèria<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="1"><p><l>poverty<s n="n"/></l><r>misèria<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>pittance<s n="n"/></l><r>misèria<s n="n"/><s n="f"/></r></p></e>
+
     <e><p><l>pituitary<s n="n"/></l><r>pituïtària<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pity<s n="n"/><s n="sg"/></l><r>llàstima<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e r="RL" c="MG: uncount"><p><l>pity<s n="n"/><s n="sg"/></l><r>llàstima<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
@@ -11978,7 +11983,6 @@
     <e><p><l>pound<s n="n"/></l><r>lliura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pound<g><b/>sterling</g><s n="n"/></l><r>lliura<b/>esterlina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>poverty<s n="n"/></l><r>pobresa<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL" srl="poverty"><p><l>poverty<s n="n"/></l><r>misèria<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>powder<s n="n"/><s n="pl"/></l><r>pólvora<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e slr="pólvora D"><p><l>powder<s n="n"/><s n="sg"/></l><r>pólvora<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e slr="pólvores"><p><l>powder<s n="n"/><s n="sg"/></l><r>pólvora<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
@@ -14878,7 +14882,6 @@
     <e><p><l>tapestry<s n="n"/></l><r>tapís<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tarantula<s n="n"/></l><r>taràntula<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>target<s n="n"/></l><r>diana<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR" slr="objectiu D"><p><l>target<s n="n"/></l><r>objectiu<s n="n"/><s n="m"/></r></p></e>
     <e r="RL" srl="target"><p><l>target<s n="n"/></l><r>blanc<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tariff<s n="n"/></l><r>aranzel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tarpaulin<s n="n"/></l><r>encert<s n="n"/><s n="m"/></r></p></e>
@@ -21284,10 +21287,18 @@
     <e><p><l>exhume<s n="vblex"/></l><r>exhumar<s n="vblex"/></r></p></e>
     <e><p><l>exile<s n="vblex"/></l><r>exilar<s n="vblex"/></r></p></e>
     <e><p><l>exist<s n="vblex"/></l><r>existir<s n="vblex"/></r></p></e>
-    <e r="LR" vr="cat"><p><l>exit<s n="vblex"/></l><r>sortir<s n="vblex"/></r></p></e>
-    <e r="LR" vr="val"><p><l>exit<s n="vblex"/></l><r>eixir<s n="vblex"/></r></p></e>
-    <e r="LR" vr="cat"><p><l>come<g><b/>out</g><s n="vblex"/></l><r>sortir<s n="vblex"/></r></p></e>
-    <e r="LR" vr="val"><p><l>come<g><b/>out</g><s n="vblex"/></l><r>eixir<s n="vblex"/></r></p></e>
+    <e  vr="cat"><p><l>work<g><b/>out</g><s n="vblex"/></l><r>sortir<s n="vblex"/></r></p></e>
+    <e  vr="val"><p><l>work<g><b/>out</g><s n="vblex"/></l><r>eixir<s n="vblex"/></r></p></e>
+    <e vr="cat"><p><l>go<g><b/>out</g><s n="vblex"/></l><r>sortir<s n="vblex"/></r></p></e>
+    <e vr="val"><p><l>go<g><b/>out</g><s n="vblex"/></l><r>eixir<s n="vblex"/></r></p></e>
+    <e  vr="cat"><p><l>get<g><b/>out</g><s n="vblex"/></l><r>sortir<s n="vblex"/></r></p></e>
+    <e  vr="val"><p><l>get<g><b/>out</g><s n="vblex"/></l><r>eixir<s n="vblex"/></r></p></e>
+    <e  vr="cat"><p><l>exit<s n="vblex"/></l><r>sortir<s n="vblex"/></r></p></e>
+    <e  vr="val"><p><l>exit<s n="vblex"/></l><r>eixir<s n="vblex"/></r></p></e>
+    <e  vr="cat"><p><l>leave<s n="vblex"/></l><r>sortir<s n="vblex"/></r></p></e>
+    <e  vr="val"><p><l>leave<s n="vblex"/></l><r>eixir<s n="vblex"/></r></p></e>
+    <e  vr="cat"><p><l>come<g><b/>out</g><s n="vblex"/></l><r>sortir<s n="vblex"/></r></p></e>
+    <e  vr="val"><p><l>come<g><b/>out</g><s n="vblex"/></l><r>eixir<s n="vblex"/></r></p></e>
     <e><p><l>expand<s n="vblex"/></l><r>expandir<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>expand<s n="vblex"/></l><r>ampliar<s n="vblex"/></r></p></e>
     <e srl="expect D"><p><l>expect<s n="vblex"/></l><r>esperar<s n="vblex"/></r></p></e>
@@ -21480,10 +21491,6 @@
     <e><p><l>go<g><b/>down</g><s n="vblex"/></l><r>baixar<s n="vblex"/></r></p></e>
     <e><p><l>go<g><b/>in</g><s n="vblex"/></l><r>entrar<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>go<g><b/>on</g><s n="vblex"/></l><r>continuar<s n="vblex"/></r></p></e>
-    <e vr="cat"><p><l>go<g><b/>out</g><s n="vblex"/></l><r>sortir<s n="vblex"/></r></p></e>
-    <e vr="val"><p><l>go<g><b/>out</g><s n="vblex"/></l><r>eixir<s n="vblex"/></r></p></e>
-    <e r="LR" vr="cat"><p><l>get<g><b/>out</g><s n="vblex"/></l><r>sortir<s n="vblex"/></r></p></e>
-    <e r="LR" vr="val"><p><l>get<g><b/>out</g><s n="vblex"/></l><r>eixir<s n="vblex"/></r></p></e>
     <e><p><l>go<g><b/>through</g><s n="vblex"/></l><r>passar<g><b/>per</g><s n="vblex"/></r></p></e>
     <e><p><l>go<g><b/>up</g><s n="vblex"/></l><r>pujar<s n="vblex"/></r></p></e>
     <e><p><l>govern<s n="vblex"/></l><r>governar<s n="vblex"/></r></p></e>
@@ -22827,8 +22834,6 @@
     <e slr="preguntar-se D"><p><l>wonder<s n="vblex"/></l><r>preguntar-se<s n="vblex"/><s n="pron"/></r></p></e>
     <e slr="funcionar"><p><l>work<s n="vblex"/></l><r>funcionar<s n="vblex"/></r></p></e>
     <e slr="treballar D"><p><l>work<s n="vblex"/></l><r>treballar<s n="vblex"/></r></p></e>
-    <e r="LR" vr="cat"><p><l>work<g><b/>out</g><s n="vblex"/></l><r>sortir<s n="vblex"/></r></p></e>
-    <e r="LR" vr="val"><p><l>work<g><b/>out</g><s n="vblex"/></l><r>eixir<s n="vblex"/></r></p></e>
     <e r="LR" a="doriua"><p><l>worry<s n="vblex"/></l><r>preocupar<s n="vblex"/></r></p></e>
     <e><p><l>worsen<s n="vblex"/></l><r>empitjorar<s n="vblex"/></r></p></e>
     <e><p><l>wrap<s n="vblex"/></l><r>embolicar<s n="vblex"/></r></p></e>
@@ -35413,7 +35418,7 @@
     <!-- ******************************
           group pr_symbol
       ****************************** -->
-    <e srl="about"><p><l>about<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
+    <!--<e srl="about"><p><l>about<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>-->
 <!--Fi DETS i PREDET-->
 <!--Preposicions -->
     <e><p><l>above<s n="pr"/></l><r>per<b/>sobre<b/>de<s n="pr"/></r></p></e>
@@ -35434,9 +35439,10 @@
     <e><p><l>along<s n="pr"/></l><r>al<b/>llarg<b/>de<s n="pr"/></r></p></e>
     <e r="LR"><p><l>along<b/>with<s n="pr"/></l><r>juntament<b/>amb<s n="pr"/></r></p></e>
     <e r="LR"><p><l>amid<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>among<s n="pr"/></l><r>enmig<b/>de<s n="pr"/></r></p></e>
-    <e srl="among"><p><l>among<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
+    <e srl="between D"><p><l>between<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
     <e r="LR" a="doriua"><p><l>amongst<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
+    <!--<e srl="among"><p><l>among<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>-->
+    <e r="RL"><p><l>among<s n="pr"/></l><r>enmig<b/>de<s n="pr"/></r></p></e>
     <e><p><l>apart<b/>from<s n="pr"/></l><r>a<b/>part<b/>de<s n="pr"/></r></p></e>
     <e r="RL"><p><l>apart<b/>from<s n="pr"/></l><r>a<b/>banda<b/>de<s n="pr"/></r></p></e>
     <e><p><l>around<s n="pr"/></l><r>al<b/>voltant<b/>de<s n="pr"/></r></p></e>
@@ -35448,7 +35454,7 @@
     <e r="LR"><p><l>as<b/>for<s n="pr"/></l><r>quant<b/>a<s n="pr"/></r></p></e>
     <e r="LR"><p><l>as<b/>regards<s n="pr"/></l><r>respecte<b/>a<s n="pr"/></r></p></e>
     <e slr="a D" srl="at"><p><l>at<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
-    <e slr="en" srl="at"><p><l>at<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
+    <!--<e slr="en" srl="at"><p><l>at<s n="pr"/></l><r>en<s n="pr"/></r></p></e>-->
     <e><p><l>at<b/>a<b/>rate<b/>of<s n="pr"/></l><r>a<b/>raó<b/>de<s n="pr"/></r></p></e>
     <e r="LR"><p><l>at<b/>about<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
     <e><p><l>at<b/>the<b/>beginning<b/>of<s n="pr"/></l><r>a<b/>principis<b/>de<s n="pr"/></r></p></e>
@@ -35457,15 +35463,16 @@
     <e><p><l>away<b/>from<s n="pr"/></l><r>lluny<b/>de<s n="pr"/></r></p></e>
     <e><p><l>because<b/>of<s n="pr"/></l><r>a<b/>causa<b/>de<s n="pr"/></r></p></e>
     <e slr="abans_de D"><p><l>before<s n="pr"/></l><r>abans<b/>de<s n="pr"/></r></p></e>
-    <e r="LR" slr="davant"><p><l>before<s n="pr"/></l><r>davant<s n="pr"/></r></p></e>
+    <!--<e r="LR" slr="davant"><p><l>before<s n="pr"/></l><r>davant<s n="pr"/></r></p></e>-->
     <e><p><l>behind<s n="pr"/></l><r>darrere<b/>de<s n="pr"/></r></p></e>
     <e r="LR"><p><l>below<s n="pr"/></l><r>sota<s n="pr"/></r></p></e>
     <e a="doriua"><p><l>beside<s n="pr"/></l><r>al<b/>costat<b/>de<s n="pr"/></r></p></e>
-    <e srl="between D"><p><l>between<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
     <e><p><l>beyond<s n="pr"/></l><r>allèn<s n="pr"/></r></p></e>
     <e r="LR"><p><l>but<s n="pr"/></l><r>excepte<s n="pr"/></r></p></e>
-    <e r="LR" slr="prop_de"><p><l>by<s n="pr"/></l><r>prop<b/>de<s n="pr"/></r></p></e>
-    <e slr="per D" srl="by"><p><l>by<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
+    <!--<e r="LR" slr="prop_de"><p><l>by<s n="pr"/></l><r>prop<b/>de<s n="pr"/></r></p></e>-->
+    <e slr="per D" r="LR"><p><l>by<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
+    <!--<e slr="per D" srl="by"><p><l>by<s n="pr"/></l><r>per<s n="pr"/></r></p></e>-->
+    <e slr="per D" srl="for D"><p><l>for<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
     <e><p><l>by<b/>dint<b/>of<s n="pr"/></l><r>a<b/>força<b/>de<s n="pr"/></r></p></e>
     <e><p><l>by<b/>means<b/>of<s n="pr"/></l><r>mitjançant<s n="pr"/></r></p></e>
     <e r="RL"><p><l>by<b/>means<b/>of<s n="pr"/></l><r>per<b/>mitjà<b/>de<s n="pr"/></r></p></e>
@@ -35478,17 +35485,16 @@
     <e r="RL" srl="except D"><p><l>except<s n="pr"/></l><r>menys<s n="pr"/></r></p></e>
     <e r="LR"><p><l>except<b/>for<s n="pr"/></l><r>excepte<s n="pr"/></r></p></e>
     <e r="RL"><p><l>for<s n="pr"/></l><r>per<b/>a<s n="pr"/></r></p></e>
-    <e slr="per D" srl="for D"><p><l>for<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
-    <e r="LR" slr="durant"><p><l>for<s n="pr"/></l><r>durant<s n="pr"/></r></p></e>
+    <!--<e r="LR" slr="durant"><p><l>for<s n="pr"/></l><r>durant<s n="pr"/></r></p></e>-->
     <e><p><l>for<b/>the<b/>benefit<b/>of<s n="pr"/></l><r>en<b/>benefici<b/>de<s n="pr"/></r></p></e>
     <e r="RL"><p><l>from<s n="pr"/></l><r>a<b/>partir<b/>de<s n="pr"/></r></p></e>
-    <e srl="from"><p><l>from<s n="pr"/></l><r>de<s n="pr"/></r></p></e>
+    <!--<e srl="from"><p><l>from<s n="pr"/></l><r>de<s n="pr"/></r></p></e>-->
     <e r="LR"><p><l>further<b/>to<s n="pr"/></l><r>amb<b/>referència<b/>a<s n="pr"/></r></p></e>
     <e><p><l>headed<b/>by<s n="pr"/></l><r>al<b/>comandament<b/>de<s n="pr"/></r></p></e>
     <e r="RL"><p><l>in<s n="pr"/></l><r>dins<b/>de<s n="pr"/></r></p></e>
     <e r="RL"><p><l>in<s n="pr"/></l><r>a<b/>dins<b/>de<s n="pr"/></r></p></e>
     <e r="RL"><p><l>in<s n="pr"/></l><r>dins<s n="pr"/></r></p></e>
-    <e slr="a" srl="in" c="això seria polisèmia o no? (in->en/a)"><p><l>in<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
+    <!--<e slr="a" srl="in" c="això seria polisèmia o no? (in->en/a)"><p><l>in<s n="pr"/></l><r>a<s n="pr"/></r></p></e>-->
     <e slr="en D" srl="in D"><p><l>in<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
     <e a="carmentano"><p><l>in<b/>accordance<b/>with<s n="pr"/></l><r>d'acord<b/>amb<s n="pr"/></r></p></e>
     <e><p><l>in<b/>addition<b/>to<s n="pr"/></l><r>a<b/>més<b/>de<s n="pr"/></r></p></e>
@@ -35516,18 +35522,20 @@
     <e><p><l>less<b/>than<s n="pr"/></l><r>menys<b/>de<s n="pr"/></r></p></e>
     <e r="RL"><p><l>less<b/>than<s n="pr"/></l><r>menys<b/>que<s n="pr"/></r></p></e>
     <e><p><l>like<s n="pr"/></l><r>com<s n="pr"/></r></p></e>
-    <e srl="minus"><p><l>minus<s n="pr"/></l><r>menys<s n="pr"/></r></p></e>
+    <!--<e srl="minus"><p><l>minus<s n="pr"/></l><r>menys<s n="pr"/></r></p></e>-->
     <e c="more than five"><p><l>more<b/>than<s n="pr"/></l><r>més<b/>de<s n="pr"/></r></p></e>
     <e r="RL" c="MG: en direcció en-ca, cal fer per transfer el canvi 'més de' 'més que'"><p><l>more<b/>than<s n="pr"/></l><r>més<b/>que<s n="pr"/></r></p></e>
     <e><p><l>near<s n="pr"/></l><r>prop<b/>de<s n="pr"/></r></p></e>
     <e><p><l>no<b/>more<b/>than<s n="pr"/></l><r>no<b/>pas<b/>més<b/>de<s n="pr"/></r></p></e>
     <e><p><l>not<b/>less<b/>than<s n="pr"/></l><r>no<b/>pas<b/>menys<b/>de<s n="pr"/></r></p></e>
     <e srl="of D"><p><l>of<s n="pr"/></l><r>de<s n="pr"/></r></p></e>
-    <e r="LR" slr="fora_de"><p><l>off<s n="pr"/></l><r>fora<b/>de<s n="pr"/></r></p></e>
+    <!--<e r="LR" slr="fora_de"><p><l>off<s n="pr"/></l><r>fora<b/>de<s n="pr"/></r></p></e>-->
     <e r="LR" slr="de D" c="MG: He fell off his chair"><p><l>off<s n="pr"/></l><r>de<s n="pr"/></r></p></e>
     <e r="RL"><p><l>on<s n="pr"/></l><r>damunt<s n="pr"/></r></p></e>
-    <e slr="en D" srl="on"><p><l>on<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
-    <e slr="sobre" srl="on D"><p><l>on<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
+    <e slr="en D" r="LR"><p><l>on<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
+    <!--<e slr="en D" srl="on"><p><l>on<s n="pr"/></l><r>en<s n="pr"/></r></p></e>-->
+    <!--<e slr="sobre"><p><l>on<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>-->
+    <e srl="on D"><p><l>on<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
     <e><p><l>on<b/>behalf<b/>of<s n="pr"/></l><r>en<b/>nom<b/>de<s n="pr"/></r></p></e>
     <e r="LR"><p><l>on<b/>top<b/>of<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
     <e r="LR"><p><l>onto<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
@@ -35536,7 +35544,7 @@
     <e r="RL"><p><l>out<b/>of<s n="pr"/></l><r>fora<s n="pr"/></r></p></e>
     <e><p><l>outside<s n="pr"/></l><r>a<b/>fora<b/>de<s n="pr"/></r></p></e>
     <e r="LR" slr="sobre D"><p><l>over<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
-    <e r="LR" slr="durant"><p><l>over<s n="pr"/></l><r>durant<s n="pr"/></r></p></e>
+    <!--<e r="LR" slr="durant"><p><l>over<s n="pr"/></l><r>durant<s n="pr"/></r></p></e>-->
     <e><p><l>owing<b/>to<s n="pr"/></l><r>per<b/>causa<b/>de<s n="pr"/></r></p></e>
     <e r="LR"><p><l>per<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
     <e r="LR"><p><l>plus<s n="pr"/></l><r>més<s n="pr"/></r></p></e>
@@ -35554,9 +35562,9 @@
     <e><p><l>thanks<b/>to<s n="pr"/></l><r>gràcies<b/>a<s n="pr"/></r></p></e>
     <e><p><l>through<s n="pr"/></l><r>a<b/>través<b/>de<s n="pr"/></r></p></e>
     <e r="LR" slr="per_tot D"><p><l>throughout<s n="pr"/></l><r>per<b/>tot<s n="pr"/></r></p></e>
-    <e r="LR" slr="durant"><p><l>throughout<s n="pr"/></l><r>durant<s n="pr"/></r></p></e>
+    <!--<e r="LR" slr="durant"><p><l>throughout<s n="pr"/></l><r>durant<s n="pr"/></r></p></e>-->
     <e r="RL"><p><l>to<s n="pr"/></l><r>cap<b/>a<s n="pr"/></r></p></e>
-    <e srl="to D"><p><l>to<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
+    <!--<e srl="to D"><p><l>to<s n="pr"/></l><r>a<s n="pr"/></r></p></e>-->
     <e><p><l>to<b/>the<b/>detriment<b/>of<s n="pr"/></l><r>en<b/>detriment<b/>de<s n="pr"/></r></p></e>
     <e><p><l>to<b/>the<b/>extent<b/>of<s n="pr"/></l><r>fins<b/>al<b/>punt<b/>de<s n="pr"/></r></p></e>
     <e><p><l>to<b/>the<b/>kind<b/>attention<b/>of<s n="pr"/></l><r>a<b/>l'atenció<b/>de<s n="pr"/></r></p></e>
@@ -35622,11 +35630,11 @@
     <e r="LR"><p><l>but<b/>rather<s n="cnjcoo"/></l><r>sinó<s n="cnjcoo"/></r></p></e>
     <e r="LR" c="either... or... : o... o..."><p><l>either<s n="cnjcoo"/></l><r>o<s n="cnjcoo"/></r></p></e>
     <e srl="neither D" c="MG: neither... nor :en el trànsfer"><p><l>neither<s n="cnjcoo"/></l><r>ni<s n="cnjcoo"/></r></p></e>
-    <e srl="nor"><p><l>nor<s n="cnjcoo"/></l><r>ni<s n="cnjcoo"/></r></p></e>
+    <!--<e srl="nor"><p><l>nor<s n="cnjcoo"/></l><r>ni<s n="cnjcoo"/></r></p></e>-->
     <e r="RL"><p><l>or<s n="cnjcoo"/></l><r>bé<s n="cnjcoo"/></r></p></e>
     <e><p><l>or<s n="cnjcoo"/></l><r>o<s n="cnjcoo"/></r></p></e>
     <e r="RL"><p><l>or<s n="cnjcoo"/></l><r>o<b/>bé<s n="cnjcoo"/></r></p></e>
-    <e r="RL" srl="or"><p><l>or<s n="cnjcoo"/></l><r>ni<s n="cnjcoo"/></r></p></e>
+    <!--<e r="RL" srl="or"><p><l>or<s n="cnjcoo"/></l><r>ni<s n="cnjcoo"/></r></p></e>-->
     <e c="comparatives"><p><l>than<s n="cnjcoo"/></l><r>que<s n="cnjcoo"/></r></p></e>
 <!--Fi CNJ -->
 <!--Fi ADVS, PREADVS i CNJ -->
@@ -35661,6 +35669,7 @@
     <e r="RL"><p><l>both<s n="det"/></l><r>tots<b/>dos<s n="det"/></r></p></e>
 <!-- AMBIG CA~EN, order by POS, Alphabet, Default on CA side -->
     <e srl="each D"><p><l>each<s n="det"/><s n="ind"/></l><r>cada<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
+    <!--<e srl="every"><p><l>every<s n="det"/><s n="ind"/></l><r>cada<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>-->
     <e r="LR"><p><l>eight<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>vuit-centè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>eight<b/>hundredth<s n="det"/></l><r>vuit-centè<s n="det"/></r></p></e>
     <e r="LR"><p><l>eighteenth<s n="det"/><s n="ord"/><s n="sp"/></l><r>divuitè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
@@ -35674,7 +35683,6 @@
     <e r="LR"><p><l>eleventh<s n="det"/><s n="ord"/><s n="sp"/></l><r>onzè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>eleventh<s n="det"/></l><r>onzè<s n="det"/></r></p></e>
     <e><p><l>enough<s n="det"/><s n="qnt"/></l><r>prou<s n="det"/><s n="qnt"/><s n="mf"/></r></p></e>
-    <e srl="every"><p><l>every<s n="det"/><s n="ind"/></l><r>cada<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>few<s n="det"/><s n="qnt"/></l><r>poc<s n="det"/><s n="qnt"/><s n="GD"/></r></p></e>
     <e r="RL" c="en plural"><p><l>few<s n="det"/><s n="qnt"/><s n="pl"/></l><r>poc<s n="det"/><s n="qnt"/><s n="m"/><s n="pl"/></r></p></e>
     <e r="RL" c="en plural"><p><l>few<s n="det"/><s n="qnt"/><s n="pl"/></l><r>poc<s n="det"/><s n="qnt"/><s n="f"/><s n="pl"/></r></p></e>
