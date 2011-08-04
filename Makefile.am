@@ -125,9 +125,9 @@ $(PREFVAR2)$(PREFIX2).automorf.bin: .deps/$(PREFVAR2)$(LANG2).dix $(BASENAME).$(
 
 $(PREFIX2).autobil.bin: .deps/$(PREFIX2).bil.dix
 	apertium-validate-dictionary .deps/$(PREFIX2).bil.dix
-	xsltproc translate-to-default-equivalent.xsl .deps/$(PREFIX2).bil.dix >tmp$(PREFIX2).autobil.dix
-	lt-comp rl tmp$(PREFIX2).autobil.dix $@
-	rm tmp$(PREFIX2).autobil.dix
+#	xsltproc translate-to-default-equivalent.xsl .deps/$(PREFIX2).bil.dix >tmp$(PREFIX2).autobil.dix
+	lt-comp rl .deps/$(PREFIX2).bil.dix $@
+#	rm tmp$(PREFIX2).autobil.dix
 
 $(PREFIX2b).autobil.bin: .deps/$(PREFIX2)_US.bil.dix
 	apertium-validate-dictionary .deps/$(PREFIX2)_US.bil.dix
