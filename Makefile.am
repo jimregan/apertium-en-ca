@@ -17,8 +17,8 @@ TARGETS_COMMON = $(PREFIX1).automorf.bin $(PREFIX1).autobil.bin $(PREFIX1).autog
      $(PREFIX2).autogen.bin $(PREFIX2).autopgen.bin \
      $(PREFIX1).genitive.bin \
      $(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin \
-     $(PREFIX1)-poly.autobil.bin $(PREFIX2)-poly.autobil.bin empty.bin \
      $(PREFIX2).t1x.bin $(PREFIX2).t2x.bin $(PREFIX2).t3x.bin modes \
+     $(PREFIX2).t1x.vmb $(PREFIX2).t2x.vmb $(PREFIX2).t3x.vmb \
      $(PREFIX2b).autogen.bin $(PREFVAR2)$(PREFIX1).autobil.bin
 
 TARGETS = $(TARGETS_COMMON)
@@ -212,11 +212,6 @@ $(PREFIX2).autopgen.bin: $(BASENAME).post-$(LANG1).dix
 #$(PREFIX2)_US.lextorbil.bin: $(BASENAME).$(PREFIX2)_US-lextor.dix
 #	lt-comp lr $(BASENAME).$(PREFIX2)_US-lextor.dix $@
 #
-$(PREFIX1)-poly.autobil.bin: $(BASENAME).$(PREFIX1)-poly.dix
-	lt-comp lr $(BASENAME).$(PREFIX1)-poly.dix $@
-
-$(PREFIX2)-poly.autobil.bin: $(BASENAME).$(PREFIX2)-poly.dix
-	lt-comp lr $(BASENAME).$(PREFIX2)-poly.dix $@
 
 $(PREFIX1).genitive.bin: $(BASENAME).$(PREFIX1).genitive.t1x
 	apertium-validate-transfer $(BASENAME).$(PREFIX1).genitive.t1x
@@ -246,21 +241,28 @@ $(PREFIX2).t3x.bin: $(BASENAME).$(PREFIX2).t3x
 	apertium-validate-postchunk $(BASENAME).$(PREFIX2).t3x
 	apertium-preprocess-transfer $(BASENAME).$(PREFIX2).t3x $@
 
-empty.bin: empty.t1x
-	apertium-validate-transfer empty.t1x
-	apertium-preprocess-transfer empty.t1x $@
+
+$(PREFIX2).t1x.vmb: $(BASENAME).$(PREFIX2).t1x
+	apertium-validate-transfer $(BASENAME).$(PREFIX2).t1x
+	apertium-compiler -i  $(BASENAME).$(PREFIX2).t1x -o $@
+
+$(PREFIX2).t2x.vmb: $(BASENAME).$(PREFIX2).t2x
+	apertium-validate-interchunk $(BASENAME).$(PREFIX2).t2x
+	apertium-compiler -i  $(BASENAME).$(PREFIX2).t2x -o $@
+
+$(PREFIX2).t3x.vmb: $(BASENAME).$(PREFIX2).t3x
+	apertium-validate-postchunk $(BASENAME).$(PREFIX2).t3x
+	apertium-compiler -i  $(BASENAME).$(PREFIX2).t3x -o $@
 
 EXTRA_DIST=$(BASENAME).$(LANG1).metadix  $(BASENAME).$(PREFIX1).dix \
 	   $(BASENAME).post-$(LANG1).dix $(BASENAME).post-$(LANG2).dix \
 	   $(BASENAME).$(LANG2).dix $(BASENAME).$(LANG1).tsx \
-	   $(BASENAME).$(LANG2).tsx empty.t1x \
-	   $(BASENAME).$(PREFIX1)-poly.dix $(BASENAME).$(PREFIX2)-poly.dix \
+	   $(BASENAME).$(LANG2).tsx \
 	   $(PREFIX1).prob $(PREFIX2).prob \
 	   buscaPar.xsl principal.xsl apertium-en-ca.en.metadix \
 	   $(PREFIX1)-supervised.make $(PREFIX1)-unsupervised.make \
 	   $(PREFIX2)-supervised.make $(PREFIX2)-unsupervised.make \
-	   $(LANG1)-tagger-data/README $(LANG2)-tagger-data/README \
-	   lextor-data/README lextor.make translate-to-default-equivalent.xsl \
+	   translate-to-default-equivalent.xsl \
 	   $(BASENAME).$(PREFIX1).genitive.t1x alt.xsl \
 	   $(BASENAME).$(PREFIX1).t1x $(BASENAME).$(PREFIX1).t2x \
 	   $(BASENAME).$(PREFIX1).t3x $(BASENAME).$(PREFIX2).t1x \
@@ -275,14 +277,14 @@ apertium_en_ca_DATA=$(PREFIX1).automorf.bin $(PREFIX2).automorf.bin \
 		    $(PREFIX1).autogen.bin $(PREFIX2).autogen.bin \
 		    $(PREFIX1).autopgen.bin $(PREFIX2).autopgen.bin \
 		    $(PREFVAR2)$(PREFIX1).autogen.bin $(PREFVAR2)$(PREFIX1).autopgen.bin\
-		    $(PREFIX1)-poly.autobil.bin $(PREFIX2)-poly.autobil.bin \
 		    $(PREFIX1).prob $(PREFIX2).prob \
 	            $(BASENAME).$(PREFIX1).genitive.t1x \
 		    $(PREFIX1).genitive.bin  \
 		    $(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin \
 		    $(PREFIX2).t1x.bin $(PREFIX2).t2x.bin $(PREFIX2).t3x.bin \
+		    $(PREFIX2).t1x.vmb $(PREFIX2).t2x.vmb $(PREFIX2).t3x.vmb \
 		    $(PREFIX1).mode $(PREFIX2).mode $(PREFVAR2)$(PREFIX1).mode $(PREFIX2b).mode\
-		    $(PREFIX1)-multi.mode $(PREFIX2)-multi.mode empty.bin
+		    $(PREFIX1)-multi.mode $(PREFIX2)-multi.mode
 
 apertium_en_cadir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
 apertium_en_modesdir=$(prefix)/share/apertium/modes/
