@@ -1,0 +1,765 @@
+<dictionary>
+  <alphabet/>
+  <sdefs>
+    <sdef n="adj"/>
+    <sdef n="adv"/>
+    <sdef n="comp"/>
+    <sdef n="det"/>
+    <sdef n="f"/>
+    <sdef n="GD"/>
+    <sdef n="ind"/>
+    <sdef n="m"/>
+    <sdef n="mf"/>
+    <sdef n="n"/>
+    <sdef n="ND"/>
+    <sdef n="pl"/>
+    <sdef n="pr"/>
+    <sdef n="pron"/>
+    <sdef n="sep"/>
+    <sdef n="sg"/>
+    <sdef n="sint"/>
+    <sdef n="sp"/>
+    <sdef n="vblex"/>
+  </sdefs>
+  <section id="main" type="standard">
+    <e r="LR" slr="abans_de D"><p><l>before<s n="pr"/></l><r>abans<b/>de<s n="pr"/></r></p></e>
+    <e r="LR" slr="abocar D"><p><l>dump<s n="vblex"/></l><r>abocar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="abric D"><p><l>coat<s n="n"/></l><r>abric<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="accentuar D"><p><l>stress<s n="vblex"/></l><r>accentuar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="aclamar D"><p><l>cheer<s n="vblex"/></l><r>aclamar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="acomiadar D"><p><l>fire<s n="vblex"/></l><r>acomiadar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="aconseguir D"><p><l>get<s n="vblex"/></l><r>aconseguir<s n="vblex"/></r></p></e>
+    <e r="LR" slr="acordar D"><p><l>agree<s n="vblex"/></l><r>acordar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="acord D"><p><l>agreement<s n="n"/></l><r>acord<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="acte D"><p><l>act<s n="n"/></l><r>acte<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="actuació D"><p><l>performance<s n="n"/></l><r>actuació<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="admetre D"><p><l>concede<s n="vblex"/></l><r>admetre<s n="vblex"/></r></p></e>
+    <e r="LR" slr="adonar-se de D"><p><l>realise<s n="vblex"/></l><r>adonar-se<g><b/>de</g><s n="vblex"/><s n="pron"/></r></p></e>
+    <e r="LR" slr="a D"><p><l>at<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
+    <e r="LR" slr="aficionat D"><p><l>fan<s n="n"/></l><r>aficionat<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="agafar D"><p><l>grasp<s n="vblex"/></l><r>agafar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="agafar D"><p><l>seize<s n="vblex"/></l><r>agafar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="agafar D"><p><l>take<s n="vblex"/></l><r>agafar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="agitar D"><p><l>wave<s n="vblex"/></l><r>agitar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="agulló D"><p><l>sting<s n="n"/></l><r>agulló<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="aixecar D"><p><l>raise<s n="vblex"/></l><r>aixecar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="aixeta D"><p><l>tap<s n="n"/></l><r>aixeta<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="alleujament D"><p><l>relief<s n="n"/></l><r>alleujament<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="alleujar D"><p><l>relieve<s n="vblex"/></l><r>alleujar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="alliberament D"><p><l>release<s n="n"/></l><r>alliberament<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="alliberar D"><p><l>discharge<s n="vblex"/></l><r>alliberar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="allotjament D"><p><l>housing<s n="n"/></l><r>allotjament<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="anell D"><p><l>ring<s n="n"/></l><r>anell<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="aparellar D"><p><l>match<s n="vblex"/></l><r>aparellar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="apel·lació D"><p><l>appeal<s n="n"/></l><r>apel·lació<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="aplicació D"><p><l>application<s n="n"/></l><r>aplicació<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="aplicar D"><p><l>enforce<s n="vblex"/></l><r>aplicar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="aprenentatge D"><p><l>learning<s n="n"/></l><r>aprenentatge<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="aprovar D"><p><l>endorse<s n="vblex"/></l><r>aprovar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="aproximació D"><p><l>approach<s n="n"/></l><r>aproximació<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="apuntar D"><p><l>aim<s n="vblex"/></l><r>apuntar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="argumentar D"><p><l>argue<s n="vblex"/></l><r>argumentar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="argument D"><p><l>argument<s n="n"/></l><r>argument<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="arma D" c="(només en plural, arms (en-ca). En plural serà polisèmica de en a ca, (braços, armes) i en sg es traduirà només com a 'braç')"><p><l>arm<s n="n"/><s n="pl"/></l><r>arma<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="LR" slr="armari D"><p><l>wardrobe<s n="n"/></l><r>armari<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="arranjament D"><p><l>arrangement<s n="n"/></l><r>arranjament<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="arribada D"><p><l>finish<s n="n"/></l><r>arribada<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="arrossegar D"><p><l>drag<s n="vblex"/></l><r>arrossegar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="arxiu D"><p><l>file<s n="n"/></l><r>arxiu<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="ascensor D"><p><l>lift<s n="n"/></l><r>ascensor<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="aspecte D"><p><l>look<s n="n"/></l><r>aspecte<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="assentir amb el cap D"><p><l>nod<s n="vblex"/></l><r>assentir<g><b/>amb<b/>el<b/>cap</g><s n="vblex"/></r></p></e>
+    <e r="LR" slr="assenyalar D"><p><l>point<s n="vblex"/></l><r>assenyalar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="autopista D"><p><l>highway<s n="n"/></l><r>autopista<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="avantatge D"><p><l>lead<s n="n"/></l><r>avantatge<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="avenç D"><p><l>advance<s n="n"/></l><r>avenç<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="avió D"><p><l>plane<s n="n"/></l><r>avió<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="avís D"><p><l>notice<s n="n"/></l><r>avís<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="avís D"><p><l>warning<s n="n"/></l><r>avís<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="badia D"><p><l>bay<s n="n"/></l><r>badia<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="balança D"><p><l>scale<s n="n"/><s n="pl"/></l><r>balança<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="LR" slr="banc D"><p><l>bank<s n="n"/></l><r>banc<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="banya D"><p><l>horn<s n="n"/></l><r>banya<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="bany D"><p><l>bath<s n="n"/></l><r>bany<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="bar D"><p><l>bar<s n="n"/></l><r>bar<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="beca D"><p><l>grant<s n="n"/></l><r>beca<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="becari D" a="carmentano"><p><l>scholar<s n="n"/></l><r>becari<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="bé D"><p><l>right<s n="adv"/></l><r>bé<s n="adv"/></r></p></e>
+    <e r="LR" slr="benefici D"><p><l>benefit<s n="n"/></l><r>benefici<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="bloc D"><p><l>block<s n="n"/></l><r>bloc<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="boca D"><p><l>mouth<s n="n"/></l><r>boca<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="bo D"><p><l>fine<s n="adj"/><s n="sint"/></l><r>bo<s n="adj"/></r></p></e>
+    <e r="LR" slr="bol D"><p><l>bowl<s n="n"/></l><r>bol<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="bota D"><p><l>boot<s n="n"/></l><r>bota<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="branca D"><p><l>branch<s n="n"/></l><r>branca<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="cabina D"><p><l>cabin<s n="n"/></l><r>cabina<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="cable D"><p><l>wire<s n="n"/></l><r>cable<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="cadira D"><p><l>chair<s n="n"/></l><r>cadira<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="cama D"><p><l>leg<s n="n"/></l><r>cama<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="camí D"><p><l>path<s n="n"/></l><r>camí<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="campana D"><p><l>bell<s n="n"/></l><r>campana<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="camp D"><p><l>field<s n="n"/></l><r>camp<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="cànon D"><p><l>canon<s n="n"/></l><r>cànon<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="canviar D"><p><l>shift<s n="vblex"/></l><r>canviar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="canvi D"><p><l>exchange<s n="n"/></l><r>canvi<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="canvi D"><p><l>shift<s n="n"/></l><r>canvi<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="capaç D"><p><l>able<s n="adj"/><s n="sint"/></l><r>capaç<s n="adj"/></r></p></e>
+    <e r="LR" slr="capital D" c="en sentit de ciutat, 'la capital'"><p><l>capital<s n="n"/></l><r>capital<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="caràcter D"><p><l>character<s n="n"/></l><r>caràcter<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="carn D"><p><l>flesh<s n="n"/></l><r>carn<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="càrrec D"><p><l>charge<s n="n"/></l><r>càrrec<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="carril D"><p><l>lane<s n="n"/></l><r>carril<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="carril D"><p><l>rail<s n="n"/></l><r>rail<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="carta D"><p><l>letter<s n="n"/></l><r>carta<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="cartó D"><p><l>cardboard<s n="n"/></l><r>cartó<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="cas D"><p><l>case<s n="n"/></l><r>cas<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="càsting D"><p><l>casting<s n="n"/></l><r>càsting<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="cèl·lula D"><p><l>cell<s n="n"/></l><r>cèl·lula<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="clau D"><p><l>key<s n="n"/></l><r>clau<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="clau D"><p><l>nail<s n="n"/></l><r>clau<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="closca D"><p><l>shell<s n="n"/></l><r>closca<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="col·lecció D"><p><l>collection<s n="n"/></l><r>col·lecció<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="collita D"><p><l>crop<s n="n"/></l><r>collita<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="colp D" vr="val"><p><l>stroke<s n="n"/></l><r>colp<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="colpejar D" vr="val"><p><l>hit<s n="vblex"/></l><r>colpejar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="colpejar D" vr="val"><p><l>knock<s n="vblex"/></l><r>colpejar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="colpejar D" vr="val"><p><l>strike<s n="vblex"/></l><r>colpejar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="com D" c="as you - com tu"><p><l>as<s n="pr"/></l><r>com<s n="pr"/></r></p></e>
+    <e r="LR" slr="comoditat D"><p><l>comfort<s n="n"/></l><r>comoditat<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="compassió D"><p><l>sympathy<s n="n"/></l><r>compassió<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="competència D"><p><l>competition<s n="n"/></l><r>competència<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="comptador D"><p><l>counter<s n="n"/></l><r>comptador<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="compte D"><p><l>account<s n="n"/></l><r>compte<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="comunicar D"><p><l>get<g><b/>across</g><s n="vblex"/></l><r>comunicar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="concernir D"><p><l>concern<s n="vblex"/></l><r>concernir<s n="vblex"/></r></p></e>
+    <e r="LR" slr="conducció D"><p><l>driving<s n="n"/></l><r>conducció<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="conduir D"><p><l>conduct<s n="vblex"/></l><r>conduir<s n="vblex"/></r></p></e>
+    <e r="LR" slr="conèixer D"><p><l>meet<s n="vblex"/></l><r>conèixer<s n="vblex"/></r></p></e>
+    <e r="LR" slr="confiança D"><p><l>trust<s n="n"/></l><r>confiança<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="considerar D"><p><l>reckon<s n="vblex"/></l><r>considerar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="contenidor D"><p><l>container<s n="n"/></l><r>contenidor<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="control D"><p><l>hold<s n="n"/></l><r>control<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="convenir D"><p><l>suit<s n="vblex"/></l><r>convenir<s n="vblex"/></r></p></e>
+    <e r="LR" slr="convidat D"><p><l>guest<s n="n"/></l><r>convidat<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="copa D"><p><l>cup<s n="n"/></l><r>copa<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="cop D" vr="cat"><p><l>stroke<s n="n"/></l><r>cop<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="copejar D" vr="cat"><p><l>hit<s n="vblex"/></l><r>copejar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="copejar D" vr="cat"><p><l>knock<s n="vblex"/></l><r>copejar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="copejar D" vr="cat"><p><l>strike<s n="vblex"/></l><r>copejar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="corbata D"><p><l>tie<s n="n"/></l><r>corbata<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="correcte D"><p><l>right<s n="adj"/></l><r>correcte<s n="adj"/></r></p></e>
+    <e r="LR" slr="córrer D"><p><l>run<s n="vblex"/></l><r>córrer<s n="vblex"/></r></p></e>
+    <e r="LR" slr="correu D"><p><l>post<s n="n"/></l><r>correu<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="créixer D"><p><l>grow<s n="vblex"/></l><r>créixer<s n="vblex"/></r></p></e>
+    <e r="LR" slr="crema D"><p><l>cream<s n="n"/></l><r>crema<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="cridar D"><p><l>shout<s n="vblex"/></l><r>cridar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="cursa D"><p><l>race<s n="n"/></l><r>cursa<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="curt D"><p><l>short<s n="adj"/><s n="sint"/></l><r>curt<s n="adj"/></r></p></e>
+    <e r="LR" slr="darrere D"><p><l>back<s n="n"/></l><r>darrere<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="decadència D"><p><l>decay<s n="n"/></l><r>decadència<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="decadència D"><p><l>decline<s n="n"/></l><r>decadència<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="declarar D"><p><l>state<s n="vblex"/></l><r>declarar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="de D" c="MG: He fell off his chair"><p><l>off<s n="pr"/></l><r>de<s n="pr"/></r></p></e>
+    <e r="LR" slr="deixar caure D"><p><l>drop<s n="vblex"/></l><r>deixar<g><b/>caure</g><s n="vblex"/></r></p></e>
+    <e r="LR" slr="deixar D"><p><l>leave<s n="vblex"/></l><r>deixar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="delicte D"><p><l>crime<s n="n"/></l><r>delicte<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="delicte D"><p><l>offence<s n="n"/></l><r>delicte<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="demostrar D"><p><l>demonstrate<s n="vblex"/></l><r>demostrar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="desguassar D"><p><l>drain<s n="vblex"/></l><r>desguassar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="despullar-se D"><p><l>strip<s n="vblex"/></l><r>despullar-se<s n="vblex"/><s n="pron"/></r></p></e>
+    <e r="LR" slr="destenyir-se D"><p><l>fade<s n="vblex"/></l><r>destenyir-se<s n="vblex"/><s n="pron"/></r></p></e>
+    <e r="LR" slr="diari D"><p><l>diary<s n="n"/></l><r>diari<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="dirigir D"><p><l>manage<s n="vblex"/></l><r>dirigir<s n="vblex"/></r></p></e>
+    <e r="LR" slr="discomfort D"><p><l>discomfort<s n="n"/></l><r>incomoditat<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="discurs D"><p><l>speech<s n="n"/></l><r>discurs<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="discutir D"><p><l>argue<s n="vblex"/></l><r>discutir<s n="vblex"/></r></p></e>
+    <e r="LR" slr="doblar D"><p><l>double<s n="vblex"/></l><r>doblar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="donar una patada a D"><p><l>kick<s n="vblex"/></l><r>donar<g><b/>una<b/>patada<b/>a</g><s n="vblex"/></r></p></e>
+    <e r="LR" slr="donar una propina a D"><p><l>tip<s n="vblex"/></l><r>donar<g><b/>una<b/>propina<b/>a</g><s n="vblex"/></r></p></e>
+    <e r="LR" slr="dret D"><p><l>right<s n="n"/></l><r>dret<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="dutxa D"><p><l>shower<s n="n"/></l><r>dutxa<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="editor D"><p><l>publisher<s n="n"/></l><r>editor<s n="n"/><s n="GD"/></r></p></e>
+    <e r="LR" slr="eliminació D"><p><l>disposal<s n="n"/></l><r>eliminació<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="embotir D"><p><l>stuff<s n="vblex"/></l><r>embotir<s n="vblex"/></r></p></e>
+    <e r="LR" slr="emetre D"><p><l>issue<s n="vblex"/></l><r>emetre<s n="vblex"/></r></p></e>
+    <e r="LR" slr="empaitar D"><p><l>hunt<s n="vblex"/></l><r>empaitar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="empènyer D" vr="cat"><p><l>push<s n="vblex"/></l><r>empènyer<s n="vblex"/></r></p></e>
+    <e r="LR" slr="encenall D"><p><l>shaving<s n="n"/></l><r>encenall<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="encendre D"><p><l>light<s n="vblex"/></l><r>encendre<s n="vblex"/></r></p></e>
+    <e r="LR" slr="endoll D"><p><l>plug<s n="n"/></l><r>endoll<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="en D"><p><l>in<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
+    <e r="LR" slr="en D"><p><l>on<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
+    <e r="LR" slr="enfocar D"><p><l>focus<s n="vblex"/></l><r>enfocar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="enllaç D"><p><l>link<s n="n"/></l><r>enllaç<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="enregistrament D"><p><l>recording<s n="n"/></l><r>enregistrament<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="entrar_a D"><p><l>enter<s n="vblex"/></l><r>entrar<g><b/>a</g><s n="vblex"/></r></p></e>
+    <e r="LR" slr="entregar D"><p><l>submit<s n="vblex"/></l><r>entregar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="entrenador D"><p><l>coach<s n="n"/></l><r>entrenador<s n="n"/><s n="GD"/></r></p></e>
+    <e r="LR" slr="equalitzador D"><p><l>equalizer<s n="n"/></l><r>equalitzador<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="equilibri D"><p><l>balance<s n="n"/></l><r>equilibri<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="esborrany D"><p><l>draft<s n="n"/></l><r>esborrany<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="esbós D"><p><l>outline<s n="n"/></l><r>esbós<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="escalfar D" vr="cat"><p><l>warm<s n="vblex"/></l><r>escalfar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="escalfar D" vr="val"><p><l>warm<s n="vblex"/></l><r>calfar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="esperit D"><p><l>spirit<s n="n"/></l><r>esperit<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="espremuda D"><p><l>squeeze<s n="n"/></l><r>espremuda<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="estació D"><p><l>season<s n="n"/></l><r>estació<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="estampar D"><p><l>stamp<s n="vblex"/></l><r>estampar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="estar D" c="(intransitiu)"><p><l>stand<s n="vblex"/></l><r>estar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="estat D"><p><l>status<s n="n"/></l><r>estat<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="estendre D"><p><l>spread<s n="vblex"/></l><r>estendre<s n="vblex"/></r></p></e>
+    <e r="LR" slr="estimació D"><p><l>estimate<s n="n"/></l><r>estimació<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="estimar D"><p><l>love<s n="vblex"/></l><r>estimar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="estirar D"><p><l>strain<s n="vblex"/></l><r>estirar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="estranger D" a="carmentano"><p><l>alien<s n="n"/></l><r>estranger<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="estrènyer D"><p><l>tighten<s n="vblex"/></l><r>estrènyer<s n="vblex"/></r></p></e>
+    <e r="LR" slr="estrès D"><p><l>stress<s n="n"/></l><r>estrès<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="estufa D"><p><l>stove<s n="n"/></l><r>estufa<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="etapa D"><p><l>stage<s n="n"/></l><r>etapa<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="examen D"><p><l>examination<s n="n"/></l><r>examen<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="explotar D"><p><l>explode<s n="vblex"/></l><r>explotar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="exposar D"><p><l>expose<s n="vblex"/></l><r>exposar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="exposició D"><p><l>exhibition<s n="n"/></l><r>exposició<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="exposició D"><p><l>exhibit<s n="n"/></l><r>exposició<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="extensió D"><p><l>extension<s n="n"/></l><r>extensió<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="extensió D"><p><l>extent<s n="n"/></l><r>extensió<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="extracció D"><p><l>removal<s n="n"/></l><r>extracció<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="facilitat D"><p><l>facility<s n="n"/></l><r>facilitat<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="factura D"><p><l>bill<s n="n"/></l><r>factura<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="fàrmac D"><p><l>drug<s n="n"/></l><r>fàrmac<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="ferrocarril D"><p><l>railway<s n="n"/></l><r>ferrocarril<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="ferro D"><p><l>iron<s n="n"/></l><r>ferro<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="figura D"><p><l>figure<s n="n"/></l><r>figura<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="fila D"><p><l>row<s n="n"/></l><r>fila<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="fil D"><p><l>thread<s n="n"/></l><r>fil<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="filtar D"><p><l>leak<s n="vblex"/></l><r>filtrar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="fixar D"><p><l>fix<s n="vblex"/></l><r>fixar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="foca D"><p><l>seal<s n="n"/></l><r>foca<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="formació D"><p><l>training<s n="n"/></l><r>formació<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="forma D"><p><l>form<s n="n"/></l><r>forma<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="forn D"><p><l>oven<s n="n"/></l><r>forn<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="forquilla D"><p><l>fork<s n="n"/></l><r>forquilla<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="fotografia D"><p><l>picture<s n="n"/></l><r>fotografia<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="fracàs D"><p><l>failure<s n="n"/></l><r>fracàs<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="frase D"><p><l>sentence<s n="n"/></l><r>frase<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="fred D"><p><l>cold<s n="n"/></l><r>fred<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="frontera D"><p><l>border<s n="n"/></l><r>frontera<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="fruita_seca D"><p><l>nut<s n="n"/></l><r>fruita<b/>seca<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="fulla D"><p><l>leaf<s n="n"/></l><r>fulla<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="furgoneta D"><p><l>van<s n="n"/></l><r>furgoneta<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="fusta D"><p><l>wood<s n="n"/><s n="sg"/></l><r>fusta<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="LR" slr="gabinet D"><p><l>cabinet<s n="n"/></l><r>gabinet<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="gamma D"><p><l>range<s n="n"/></l><r>gamma<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="ganga D"><p><l>bargain<s n="n"/></l><r>ganga<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="ganxo D"><p><l>hook<s n="n"/></l><r>ganxo<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="garantia D" a="carmentano"><p><l>undertaking<s n="n"/></l><r>garantia<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="garantia D"><p><l>guarantee<s n="n"/></l><r>garantia<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="gastar D"><p><l>spend<s n="vblex"/></l><r>gastar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="gaudir_de D"><p><l>enjoy<s n="vblex"/></l><r>gaudir<g><b/>de</g><s n="vblex"/></r></p></e>
+    <e r="LR" slr="gira D"><p><l>tour<s n="n"/></l><r>gira<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="giravoltar D"><p><l>spin<s n="vblex"/></l><r>giravoltar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="gorra D"><p><l>cap<s n="n"/></l><r>gorra<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="gosar D"><p><l>dare<s n="vblex"/></l><r>gosar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="gota D"><p><l>drop<s n="n"/></l><r>gota<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="governant D"><p><l>ruler<s n="n"/></l><r>governant<s n="n"/><s n="mf"/></r></p></e>
+    <e r="LR" slr="gra D"><p><l>grain<s n="n"/></l><r>gra<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="gràfic D"><p><l>chart<s n="n"/></l><r>gràfic<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="grapat D"><p><l>bunch<s n="n"/></l><r>grapat<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="grau D"><p><l>degree<s n="n"/></l><r>grau<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="grau D"><p><l>grade<s n="n"/></l><r>grau<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="habilitat D"><p><l>craft<s n="n"/></l><r>habilitat<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="hacer D"><p><l>make<g><b/>up</g><s n="vblex"/><s n="sep"/></l><r>fer<s n="vblex"/></r></p></e>
+    <e r="LR" slr="horari D"><p><l>schedule<s n="n"/></l><r>horari<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="humor D"><p><l>mood<s n="n"/></l><r>humor<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="iarda D"><p><l>yard<s n="n"/></l><r>iarda<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="imaginar-se D"><p><l>fancy<s n="vblex"/></l><r>imaginar-se<s n="vblex"/><s n="pron"/></r></p></e>
+    <e r="LR" slr="iman D"><p><l>magnet<s n="n"/></l><r>imant<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="impacte D" a="carmentano"><p><l>hit<s n="n"/></l><r>impacte<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="incitar D"><p><l>prompt<s n="vblex"/></l><r>incitar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="índex D"><p><l>rate<s n="n"/></l><r>índex<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="instal·lar D"><p><l>set<g><b/>up</g><s n="vblex"/><s n="sep"/></l><r>instal·lar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="insultar D"><p><l>abuse<s n="vblex"/></l><r>insultar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="intent D"><p><l>attempt<s n="n"/></l><r>intent<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="interruptor D"><p><l>switch<s n="n"/></l><r>interruptor<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="introduir D"><p><l>introduce<s n="vblex"/></l><r>introduir<s n="vblex"/></r></p></e>
+    <e r="LR" slr="invertir D"><p><l>reverse<s n="vblex"/></l><r>invertir<s n="vblex"/></r></p></e>
+    <e r="LR" slr="investigació D"><p><l>enquiry<s n="n"/></l><r>investigació<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="investigació D"><p><l>inquiry<s n="n"/></l><r>investigació<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="jaqueta D"><p><l>jacket<s n="n"/></l><r>jaqueta<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="joia D"><p><l>jewellery<s n="n"/><s n="pl"/></l><r>joia<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="LR" slr="joia D"><p><l>jewellery<s n="n"/><s n="sg"/></l><r>joia<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="LR" slr="judici D"><p><l>judgement<s n="n"/></l><r>judici<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="judici D"><p><l>judgment<s n="n"/></l><r>judici<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="judici D"><p><l>trial<s n="n"/></l><r>judici<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="jugador D"><p><l>player<s n="n"/></l><r>jugador<s n="n"/><s n="GD"/></r></p></e>
+    <e r="LR" slr="jugar D"><p><l>play<s n="vblex"/></l><r>jugar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="junta D"><p><l>joint<s n="n"/></l><r>junta<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="lesió D"><p><l>injury<s n="n"/></l><r>lesió<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="limitar D"><p><l>confine<s n="vblex"/></l><r>limitar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="llàgrima D"><p><l>tear<s n="n"/></l><r>llàgrima<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="llançament D"><p><l>launch<s n="n"/></l><r>llançament<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="llauna D"><p><l>tin<s n="n"/></l><r>llauna<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="lleuger D"><p><l>light<s n="adj"/><s n="sint"/></l><r>lleuger<s n="adj"/></r></p></e>
+    <e r="LR" slr="lliure D"><p><l>free<s n="adj"/><s n="sint"/></l><r>lliure<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR" slr="lluita D"><p><l>fight<s n="n"/></l><r>lluita<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="mànec D"><p><l>handle<s n="n"/></l><r>mànec<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="manera D"><p><l>way<s n="n"/></l><r>manera<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="màniga D"><p><l>sleeve<s n="n"/></l><r>màniga<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="mantenir D"><p><l>keep<s n="vblex"/></l><r>mantenir<s n="vblex"/></r></p></e>
+    <e r="LR" slr="maquinària D"><p><l>machinery<s n="n"/></l><r>maquinària<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="marcar D"><p><l>mark<s n="vblex"/></l><r>marcar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="marcar D"><p><l>score<s n="vblex"/></l><r>marcar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="marc D"><p><l>frame<s n="n"/></l><r>marc<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="melmelada D"><p><l>jam<s n="n"/></l><r>melmelada<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="menyspreu D"><p><l>contempt<s n="n"/></l><r>menyspreu<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="mestre D"><p><l>master<s n="n"/><s n="pl"/></l><r>mestre<s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e r="LR" slr="mestre D"><p><l>master<s n="n"/><s n="sg"/></l><r>mestre<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
+    <e r="LR" slr="mestre D"><p><l>teacher<s n="n"/><s n="pl"/></l><r>mestre<s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e r="LR" slr="mestre D"><p><l>teacher<s n="n"/><s n="sg"/></l><r>mestre<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
+    <e r="LR" slr="mida D"><p><l>measurement<s n="n"/></l><r>mida<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="mirar cap a D"><p><l>overlook<s n="vblex"/></l><r>mirar<g><b/>cap<b/>a</g><s n="vblex"/></r></p></e>
+    <e r="LR" slr="mirar D" c="(television)"><p><l>watch<s n="vblex"/></l><r>mirar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="mirar D"><p><l>look<s n="vblex"/></l><r>mirar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="mode D"><p><l>mode<s n="n"/></l><r>mode<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="mol D"><p><l>mole<s n="n"/></l><r>mol<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="mont D"><p><l>mount<s n="n"/></l><r>mont<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="motlle D" vl="en_GB" vr="cat"><p><l>mould<s n="n"/></l><r>motlle<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="motlle D" vl="en_US" vr="cat"><p><l>mold<s n="n"/></l><r>motlle<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="moviment D"><p><l>motion<s n="n"/></l><r>moviment<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="netejar D"><p><l>clear<s n="vblex"/></l><r>netejar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="només D"><p><l>just<s n="adv"/></l><r>només<s n="adv"/></r></p></e>
+    <e r="LR" slr="nota D"><p><l>note<s n="n"/></l><r>nota<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="objecte D"><p><l>object<s n="n"/></l><r>objecte<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="objectiu D"><p><l>goal<s n="n"/></l><r>objectiu<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="objectiu D"><p><l>target<s n="n"/></l><r>objectiu<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="ofegar-se D"><p><l>drown<s n="vblex"/></l><r>ofegar-se<s n="vblex"/><s n="pron"/></r></p></e>
+    <e r="LR" slr="oferta D"><p><l>bid<s n="n"/></l><r>oferta<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="oïda D"><p><l>hearing<s n="n"/></l><r>oïda<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="oli D"><p><l>oil<s n="n"/></l><r>oli<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="olla D"><p><l>pot<s n="n"/></l><r>olla<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="olor D"><p><l>smell<s n="n"/></l><r>olor<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="operació D"><p><l>operation<s n="n"/></l><r>operació<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="operar D"><p><l>operate<s n="vblex"/></l><r>operar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="ordit D"><p><l>warp<s n="n"/></l><r>ordit<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="ordre D"><p><l>command<s n="n"/></l><r>ordre<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="ordre D"><p><l>order<s n="n"/></l><r>ordre<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="òrgan D"><p><l>organ<s n="n"/></l><r>òrgan<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="oscil·lació D"><p><l>swing<s n="n"/></l><r>oscil·lació<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="pantalla D"><p><l>display<s n="n"/></l><r>pantalla<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="pantalons D"><p><l>pants<s n="n"/></l><r>pantalons<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="pany D"><p><l>lock<s n="n"/></l><r>pany<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="paper D"><p><l>paper<s n="n"/></l><r>paper<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="paquet D"><p><l>package<s n="n"/></l><r>paquet<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="paquet D"><p><l>pack<s n="n"/></l><r>paquet<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="parell D"><p><l>couple<s n="n"/></l><r>parell<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="parlant D"><p><l>speaker<s n="n"/></l><r>parlant<s n="n"/><s n="mf"/></r></p></e>
+    <e r="LR" slr="participació D" a="carmentano"><p><l>stake<s n="n"/></l><r>participació<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="partit D"><p><l>match<s n="n"/></l><r>partit<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="partit D"><p><l>party<s n="n"/></l><r>partit<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="pas D"><p><l>passing<s n="n"/></l><r>pas<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="pas D"><p><l>step<s n="n"/></l><r>pas<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="passador D"><p><l>pin<s n="n"/></l><r>passador<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="passatge D"><p><l>passage<s n="n"/></l><r>passatge<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="passeig D"><p><l>drive<s n="n"/></l><r>passeig<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="pebre D"><p><l>pepper<s n="n"/></l><r>pebre<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="peça D"><p><l>piece<s n="n"/></l><r>peça<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="pedra D"><p><l>stone<s n="n"/></l><r>pedra<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="pendent D"><p><l>slope<s n="n"/></l><r>pendent<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="per D"><p><l>by<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
+    <e r="LR" slr="per D"><p><l>for<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
+    <e r="LR" slr="perdre D"><p><l>miss<s n="vblex"/></l><r>perdre<s n="vblex"/></r></p></e>
+    <e r="LR" slr="període D"><p><l>spell<s n="n"/></l><r>període<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="permetre's D"><p><l>afford<s n="vblex"/></l><r>permetre's<s n="vblex"/><s n="pron"/></r></p></e>
+    <e r="LR" slr="persecució D"><p><l>pursuit<s n="n"/></l><r>persecució<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="perseguir D"><p><l>pursue<s n="vblex"/></l><r>perseguir<s n="vblex"/></r></p></e>
+    <e r="LR" slr="per_tot D"><p><l>throughout<s n="pr"/></l><r>per<b/>tot<s n="pr"/></r></p></e>
+    <e r="LR" slr="picada D"><p><l>bite<s n="n"/></l><r>picada<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="pila D"><p><l>battery<s n="n"/></l><r>pila<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="pila D"><p><l>pile<s n="n"/></l><r>pila<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="pintar D"><p><l>colour<s n="vblex"/></l><r>pintar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="piscina D"><p><l>pool<s n="n"/></l><r>piscina<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="pis D"><p><l>floor<s n="n"/></l><r>pis<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="pistola D"><p><l>gun<s n="n"/></l><r>pistola<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="plafó D"><p><l>panel<s n="n"/></l><r>plafó<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="plat D"><p><l>plate<s n="n"/></l><r>plat<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="plorar D"><p><l>cry<s n="vblex"/></l><r>plorar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="poder D"><p><l>power<s n="n"/></l><r>poder<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="pol D"><p><l>pole<s n="n"/></l><r>pol<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="política D"><p><l>policy<s n="n"/></l><r>política<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="pólvora D"><p><l>powder<s n="n"/><s n="sg"/></l><r>pólvora<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="LR" slr="porta D"><p><l>gate<s n="n"/></l><r>porta<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="posició D"><p><l>rank<s n="n"/></l><r>posició<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="posició D"><p><l>stand<s n="n"/></l><r>posició<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="possibilitat D"><p><l>chance<s n="n"/></l><r>possibilitat<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="preguntar-se D"><p><l>wonder<s n="vblex"/></l><r>preguntar-se<s n="vblex"/><s n="pron"/></r></p></e>
+    <e r="LR" slr="presentar D"><p><l>feature<s n="vblex"/></l><r>presentar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="primavera D"><p><l>spring<s n="n"/></l><r>primavera<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="procedir D"><p><l>proceed<s n="vblex"/></l><r>procedir<s n="vblex"/></r></p></e>
+    <e r="LR" slr="projectar D"><p><l>project<s n="vblex"/></l><r>projectar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="propietat D"><p><l>estate<s n="n"/></l><r>propietat<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="proposar D"><p><l>propose<s n="vblex"/></l><r>proposar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="puntada_de_peu D"><p><l>kick<s n="n"/></l><r>puntada<g><b/>de<b/>peu</g><s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="punta D"><p><l>tip<s n="n"/></l><r>punta<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="puntuació D"><p><l>score<s n="n"/></l><r>puntuació<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="punxó D"><p><l>punch<s n="n"/></l><r>punxó<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="qualificació D"><p><l>qualification<s n="n"/></l><r>qualificació<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="quart D"><p><l>quarter<s n="n"/></l><r>quart<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="qüestió D"><p><l>question<s n="n"/></l><r>qüestió<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="químic D"><p><l>chemist<s n="n"/></l><r>químic<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="raspall D"><p><l>brush<s n="n"/></l><r>raspall<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="ratllar D"><p><l>line<s n="vblex"/></l><r>ratllar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="ratllar D"><p><l>scratch<s n="vblex"/></l><r>ratllar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="ratpenat D"><p><l>bat<s n="n"/></l><r>ratpenat<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="rebutjar D"><p><l>dismiss<s n="vblex"/></l><r>rebutjar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="recepció D"><p><l>receipt<s n="n"/></l><r>recepció<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="reclamar D"><p><l>claim<s n="vblex"/></l><r>reclamar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="recollir D"><p><l>collect<s n="vblex"/></l><r>recollir<s n="vblex"/></r></p></e>
+    <e r="LR" slr="rècord D"><p><l>record<s n="n"/></l><r>rècord<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="redactar D"><p><l>draft<s n="vblex"/></l><r>redactar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="reflexió D" a="carmentano"><p><l>reflection<s n="n"/></l><r>reflexió<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="regal D"><p><l>gift<s n="n"/></l><r>regal<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="relacionar D"><p><l>relate<s n="vblex"/></l><r>relacionar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="repartiment D"><p><l>cast<s n="n"/></l><r>repartiment<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="repetir D"><p><l>echo<s n="vblex"/></l><r>repetir<s n="vblex"/></r></p></e>
+    <e r="LR" slr="representar D"><p><l>figure<s n="vblex"/></l><r>representar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="residu D"><p><l>waste<s n="n"/><s n="pl"/></l><r>residu<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="LR" slr="residu D"><p><l>waste<s n="n"/><s n="sg"/></l><r>residu<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="LR" slr="resoldre D"><p><l>settle<s n="vblex"/></l><r>resoldre<s n="vblex"/></r></p></e>
+    <e r="LR" slr="resta D"><p><l>rest<s n="n"/></l><r>resta<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="revisar D"><p><l>review<s n="vblex"/></l><r>revisar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="revisió D"><p><l>review<s n="n"/></l><r>revisió<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="revista D"><p><l>magazine<s n="n"/></l><r>revista<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="ritme D"><p><l>pace<s n="n"/></l><r>ritme<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="rock D"><p><l>rock<s n="n"/><s n="sg"/></l><r>rock<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="LR" slr="roda D"><p><l>wheel<s n="n"/></l><r>roda<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="rodolar D"><p><l>roll<s n="vblex"/></l><r>rodolar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="ronda D"><p><l>round<s n="n"/></l><r>ronda<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="ruïna D"><p><l>ruin<s n="n"/></l><r>ruïna<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="saber D"><p><l>know<s n="vblex"/></l><r>saber<s n="vblex"/></r></p></e>
+    <e r="LR" slr="sacsejar D"><p><l>rock<s n="vblex"/></l><r>sacsejar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="salvar D"><p><l>save<s n="vblex"/></l><r>salvar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="seient D"><p><l>seat<s n="n"/></l><r>seient<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="signe D"><p><l>sign<s n="n"/></l><r>signe<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="significar D"><p><l>mean<s n="vblex"/></l><r>significar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="sobre D"><p><l>over<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
+    <e r="LR" slr="soci D"><p><l>partner<s n="n"/></l><r>soci<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="sola D"><p><l>sole<s n="n"/></l><r>sola<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="sortida D"><p><l>output<s n="n"/></l><r>sortida<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="sostre D"><p><l>roof<s n="n"/></l><r>sostre<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="suavitzar D"><p><l>soften<s n="vblex"/></l><r>suavitzar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="superior D"><p><l>top<s n="adj"/></l><r>superior<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR" slr="taca D"><p><l>spot<s n="n"/></l><r>taca<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="tancar D"><p><l>enclose<s n="vblex"/></l><r>tancar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="tanc D"><p><l>tank<s n="n"/></l><r>tanc<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="tapa D"><p><l>lid<s n="n"/></l><r>tapa<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="targeta D"><p><l>card<s n="n"/></l><r>targeta<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="tastar D"><p><l>taste<s n="vblex"/></l><r>tastar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="tauler D"><p><l>board<s n="n"/></l><r>tauler<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="teatre D"><p><l>drama<s n="n"/></l><r>teatre<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="teixit D"><p><l>tissue<s n="n"/></l><r>teixit<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="tela D"><p><l>cloth<s n="n"/></l><r>tela<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="tema D"><p><l>subject<s n="n"/></l><r>tema<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="tensió D"><p><l>strain<s n="n"/></l><r>tensió<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="terme D"><p><l>term<s n="n"/></l><r>terme<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="tija D" a="carmentano"><p><l>stem<s n="n"/></l><r>tija<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="tira D"><p><l>strip<s n="n"/></l><r>tira<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="tiroteig D"><p><l>shooting<s n="n"/></l><r>tiroteig<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="titular D"><p><l>entitle<s n="vblex"/></l><r>titular<s n="vblex"/></r></p></e>
+    <e r="LR" slr="to D"><p><l>pitch<s n="n"/></l><r>to<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="tombant D"><p><l>turning<s n="n"/></l><r>tombant<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="torçar D"><p><l>twist<s n="vblex"/></l><r>torçar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="torrada D"><p><l>toast<s n="n"/></l><r>torrada<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="traçar D"><p><l>trace<s n="vblex"/></l><r>traçar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="trama D"><p><l>plot<s n="n"/></l><r>trama<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="transferència D"><p><l>transfer<s n="n"/></l><r>transferència<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="transferir D"><p><l>transfer<s n="vblex"/></l><r>transferir<s n="vblex"/></r></p></e>
+    <e r="LR" slr="trànsit D"><p><l>traffic<s n="n"/></l><r>trànsit<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="transportar D"><p><l>convey<s n="vblex"/></l><r>transportar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="transport D" a="doriua"><p><l>carriage<s n="n"/></l><r>transport<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="treballar D"><p><l>work<s n="vblex"/></l><r>treballar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="treball D"><p><l>labor<s n="n"/></l><r>treball<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="treball D"><p><l>labour<s n="n"/></l><r>treball<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="trencar D"><p><l>smash<s n="vblex"/></l><r>trencar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="trencar-se D"><p><l>snap<s n="vblex"/></l><r>trencar-se<s n="vblex"/><s n="pron"/></r></p></e>
+    <e r="LR" slr="triar D"><p><l>pick<s n="vblex"/></l><r>triar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="tronc D"><p><l>trunk<s n="n"/></l><r>tronc<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="trucada D"><p><l>call<s n="n"/></l><r>trucada<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="tub D"><p><l>pipe<s n="n"/></l><r>tub<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="tub D"><p><l>tube<s n="n"/></l><r>tub<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="unió D"><p><l>union<s n="n"/></l><r>unió<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="variar D"><p><l>range<s n="vblex"/></l><r>variar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="vela D"><p><l>sail<s n="n"/></l><r>vela<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="vestit D" a="carmentano"><p><l>costume<s n="n"/></l><r>vestit<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="vestit D"><p><l>suit<s n="n"/></l><r>vestit<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="vidre D" c="MG: Aquest 'glass' seria incomptable, potser podríem posar dues entrades al bil?"><p><l>glass<s n="n"/></l><r>vidre<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="volta D"><p><l>turn<s n="n"/></l><r>volta<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="voluntat D"><p><l>will<s n="n"/></l><r>voluntat<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="vot D"><p><l>vote<s n="n"/></l><r>vot<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="web D"><p><l>web<s n="n"/></l><r>web<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="xat D"><p><l>chat<s n="n"/></l><r>xat<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="xip D"><p><l>chip<s n="n"/></l><r>xip<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="xoc D"><p><l>crash<s n="n"/></l><r>xoc<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="xuclar D"><p><l>suck<s n="vblex"/></l><r>xuclar<s n="vblex"/></r></p></e>
+    <e r="RL" srl="able D"><p><l>able<s n="adj"/><s n="sint"/></l><r>capaç<s n="adj"/></r></p></e>
+    <e r="RL" srl="achieve D"><p><l>achieve<s n="vblex"/></l><r>aconseguir<s n="vblex"/></r></p></e>
+    <e r="RL" srl="acute D"><p><l>acute<s n="adj"/></l><r>agut<s n="adj"/></r></p></e>
+    <e r="RL" srl="adoration D"><p><l>adoration<s n="n"/></l><r>adoració<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="affair D"><p><l>affair<s n="n"/></l><r>assumpte<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="agreement D"><p><l>agreement<s n="n"/></l><r>acord<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="aim D"><p><l>aim<s n="vblex"/></l><r>apuntar<s n="vblex"/></r></p></e>
+    <e r="RL" srl="anger D"><p><l>anger<s n="n"/></l><r>ràbia<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="announcement D"><p><l>announcement<s n="n"/></l><r>anunci<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="answer D"><p><l>answer<s n="n"/></l><r>resposta<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="anxiety D"><p><l>anxiety<s n="n"/></l><r>ànsia<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="argue D"><p><l>argue<s n="vblex"/></l><r>discutir<s n="vblex"/></r></p></e>
+    <e r="RL" srl="arrival D"><p><l>arrival<s n="n"/></l><r>arribada<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="aspect D"><p><l>aspect<s n="n"/></l><r>aspecte<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="audience D"><p><l>audience<s n="n"/></l><r>audiència<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="baby D"><p><l>baby<s n="n"/></l><r>criatura<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="baron D"><p><l>baron<s n="n"/></l><r>baró<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="bath D"><p><l>bath<s n="n"/></l><r>bany<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="benefit D"><p><l>benefit<s n="n"/></l><r>prestació<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="between D"><p><l>between<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
+    <e r="RL" srl="blow D" vr="cat"><p><l>blow<s n="n"/></l><r>cop<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="blow D" vr="val"><p><l>blow<s n="n"/></l><r>colp<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="blue D"><p><l>blue<s n="n"/></l><r>blau<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="board D"><p><l>board<s n="n"/></l><r>junta<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="bomb D"><p><l>bomb<s n="n"/></l><r>bomba<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="bottom D"><p><l>bottom<s n="n"/><s n="ND"/></l><r>fons<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL" srl="bow D"><p><l>bow<s n="n"/></l><r>llaç<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="boyfriend D"><p><l>boyfriend<s n="n"/></l><r>xicot<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="brand D"><p><l>brand<s n="n"/></l><r>marca<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="broadcast D"><p><l>broadcast<s n="n"/></l><r>emissió<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="budget D"><p><l>budget<s n="n"/></l><r>pressupost<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="calculation D"><p><l>calculation<s n="n"/></l><r>càlcul<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="calm D"><p><l>calm<s n="adj"/><s n="sint"/></l><r>serè<s n="adj"/></r></p></e>
+    <e r="RL" srl="care D"><p><l>care<s n="n"/></l><r>cura<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="certain D"><p><l>certain<s n="adj"/></l><r>segur<s n="adj"/></r></p></e>
+    <e r="RL" srl="challenge D"><p><l>challenge<s n="vblex"/></l><r>desafiar<s n="vblex"/></r></p></e>
+    <e r="RL" srl="charm D"><p><l>charm<s n="n"/></l><r>simpatia<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="class D"><p><l>class<s n="n"/></l><r>classe<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="clear D"><p><l>clear<s n="adj"/><s n="sint"/></l><r>clar<s n="adj"/></r></p></e>
+    <e r="RL" srl="clock D"><p><l>clock<s n="n"/></l><r>rellotge<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="closet D" vl="en_US"><p><l>closet<s n="n"/></l><r>armari<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="coin D"><p><l>coin<s n="n"/></l><r>moneda<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="commitment D"><p><l>commitment<s n="n"/></l><r>compromís<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="companion D"><p><l>companion<s n="n"/></l><r>company<s n="n"/></r></p></e>
+    <e r="RL" srl="conduction D"><p><l>conduction<s n="n"/></l><r>conducció<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="conference D"><p><l>conference<s n="n"/></l><r>conferència<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="confidence D"><p><l>confidence<s n="n"/></l><r>confiança<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="cooking D"><p><l>cooking<s n="n"/></l><r>cuina<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="cool D"><p><l>cool<s n="adj"/><s n="sint"/></l><r>fresc<s n="adj"/></r></p></e>
+    <e r="RL" srl="council D"><p><l>council<s n="n"/></l><r>consell<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="coverage D"><p><l>coverage<s n="n"/></l><r>cobertura<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="crash D"><p><l>crash<s n="n"/></l><r>xoc<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="cupboard D" vl="en_GB"><p><l>cupboard<s n="n"/></l><r>armari<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="cup D"><p><l>cup<s n="n"/></l><r>copa<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="cut D"><p><l>cut<s n="n"/></l><r>tall<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="definite D"><p><l>definite<s n="adj"/></l><r>definitiu<s n="adj"/></r></p></e>
+    <e r="RL" srl="degree D"><p><l>degree<s n="n"/></l><r>grau<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="deposit D"><p><l>deposit<s n="n"/></l><r>dipòsit<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="detain D"><p><l>detain<s n="vblex"/></l><r>detenir<s n="vblex"/></r></p></e>
+    <e r="RL" srl="diet D"><p><l>diet<s n="n"/></l><r>règim<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="directly D"><p><l>directly<s n="adv"/></l><r>directament<s n="adv"/></r></p></e>
+    <e r="RL" srl="director D"><p><l>director<s n="n"/></l><r>director<s n="n"/></r></p></e>
+    <e r="RL" srl="discover D"><p><l>discover<s n="vblex"/></l><r>descobrir<s n="vblex"/></r></p></e>
+    <e r="RL" srl="disposal D"><p><l>disposal<s n="n"/></l><r>disposició<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="distribution D"><p><l>distribution<s n="n"/></l><r>repartiment<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="diverse D"><p><l>diverse<s n="adj"/></l><r>divers<s n="adj"/></r></p></e>
+    <e r="RL" srl="do D"><p><l>do<s n="vblex"/></l><r>fer<s n="vblex"/></r></p></e>
+    <e r="RL" srl="download D"><p><l>download<s n="vblex"/></l><r>descarregar<s n="vblex"/></r></p></e>
+    <e r="RL" srl="dress D"><p><l>dress<s n="n"/></l><r>vestit<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="drop D"><p><l>drop<s n="n"/></l><r>baixada<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="duty D"><p><l>duty<s n="n"/><s n="pl"/></l><r>deure<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL" srl="each D"><p><l>each<s n="det"/><s n="ind"/></l><r>cada<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
+    <e r="RL" srl="earn D"><p><l>earn<s n="vblex"/></l><r>cobrar<s n="vblex"/></r></p></e>
+    <e r="RL" srl="economic D"><p><l>economic<s n="adj"/></l><r>econòmic<s n="adj"/></r></p></e>
+    <e r="RL" srl="education D"><p><l>education<s n="n"/></l><r>ensenyament<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="employment D"><p><l>employment<s n="n"/></l><r>ocupació<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="ensure D"><p><l>ensure<s n="vblex"/></l><r>assegurar<s n="vblex"/></r></p></e>
+    <e r="RL" srl="entry D"><p><l>entry<s n="n"/></l><r>entrada<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="essay D"><p><l>essay<s n="n"/></l><r>assaig<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="except D"><p><l>except<s n="pr"/></l><r>menys<s n="pr"/></r></p></e>
+    <e r="RL" srl="exhibition D"><p><l>exhibition<s n="n"/></l><r>exposició<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="exit D"><p><l>exit<s n="n"/></l><r>sortida<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="expect D"><p><l>expect<s n="vblex"/></l><r>esperar<s n="vblex"/></r></p></e>
+    <e r="RL" srl="exploit D"><p><l>exploit<s n="vblex"/></l><r>explotar<s n="vblex"/></r></p></e>
+    <e r="RL" srl="external D"><p><l>external<s n="adj"/></l><r>exterior<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="RL" srl="fabric D" a="carmentano"><p><l>fabric<s n="n"/></l><r>teixit<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="fan D"><p><l>fan<s n="n"/></l><r>aficionat<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="fan D"><p><l>fan<s n="n"/></l><r>aficionat<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="feel D"><p><l>feel<s n="vblex"/></l><r>sentir<s n="vblex"/></r></p></e>
+    <e r="RL" srl="field D"><p><l>field<s n="n"/></l><r>camp<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="filter D"><p><l>filter<s n="vblex"/></l><r>filtrar<s n="vblex"/></r></p></e>
+    <e r="RL" srl="finger D"><p><l>finger<s n="n"/></l><r>dit<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="flat D"><p><l>flat<s n="n"/></l><r>pis<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="follow D"><p><l>follow<s n="vblex"/></l><r>seguir<s n="vblex"/></r></p></e>
+    <e r="RL" srl="for D"><p><l>for<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
+    <e r="RL" srl="formation D"><p><l>formation<s n="n"/></l><r>formació<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="fusion D" a="carmentano"><p><l>fusion<s n="n"/></l><r>fusió<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="game D"><p><l>game<s n="n"/></l><r>joc<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="girlfriend D"><p><l>girlfriend<s n="n"/></l><r>xicot<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="go_back D"><p><l>go<g><b/>back</g><s n="vblex"/></l><r>tornar<s n="vblex"/></r></p></e>
+    <e r="RL" srl="graduation D"><p><l>graduation<s n="n"/></l><r>graduació<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="great D"><p><l>great<s n="adj"/><s n="sint"/><s n="comp"/></l><r>major<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="RL" srl="handle D"><p><l>handle<s n="n"/></l><r>maneta<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="happen D"><p><l>happen<s n="vblex"/></l><r>passar<s n="vblex"/></r></p></e>
+    <e r="RL" srl="harm D"><p><l>harm<s n="n"/></l><r>mal<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="head D"><p><l>head<s n="n"/></l><r>cap<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="heart D"><p><l>heart<s n="n"/></l><r>cor<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="high D"><p><l>high<s n="adj"/><s n="sint"/></l><r>alt<s n="adj"/></r></p></e>
+    <e r="RL" srl="history D"><p><l>history<s n="n"/></l><r>història<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="hour D" c="MG: aquest hauria de ser quan 'hora' és plural en català, l'altra (time) en sg"><p><l>hour<s n="n"/></l><r>hora<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="house D"><p><l>house<s n="n"/></l><r>casa<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="impression D"><p><l>impression<s n="n"/></l><r>impressió<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="inability D"><p><l>inability<s n="n"/></l><r>incapacitat<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="index D"><p><l>index<s n="n"/></l><r>índex<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="in D"><p><l>in<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
+    <e r="RL" srl="inheritance D"><p><l>inheritance<s n="n"/></l><r>herència<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="institute D"><p><l>institute<s n="n"/></l><r>institut<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="interpretation D"><p><l>interpretation<s n="n"/></l><r>interpretació<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="interpreter D"><p><l>interpreter<s n="n"/></l><r>intèrpret<s n="n"/><s n="mf"/></r></p></e>
+    <e r="RL" srl="invest D"><p><l>invest<s n="vblex"/></l><r>invertir<s n="vblex"/></r></p></e>
+    <e r="RL" srl="investigate D"><p><l>investigate<s n="vblex"/></l><r>investigar<s n="vblex"/></r></p></e>
+    <e r="RL" srl="iron D"><p><l>iron<s n="n"/></l><r>planxa<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="judicial D"><p><l>judicial<s n="adj"/></l><r>judicial<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="RL" srl="keep D"><p><l>keep<s n="vblex"/></l><r>mantenir<s n="vblex"/></r></p></e>
+    <e r="RL" srl="lake D"><p><l>lake<s n="n"/></l><r>estany<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="land D"><p><l>land<s n="n"/></l><r>terra<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="language D"><p><l>language<s n="n"/></l><r>llengua<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="leaf D"><p><l>leaf<s n="n"/></l><r>fulla<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="leave D"><p><l>leave<s n="vblex"/></l><r>deixar<s n="vblex"/></r></p></e>
+    <e r="RL" srl="lesser D"><p><l>lesser<s n="adj"/></l><r>menor<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="RL" srl="letter D"><p><l>letter<s n="n"/></l><r>carta<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="letter D"><p><l>letter<s n="n"/></l><r>lletra<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="link D"><p><l>link<s n="n"/></l><r>enllaç<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="load D"><p><l>load<s n="n"/></l><r>càrrega<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="lose D"><p><l>lose<s n="vblex"/></l><r>perdre<s n="vblex"/></r></p></e>
+    <e r="RL" srl="loss D"><p><l>loss<s n="n"/></l><r>pèrdua<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="low D"><p><l>low<s n="adj"/><s n="sint"/></l><r>baix<s n="adj"/></r></p></e>
+    <e r="RL" srl="manually D"><p><l>manually<s n="adv"/></l><r>a<b/>mà<s n="adv"/></r></p></e>
+    <e r="RL" srl="mark D"><p><l>mark<s n="vblex"/></l><r>marcar<s n="vblex"/></r></p></e>
+    <e r="RL" srl="marriage D"><p><l>marriage<s n="n"/></l><r>matrimoni<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="matter D"><p><l>matter<s n="n"/></l><r>matèria<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="matter D"><p><l>matter<s n="vblex"/></l><r>importar<s n="vblex"/></r></p></e>
+    <e r="RL" srl="meat D"><p><l>meat<s n="n"/></l><r>carn<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="minimum D"><p><l>minimum<s n="adj"/></l><r>mínim<s n="adj"/></r></p></e>
+    <e r="RL" srl="morality D"><p><l>morality<s n="n"/></l><r>moralitat<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="neat D"><p><l>neat<s n="adj"/><s n="sint"/></l><r>polit<s n="adj"/></r></p></e>
+    <e r="RL" srl="network D"><p><l>network<s n="n"/></l><r>xarxa<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="nevertheless D"><p><l>nevertheless<s n="adv"/></l><r>no<b/>obstant<b/>això<s n="adv"/></r></p></e>
+    <e r="RL" srl="nice D"><p><l>nice<s n="adj"/><s n="sint"/></l><r>maco<s n="adj"/></r></p></e>
+    <e r="RL" srl="of D"><p><l>of<s n="pr"/></l><r>de<s n="pr"/></r></p></e>
+    <e r="RL" srl="offer D"><p><l>offer<s n="n"/></l><r>oferta<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="on D"><p><l>on<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
+    <e r="RL" srl="only D"><p><l>only<s n="adj"/></l><r>sol<s n="adj"/></r></p></e>
+    <e r="RL" srl="only D"><p><l>only<s n="adj"/></l><r>únic<s n="adj"/></r></p></e>
+    <e r="RL" srl="ore D"><p><l>ore<s n="n"/></l><r>mena<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="out D"><p><l>out<s n="adv"/></l><r>fora<s n="adv"/></r></p></e>
+    <e r="RL" srl="overtaking D"><p><l>overtaking<s n="n"/></l><r>avançament<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="participation D"><p><l>participation<s n="n"/></l><r>participació<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="party D"><p><l>party<s n="n"/></l><r>partit<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="path D"><p><l>path<s n="n"/></l><r>camí<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="pattern D"><p><l>pattern<s n="n"/></l><r>patró<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="pay D"><p><l>pay<s n="vblex"/></l><r>ingressar<s n="vblex"/></r></p></e>
+    <e r="RL" srl="penalty D"><p><l>penalty<s n="n"/></l><r>pena<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="pension D"><p><l>pension<s n="n"/></l><r>pensió<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="photography D"><p><l>photography<s n="n"/></l><r>fotografia<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="pig D"><p><l>pig<s n="n"/></l><r>porc<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="plan D"><p><l>plan<s n="n"/></l><r>pla<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="playground D"><p><l>playground<s n="n"/></l><r>pati<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" slr="política D"><p><l>policy<s n="n"/></l><r>política<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="politics D"><p><l>politics<s n="n"/></l><r>política<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="pop D" a="carmentano"><p><l>pop<s n="n"/><s n="sg"/></l><r>pop<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL" srl="present day D"><p><l>present<b/>day<s n="n"/></l><r>actualitat<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="prospect D"><p><l>prospect<s n="n"/></l><r>perspectiva<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="puncture D" a="termcat"><p><l>puncture<s n="n"/></l><r>punxada<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="purchase D"><p><l>purchase<s n="n"/></l><r>compra<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="quantity D"><p><l>quantity<s n="n"/></l><r>quantitat<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="query D"><p><l>query<s n="n"/></l><r>consulta<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="race D"><p><l>race<s n="n"/></l><r>raça<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="radius D"><p><l>radius<s n="n"/></l><r>radi<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="recipe D"><p><l>recipe<s n="n"/></l><r>recepta<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="record D"><p><l>record<s n="vblex"/></l><r>gravar<s n="vblex"/></r></p></e>
+    <e r="RL" srl="refer D"><p><l>refer<s n="vblex"/></l><r>referir<s n="vblex"/></r></p></e>
+    <e r="RL" srl="relation D"><p><l>relation<s n="n"/></l><r>relació<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="remain D"><p><l>remain<s n="vblex"/></l><r>quedar<s n="vblex"/></r></p></e>
+    <e r="RL" srl="remember D"><p><l>remember<s n="vblex"/></l><r>recordar<s n="vblex"/></r></p></e>
+    <e r="RL" srl="rent D"><p><l>rent<s n="n"/></l><r>lloguer<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="replacement D"><p><l>replacement<s n="n"/></l><r>substitució<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="replenish D"><p><l>replenish<s n="vblex"/></l><r>reomplir<s n="vblex"/></r></p></e>
+    <e r="RL" srl="research D"><p><l>research<s n="n"/></l><r>investigació<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="rhythm D"><p><l>rhythm<s n="n"/></l><r>ritme<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="right D"><p><l>right<s n="n"/></l><r>dret<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="rise D"><p><l>rise<s n="n"/></l><r>pujada<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="road D"><p><l>road<s n="n"/></l><r>via<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="root D"><p><l>root<s n="n"/></l><r>arrel<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="say D"><p><l>say<s n="vblex"/></l><r>dir<s n="vblex"/></r></p></e>
+    <e r="RL" srl="scanner D"><p><l>scanner<s n="n"/></l><r>escàner<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="score D"><p><l>score<s n="n"/></l><r>puntuació<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="script D" a="carmentano"><p><l>script<s n="n"/></l><r>guió<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="seem D"><p><l>seem<s n="vblex"/></l><r>semblar<s n="vblex"/></r></p></e>
+    <e r="RL" srl="sense D"><p><l>sense<s n="n"/></l><r>sentit<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="shape D"><p><l>shape<s n="n"/></l><r>forma<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="ship D"><p><l>ship<s n="n"/></l><r>nau<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="skin D"><p><l>skin<s n="n"/></l><r>pell<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="sky D"><p><l>sky<s n="n"/></l><r>cel<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="source D"><p><l>source<s n="n"/></l><r>font<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="space D"><p><l>space<s n="adj"/></l><r>espacial<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="RL" srl="spare D"><p><l>spare<s n="n"/></l><r>recanvi<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="staff D"><p><l>staff<s n="n"/></l><r>plantilla<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="stage D"><p><l>stage<s n="n"/></l><r>escenari<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="stair D"><p><l>stair<s n="n"/><s n="pl"/></l><r>escala<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="RL" srl="stamp D"><p><l>stamp<s n="n"/></l><r>segell<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="station D"><p><l>station<s n="n"/></l><r>estació<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="still D"><p><l>still<s n="adv"/></l><r>encara<s n="adv"/></r></p></e>
+    <e r="RL" srl="strength D"><p><l>strength<s n="n"/></l><r>força<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="striped D"><p><l>striped<s n="adj"/></l><r>rallat<s n="adj"/></r></p></e>
+    <e r="RL" srl="student D"><p><l>student<s n="n"/><s n="pl"/></l><r>alumne<s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e r="RL" srl="student D"><p><l>student<s n="n"/><s n="sg"/></l><r>alumne<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="RL" srl="student D"><p><l>student<s n="n"/><s n="sg"/></l><r>alumne<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL" srl="study D"><p><l>study<s n="n"/></l><r>estudi<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="subsidy D"><p><l>subsidy<s n="n"/></l><r>subvenció<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="subtract D"><p><l>subtract<s n="vblex"/></l><r>restar<s n="vblex"/></r></p></e>
+    <e r="RL" srl="surroundings D"><p><l>surroundings<s n="n"/><s n="pl"/></l><r>entorn<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL" srl="surroundings D"><p><l>surroundings<s n="n"/><s n="pl"/></l><r>entorn<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL" srl="tape D"><p><l>tape<s n="n"/></l><r>cinta<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="tax D"><p><l>tax<s n="n"/></l><r>taxa<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="teacher D"><p><l>teacher<s n="n"/><s n="pl"/></l><r>mestre<s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e r="RL" srl="teacher D"><p><l>teacher<s n="n"/><s n="sg"/></l><r>mestre<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="RL" srl="teacher D"><p><l>teacher<s n="n"/><s n="sg"/></l><r>mestre<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL" srl="test D"><p><l>test<s n="n"/></l><r>prova<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="test D"><p><l>test<s n="n"/></l><r>test<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="test D"><p><l>test<s n="vblex"/></l><r>provar<s n="vblex"/></r></p></e>
+    <e r="RL" srl="thread D"><p><l>thread<s n="n"/></l><r>fil<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="ticket D"><p><l>ticket<s n="n"/></l><r>bitllet<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="time D"><p><l>time<s n="n"/><s n="ND"/></l><r>temps<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL" srl="today D"><p><l>today<s n="adv"/></l><r>avui<s n="adv"/></r></p></e>
+    <e r="RL" srl="to D"><p><l>to<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
+    <e r="RL" srl="tone D"><p><l>tone<s n="n"/></l><r>to<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="touch D"><p><l>touch<s n="vblex"/></l><r>tocar<s n="vblex"/></r></p></e>
+    <e r="RL" srl="town council D"><p><l>town<b/>council<s n="n"/></l><r>ajuntament<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="town D"><p><l>town<s n="n"/></l><r>localitat<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="track D"><p><l>track<s n="n"/></l><r>pista<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="treat D"><p><l>treat<s n="vblex"/></l><r>tractar<s n="vblex"/></r></p></e>
+    <e r="RL" srl="trial D"><p><l>trial<s n="n"/></l><r>judici<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="turn D"><p><l>turn<s n="n"/></l><r>torn<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="twist D"><p><l>twist<s n="n"/></l><r>torsió<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="view D"><p><l>view<s n="n"/></l><r>vista<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="walk D"><p><l>walk<s n="n"/></l><r>passeig<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="walk D"><p><l>walk<s n="n"/></l><r>passejada<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="warning D"><p><l>warning<s n="n"/></l><r>avís<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="white D"><p><l>white<s n="n"/></l><r>blanc<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="will D"><p><l>will<s n="n"/></l><r>voluntat<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="win D"><p><l>win<s n="vblex"/></l><r>guanyar<s n="vblex"/></r></p></e>
+    <e r="RL" srl="wine_cellar D"><p><l>wine<b/>cellar<s n="n"/></l><r>bodega<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="wish D"><p><l>wish<s n="n"/></l><r>desig<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="withdraw D"><p><l>withdraw<s n="vblex"/></l><r>retirar<s n="vblex"/></r></p></e>
+    <e r="RL" srl="work D"><p><l>work<s n="n"/></l><r>treball<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" srl="work D" vr="cat"><p><l>work<s n="n"/></l><r>feina<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="work D" vr="val"><p><l>work<s n="n"/></l><r>faena<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="writing D"><p><l>writing<s n="n"/></l><r>redacció<s n="n"/><s n="f"/></r></p></e>
+    <e vr="cat" r="RL" srl="snail D"><p><l>snail<s n="n"/></l><r>cargol<s n="n"/><s n="m"/></r></p></e>
+    <e vr="val" r="RL" srl="snail D"><p><l>snail<s n="n"/></l><r>caragol<s n="n"/><s n="m"/></r></p></e>
+  </section>
+</dictionary>
