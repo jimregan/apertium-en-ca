@@ -56,13 +56,17 @@ a punt de			at the point of
 convertir-se			become
 tractar 			...
 fins a				up to
-a més				what's more, in addition
+a més				what's more, in addition, additionally
 ras i curt			long and short
+respecte a			compared to
+tercer				other
+amb aquest objectiu		with this objective, with this aim, to this end
 
 MWE:
 
 planta baixa			"ground floor"
 coneguda també com		"also known as"
+coneguda com			"known as"
 començar amb mal peu		"get off to a bad start", "start off on the wrong foot"
 anar arrossegant		"drag on"
 tauler d'anuncis		"notice board"
@@ -191,7 +195,26 @@ en funció de			"according to"
 professor convidat		"visiting professor"
 en tot el món			"all over the world"
 en resum
-
+per davant			"in front of"
+a corre-cuita			"quickly"
+a finals de			"at the end of"
+enfront de			"against"
+per més que			
+cambra fosca			"dark room"
+blanc i negre			"black and white"
+fins mèdics			"medical ends"
+terreny de joc			"pitch"
+durant un parell d'anys		"for a couple of years"
+igual a				"the same as"
+la major part de		"the majority of"
+tan ràpida			"quickly"
+pedre de cistina		"bladder stone"
+pati d'armes
+casa de colònies		"holiday camp"
+estrella fugaç			"shooting star"
+en la pràctica			"in practice"
+comença per			"begin with"
+donar pas			"give way"
 
 LEX:
 
@@ -204,6 +227,7 @@ LEX:
 "a POSS retorn"			upon POSS return
 "victòria sobre"		victory over
 "researches" 			<-- this should never be generated
+"photographies"			 <-- this should never be generated
 
 
 XFR:
@@ -241,3 +265,6 @@ fer que X vblex.prs		make X INF
 data de + DATE			dates from + DATE
 permetre a NP INF 		allow NP to INF
 va poder demostrar		was able to demonstrate
+va haver de tornar		had to return
+de setembre a novembre		from MONTH to MONTH (not 'of' / 'to')
+es van anar perfeccionant 	
