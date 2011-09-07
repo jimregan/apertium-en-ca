@@ -762,662 +762,116 @@
   </pardefs>
   <section id="main" type="standard">
 
-    <e srl="about"><p><l>about<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
-    <e><p><l>above<s n="pr"/></l><r>per<b/>sobre<b/>de<s n="pr"/></r></p></e>
-    <e r="LR" a="doriua"><p><l>according<s n="pr"/></l><r>segons<s n="pr"/></r></p></e>
-    <e><p><l>according<b/>to<s n="pr"/></l><r>segons<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>across<s n="pr"/></l><r>a<b/>través<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>just<b/>across<s n="pr"/></l><r>al<b/>otro<b/>lado<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>just<b/>across<b/>from<s n="pr"/></l><r>al<b/>otro<b/>lado<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>right<b/>across<s n="pr"/></l><r>a<b/>l'altre<b/>costat<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>right<b/>across<b/>from<s n="pr"/></l><r>a<b/>l'altre<b/>costat<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>straight<b/>across<s n="pr"/></l><r>directe<b/>a<b/>través<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>after<s n="pr"/></l><r>després<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>against<s n="pr"/></l><r>contra<s n="pr"/></r></p></e>
-    <e><p><l>ahead<b/>of<s n="pr"/></l><r>al<b/>capdavant<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>along<s n="pr"/></l><r>al<b/>llarg<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>along<b/>with<s n="pr"/></l><r>juntament<b/>amb<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>amid<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>among<s n="pr"/></l><r>enmig<b/>de<s n="pr"/></r></p></e>
-    <e srl="among"><p><l>among<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
-    <e r="LR" a="doriua"><p><l>amongst<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
-    <e><p><l>apart<b/>from<s n="pr"/></l><r>a<b/>part<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>apart<b/>from<s n="pr"/></l><r>a<b/>banda<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>around<s n="pr"/></l><r>al<b/>voltant<b/>de<s n="pr"/></r></p></e>
-    <e c="check"><p><l>around<b/>the<b/>middle<b/>of<s n="pr"/></l><r>a<b/>mitjan<s n="pr"/></r></p></e>
-    <e r="LR" slr="com D" c="as you - com tu"><p><l>as<s n="pr"/></l><r>com<s n="pr"/></r></p></e>
-    <e c="MG: 'Such thing as a computer' = 'com un' - arreglar si es pot"><p><l>as<b/>a<s n="pr"/></l><r>com<b/>a<s n="pr"/></r></p></e>
-    <e><p><l>as<b/>a<b/>consequence<b/>of<s n="pr"/></l><r>a<b/>conseqüència<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>as<b/>a<b/>result<b/>of<s n="pr"/></l><r>arran<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>as<b/>for<s n="pr"/></l><r>quant<b/>a<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>as<b/>regards<s n="pr"/></l><r>respecte<b/>a<s n="pr"/></r></p></e>
-    <e slr="a D" srl="at"><p><l>at<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
-    <e slr="en" srl="at"><p><l>at<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
-    <e><p><l>at<b/>a<b/>rate<b/>of<s n="pr"/></l><r>a<b/>raó<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>at<b/>about<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
-    <e><p><l>at<b/>the<b/>beginning<b/>of<s n="pr"/></l><r>a<b/>principis<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>at<b/>the<b/>expense<b/>of<s n="pr"/></l><r>a<b/>costa<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>at<b/>the<b/>time<b/>of<s n="pr"/></l><r>a<b/>l'hora<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>away<b/>from<s n="pr"/></l><r>lluny<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>because<b/>of<s n="pr"/></l><r>a<b/>causa<b/>de<s n="pr"/></r></p></e>
-    <e slr="abans_de D"><p><l>before<s n="pr"/></l><r>abans<b/>de<s n="pr"/></r></p></e>
-    <e r="LR" slr="davant"><p><l>before<s n="pr"/></l><r>davant<s n="pr"/></r></p></e>
-    <e><p><l>behind<s n="pr"/></l><r>darrere<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>below<s n="pr"/></l><r>sota<s n="pr"/></r></p></e>
-    <e a="doriua"><p><l>beside<s n="pr"/></l><r>al<b/>costat<b/>de<s n="pr"/></r></p></e>
-    <e srl="between D"><p><l>between<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
-    <e><p><l>beyond<s n="pr"/></l><r>allèn<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>but<s n="pr"/></l><r>excepte<s n="pr"/></r></p></e>
-    <e r="LR" slr="prop_de"><p><l>by<s n="pr"/></l><r>prop<b/>de<s n="pr"/></r></p></e>
-    <e slr="per D" srl="by"><p><l>by<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
-    <e><p><l>by<b/>dint<b/>of<s n="pr"/></l><r>a<b/>força<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>by<b/>means<b/>of<s n="pr"/></l><r>mitjançant<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>by<b/>means<b/>of<s n="pr"/></l><r>per<b/>mitjà<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>by<b/>reason<b/>of<s n="pr"/></l><r>per<b/>raó<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>concerning<s n="pr"/></l><r>respecte<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>despite<s n="pr"/></l><r>malgrat<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>due<b/>to<s n="pr"/></l><r>a<b/>causa<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>during<s n="pr"/></l><r>durant<s n="pr"/></r></p></e>
-    <e><p><l>except<s n="pr"/></l><r>excepte<s n="pr"/></r></p></e>
-    <e r="RL" srl="except D"><p><l>except<s n="pr"/></l><r>menys<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>except<b/>for<s n="pr"/></l><r>excepte<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>for<s n="pr"/></l><r>per<b/>a<s n="pr"/></r></p></e>
-    <e slr="per D" srl="for D"><p><l>for<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
-    <e r="LR" slr="durant"><p><l>for<s n="pr"/></l><r>durant<s n="pr"/></r></p></e>
-    <e><p><l>for<b/>the<b/>benefit<b/>of<s n="pr"/></l><r>en<b/>benefici<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>from<s n="pr"/></l><r>a<b/>partir<b/>de<s n="pr"/></r></p></e>
-    <e srl="from"><p><l>from<s n="pr"/></l><r>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>further<b/>to<s n="pr"/></l><r>amb<b/>referència<b/>a<s n="pr"/></r></p></e>
-    <e><p><l>headed<b/>by<s n="pr"/></l><r>al<b/>comandament<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>in<s n="pr"/></l><r>dins<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>in<s n="pr"/></l><r>a<b/>dins<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>in<s n="pr"/></l><r>dins<s n="pr"/></r></p></e>
-    <e slr="a" srl="in" c="això seria polisèmia o no? (in->en/a)"><p><l>in<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
-    <e slr="en D" srl="in D"><p><l>in<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
-    <e a="carmentano"><p><l>in<b/>accordance<b/>with<s n="pr"/></l><r>d'acord<b/>amb<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>addition<b/>to<s n="pr"/></l><r>a<b/>més<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>in<b/>addition<b/>to<s n="pr"/></l><r>a<b/>més<b/>a<b/>més<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>answer<b/>to<s n="pr"/></l><r>en<b/>resposta<b/>a<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>compliance<b/>with<s n="pr"/></l><r>de<b/>conformitat<b/>amb<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>exchange<b/>for<s n="pr"/></l><r>a<b/>canvi<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>favour<b/>of<s n="pr"/></l><r>a<b/>favor<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>in<b/>front<b/>of<s n="pr"/></l><r>davant<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>front<b/>of<s n="pr"/></l><r>davant<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>order<b/>of<s n="pr"/></l><r>per<b/>ordre<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>order<b/>to<s n="pr"/></l><r>per<b/>tal<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>pursuit<b/>of<s n="pr"/></l><r>en<b/>persecució<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>regard<b/>to<s n="pr"/></l><r>en<b/>relació<b/>amb<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>relation<b/>to<s n="pr"/></l><r>amb<b/>relació<b/>a<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>in<b/>reply<b/>to<s n="pr"/></l><r>en<b/>resposta<b/>a<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>so<b/>far<s n="pr"/></l><r>en<b/>la<b/>mesura<b/>que<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>spite<b/>of<s n="pr"/></l><r>malgrat<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>the<b/>middle<b/>of<s n="pr"/></l><r>al<b/>mig<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>view<b/>of<s n="pr"/></l><r>en<b/>vista<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>including<s n="pr"/></l><r>incloent-hi<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>inside<s n="pr"/></l><r>dins<s n="pr"/></r></p></e>
-    <e><p><l>instead<b/>of<s n="pr"/></l><r>en<b/>comptes<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>into<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
-    <e><p><l>less<b/>than<s n="pr"/></l><r>menys<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>less<b/>than<s n="pr"/></l><r>menys<b/>que<s n="pr"/></r></p></e>
-    <e><p><l>like<s n="pr"/></l><r>com<s n="pr"/></r></p></e>
-    <e srl="minus"><p><l>minus<s n="pr"/></l><r>menys<s n="pr"/></r></p></e>
-    <e c="more than five"><p><l>more<b/>than<s n="pr"/></l><r>més<b/>de<s n="pr"/></r></p></e>
-    <e r="RL" c="MG: en direcció en-ca, cal fer per transfer el canvi 'més de' 'més que'"><p><l>more<b/>than<s n="pr"/></l><r>més<b/>que<s n="pr"/></r></p></e>
-    <e><p><l>near<s n="pr"/></l><r>prop<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>no<b/>more<b/>than<s n="pr"/></l><r>no<b/>pas<b/>més<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>not<b/>less<b/>than<s n="pr"/></l><r>no<b/>pas<b/>menys<b/>de<s n="pr"/></r></p></e>
-    <e srl="of D"><p><l>of<s n="pr"/></l><r>de<s n="pr"/></r></p></e>
-    <e r="LR" slr="fora_de"><p><l>off<s n="pr"/></l><r>fora<b/>de<s n="pr"/></r></p></e>
-    <e r="LR" slr="de D" c="MG: He fell off his chair"><p><l>off<s n="pr"/></l><r>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>on<s n="pr"/></l><r>damunt<s n="pr"/></r></p></e>
-    <e slr="en D" srl="on"><p><l>on<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
-    <e slr="sobre" srl="on D"><p><l>on<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
-    <e><p><l>on<b/>behalf<b/>of<s n="pr"/></l><r>en<b/>nom<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>on<b/>top<b/>of<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>onto<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>out<s n="pr"/></l><r>fora<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>out<b/>of<s n="pr"/></l><r>fora<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>out<b/>of<s n="pr"/></l><r>fora<s n="pr"/></r></p></e>
-    <e><p><l>outside<s n="pr"/></l><r>a<b/>fora<b/>de<s n="pr"/></r></p></e>
-    <e r="LR" slr="sobre D"><p><l>over<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
-    <e r="LR" slr="durant"><p><l>over<s n="pr"/></l><r>durant<s n="pr"/></r></p></e>
-    <e><p><l>owing<b/>to<s n="pr"/></l><r>per<b/>causa<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>per<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>plus<s n="pr"/></l><r>més<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>rather<b/>than<s n="pr"/></l><r>més<b/>que<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>regarding<s n="pr"/></l><r>quant<b/>a<s n="pr"/></r></p></e>
-    <e><p><l>regarding<s n="pr"/></l><r>pel<b/>que<b/>fa<b/>a<s n="pr"/></r></p></e>
-    <e><p><l>right<b/>in<b/>front<b/>of<s n="pr"/></l><r>just<b/>davant<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>round<s n="pr"/></l><r>al<b/>voltant<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>shortly<b/>after<s n="pr"/></l><r>poc<b/>després<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>shortly<b/>before<s n="pr"/></l><r>poc<b/>abans<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>since<s n="pr"/></l><r>des<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>so<b/>as<b/>to<s n="pr"/></l><r>a<b/>fi<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>such<b/>as<s n="pr"/></l><r>com<b/>ara<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>such<b/>as<s n="pr"/></l><r>com<s n="pr"/></r></p></e>
-    <e><p><l>thanks<b/>to<s n="pr"/></l><r>gràcies<b/>a<s n="pr"/></r></p></e>
-    <e><p><l>through<s n="pr"/></l><r>a<b/>través<b/>de<s n="pr"/></r></p></e>
-    <e r="LR" slr="per_tot D"><p><l>throughout<s n="pr"/></l><r>per<b/>tot<s n="pr"/></r></p></e>
-    <e r="LR" slr="durant"><p><l>throughout<s n="pr"/></l><r>durant<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>to<s n="pr"/></l><r>cap<b/>a<s n="pr"/></r></p></e>
-    <e srl="to D"><p><l>to<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
-    <e><p><l>to<b/>the<b/>detriment<b/>of<s n="pr"/></l><r>en<b/>detriment<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>to<b/>the<b/>extent<b/>of<s n="pr"/></l><r>fins<b/>al<b/>punt<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>to<b/>the<b/>kind<b/>attention<b/>of<s n="pr"/></l><r>a<b/>l'atenció<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>together<b/>with<s n="pr"/></l><r>juntament<b/>amb<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>toward<s n="pr"/></l><r>cap<b/>a<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>towards<s n="pr"/></l><r>cap<b/>a<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>under<s n="pr"/></l><r>sota<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>under<s n="pr"/></l><r>sota<s n="pr"/></r></p></e>
-    <e><p><l>unlike<s n="pr"/></l><r>a<b/>diferència<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>until<s n="pr"/></l><r>fins<b/>a<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>until<s n="pr"/></l><r>fins<s n="pr"/></r></p></e>
-    <e><p><l>up<s n="pr"/></l><r>cap<b/>amunt<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>up<b/>to<s n="pr"/></l><r>fins<b/>a<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>upon<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
-    <e><p><l>via<s n="pr"/></l><r>via<s n="pr"/></r></p></e>
-    <e><p><l>with<s n="pr"/></l><r>amb<s n="pr"/></r></p></e>
-    <e><p><l>with<b/>a<b/>view<b/>to<s n="pr"/></l><r>amb<b/>vista<b/>a<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>with<b/>no<s n="pr"/></l><r>sense<s n="pr"/></r></p></e>
-    <e><p><l>with<b/>reference<b/>to<s n="pr"/></l><r>amb<b/>referència<b/>a<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>with<b/>regard<b/>to<s n="pr"/></l><r>respecte<b/>a<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>with<b/>regard<b/>to<s n="pr"/></l><r>amb<b/>relació<b/>a<s n="pr"/></r></p></e>
-    <e><p><l>with<b/>the<b/>exception<b/>of<s n="pr"/></l><r>a<b/>excepció<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>within<s n="pr"/></l><r>dins<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>without<s n="pr"/></l><r>sense<s n="pr"/></r></p></e>
-    <e><p><l>without<b/>prejudice<b/>to<s n="pr"/></l><r>sense<b/>perjudici<b/>de<s n="pr"/></r></p></e>
-    <e srl="about"><p><l>about<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
-    <e><p><l>above<s n="pr"/></l><r>per<b/>sobre<b/>de<s n="pr"/></r></p></e>
-    <e r="LR" a="doriua"><p><l>according<s n="pr"/></l><r>segons<s n="pr"/></r></p></e>
-    <e><p><l>according<b/>to<s n="pr"/></l><r>segons<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>across<s n="pr"/></l><r>a<b/>través<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>just<b/>across<s n="pr"/></l><r>al<b/>otro<b/>lado<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>just<b/>across<b/>from<s n="pr"/></l><r>al<b/>otro<b/>lado<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>right<b/>across<s n="pr"/></l><r>a<b/>l'altre<b/>costat<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>right<b/>across<b/>from<s n="pr"/></l><r>a<b/>l'altre<b/>costat<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>straight<b/>across<s n="pr"/></l><r>directe<b/>a<b/>través<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>after<s n="pr"/></l><r>després<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>against<s n="pr"/></l><r>contra<s n="pr"/></r></p></e>
-    <e><p><l>ahead<b/>of<s n="pr"/></l><r>al<b/>capdavant<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>along<s n="pr"/></l><r>al<b/>llarg<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>along<b/>with<s n="pr"/></l><r>juntament<b/>amb<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>amid<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>among<s n="pr"/></l><r>enmig<b/>de<s n="pr"/></r></p></e>
-    <e srl="among"><p><l>among<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
-    <e r="LR" a="doriua"><p><l>amongst<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
-    <e><p><l>apart<b/>from<s n="pr"/></l><r>a<b/>part<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>apart<b/>from<s n="pr"/></l><r>a<b/>banda<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>around<s n="pr"/></l><r>al<b/>voltant<b/>de<s n="pr"/></r></p></e>
-    <e c="check"><p><l>around<b/>the<b/>middle<b/>of<s n="pr"/></l><r>a<b/>mitjan<s n="pr"/></r></p></e>
-    <e r="LR" slr="com D" c="as you - com tu"><p><l>as<s n="pr"/></l><r>com<s n="pr"/></r></p></e>
-    <e c="MG: 'Such thing as a computer' = 'com un' - arreglar si es pot"><p><l>as<b/>a<s n="pr"/></l><r>com<b/>a<s n="pr"/></r></p></e>
-    <e><p><l>as<b/>a<b/>consequence<b/>of<s n="pr"/></l><r>a<b/>conseqüència<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>as<b/>a<b/>result<b/>of<s n="pr"/></l><r>arran<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>as<b/>for<s n="pr"/></l><r>quant<b/>a<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>as<b/>regards<s n="pr"/></l><r>respecte<b/>a<s n="pr"/></r></p></e>
-    <e slr="a D" srl="at"><p><l>at<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
-    <e slr="en" srl="at"><p><l>at<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
-    <e><p><l>at<b/>a<b/>rate<b/>of<s n="pr"/></l><r>a<b/>raó<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>at<b/>about<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
-    <e><p><l>at<b/>the<b/>beginning<b/>of<s n="pr"/></l><r>a<b/>principis<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>at<b/>the<b/>expense<b/>of<s n="pr"/></l><r>a<b/>costa<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>at<b/>the<b/>time<b/>of<s n="pr"/></l><r>a<b/>l'hora<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>away<b/>from<s n="pr"/></l><r>lluny<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>because<b/>of<s n="pr"/></l><r>a<b/>causa<b/>de<s n="pr"/></r></p></e>
-    <e slr="abans_de D"><p><l>before<s n="pr"/></l><r>abans<b/>de<s n="pr"/></r></p></e>
-    <e r="LR" slr="davant"><p><l>before<s n="pr"/></l><r>davant<s n="pr"/></r></p></e>
-    <e><p><l>behind<s n="pr"/></l><r>darrere<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>below<s n="pr"/></l><r>sota<s n="pr"/></r></p></e>
-    <e a="doriua"><p><l>beside<s n="pr"/></l><r>al<b/>costat<b/>de<s n="pr"/></r></p></e>
-    <e srl="between D"><p><l>between<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
-    <e><p><l>beyond<s n="pr"/></l><r>allèn<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>but<s n="pr"/></l><r>excepte<s n="pr"/></r></p></e>
-    <e r="LR" slr="prop_de"><p><l>by<s n="pr"/></l><r>prop<b/>de<s n="pr"/></r></p></e>
-    <e slr="per D" srl="by"><p><l>by<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
-    <e><p><l>by<b/>dint<b/>of<s n="pr"/></l><r>a<b/>força<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>by<b/>means<b/>of<s n="pr"/></l><r>mitjançant<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>by<b/>means<b/>of<s n="pr"/></l><r>per<b/>mitjà<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>by<b/>reason<b/>of<s n="pr"/></l><r>per<b/>raó<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>concerning<s n="pr"/></l><r>respecte<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>despite<s n="pr"/></l><r>malgrat<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>due<b/>to<s n="pr"/></l><r>a<b/>causa<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>during<s n="pr"/></l><r>durant<s n="pr"/></r></p></e>
-    <e><p><l>except<s n="pr"/></l><r>excepte<s n="pr"/></r></p></e>
-    <e r="RL" srl="except D"><p><l>except<s n="pr"/></l><r>menys<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>except<b/>for<s n="pr"/></l><r>excepte<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>for<s n="pr"/></l><r>per<b/>a<s n="pr"/></r></p></e>
-    <e slr="per D" srl="for D"><p><l>for<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
-    <e r="LR" slr="durant"><p><l>for<s n="pr"/></l><r>durant<s n="pr"/></r></p></e>
-    <e><p><l>for<b/>the<b/>benefit<b/>of<s n="pr"/></l><r>en<b/>benefici<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>from<s n="pr"/></l><r>a<b/>partir<b/>de<s n="pr"/></r></p></e>
-    <e srl="from"><p><l>from<s n="pr"/></l><r>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>further<b/>to<s n="pr"/></l><r>amb<b/>referència<b/>a<s n="pr"/></r></p></e>
-    <e><p><l>headed<b/>by<s n="pr"/></l><r>al<b/>comandament<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>in<s n="pr"/></l><r>dins<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>in<s n="pr"/></l><r>a<b/>dins<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>in<s n="pr"/></l><r>dins<s n="pr"/></r></p></e>
-    <e slr="a" srl="in" c="això seria polisèmia o no? (in->en/a)"><p><l>in<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
-    <e slr="en D" srl="in D"><p><l>in<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
-    <e a="carmentano"><p><l>in<b/>accordance<b/>with<s n="pr"/></l><r>d'acord<b/>amb<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>addition<b/>to<s n="pr"/></l><r>a<b/>més<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>in<b/>addition<b/>to<s n="pr"/></l><r>a<b/>més<b/>a<b/>més<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>answer<b/>to<s n="pr"/></l><r>en<b/>resposta<b/>a<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>compliance<b/>with<s n="pr"/></l><r>de<b/>conformitat<b/>amb<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>exchange<b/>for<s n="pr"/></l><r>a<b/>canvi<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>favour<b/>of<s n="pr"/></l><r>a<b/>favor<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>in<b/>front<b/>of<s n="pr"/></l><r>davant<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>front<b/>of<s n="pr"/></l><r>davant<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>order<b/>of<s n="pr"/></l><r>per<b/>ordre<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>order<b/>to<s n="pr"/></l><r>per<b/>tal<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>pursuit<b/>of<s n="pr"/></l><r>en<b/>persecució<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>regard<b/>to<s n="pr"/></l><r>en<b/>relació<b/>amb<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>relation<b/>to<s n="pr"/></l><r>amb<b/>relació<b/>a<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>in<b/>reply<b/>to<s n="pr"/></l><r>en<b/>resposta<b/>a<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>so<b/>far<s n="pr"/></l><r>en<b/>la<b/>mesura<b/>que<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>spite<b/>of<s n="pr"/></l><r>malgrat<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>the<b/>middle<b/>of<s n="pr"/></l><r>al<b/>mig<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>view<b/>of<s n="pr"/></l><r>en<b/>vista<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>including<s n="pr"/></l><r>incloent-hi<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>inside<s n="pr"/></l><r>dins<s n="pr"/></r></p></e>
-    <e><p><l>instead<b/>of<s n="pr"/></l><r>en<b/>comptes<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>into<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
-    <e><p><l>less<b/>than<s n="pr"/></l><r>menys<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>less<b/>than<s n="pr"/></l><r>menys<b/>que<s n="pr"/></r></p></e>
-    <e><p><l>like<s n="pr"/></l><r>com<s n="pr"/></r></p></e>
-    <e srl="minus"><p><l>minus<s n="pr"/></l><r>menys<s n="pr"/></r></p></e>
-    <e c="more than five"><p><l>more<b/>than<s n="pr"/></l><r>més<b/>de<s n="pr"/></r></p></e>
-    <e r="RL" c="MG: en direcció en-ca, cal fer per transfer el canvi 'més de' 'més que'"><p><l>more<b/>than<s n="pr"/></l><r>més<b/>que<s n="pr"/></r></p></e>
-    <e><p><l>near<s n="pr"/></l><r>prop<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>no<b/>more<b/>than<s n="pr"/></l><r>no<b/>pas<b/>més<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>not<b/>less<b/>than<s n="pr"/></l><r>no<b/>pas<b/>menys<b/>de<s n="pr"/></r></p></e>
-    <e srl="of D"><p><l>of<s n="pr"/></l><r>de<s n="pr"/></r></p></e>
-    <e r="LR" slr="fora_de"><p><l>off<s n="pr"/></l><r>fora<b/>de<s n="pr"/></r></p></e>
-    <e r="LR" slr="de D" c="MG: He fell off his chair"><p><l>off<s n="pr"/></l><r>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>on<s n="pr"/></l><r>damunt<s n="pr"/></r></p></e>
-    <e slr="en D" srl="on"><p><l>on<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
-    <e slr="sobre" srl="on D"><p><l>on<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
-    <e><p><l>on<b/>behalf<b/>of<s n="pr"/></l><r>en<b/>nom<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>on<b/>top<b/>of<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>onto<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>out<s n="pr"/></l><r>fora<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>out<b/>of<s n="pr"/></l><r>fora<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>out<b/>of<s n="pr"/></l><r>fora<s n="pr"/></r></p></e>
-    <e><p><l>outside<s n="pr"/></l><r>a<b/>fora<b/>de<s n="pr"/></r></p></e>
-    <e r="LR" slr="sobre D"><p><l>over<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
-    <e r="LR" slr="durant"><p><l>over<s n="pr"/></l><r>durant<s n="pr"/></r></p></e>
-    <e><p><l>owing<b/>to<s n="pr"/></l><r>per<b/>causa<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>per<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>plus<s n="pr"/></l><r>més<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>rather<b/>than<s n="pr"/></l><r>més<b/>que<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>regarding<s n="pr"/></l><r>quant<b/>a<s n="pr"/></r></p></e>
-    <e><p><l>regarding<s n="pr"/></l><r>pel<b/>que<b/>fa<b/>a<s n="pr"/></r></p></e>
-    <e><p><l>right<b/>in<b/>front<b/>of<s n="pr"/></l><r>just<b/>davant<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>round<s n="pr"/></l><r>al<b/>voltant<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>shortly<b/>after<s n="pr"/></l><r>poc<b/>després<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>shortly<b/>before<s n="pr"/></l><r>poc<b/>abans<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>since<s n="pr"/></l><r>des<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>so<b/>as<b/>to<s n="pr"/></l><r>a<b/>fi<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>such<b/>as<s n="pr"/></l><r>com<b/>ara<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>such<b/>as<s n="pr"/></l><r>com<s n="pr"/></r></p></e>
-    <e><p><l>thanks<b/>to<s n="pr"/></l><r>gràcies<b/>a<s n="pr"/></r></p></e>
-    <e><p><l>through<s n="pr"/></l><r>a<b/>través<b/>de<s n="pr"/></r></p></e>
-    <e r="LR" slr="per_tot D"><p><l>throughout<s n="pr"/></l><r>per<b/>tot<s n="pr"/></r></p></e>
-    <e r="LR" slr="durant"><p><l>throughout<s n="pr"/></l><r>durant<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>to<s n="pr"/></l><r>cap<b/>a<s n="pr"/></r></p></e>
-    <e srl="to D"><p><l>to<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
-    <e><p><l>to<b/>the<b/>detriment<b/>of<s n="pr"/></l><r>en<b/>detriment<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>to<b/>the<b/>extent<b/>of<s n="pr"/></l><r>fins<b/>al<b/>punt<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>to<b/>the<b/>kind<b/>attention<b/>of<s n="pr"/></l><r>a<b/>l'atenció<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>together<b/>with<s n="pr"/></l><r>juntament<b/>amb<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>toward<s n="pr"/></l><r>cap<b/>a<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>towards<s n="pr"/></l><r>cap<b/>a<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>under<s n="pr"/></l><r>sota<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>under<s n="pr"/></l><r>sota<s n="pr"/></r></p></e>
-    <e><p><l>unlike<s n="pr"/></l><r>a<b/>diferència<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>until<s n="pr"/></l><r>fins<b/>a<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>until<s n="pr"/></l><r>fins<s n="pr"/></r></p></e>
-    <e><p><l>up<s n="pr"/></l><r>cap<b/>amunt<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>up<b/>to<s n="pr"/></l><r>fins<b/>a<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>upon<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
-    <e><p><l>via<s n="pr"/></l><r>via<s n="pr"/></r></p></e>
-    <e><p><l>with<s n="pr"/></l><r>amb<s n="pr"/></r></p></e>
-    <e><p><l>with<b/>a<b/>view<b/>to<s n="pr"/></l><r>amb<b/>vista<b/>a<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>with<b/>no<s n="pr"/></l><r>sense<s n="pr"/></r></p></e>
-    <e><p><l>with<b/>reference<b/>to<s n="pr"/></l><r>amb<b/>referència<b/>a<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>with<b/>regard<b/>to<s n="pr"/></l><r>respecte<b/>a<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>with<b/>regard<b/>to<s n="pr"/></l><r>amb<b/>relació<b/>a<s n="pr"/></r></p></e>
-    <e><p><l>with<b/>the<b/>exception<b/>of<s n="pr"/></l><r>a<b/>excepció<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>within<s n="pr"/></l><r>dins<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>without<s n="pr"/></l><r>sense<s n="pr"/></r></p></e>
-    <e><p><l>without<b/>prejudice<b/>to<s n="pr"/></l><r>sense<b/>perjudici<b/>de<s n="pr"/></r></p></e>
-    <e srl="about"><p><l>about<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
-    <e><p><l>above<s n="pr"/></l><r>per<b/>sobre<b/>de<s n="pr"/></r></p></e>
-    <e r="LR" a="doriua"><p><l>according<s n="pr"/></l><r>segons<s n="pr"/></r></p></e>
-    <e><p><l>according<b/>to<s n="pr"/></l><r>segons<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>across<s n="pr"/></l><r>a<b/>través<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>just<b/>across<s n="pr"/></l><r>al<b/>otro<b/>lado<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>just<b/>across<b/>from<s n="pr"/></l><r>al<b/>otro<b/>lado<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>right<b/>across<s n="pr"/></l><r>a<b/>l'altre<b/>costat<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>right<b/>across<b/>from<s n="pr"/></l><r>a<b/>l'altre<b/>costat<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>straight<b/>across<s n="pr"/></l><r>directe<b/>a<b/>través<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>after<s n="pr"/></l><r>després<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>against<s n="pr"/></l><r>contra<s n="pr"/></r></p></e>
-    <e><p><l>ahead<b/>of<s n="pr"/></l><r>al<b/>capdavant<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>along<s n="pr"/></l><r>al<b/>llarg<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>along<b/>with<s n="pr"/></l><r>juntament<b/>amb<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>amid<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>among<s n="pr"/></l><r>enmig<b/>de<s n="pr"/></r></p></e>
-    <e srl="among"><p><l>among<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
-    <e r="LR" a="doriua"><p><l>amongst<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
-    <e><p><l>apart<b/>from<s n="pr"/></l><r>a<b/>part<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>apart<b/>from<s n="pr"/></l><r>a<b/>banda<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>around<s n="pr"/></l><r>al<b/>voltant<b/>de<s n="pr"/></r></p></e>
-    <e c="check"><p><l>around<b/>the<b/>middle<b/>of<s n="pr"/></l><r>a<b/>mitjan<s n="pr"/></r></p></e>
-    <e r="LR" slr="com D" c="as you - com tu"><p><l>as<s n="pr"/></l><r>com<s n="pr"/></r></p></e>
-    <e c="MG: 'Such thing as a computer' = 'com un' - arreglar si es pot"><p><l>as<b/>a<s n="pr"/></l><r>com<b/>a<s n="pr"/></r></p></e>
-    <e><p><l>as<b/>a<b/>consequence<b/>of<s n="pr"/></l><r>a<b/>conseqüència<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>as<b/>a<b/>result<b/>of<s n="pr"/></l><r>arran<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>as<b/>for<s n="pr"/></l><r>quant<b/>a<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>as<b/>regards<s n="pr"/></l><r>respecte<b/>a<s n="pr"/></r></p></e>
-    <e slr="a D" srl="at"><p><l>at<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
-    <e slr="en" srl="at"><p><l>at<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
-    <e><p><l>at<b/>a<b/>rate<b/>of<s n="pr"/></l><r>a<b/>raó<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>at<b/>about<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
-    <e><p><l>at<b/>the<b/>beginning<b/>of<s n="pr"/></l><r>a<b/>principis<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>at<b/>the<b/>expense<b/>of<s n="pr"/></l><r>a<b/>costa<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>at<b/>the<b/>time<b/>of<s n="pr"/></l><r>a<b/>l'hora<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>away<b/>from<s n="pr"/></l><r>lluny<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>because<b/>of<s n="pr"/></l><r>a<b/>causa<b/>de<s n="pr"/></r></p></e>
-    <e slr="abans_de D"><p><l>before<s n="pr"/></l><r>abans<b/>de<s n="pr"/></r></p></e>
-    <e r="LR" slr="davant"><p><l>before<s n="pr"/></l><r>davant<s n="pr"/></r></p></e>
-    <e><p><l>behind<s n="pr"/></l><r>darrere<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>below<s n="pr"/></l><r>sota<s n="pr"/></r></p></e>
-    <e a="doriua"><p><l>beside<s n="pr"/></l><r>al<b/>costat<b/>de<s n="pr"/></r></p></e>
-    <e srl="between D"><p><l>between<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
-    <e><p><l>beyond<s n="pr"/></l><r>allèn<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>but<s n="pr"/></l><r>excepte<s n="pr"/></r></p></e>
-    <e r="LR" slr="prop_de"><p><l>by<s n="pr"/></l><r>prop<b/>de<s n="pr"/></r></p></e>
-    <e slr="per D" srl="by"><p><l>by<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
-    <e><p><l>by<b/>dint<b/>of<s n="pr"/></l><r>a<b/>força<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>by<b/>means<b/>of<s n="pr"/></l><r>mitjançant<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>by<b/>means<b/>of<s n="pr"/></l><r>per<b/>mitjà<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>by<b/>reason<b/>of<s n="pr"/></l><r>per<b/>raó<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>concerning<s n="pr"/></l><r>respecte<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>despite<s n="pr"/></l><r>malgrat<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>due<b/>to<s n="pr"/></l><r>a<b/>causa<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>during<s n="pr"/></l><r>durant<s n="pr"/></r></p></e>
-    <e><p><l>except<s n="pr"/></l><r>excepte<s n="pr"/></r></p></e>
-    <e r="RL" srl="except D"><p><l>except<s n="pr"/></l><r>menys<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>except<b/>for<s n="pr"/></l><r>excepte<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>for<s n="pr"/></l><r>per<b/>a<s n="pr"/></r></p></e>
-    <e slr="per D" srl="for D"><p><l>for<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
-    <e r="LR" slr="durant"><p><l>for<s n="pr"/></l><r>durant<s n="pr"/></r></p></e>
-    <e><p><l>for<b/>the<b/>benefit<b/>of<s n="pr"/></l><r>en<b/>benefici<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>from<s n="pr"/></l><r>a<b/>partir<b/>de<s n="pr"/></r></p></e>
-    <e srl="from"><p><l>from<s n="pr"/></l><r>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>further<b/>to<s n="pr"/></l><r>amb<b/>referència<b/>a<s n="pr"/></r></p></e>
-    <e><p><l>headed<b/>by<s n="pr"/></l><r>al<b/>comandament<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>in<s n="pr"/></l><r>dins<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>in<s n="pr"/></l><r>a<b/>dins<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>in<s n="pr"/></l><r>dins<s n="pr"/></r></p></e>
-    <e slr="a" srl="in" c="això seria polisèmia o no? (in->en/a)"><p><l>in<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
-    <e slr="en D" srl="in D"><p><l>in<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
-    <e a="carmentano"><p><l>in<b/>accordance<b/>with<s n="pr"/></l><r>d'acord<b/>amb<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>addition<b/>to<s n="pr"/></l><r>a<b/>més<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>in<b/>addition<b/>to<s n="pr"/></l><r>a<b/>més<b/>a<b/>més<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>answer<b/>to<s n="pr"/></l><r>en<b/>resposta<b/>a<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>compliance<b/>with<s n="pr"/></l><r>de<b/>conformitat<b/>amb<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>exchange<b/>for<s n="pr"/></l><r>a<b/>canvi<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>favour<b/>of<s n="pr"/></l><r>a<b/>favor<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>in<b/>front<b/>of<s n="pr"/></l><r>davant<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>front<b/>of<s n="pr"/></l><r>davant<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>order<b/>of<s n="pr"/></l><r>per<b/>ordre<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>order<b/>to<s n="pr"/></l><r>per<b/>tal<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>pursuit<b/>of<s n="pr"/></l><r>en<b/>persecució<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>regard<b/>to<s n="pr"/></l><r>en<b/>relació<b/>amb<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>relation<b/>to<s n="pr"/></l><r>amb<b/>relació<b/>a<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>in<b/>reply<b/>to<s n="pr"/></l><r>en<b/>resposta<b/>a<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>so<b/>far<s n="pr"/></l><r>en<b/>la<b/>mesura<b/>que<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>spite<b/>of<s n="pr"/></l><r>malgrat<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>the<b/>middle<b/>of<s n="pr"/></l><r>al<b/>mig<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>view<b/>of<s n="pr"/></l><r>en<b/>vista<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>including<s n="pr"/></l><r>incloent-hi<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>inside<s n="pr"/></l><r>dins<s n="pr"/></r></p></e>
-    <e><p><l>instead<b/>of<s n="pr"/></l><r>en<b/>comptes<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>into<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
-    <e><p><l>less<b/>than<s n="pr"/></l><r>menys<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>less<b/>than<s n="pr"/></l><r>menys<b/>que<s n="pr"/></r></p></e>
-    <e><p><l>like<s n="pr"/></l><r>com<s n="pr"/></r></p></e>
-    <e srl="minus"><p><l>minus<s n="pr"/></l><r>menys<s n="pr"/></r></p></e>
-    <e c="more than five"><p><l>more<b/>than<s n="pr"/></l><r>més<b/>de<s n="pr"/></r></p></e>
-    <e r="RL" c="MG: en direcció en-ca, cal fer per transfer el canvi 'més de' 'més que'"><p><l>more<b/>than<s n="pr"/></l><r>més<b/>que<s n="pr"/></r></p></e>
-    <e><p><l>near<s n="pr"/></l><r>prop<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>no<b/>more<b/>than<s n="pr"/></l><r>no<b/>pas<b/>més<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>not<b/>less<b/>than<s n="pr"/></l><r>no<b/>pas<b/>menys<b/>de<s n="pr"/></r></p></e>
-    <e srl="of D"><p><l>of<s n="pr"/></l><r>de<s n="pr"/></r></p></e>
-    <e r="LR" slr="fora_de"><p><l>off<s n="pr"/></l><r>fora<b/>de<s n="pr"/></r></p></e>
-    <e r="LR" slr="de D" c="MG: He fell off his chair"><p><l>off<s n="pr"/></l><r>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>on<s n="pr"/></l><r>damunt<s n="pr"/></r></p></e>
-    <e slr="en D" srl="on"><p><l>on<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
-    <e slr="sobre" srl="on D"><p><l>on<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
-    <e><p><l>on<b/>behalf<b/>of<s n="pr"/></l><r>en<b/>nom<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>on<b/>top<b/>of<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>onto<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>out<s n="pr"/></l><r>fora<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>out<b/>of<s n="pr"/></l><r>fora<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>out<b/>of<s n="pr"/></l><r>fora<s n="pr"/></r></p></e>
-    <e><p><l>outside<s n="pr"/></l><r>a<b/>fora<b/>de<s n="pr"/></r></p></e>
-    <e r="LR" slr="sobre D"><p><l>over<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
-    <e r="LR" slr="durant"><p><l>over<s n="pr"/></l><r>durant<s n="pr"/></r></p></e>
-    <e><p><l>owing<b/>to<s n="pr"/></l><r>per<b/>causa<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>per<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>plus<s n="pr"/></l><r>més<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>rather<b/>than<s n="pr"/></l><r>més<b/>que<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>regarding<s n="pr"/></l><r>quant<b/>a<s n="pr"/></r></p></e>
-    <e><p><l>regarding<s n="pr"/></l><r>pel<b/>que<b/>fa<b/>a<s n="pr"/></r></p></e>
-    <e><p><l>right<b/>in<b/>front<b/>of<s n="pr"/></l><r>just<b/>davant<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>round<s n="pr"/></l><r>al<b/>voltant<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>shortly<b/>after<s n="pr"/></l><r>poc<b/>després<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>shortly<b/>before<s n="pr"/></l><r>poc<b/>abans<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>since<s n="pr"/></l><r>des<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>so<b/>as<b/>to<s n="pr"/></l><r>a<b/>fi<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>such<b/>as<s n="pr"/></l><r>com<b/>ara<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>such<b/>as<s n="pr"/></l><r>com<s n="pr"/></r></p></e>
-    <e><p><l>thanks<b/>to<s n="pr"/></l><r>gràcies<b/>a<s n="pr"/></r></p></e>
-    <e><p><l>through<s n="pr"/></l><r>a<b/>través<b/>de<s n="pr"/></r></p></e>
-    <e r="LR" slr="per_tot D"><p><l>throughout<s n="pr"/></l><r>per<b/>tot<s n="pr"/></r></p></e>
-    <e r="LR" slr="durant"><p><l>throughout<s n="pr"/></l><r>durant<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>to<s n="pr"/></l><r>cap<b/>a<s n="pr"/></r></p></e>
-    <e srl="to D"><p><l>to<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
-    <e><p><l>to<b/>the<b/>detriment<b/>of<s n="pr"/></l><r>en<b/>detriment<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>to<b/>the<b/>extent<b/>of<s n="pr"/></l><r>fins<b/>al<b/>punt<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>to<b/>the<b/>kind<b/>attention<b/>of<s n="pr"/></l><r>a<b/>l'atenció<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>together<b/>with<s n="pr"/></l><r>juntament<b/>amb<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>toward<s n="pr"/></l><r>cap<b/>a<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>towards<s n="pr"/></l><r>cap<b/>a<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>under<s n="pr"/></l><r>sota<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>under<s n="pr"/></l><r>sota<s n="pr"/></r></p></e>
-    <e><p><l>unlike<s n="pr"/></l><r>a<b/>diferència<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>until<s n="pr"/></l><r>fins<b/>a<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>until<s n="pr"/></l><r>fins<s n="pr"/></r></p></e>
-    <e><p><l>up<s n="pr"/></l><r>cap<b/>amunt<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>up<b/>to<s n="pr"/></l><r>fins<b/>a<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>upon<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
-    <e><p><l>via<s n="pr"/></l><r>via<s n="pr"/></r></p></e>
-    <e><p><l>with<s n="pr"/></l><r>amb<s n="pr"/></r></p></e>
-    <e><p><l>with<b/>a<b/>view<b/>to<s n="pr"/></l><r>amb<b/>vista<b/>a<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>with<b/>no<s n="pr"/></l><r>sense<s n="pr"/></r></p></e>
-    <e><p><l>with<b/>reference<b/>to<s n="pr"/></l><r>amb<b/>referència<b/>a<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>with<b/>regard<b/>to<s n="pr"/></l><r>respecte<b/>a<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>with<b/>regard<b/>to<s n="pr"/></l><r>amb<b/>relació<b/>a<s n="pr"/></r></p></e>
-    <e><p><l>with<b/>the<b/>exception<b/>of<s n="pr"/></l><r>a<b/>excepció<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>within<s n="pr"/></l><r>dins<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>without<s n="pr"/></l><r>sense<s n="pr"/></r></p></e>
-    <e><p><l>without<b/>prejudice<b/>to<s n="pr"/></l><r>sense<b/>perjudici<b/>de<s n="pr"/></r></p></e>
-    <e srl="about"><p><l>about<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
-    <e><p><l>above<s n="pr"/></l><r>per<b/>sobre<b/>de<s n="pr"/></r></p></e>
-    <e r="LR" a="doriua"><p><l>according<s n="pr"/></l><r>segons<s n="pr"/></r></p></e>
-    <e><p><l>according<b/>to<s n="pr"/></l><r>segons<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>across<s n="pr"/></l><r>a<b/>través<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>just<b/>across<s n="pr"/></l><r>al<b/>otro<b/>lado<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>just<b/>across<b/>from<s n="pr"/></l><r>al<b/>otro<b/>lado<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>right<b/>across<s n="pr"/></l><r>a<b/>l'altre<b/>costat<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>right<b/>across<b/>from<s n="pr"/></l><r>a<b/>l'altre<b/>costat<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>straight<b/>across<s n="pr"/></l><r>directe<b/>a<b/>través<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>after<s n="pr"/></l><r>després<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>against<s n="pr"/></l><r>contra<s n="pr"/></r></p></e>
-    <e><p><l>ahead<b/>of<s n="pr"/></l><r>al<b/>capdavant<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>along<s n="pr"/></l><r>al<b/>llarg<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>along<b/>with<s n="pr"/></l><r>juntament<b/>amb<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>amid<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>among<s n="pr"/></l><r>enmig<b/>de<s n="pr"/></r></p></e>
-    <e srl="among"><p><l>among<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
-    <e r="LR" a="doriua"><p><l>amongst<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
-    <e><p><l>apart<b/>from<s n="pr"/></l><r>a<b/>part<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>apart<b/>from<s n="pr"/></l><r>a<b/>banda<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>around<s n="pr"/></l><r>al<b/>voltant<b/>de<s n="pr"/></r></p></e>
-    <e c="check"><p><l>around<b/>the<b/>middle<b/>of<s n="pr"/></l><r>a<b/>mitjan<s n="pr"/></r></p></e>
-    <e r="LR" slr="com D" c="as you - com tu"><p><l>as<s n="pr"/></l><r>com<s n="pr"/></r></p></e>
-    <e c="MG: 'Such thing as a computer' = 'com un' - arreglar si es pot"><p><l>as<b/>a<s n="pr"/></l><r>com<b/>a<s n="pr"/></r></p></e>
-    <e><p><l>as<b/>a<b/>consequence<b/>of<s n="pr"/></l><r>a<b/>conseqüència<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>as<b/>a<b/>result<b/>of<s n="pr"/></l><r>arran<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>as<b/>for<s n="pr"/></l><r>quant<b/>a<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>as<b/>regards<s n="pr"/></l><r>respecte<b/>a<s n="pr"/></r></p></e>
-    <e slr="a D" srl="at"><p><l>at<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
-    <e slr="en" srl="at"><p><l>at<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
-    <e><p><l>at<b/>a<b/>rate<b/>of<s n="pr"/></l><r>a<b/>raó<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>at<b/>about<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
-    <e><p><l>at<b/>the<b/>beginning<b/>of<s n="pr"/></l><r>a<b/>principis<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>at<b/>the<b/>expense<b/>of<s n="pr"/></l><r>a<b/>costa<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>at<b/>the<b/>time<b/>of<s n="pr"/></l><r>a<b/>l'hora<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>away<b/>from<s n="pr"/></l><r>lluny<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>because<b/>of<s n="pr"/></l><r>a<b/>causa<b/>de<s n="pr"/></r></p></e>
-    <e slr="abans_de D"><p><l>before<s n="pr"/></l><r>abans<b/>de<s n="pr"/></r></p></e>
-    <e r="LR" slr="davant"><p><l>before<s n="pr"/></l><r>davant<s n="pr"/></r></p></e>
-    <e><p><l>behind<s n="pr"/></l><r>darrere<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>below<s n="pr"/></l><r>sota<s n="pr"/></r></p></e>
-    <e a="doriua"><p><l>beside<s n="pr"/></l><r>al<b/>costat<b/>de<s n="pr"/></r></p></e>
-    <e srl="between D"><p><l>between<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
-    <e><p><l>beyond<s n="pr"/></l><r>allèn<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>but<s n="pr"/></l><r>excepte<s n="pr"/></r></p></e>
-    <e r="LR" slr="prop_de"><p><l>by<s n="pr"/></l><r>prop<b/>de<s n="pr"/></r></p></e>
-    <e slr="per D" srl="by"><p><l>by<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
-    <e><p><l>by<b/>dint<b/>of<s n="pr"/></l><r>a<b/>força<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>by<b/>means<b/>of<s n="pr"/></l><r>mitjançant<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>by<b/>means<b/>of<s n="pr"/></l><r>per<b/>mitjà<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>by<b/>reason<b/>of<s n="pr"/></l><r>per<b/>raó<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>concerning<s n="pr"/></l><r>respecte<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>despite<s n="pr"/></l><r>malgrat<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>due<b/>to<s n="pr"/></l><r>a<b/>causa<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>during<s n="pr"/></l><r>durant<s n="pr"/></r></p></e>
-    <e><p><l>except<s n="pr"/></l><r>excepte<s n="pr"/></r></p></e>
-    <e r="RL" srl="except D"><p><l>except<s n="pr"/></l><r>menys<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>except<b/>for<s n="pr"/></l><r>excepte<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>for<s n="pr"/></l><r>per<b/>a<s n="pr"/></r></p></e>
-    <e slr="per D" srl="for D"><p><l>for<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
-    <e r="LR" slr="durant"><p><l>for<s n="pr"/></l><r>durant<s n="pr"/></r></p></e>
-    <e><p><l>for<b/>the<b/>benefit<b/>of<s n="pr"/></l><r>en<b/>benefici<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>from<s n="pr"/></l><r>a<b/>partir<b/>de<s n="pr"/></r></p></e>
-    <e srl="from"><p><l>from<s n="pr"/></l><r>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>further<b/>to<s n="pr"/></l><r>amb<b/>referència<b/>a<s n="pr"/></r></p></e>
-    <e><p><l>headed<b/>by<s n="pr"/></l><r>al<b/>comandament<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>in<s n="pr"/></l><r>dins<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>in<s n="pr"/></l><r>a<b/>dins<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>in<s n="pr"/></l><r>dins<s n="pr"/></r></p></e>
-    <e slr="a" srl="in" c="això seria polisèmia o no? (in->en/a)"><p><l>in<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
-    <e slr="en D" srl="in D"><p><l>in<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
-    <e a="carmentano"><p><l>in<b/>accordance<b/>with<s n="pr"/></l><r>d'acord<b/>amb<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>addition<b/>to<s n="pr"/></l><r>a<b/>més<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>in<b/>addition<b/>to<s n="pr"/></l><r>a<b/>més<b/>a<b/>més<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>answer<b/>to<s n="pr"/></l><r>en<b/>resposta<b/>a<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>compliance<b/>with<s n="pr"/></l><r>de<b/>conformitat<b/>amb<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>exchange<b/>for<s n="pr"/></l><r>a<b/>canvi<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>favour<b/>of<s n="pr"/></l><r>a<b/>favor<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>in<b/>front<b/>of<s n="pr"/></l><r>davant<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>front<b/>of<s n="pr"/></l><r>davant<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>order<b/>of<s n="pr"/></l><r>per<b/>ordre<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>order<b/>to<s n="pr"/></l><r>per<b/>tal<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>pursuit<b/>of<s n="pr"/></l><r>en<b/>persecució<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>regard<b/>to<s n="pr"/></l><r>en<b/>relació<b/>amb<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>relation<b/>to<s n="pr"/></l><r>amb<b/>relació<b/>a<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>in<b/>reply<b/>to<s n="pr"/></l><r>en<b/>resposta<b/>a<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>so<b/>far<s n="pr"/></l><r>en<b/>la<b/>mesura<b/>que<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>spite<b/>of<s n="pr"/></l><r>malgrat<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>the<b/>middle<b/>of<s n="pr"/></l><r>al<b/>mig<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>view<b/>of<s n="pr"/></l><r>en<b/>vista<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>including<s n="pr"/></l><r>incloent-hi<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>inside<s n="pr"/></l><r>dins<s n="pr"/></r></p></e>
-    <e><p><l>instead<b/>of<s n="pr"/></l><r>en<b/>comptes<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>into<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
-    <e><p><l>less<b/>than<s n="pr"/></l><r>menys<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>less<b/>than<s n="pr"/></l><r>menys<b/>que<s n="pr"/></r></p></e>
-    <e><p><l>like<s n="pr"/></l><r>com<s n="pr"/></r></p></e>
-    <e srl="minus"><p><l>minus<s n="pr"/></l><r>menys<s n="pr"/></r></p></e>
-    <e c="more than five"><p><l>more<b/>than<s n="pr"/></l><r>més<b/>de<s n="pr"/></r></p></e>
-    <e r="RL" c="MG: en direcció en-ca, cal fer per transfer el canvi 'més de' 'més que'"><p><l>more<b/>than<s n="pr"/></l><r>més<b/>que<s n="pr"/></r></p></e>
-    <e><p><l>near<s n="pr"/></l><r>prop<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>no<b/>more<b/>than<s n="pr"/></l><r>no<b/>pas<b/>més<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>not<b/>less<b/>than<s n="pr"/></l><r>no<b/>pas<b/>menys<b/>de<s n="pr"/></r></p></e>
-    <e srl="of D"><p><l>of<s n="pr"/></l><r>de<s n="pr"/></r></p></e>
-    <e r="LR" slr="fora_de"><p><l>off<s n="pr"/></l><r>fora<b/>de<s n="pr"/></r></p></e>
-    <e r="LR" slr="de D" c="MG: He fell off his chair"><p><l>off<s n="pr"/></l><r>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>on<s n="pr"/></l><r>damunt<s n="pr"/></r></p></e>
-    <e slr="en D" srl="on"><p><l>on<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
-    <e slr="sobre" srl="on D"><p><l>on<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
-    <e><p><l>on<b/>behalf<b/>of<s n="pr"/></l><r>en<b/>nom<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>on<b/>top<b/>of<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>onto<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>out<s n="pr"/></l><r>fora<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>out<b/>of<s n="pr"/></l><r>fora<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>out<b/>of<s n="pr"/></l><r>fora<s n="pr"/></r></p></e>
-    <e><p><l>outside<s n="pr"/></l><r>a<b/>fora<b/>de<s n="pr"/></r></p></e>
-    <e r="LR" slr="sobre D"><p><l>over<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
-    <e r="LR" slr="durant"><p><l>over<s n="pr"/></l><r>durant<s n="pr"/></r></p></e>
-    <e><p><l>owing<b/>to<s n="pr"/></l><r>per<b/>causa<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>per<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>plus<s n="pr"/></l><r>més<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>rather<b/>than<s n="pr"/></l><r>més<b/>que<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>regarding<s n="pr"/></l><r>quant<b/>a<s n="pr"/></r></p></e>
-    <e><p><l>regarding<s n="pr"/></l><r>pel<b/>que<b/>fa<b/>a<s n="pr"/></r></p></e>
-    <e><p><l>right<b/>in<b/>front<b/>of<s n="pr"/></l><r>just<b/>davant<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>round<s n="pr"/></l><r>al<b/>voltant<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>shortly<b/>after<s n="pr"/></l><r>poc<b/>després<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>shortly<b/>before<s n="pr"/></l><r>poc<b/>abans<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>since<s n="pr"/></l><r>des<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>so<b/>as<b/>to<s n="pr"/></l><r>a<b/>fi<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>such<b/>as<s n="pr"/></l><r>com<b/>ara<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>such<b/>as<s n="pr"/></l><r>com<s n="pr"/></r></p></e>
-    <e><p><l>thanks<b/>to<s n="pr"/></l><r>gràcies<b/>a<s n="pr"/></r></p></e>
-    <e><p><l>through<s n="pr"/></l><r>a<b/>través<b/>de<s n="pr"/></r></p></e>
-    <e r="LR" slr="per_tot D"><p><l>throughout<s n="pr"/></l><r>per<b/>tot<s n="pr"/></r></p></e>
-    <e r="LR" slr="durant"><p><l>throughout<s n="pr"/></l><r>durant<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>to<s n="pr"/></l><r>cap<b/>a<s n="pr"/></r></p></e>
-    <e srl="to D"><p><l>to<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
-    <e><p><l>to<b/>the<b/>detriment<b/>of<s n="pr"/></l><r>en<b/>detriment<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>to<b/>the<b/>extent<b/>of<s n="pr"/></l><r>fins<b/>al<b/>punt<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>to<b/>the<b/>kind<b/>attention<b/>of<s n="pr"/></l><r>a<b/>l'atenció<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>together<b/>with<s n="pr"/></l><r>juntament<b/>amb<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>toward<s n="pr"/></l><r>cap<b/>a<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>towards<s n="pr"/></l><r>cap<b/>a<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>under<s n="pr"/></l><r>sota<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>under<s n="pr"/></l><r>sota<s n="pr"/></r></p></e>
-    <e><p><l>unlike<s n="pr"/></l><r>a<b/>diferència<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>until<s n="pr"/></l><r>fins<b/>a<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>until<s n="pr"/></l><r>fins<s n="pr"/></r></p></e>
-    <e><p><l>up<s n="pr"/></l><r>cap<b/>amunt<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>up<b/>to<s n="pr"/></l><r>fins<b/>a<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>upon<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
-    <e><p><l>via<s n="pr"/></l><r>via<s n="pr"/></r></p></e>
-    <e><p><l>with<s n="pr"/></l><r>amb<s n="pr"/></r></p></e>
-    <e><p><l>with<b/>a<b/>view<b/>to<s n="pr"/></l><r>amb<b/>vista<b/>a<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>with<b/>no<s n="pr"/></l><r>sense<s n="pr"/></r></p></e>
-    <e><p><l>with<b/>reference<b/>to<s n="pr"/></l><r>amb<b/>referència<b/>a<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>with<b/>regard<b/>to<s n="pr"/></l><r>respecte<b/>a<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>with<b/>regard<b/>to<s n="pr"/></l><r>amb<b/>relació<b/>a<s n="pr"/></r></p></e>
-    <e><p><l>with<b/>the<b/>exception<b/>of<s n="pr"/></l><r>a<b/>excepció<b/>de<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>within<s n="pr"/></l><r>dins<b/>de<s n="pr"/></r></p></e>
-    <e><p><l>without<s n="pr"/></l><r>sense<s n="pr"/></r></p></e>
-    <e><p><l>without<b/>prejudice<b/>to<s n="pr"/></l><r>sense<b/>perjudici<b/>de<s n="pr"/></r></p></e>
+    <e><p><l>that<s n="cnjsub"/></l><r>que<s n="cnjsub"/></r></p></e>
+    <e a="greenbreen"><p><l>whenever<s n="cnjsub"/></l><r>sempre<b/>que<s n="cnjsub"/></r></p></e>
+
+
+    <e><i>&amp;<s n="cnjcoo"/></i></e>
+    <e r="RL" c="tant això com allò"><p><l>and<s n="cnjcoo"/></l><r>com<s n="cnjcoo"/></r></p></e>
+    <e><p><l>and<s n="cnjcoo"/></l><r>i<s n="cnjcoo"/></r></p></e>
+    <e r="RL"><p><l>and<b/>neither<s n="cnjcoo"/></l><r>ni<b/>tampoc<s n="cnjcoo"/></r></p></e>
+    <e><p><l>as<b/>well<b/>as<s n="cnjcoo"/></l><r>així<b/>com<s n="cnjcoo"/></r></p></e>
+
+
+    <e><p><l>after<s n="cnjadv"/></l><r>després<b/>que<s n="cnjadv"/></r></p></e>
+    <e><p><l>all<b/>the<b/>way<b/>across<s n="cnjadv"/></l><r>tot<b/>el<b/>trajecte<b/>a<b/>través<s n="cnjadv"/></r></p></e>
+    <e><p><l>no<b/>fixed<b/>abode<s n="cnjadv"/></l><r>sense<b/>domicili<b/>fix<s n="cnjadv"/></r></p></e>
+    <e r="RL"><p><l>although<s n="cnjadv"/></l><r>encara<b/>que<s n="cnjadv"/></r></p></e>
+    <e><p><l>although<s n="cnjadv"/></l><r>tot<b/>i<b/>que<s n="cnjadv"/></r></p></e>
+    <e><p><l>and<b/>yet<s n="cnjadv"/></l><r>i<b/>no<b/>obstant<b/>això<s n="cnjadv"/></r></p></e>
+    <e><p><l>apart<b/>from<b/>the<b/>fact<b/>that<s n="cnjadv"/></l><r>a<b/>part<b/>del<b/>fet<b/>que<s n="cnjadv"/></r></p></e>
+    <e r="RL"><p><l>as<s n="cnjadv"/></l><r>segons<s n="cnjadv"/></r></p></e>
+    <e r="RL"><p><l>as<s n="cnjadv"/></l><r>tal<b/>com<s n="cnjadv"/></r></p></e>
+    <e r="LR" slr="mentre D"><p><l>as<s n="cnjadv"/></l><r>mentre<s n="cnjadv"/></r></p></e>
+    <e slr="com_que"><p><l>as<s n="cnjadv"/></l><r>com<b/>que<s n="cnjadv"/></r></p></e>
+    <e c="('as if' cnj - 'com per' cnj) entrada: Direcció tb català-anglès?"><p><l>as<b/>if<s n="cnjadv"/></l><r>com<b/>si<s n="cnjadv"/></r></p></e>
+    <e><p><l>as<b/>soon<b/>as<s n="cnjadv"/></l><r>tan<b/>aviat<b/>com<s n="cnjadv"/></r></p></e>
+    <e r="LR"><p><l>as<b/>though<s n="cnjadv"/></l><r>com<b/>si<s n="cnjadv"/></r></p></e>
+    <e srl="because D"><p><l>because<s n="cnjadv"/></l><r>perquè<s n="cnjadv"/></r></p></e>
+    <e><p><l>before<s n="cnjadv"/></l><r>abans<b/>que<s n="cnjadv"/></r></p></e>
+    <e><p><l>due<b/>to<b/>the<b/>fact<b/>that<s n="cnjadv"/></l><r>a<b/>causa<b/>que<s n="cnjadv"/></r></p></e>
+    <e><p><l>even<b/>so<s n="cnjadv"/></l><r>així<b/>i<b/>tot<s n="cnjadv"/></r></p></e>
+    <e r="LR"><p><l>for<s n="cnjadv"/></l><r>ja<b/>que<s n="cnjadv"/></r></p></e>
+    <e><p><l>for<b/>example<s n="cnjadv"/></l><r>per<b/>exemple<s n="cnjadv"/></r></p></e>
+    <e r="LR"><p><l>for<b/>instance<s n="cnjadv"/></l><r>per<b/>exemple<s n="cnjadv"/></r></p></e>
+    <e><p><l>if<s n="cnjadv"/></l><r>si<s n="cnjadv"/></r></p></e>
+    <e><p><l>in<b/>a<b/>very<b/>funny<b/>way<s n="cnjadv"/></l><r>amb<b/>molta<b/>gràcia<s n="cnjadv"/></r></p></e>
+    <e><p><l>in<b/>case<s n="cnjadv"/></l><r>per<b/>si<s n="cnjadv"/></r></p></e>
+    <e><p><l>in<b/>order<b/>that<s n="cnjadv"/></l><r>per<b/>tal<b/>que<s n="cnjadv"/></r></p></e>
+    <e><p><l>it<b/>could<b/>be<b/>the<b/>case<b/>that<s n="cnjadv"/></l><r>pot<b/>ser<b/>que<s n="cnjadv"/></r></p></e>
+    <e><p><l>on<b/>condition<b/>that<s n="cnjadv"/></l><r>a<b/>condició<b/>que<s n="cnjadv"/></r></p></e>
+    <e><p><l>on<b/>the<b/>port<b/>side<s n="cnjadv"/></l><r>a<b/>babord<s n="cnjadv"/></r></p></e>
+    <e><p><l>once<s n="cnjadv"/></l><r>una<b/>vegada<b/>que<s n="cnjadv"/></r></p></e>
+    <e r="LR"><p><l>provided<s n="cnjadv"/></l><r>si<s n="cnjadv"/></r></p></e>
+    <e><p><l>provided<b/>that<s n="cnjadv"/></l><r>amb<b/>la<b/>condició<b/>que<s n="cnjadv"/></r></p></e>
+    <e r="RL" slr="des_que D" c="per ara RL perquè s'equivoca molt amb la 'pr'"><p><l>since<s n="cnjadv"/></l><r>des<b/>que<s n="cnjadv"/></r></p></e>
+    <e r="RL" slr="ja_que" c="per ara RL perquè s'equivoca molt amb la 'pr'"><p><l>since<s n="cnjadv"/></l><r>ja<b/>que<s n="cnjadv"/></r></p></e>
+    <e><p><l>so<s n="cnjadv"/></l><r>així<b/>que<s n="cnjadv"/></r></p></e>
+    <e r="RL"><p><l>so<b/>that<s n="cnjadv"/></l><r>a<b/>fi<b/>que<s n="cnjadv"/></r></p></e>
+    <e><p><l>so<b/>that<s n="cnjadv"/></l><r>de<b/>manera<b/>que<s n="cnjadv"/></r></p></e>
+    <e r="RL" srl="so_that" c="MG: depèn del model del verb: subj = so that; ind = because. Es podria tractar al transfer."><p><l>so<b/>that<s n="cnjadv"/></l><r>perquè<s n="cnjadv"/></r></p></e>
+    <e c="cat"><p><l>that's<b/>why<s n="cnjadv"/></l><r>és<b/>per<b/>això<b/>que<s n="cnjadv"/></r></p></e>
+    <e r="RL" c="val"><p><l>that's<b/>why<s n="cnjadv"/></l><r>és<b/>per<b/>açò<b/>que<s n="cnjadv"/></r></p></e>
+    <e><p><l>the<b/>same<b/>as<s n="cnjadv"/></l><r>el<b/>mateix<b/>que<s n="cnjadv"/></r></p></e>
+    <e><p><l>then<s n="cnjadv"/></l><r>llavors<s n="cnjadv"/></r></p></e>
+    <e r="RL"><p><l>then<s n="adv"/></l><r>doncs<s n="cnjadv"/></r></p></e>
+    <e><p><l>therefore<s n="cnjadv"/></l><r>per<b/>tant<s n="cnjadv"/></r></p></e>
+    <e r="RL" c="cat"><p><l>therefore<s n="cnjadv"/></l><r>per<b/>això<s n="cnjadv"/></r></p></e>
+    <e r="RL" c="val"><p><l>therefore<s n="cnjadv"/></l><r>per<b/>açò<s n="cnjadv"/></r></p></e>
+    <e r="LR"><p><l>though<s n="cnjadv"/></l><r>encara<b/>que<s n="cnjadv"/></r></p></e>
+    <e r="RL"><p><l>thus<s n="cnjadv"/></l><r>per<b/>la<b/>qual<b/>cosa<s n="cnjadv"/></r></p></e>
+    <e r="LR" c="cat"><p><l>thus<s n="cnjadv"/></l><r>per<b/>això<s n="cnjadv"/></r></p></e>
+    <e r="LR" c="val" i="yes"><p><l>thus<s n="cnjadv"/></l><r>per<b/>açò<s n="cnjadv"/></r></p></e>
+    <e><p><l>unless<s n="cnjadv"/></l><r>llevat<b/>que<s n="cnjadv"/></r></p></e>
+    <e><p><l>until<s n="cnjadv"/></l><r>fins<b/>que<s n="cnjadv"/></r></p></e>
+    <e r="RL"><p><l>well<s n="cnjadv"/></l><r>doncs<b/>bé<s n="cnjadv"/></r></p></e>
+<!-- <e r="RL" c="(en arribar)"><p><l>when<s n="cnjadv"/></l><r>en<s n="cnjadv"/></r></p></e> -->
+    <e><p><l>when<s n="cnjadv"/></l><r>quan<s n="cnjadv"/></r></p></e>
+    <e><p><l>whenever<s n="cnjadv"/></l><r>quan<b/>sigui<b/>que<s n="cnjadv"/></r></p></e>
+    <e a="doriua"><p><l>whereas<s n="cnjadv"/></l><r>mentre<b/>que<s n="cnjadv"/></r></p></e>
+    <e r="LR" slr="si D" c="MG: Generalment després de verb o pronom personal (I doubt whether.../ Tell me whether...)"><p><l>whether<s n="cnjadv"/></l><r>si<s n="cnjadv"/></r></p></e>
+    <e slr="tant_si" c="MG: generalment després de tot menys verb o pron personal (bla bla, whether you like it...)"><p><l>whether<s n="cnjadv"/></l><r>tant<b/>si<s n="cnjadv"/></r></p></e>
+    <e><p><l>while<s n="cnjadv"/></l><r>mentre<s n="cnjadv"/></r></p></e>
+    <e><p><l>yet<s n="cnjadv"/></l><r>tot<b/>i<b/>així<s n="cnjadv"/></r></p></e>
+
+    <e r="LR"><p><l>as<b/>well<b/>as<s n="cnjadv"/></l><r>així<b/>com<s n="cnjcoo"/></r></p></e>
+    <e r="LR" c="both David and his wife - tant David com la seva dona"><p><l>both<s n="cnjcoo"/></l><r>tant<s n="cnjcoo"/></r></p></e>
+    <e slr="però D"><p><l>but<s n="cnjcoo"/></l><r>però<s n="cnjcoo"/></r></p></e>
+    <e slr="sinó"><p><l>but<s n="cnjcoo"/></l><r>sinó<s n="cnjcoo"/></r></p></e>
+    <e r="LR"><p><l>but<b/>rather<s n="cnjcoo"/></l><r>sinó<s n="cnjcoo"/></r></p></e>
+    <e r="LR" c="either... or... : o... o..."><p><l>either<s n="cnjcoo"/></l><r>o<s n="cnjcoo"/></r></p></e>
+    <e srl="neither D" c="MG: neither... nor :en el trànsfer"><p><l>neither<s n="cnjcoo"/></l><r>ni<s n="cnjcoo"/></r></p></e>
+    <e srl="nor"><p><l>nor<s n="cnjcoo"/></l><r>ni<s n="cnjcoo"/></r></p></e>
+    <e r="RL"><p><l>or<s n="cnjcoo"/></l><r>bé<s n="cnjcoo"/></r></p></e>
+    <e><p><l>or<s n="cnjcoo"/></l><r>o<s n="cnjcoo"/></r></p></e>
+    <e r="RL"><p><l>or<s n="cnjcoo"/></l><r>o<b/>bé<s n="cnjcoo"/></r></p></e>
+    <e r="RL" srl="or"><p><l>or<s n="cnjcoo"/></l><r>ni<s n="cnjcoo"/></r></p></e>
+    <e c="comparatives"><p><l>than<s n="cnjcoo"/></l><r>que<s n="cnjcoo"/></r></p></e>
+
+    <e c="no preadverbi"><p><l>quite<b/>a<b/>lot<s n="adv"/></l><r>bastant<s n="adv"/></r></p></e>
+    <e r="RL" c="no preadverbi"><p><l>quite<b/>a<b/>lot<s n="adv"/></l><r>força<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>any<s n="preadv"/></l><r>gaire<s n="preadv"/></r></p></e>
+    <e r="RL"><p><l>any<s n="preadv"/></l><r>gens<s n="preadv"/></r></p></e>
+    <e c="comparacions"><p><l>as<s n="preadv"/></l><r>tan<s n="preadv"/></r></p></e>
+    <e r="LR"><p><l>fairly<s n="preadv"/></l><r>força<s n="preadv"/></r></p></e>
+    <e c="que maco"><p><l>how<s n="preadv"/></l><r>que<s n="preadv"/></r></p></e>
+    <e r="RL" slr="quant" c="how often, how heavy - com de?"><p><l>how<s n="preadv"/></l><r>quant<s n="preadv"/></r></p></e>
+    <e r="LR"><p><l>just<b/>as<s n="preadv"/></l><r>tan<s n="preadv"/></r></p></e>
+    <e><p><l>more<s n="preadv"/></l><r>més<s n="preadv"/></r></p></e>
+    <e r="LR"><p><l>most<s n="preadv"/></l><r>més<s n="preadv"/></r></p></e>
+    <e r="LR"><p><l>overly<s n="preadv"/></l><r>massa<s n="preadv"/></r></p></e>
+    <e r="LR"><p><l>pretty<s n="preadv"/></l><r>bastant<s n="preadv"/></r></p></e>
+    <e><p><l>quite<s n="preadv"/></l><r>bastant<s n="preadv"/></r></p></e>
+    <e r="RL"><p><l>quite<s n="preadv"/></l><r>força<s n="preadv"/></r></p></e>
+    <e><p><l>really<s n="preadv"/></l><r>realment<s n="preadv"/></r></p></e>
+    <e r="LR"><p><l>so<s n="preadv"/></l><r>tan<s n="preadv"/></r></p></e>
+    <e><p><l>too<s n="preadv"/></l><r>massa<s n="preadv"/></r></p></e>
+    <e r="RL" c="frases interrogatives i negatives. EN-CA: per trànsfer"><p><l>very<s n="preadv"/></l><r>gaire<s n="preadv"/></r></p></e>
+    <e><p><l>very<s n="preadv"/></l><r>molt<s n="preadv"/></r></p></e>
+    <e><p><l>very<b/>very<s n="preadv"/></l><r>molt<b/>i<b/>molt<s n="preadv"/></r></p></e>
+    <e r="RL"><p><l>well<s n="adv"/></l><r>ben<s n="preadv"/></r></p></e>
+
+
     <e srl="about"><p><l>about<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
     <e><p><l>above<s n="pr"/></l><r>per<b/>sobre<b/>de<s n="pr"/></r></p></e>
     <e r="LR" a="doriua"><p><l>according<s n="pr"/></l><r>segons<s n="pr"/></r></p></e>
@@ -3083,6 +2537,7 @@
     <e><p><l>banister<s n="n"/></l><r>brèndola<s n="n"/><s n="f"/></r></p></e>
     <e slr="banc D"><p><l>bank<s n="n"/></l><r>banc<s n="n"/><s n="m"/></r></p></e>
     <e slr="riba"><p><l>bank<s n="n"/></l><r>riba<s n="n"/><s n="f"/></r></p></e>
+    <e srl="shore"><p><l>shore<s n="n"/></l><r>riba<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bank<b/>account<s n="n"/></l><r>compte<b/>bancari<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bank<b/>balance<s n="n"/></l><r>estat<g><b/>de<b/>comptes</g><s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>banker<s n="n"/></l><r>banquer<s n="n"/><s n="GD"/></r></p></e>
@@ -3385,6 +2840,8 @@
     <e><p><l>bird<b/>flu<s n="n"/></l><r>grip<b/>aviari<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>avian<b/>flu<s n="n"/></l><r>grip<b/>aviari<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>avian<b/>influenza<s n="n"/></l><r>grip<b/>aviari<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>hot<s n="adj"/><s n="sint"/></l><r>calent<s n="adj"/></r></p></e>
+
     <e><p><l>avian<s n="adj"/></l><r>aviari<s n="adj"/><s n="mf"/></r></p></e>
     <e a="eleka"><p><l>Castroan<s n="adj"/></l><r>castrenyo<s n="adj"/></r></p></e>
     <e a="eleka"><p><l>Plentzian<s n="adj"/></l><r>de<b/>Plentzia<s n="adj"/><s n="mf"/></r></p></e>
@@ -5055,7 +4512,8 @@
     <e r="LR"><p><l>cordless<b/>telephone<s n="n"/></l><r>telèfon<g><b/>sense<b/>fil</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cordotomy<s n="n"/></l><r>cordotomia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>corduroy<s n="n"/></l><r>pana<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>core<s n="n"/></l><r>nucli<s n="n"/><s n="m"/></r></p></e>
+    <e srl="core D"><p><l>core<s n="n"/></l><r>nucli<s n="n"/><s n="m"/></r></p></e>
+    <e srl="centre"><p><l>core<s n="n"/></l><r>nucli<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>corectasis<s n="n"/></l><r>corèctasi<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>corelysis<s n="n"/></l><r>corèlisi<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>coriander<s n="n"/></l><r>coriandre<s n="n"/><s n="m"/></r></p></e>
@@ -6330,6 +5788,7 @@
     <e><p><l>earplug<s n="n"/></l><r>tap<g><b/>per<b/>a<b/>les<b/>orelles</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>earring<s n="n"/></l><r>arracada<s n="n"/><s n="f"/></r></p></e>
     <e srl="earth"><p><l>earth<s n="n"/></l><r>terra<s n="n"/><s n="f"/></r></p></e>
+    <e srl="country"><p><l>country<s n="n"/></l><r>terra<s n="n"/><s n="f"/></r></p></e>
     <e a="termcat"><p><l>earth<b/>station<s n="n"/></l><r>estació<b/>terrestre<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>earthernware<s n="n"/></l><r>pisa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>earthquake<s n="n"/></l><r>terratrèmol<s n="n"/><s n="m"/></r></p></e>
@@ -6981,7 +6440,7 @@
     <e><p><l>extensograph<s n="n"/></l><r>extensògraf<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>extensometer<s n="n"/></l><r>extensòmetre<s n="n"/><s n="m"/></r></p></e>
     <e r="LR" slr="abast"><p><l>extent<s n="n"/></l><r>abast<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR" slr="extensió D"><p><l>extent<s n="n"/></l><r>extensió<s n="n"/><s n="f"/></r></p></e>
+    <e slr="extensió D" srl="extent"><p><l>extent<s n="n"/></l><r>extensió<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>extermination<s n="n"/></l><r>exterminació<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>exterminator<s n="n"/></l><r>exterminador<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>exterminator<s n="n"/></l><r>exterminador<s n="n"/><s n="f"/></r></p></e>
@@ -7207,6 +6666,8 @@
     <e><p><l>flare-up<s n="n"/></l><r>flamarada<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>flash<s n="n"/></l><r>flaix<s n="n"/><s n="m"/></r></p></e>
     <e srl="flat D"><p><l>flat<s n="n"/></l><r>pis<s n="n"/><s n="m"/></r></p></e>
+    <e srl="storey"><p><l>storey<s n="n"/></l><r>pis<s n="n"/><s n="m"/></r></p></e>
+    <e srl="house"><p><l>house<s n="n"/></l><r>pis<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>flattener<s n="n"/></l><r>aplanador<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>flattener<s n="n"/></l><r>aplanador<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>flattening<s n="n"/></l><r>aplanament<s n="n"/><s n="m"/></r></p></e>
@@ -7628,7 +7089,7 @@
     <e r="LR" a="carmentano"><p><l>genre<s n="n"/></l><r>gènere<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>gentian<s n="n"/></l><r>genciana<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gentilic<s n="n"/></l><r>gentilici<s n="n"/><s n="m"/></r></p></e>
-    <e c="potser senyor i senyora hauria de traduir-se 'man' i 'woman'"><p><l>gentleman<s n="n"/></l><r>senyor<s n="n"/><s n="m"/></r></p></e>
+    <e c="potser senyor i senyora hauria de traduir-se 'man' i 'woman'" srl="gentleman D"><p><l>gentleman<s n="n"/></l><r>senyor<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>geobotany<s n="n"/></l><r>geobotànica<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>geochemistry<s n="n"/></l><r>geoquímica<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>geochronology<s n="n"/></l><r>geocronologia<s n="n"/><s n="f"/></r></p></e>
@@ -8094,6 +7555,7 @@
     <e><p><l>hazel<s n="n"/></l><r>avellaner<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hazelnut<s n="n"/></l><r>avellana<s n="n"/><s n="f"/></r></p></e>
     <e srl="head D"><p><l>head<s n="n"/></l><r>cap<s n="n"/><s n="m"/></r></p></e>
+    <e srl="leader"><p><l>leader<s n="n"/></l><r>cap<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>head<b/>office<s n="n"/></l><r>central<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>head<g><b/>of<b/>government</g><s n="n"/></l><r>cap<g><b/>de<b/>govern</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>head<g><b/>of<b/>state</g><s n="n"/></l><r>cap<g><b/>d'estat</g><s n="n"/><s n="m"/></r></p></e>
@@ -9777,6 +9239,8 @@
     <e><p><l>llama<s n="n"/></l><r>llama<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>load<s n="n"/></l><r>carregament<s n="n"/><s n="m"/></r></p></e>
     <e srl="load D"><p><l>load<s n="n"/></l><r>càrrega<s n="n"/><s n="f"/></r></p></e>
+    <e srl="supply"><p><l>supply<s n="n"/></l><r>càrrega<s n="n"/><s n="f"/></r></p></e>
+    <e srl="cargo"><p><l>cargo<s n="n"/></l><r>càrrega<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>loafer<s n="n"/></l><r>gandul<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>loafer<s n="n"/></l><r>gandul<s n="n"/></r></p></e>
     <e><p><l>loan<s n="n"/></l><r>préstec<s n="n"/><s n="m"/></r></p></e>
@@ -9812,9 +9276,8 @@
     <e><p><l>lookout<s n="n"/></l><r>vigia<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>loom<s n="n"/></l><r>teler<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>loop<s n="n"/></l><r>bucle<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>lord<s n="n"/></l><r>senyor<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lordosis<s n="n"/></l><r>lordosi<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>lorry<s n="n"/></l><r>camió<s n="n"/><s n="m"/></r></p></e>
+    <e srl="lorry D"><p><l>lorry<s n="n"/></l><r>camió<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>lorry<b/>driver<s n="n"/></l><r>camioner<s n="n"/><s n="GD"/></r></p></e>
     <e r="LR"><p><l>loser<s n="n"/></l><r>perdedor<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>loser<s n="n"/></l><r>perdedor<s n="n"/></r></p></e>
@@ -10264,6 +9727,7 @@
     <e><p><l>mercury<s n="n"/></l><r>mercuri<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>mercy<s n="n"/></l><r>pietat<s n="n"/><s n="f"/></r></p></e>
     <e srl="merger" a="carmentano"><p><l>merger<s n="n"/></l><r>fusió<s n="n"/><s n="f"/></r></p></e>
+    <e srl="merge"><p><l>merge<s n="n"/></l><r>fusió<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>meridian<s n="n"/></l><r>meridià<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>meristem<s n="n"/></l><r>meristema<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>merit<s n="n"/></l><r>mèrit<s n="n"/><s n="m"/></r></p></e>
@@ -11234,6 +10698,10 @@
     <e><p><l>occultism<s n="n"/></l><r>ocultisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>occupant<s n="n"/></l><r>ocupant<s n="n"/><s n="mf"/></r></p></e>
     <e srl="occupation"><p><l>occupation<s n="n"/></l><r>ocupació<s n="n"/><s n="f"/></r></p></e>
+    <e srl="use"><p><l>use<s n="n"/></l><r>ocupació<s n="n"/><s n="f"/></r></p></e>
+    <e srl="inhabitation"><p><l>inhabitation<s n="n"/></l><r>ocupació<s n="n"/><s n="f"/></r></p></e>
+    <e srl="job"><p><l>job<s n="n"/></l><r>ocupació<s n="n"/><s n="f"/></r></p></e>
+    <e srl="occupancy"><p><l>occupancy<s n="n"/></l><r>ocupació<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>occupational<b/>accident<s n="n"/></l><r>accident<b/>laboral<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>occurrence<s n="n"/></l><r>ocurrència<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ocean<s n="n"/></l><r>oceà<s n="n"/><s n="m"/></r></p></e>
@@ -11448,7 +10916,8 @@
     <e><p><l>organisation<s n="n"/></l><r>organització<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>organiser<s n="n"/></l><r>organitzador<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>organiser<s n="n"/></l><r>organitzador<s n="n"/></r></p></e>
-    <e a="carmentano"><p><l>organism<s n="n"/></l><r>organisme<s n="n"/><s n="m"/></r></p></e>
+    <e a="carmentano" srl="organism D"><p><l>organism<s n="n"/></l><r>organisme<s n="n"/><s n="m"/></r></p></e>
+    <e a="carmentano" srl="organisation"><p><l>organisation<s n="n"/></l><r>organisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>organist<s n="n"/></l><r>organista<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>organogenesis<s n="n"/></l><r>organogènesi<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>organogeny<s n="n"/></l><r>organogènia<s n="n"/><s n="f"/></r></p></e>
@@ -11842,6 +11311,7 @@
     <e><p><l>partridge<s n="n"/></l><r>perdiu<s n="n"/><s n="f"/></r></p></e>
     <e slr="festa"><p><l>party<s n="n"/></l><r>festa<s n="n"/><s n="f"/></r></p></e>
     <e slr="partit D" srl="party D"><p><l>party<s n="n"/></l><r>partit<s n="n"/><s n="m"/></r></p></e>
+    <e srl="game"><p><l>game<s n="n"/></l><r>partit<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pascal<s n="n"/></l><r>pascal<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pass<s n="n"/></l><r>passi<s n="n"/><s n="m"/></r></p></e>
     <e r="LR" slr="pas"><p><l>passage<s n="n"/></l><r>pas<s n="n"/><s n="m"/></r></p></e>
@@ -12375,7 +11845,9 @@
     <e r="RL"><p><l>planner<s n="n"/></l><r>planificador<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>planning<s n="n"/></l><r>planificació<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>planosol<s n="n"/></l><r>planosòl<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>plant<s n="n"/></l><r>planta<s n="n"/><s n="f"/></r></p></e>
+    <e srl="plant D"><p><l>plant<s n="n"/></l><r>planta<s n="n"/><s n="f"/></r></p></e>
+    <e srl="floor"><p><l>floor<s n="n"/></l><r>planta<s n="n"/><s n="f"/></r></p></e>
+    <e srl="factory"><p><l>factory<s n="n"/></l><r>planta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>plantation<s n="n"/></l><r>plantació<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>plantigrade<s n="n"/></l><r>plantígrad<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>planting<s n="n"/></l><r>plantada<s n="n"/><s n="f"/></r></p></e>
@@ -12789,6 +12261,7 @@
     <e><p><l>pronoun<s n="n"/></l><r>pronom<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pronunciation<s n="n"/></l><r>pronunciació<s n="n"/><s n="f"/></r></p></e>
     <e srl="proof"><p><l>proof<s n="n"/></l><r>prova<s n="n"/><s n="f"/></r></p></e>
+    <e srl="event"><p><l>event<s n="n"/></l><r>prova<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>propaedeutic<s n="n"/></l><r>propedèutica<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>propaganda<s n="n"/></l><r>propaganda<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>propagandist<s n="n"/></l><r>propagandista<s n="n"/><s n="mf"/></r></p></e>
@@ -13225,7 +12698,8 @@
     <e r="LR"><p><l>rear<s n="n"/></l><r>darrere<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rearrangement<s n="n"/></l><r>redisposició<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>reason<s n="n"/></l><r>motiu<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>reason<s n="n"/></l><r>raó<s n="n"/><s n="f"/></r></p></e>
+    <e srl="reason D"><p><l>reason<s n="n"/></l><r>raó<s n="n"/><s n="f"/></r></p></e>
+    <e srl="cause"><p><l>cause<s n="n"/></l><r>raó<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>reasoning<s n="n"/></l><r>raonament<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>reassurance<s n="n"/></l><r>tranquil·litat<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rebel<s n="n"/></l><r>rebel<s n="n"/><s n="mf"/></r></p></e>
@@ -13689,6 +13163,14 @@
     <e><p><l>rivière<s n="n"/></l><r>rivière<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>road<s n="n"/></l><r>carretera<s n="n"/><s n="f"/></r></p></e>
     <e r="RL" srl="road D"><p><l>road<s n="n"/></l><r>via<s n="n"/><s n="f"/></r></p></e>
+    <e srl="channel"><p><l>channel<s n="n"/></l><r>via<s n="n"/><s n="f"/></r></p></e>
+    <e srl="way"><p><l>way<s n="n"/></l><r>via<s n="n"/><s n="f"/></r></p></e>
+    <e srl="lane"><p><l>lane<s n="n"/></l><r>via<s n="n"/><s n="f"/></r></p></e>
+    <e srl="track"><p><l>track<s n="n"/></l><r>via<s n="n"/><s n="f"/></r></p></e>
+    <e srl="path"><p><l>path<s n="n"/></l><r>via<s n="n"/><s n="f"/></r></p></e>
+    <e srl="tract"><p><l>tract<s n="n"/></l><r>via<s n="n"/><s n="f"/></r></p></e>
+    <e srl="route"><p><l>route<s n="n"/></l><r>via<s n="n"/><s n="f"/></r></p></e>
+    <e srl="rail"><p><l>rail<s n="n"/></l><r>via<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>road<b/>accident<s n="n"/></l><r>accident<g><b/>de<b/>trànsit</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>road<b/>junction<s n="n"/></l><r>nus<b/>viari<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>roadstead<s n="n"/></l><r>rada<s n="n"/><s n="f"/></r></p></e>
@@ -14332,7 +13814,6 @@
     <e><p><l>shop<s n="n"/></l><r>botiga<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>shop window<s n="n"/></l><r>aparador<s n="n"/><s n="m"/></r></p></e>
     <e srl="shopping" c="la compra = the shopping, only SG ?"><p><l>shopping<s n="n"/></l><r>compra<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>shore<s n="n"/></l><r>riba<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>shortage<s n="n"/></l><r>escassetat<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>shortcut<s n="n"/></l><r>drecera<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>shortening<s n="n"/></l><r>abreujament<s n="n"/><s n="m"/></r></p></e>
@@ -14438,6 +13919,7 @@
     <e><p><l>sinusoid<s n="n"/></l><r>sinusoide<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sip<s n="n"/></l><r>xarrup<s n="n"/><s n="m"/></r></p></e>
     <e r="LR" a="carmentano"><p><l>sir<s n="n"/></l><r>senyor<s n="n"/><s n="m"/></r></p></e>
+    <e srl="lord"><p><l>lord<s n="n"/></l><r>senyor<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sirocco<s n="n"/></l><r>xaloc<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sirvente<s n="n"/></l><r>sirventès<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sisal<s n="n"/></l><r>sisal<s n="n"/><s n="m"/></r></p></e>
@@ -16106,7 +15588,7 @@
     <e><p><l>trousseau<s n="n"/></l><r>aixovar<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>trowel<s n="n"/></l><r>aixadell<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>truce<s n="n"/></l><r>treva<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>truck<s n="n"/></l><r>camió<s n="n"/><s n="m"/></r></p></e>
+    <e srl="truck"><p><l>truck<s n="n"/></l><r>camió<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>truck<b/>driver<s n="n"/></l><r>camioner<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>truck<b/>driver<s n="n"/></l><r>camioner<s n="n"/></r></p></e>
     <e><p><l>truncation<s n="n"/></l><r>truncament<s n="n"/><s n="m"/></r></p></e>
@@ -16405,7 +15887,9 @@
     <e><p><l>ventilation<s n="n"/></l><r>ventilació<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ventricle<s n="n"/></l><r>ventricle<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>venture<s n="n"/></l><r>aventura<s n="n"/><s n="f"/></r></p></e>
-    <e a="carmentano"><p><l>venue<s n="n"/></l><r>local<s n="n"/><s n="m"/></r></p></e>
+    <e a="carmentano" srl="venue D"><p><l>venue<s n="n"/></l><r>local<s n="n"/><s n="m"/></r></p></e>
+    <e a="carmentano" slr="local" srl="premises" r="RL"><p><l>premise<s n="n"/><s n="pl"/></l><r>local<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e a="carmentano" slr="local" srl="premises" r="RL"><p><l>premise<s n="n"/><s n="pl"/></l><r>local<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e><p><l>venule<s n="n"/></l><r>vènula<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>veranda<s n="n"/></l><r>veranda<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>verb<s n="n"/></l><r>verb<s n="n"/><s n="m"/></r></p></e>
@@ -16800,7 +16284,8 @@
     <e><p><l>workstation<s n="n"/></l><r>estació<g><b/>de<b/>treball</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>world<s n="n"/></l><r>món<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>worm<s n="n"/></l><r>cuc<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>worry<s n="n"/></l><r>preocupació<s n="n"/><s n="f"/></r></p></e>
+    <e srl="worry D"><p><l>worry<s n="n"/></l><r>preocupació<s n="n"/><s n="f"/></r></p></e>
+    <e srl="concern"><p><l>concern<s n="n"/></l><r>preocupació<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>worship<s n="n"/></l><r>veneració<s n="n"/><s n="f"/></r></p></e>
     <e srl="worship"><p><l>worship<s n="n"/></l><r>adoració<s n="n"/><s n="f"/></r></p></e>
     <e r="LR" a="doriua"><p><l>worth<s n="n"/></l><r>valor<s n="n"/><s n="m"/></r></p></e>
@@ -16983,7 +16468,8 @@
     <e><p><l>advisable<s n="adj"/></l><r>aconsellable<s n="adj"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>advisory<s n="adj"/></l><r>aconsellable<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>aeolian<s n="adj"/></l><r>eòlic<s n="adj"/></r></p></e>
-    <e><p><l>aerial<s n="adj"/></l><r>aeri<s n="adj"/></r></p></e>
+    <e srl="aerial D"><p><l>aerial<s n="adj"/></l><r>aeri<s n="adj"/></r></p></e>
+    <e srl="air"><p><l>air<s n="adj"/></l><r>aeri<s n="adj"/></r></p></e>
     <e><p><l>aerobic<s n="adj"/></l><r>aeròbic<s n="adj"/></r></p></e>
     <e><p><l>aerodynamic<s n="adj"/></l><r>aerodinàmic<s n="adj"/></r></p></e>
     <e><p><l>aeronautical<s n="adj"/></l><r>aeronàutic<s n="adj"/></r></p></e>
@@ -17517,6 +17003,7 @@
     <e><p><l>dairy<s n="adj"/></l><r>làctic<s n="adj"/></r></p></e>
     <e><p><l>damned<s n="adj"/></l><r>ditxós<s n="adj"/></r></p></e>
     <e r="LR"><p><l>damp<s n="adj"/></l><r>humit<s n="adj"/></r></p></e>
+    <e><p><l>humid<s n="adj"/></l><r>humit<s n="adj"/></r></p></e>
     <e><p><l>dangerous<s n="adj"/></l><r>perillós<s n="adj"/></r></p></e>
     <e><p><l>danish<s n="adj"/></l><r>danès<s n="adj"/></r></p></e>
     <e><p><l>dark<s n="adj"/><s n="sint"/></l><r>fosc<s n="adj"/></r></p></e>
@@ -18070,7 +17557,8 @@
     <e><p><l>fragile<s n="adj"/></l><r>fràgil<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>fragrant<s n="adj"/></l><r>fragant<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>francoist<s n="adj"/></l><r>franquista<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>frank<s n="adj"/></l><r>franc<s n="adj"/></r></p></e>
+    <e srl="frank D"><p><l>frank<s n="adj"/></l><r>franc<s n="adj"/></r></p></e>
+    <e srl="safe"><p><l>safe<s n="adj"/></l><r>franc<s n="adj"/></r></p></e>
     <e><p><l>frantic<s n="adj"/></l><r>frenètic<s n="adj"/></r></p></e>
     <e><p><l>fraternal<s n="adj"/></l><r>fraternal<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>fraudulent<s n="adj"/></l><r>fraudulent<s n="adj"/></r></p></e>
@@ -18571,6 +18059,7 @@
     <e><p><l>loving<s n="adj"/></l><r>amorós<s n="adj"/></r></p></e>
     <e r="RL"><p><l>low<s n="adj"/><s n="sint"/></l><r>rasant<s n="adj"/><s n="mf"/></r></p></e>
     <e srl="low D"><p><l>low<s n="adj"/><s n="sint"/></l><r>baix<s n="adj"/></r></p></e>
+    <e srl="ground"><p><l>ground<s n="adj"/></l><r>baix<s n="adj"/></r></p></e>
     <e><p><l>low<b/>quality<s n="adj"/></l><r>de<b/>baixa<b/>qualitat<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>loyal<s n="adj"/></l><r>lleial<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>lucky<s n="adj"/><s n="sint"/></l><r>afortunat<s n="adj"/></r></p></e>
@@ -18598,6 +18087,8 @@
     <e><p><l>maiden<s n="adj"/></l><r>virginal<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>main<s n="adj"/></l><r>principal<s n="adj"/><s n="mf"/></r></p></e>
     <e r="RL" srl="main"><p><l>main<s n="adj"/></l><r>major<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>important<s n="adj"/></l><r>important<s n="adj"/><s n="mf"/></r></p></e>
+
     <e r="LR"><p><l>major<s n="adj"/></l><r>important<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>majorcan<s n="adj"/></l><r>mallorquí<s n="adj"/></r></p></e>
     <e><p><l>maladjusted<s n="adj"/></l><r>inadaptat<s n="adj"/></r></p></e>
@@ -19047,7 +18538,8 @@
     <e><p><l>ovarian<s n="adj"/></l><r>ovàric<s n="adj"/></r></p></e>
     <e r="LR"><p><l>overall<s n="adj"/></l><r>global<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>overdetermined<s n="adj"/></l><r>sobredeterminat<s n="adj"/></r></p></e>
-    <e><p><l>overhead<s n="adj"/></l><r>elevat<s n="adj"/></r></p></e>
+    <e srl="overhead D"><p><l>overhead<s n="adj"/></l><r>elevat<s n="adj"/></r></p></e>
+    <e srl="high"><p><l>high<s n="adj"/></l><r>elevat<s n="adj"/></r></p></e>
     <e><p><l>overlapped<s n="adj"/></l><r>fullat<s n="adj"/></r></p></e>
     <e r="LR"><p><l>overriding<s n="adj"/></l><r>primordial<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>overwhelming<s n="adj"/></l><r>aclaparador<s n="adj"/></r></p></e>
@@ -19739,7 +19231,8 @@
     <e><p><l>severe<s n="adj"/></l><r>sever<s n="adj"/></r></p></e>
     <e><p><l>sexagesimal<s n="adj"/></l><r>sexagesimal<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>sexless<s n="adj"/></l><r>asexuat<s n="adj"/></r></p></e>
-    <e><p><l>sexual<s n="adj"/></l><r>sexual<s n="adj"/><s n="mf"/></r></p></e>
+    <e srl="sexual D"><p><l>sexual<s n="adj"/></l><r>sexual<s n="adj"/><s n="mf"/></r></p></e>
+    <e srl="sex"><p><l>sex<s n="adj"/></l><r>sexual<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>sexy<s n="adj"/><s n="sint"/></l><r>sexy<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>shady<s n="adj"/><s n="sint"/></l><r>ombrívol<s n="adj"/></r></p></e>
     <e r="LR"><p><l>shallow<s n="adj"/></l><r>superficial<s n="adj"/><s n="mf"/></r></p></e>
@@ -20496,6 +19989,11 @@
           group vblex_symbol
       ****************************** -->
     <e><p><l>abandon<s n="vblex"/></l><r>abandonar<s n="vblex"/></r></p></e>
+    <e><p><l>associate<s n="vblex"/></l><r>associar<s n="vblex"/></r></p></e>
+    <e r="RL" c="això seria polisèmia en-ca?"><p><l>be<s n="vbser"/></l><r>estar<s n="vblex"/></r></p></e>
+
+    <e><p><l>be<g><b/>born</g><s n="vblex"/></l><r>néixer<s n="vblex"/></r></p></e>
+
     <e slr="argumentar D"><p><l>argue<s n="vblex"/></l><r>argumentar<s n="vblex"/></r></p></e>
     <e slr="discutir D" srl="argue D"><p><l>argue<s n="vblex"/></l><r>discutir<s n="vblex"/></r></p></e>
     <e srl="dispute"><p><l>dispute<s n="vblex"/></l><r>discutir<s n="vblex"/></r></p></e>
@@ -20659,7 +20157,8 @@
     <e><p><l>coerce<s n="vblex"/></l><r>coaccionar<s n="vblex"/></r></p></e>
     <e><p><l>cohabit<s n="vblex"/></l><r>cohabitar<s n="vblex"/></r></p></e>
     <e><p><l>coin<s n="vblex"/></l><r>encunyar<s n="vblex"/></r></p></e>
-    <e><p><l>coincide<s n="vblex"/></l><r>coincidir<s n="vblex"/></r></p></e>
+    <e srl="coincide D"><p><l>coincide<s n="vblex"/></l><r>coincidir<s n="vblex"/></r></p></e>
+    <e srl="agree"><p><l>agree<s n="vblex"/></l><r>coincidir<s n="vblex"/></r></p></e>
     <e a="prompsit2cdl"><p><l>collaborate<s n="vblex"/></l><r>col·laborar<s n="vblex"/></r></p></e>
     <e><p><l>collapse<s n="vblex"/></l><r>col·lapsar<s n="vblex"/></r></p></e>
     <e><p><l>collate<s n="vblex"/></l><r>acarar<s n="vblex"/></r></p></e>
@@ -20688,7 +20187,8 @@
     <e><p><l>commercialise<s n="vblex"/></l><r>comercialitzar<s n="vblex"/></r></p></e>
     <e><p><l>commission<s n="vblex"/></l><r>encarregar<s n="vblex"/></r></p></e>
     <e><p><l>commit<s n="vblex"/></l><r>cometre<s n="vblex"/></r></p></e>
-    <e><p><l>communicate<s n="vblex"/></l><r>comunicar<s n="vblex"/></r></p></e>
+    <e srl="communicate D"><p><l>communicate<s n="vblex"/></l><r>comunicar<s n="vblex"/></r></p></e>
+    <e srl="connect"><p><l>connect<s n="vblex"/></l><r>comunicar<s n="vblex"/></r></p></e>
     <e><p><l>commutate<s n="vblex"/></l><r>commutar<s n="vblex"/></r></p></e>
     <e><p><l>compact<s n="vblex"/></l><r>compactar<s n="vblex"/></r></p></e>
     <e><p><l>compare<s n="vblex"/></l><r>comparar<s n="vblex"/></r></p></e>
@@ -20808,7 +20308,8 @@
     <e><p><l>creak<s n="vblex"/></l><r>grinyolar<s n="vblex"/></r></p></e>
     <e><p><l>crease<s n="vblex"/></l><r>arrugar<s n="vblex"/></r></p></e>
     <e><p><l>create<s n="vblex"/></l><r>crear<s n="vblex"/></r></p></e>
-    <e><p><l>credit<s n="vblex"/></l><r>abonar<s n="vblex"/></r></p></e>
+    <e srl="credit D"><p><l>credit<s n="vblex"/></l><r>abonar<s n="vblex"/></r></p></e>
+    <e srl="pay"><p><l>pay<s n="vblex"/></l><r>abonar<s n="vblex"/></r></p></e>
     <e><p><l>creep<s n="vblex"/></l><r>arrossegar-se<s n="vblex"/><s n="pron"/></r></p></e>
     <e><p><l>crimp<s n="vblex"/></l><r>arrissar<s n="vblex"/></r></p></e>
     <e><p><l>cripple<s n="vblex"/></l><r>esguerrar<s n="vblex"/></r></p></e>
@@ -20840,6 +20341,10 @@
     <e><p><l>dazzle<s n="vblex"/></l><r>enlluernar<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>deal<s n="vblex"/></l><r>tractar<s n="vblex"/></r></p></e>
     <e srl="deal_with"><p><l>deal<g><b/>with</g><s n="vblex"/></l><r>tractar<s n="vblex"/></r></p></e>
+    <e srl="be_called"><p><l>be<g><b/>called</g><s n="vblex"/></l><r>tractar<s n="vblex"/></r></p></e>
+    <e srl="talk_about"><p><l>talk<g><b/>about</g><s n="vblex"/></l><r>tractar<s n="vblex"/></r></p></e>
+    <e srl="try"><p><l>try<s n="vblex"/></l><r>tractar<s n="vblex"/></r></p></e>
+    <e srl="discuss"><p><l>discuss<s n="vblex"/></l><r>tractar<s n="vblex"/></r></p></e>
     <e><p><l>debate<s n="vblex"/></l><r>debatre<s n="vblex"/></r></p></e>
     <e><p><l>debit<s n="vblex"/></l><r>reprovar<s n="vblex"/></r></p></e>
     <e><p><l>debug<s n="vblex"/></l><r>depurar<s n="vblex"/></r></p></e>
@@ -20903,7 +20408,6 @@
     <e><p><l>denaturalise<s n="vblex"/></l><r>desnaturalitzar<s n="vblex"/></r></p></e>
     <e><p><l>denominate<s n="vblex"/></l><r>denominar<s n="vblex"/></r></p></e>
     <e><p><l>denote<s n="vblex"/></l><r>denotar<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>denounce<s n="vblex"/></l><r>denunciar<s n="vblex"/></r></p></e>
     <e><p><l>dent<s n="vblex"/></l><r>abonyegar<s n="vblex"/></r></p></e>
     <e><p><l>deny<s n="vblex"/></l><r>negar<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>deny<s n="vblex"/></l><r>desmentir<s n="vblex"/></r></p></e>
@@ -21013,6 +20517,8 @@
     <e r="LR"><p><l>display<s n="vblex"/></l><r>mostrar<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>dispose<s n="vblex"/></l><r>col·locar<s n="vblex"/></r></p></e>
     <e><p><l>disregard<s n="vblex"/></l><r>desatendre<s n="vblex"/></r></p></e>
+    <e slr="atendre"><p><l>attend<s n="vblex"/></l><r>atendre<s n="vblex"/></r></p></e>
+    <e slr="assistir a D"><p><l>attend<s n="vblex"/></l><r>assistir<g><b/>a</g><s n="vblex"/></r></p></e>
     <e><p><l>dissect<s n="vblex"/></l><r>dissecar<s n="vblex"/></r></p></e>
     <e><p><l>dissemble<s n="vblex"/></l><r>dissimular<s n="vblex"/></r></p></e>
     <e><p><l>disseminate<s n="vblex"/></l><r>disseminar<s n="vblex"/></r></p></e>
@@ -21370,6 +20876,8 @@
     <e r="RL"><p><l>give<s n="vblex"/></l><r>regalar<s n="vblex"/></r></p></e>
     <e r="RL" a="prompsit2cdl"><p><l>give<s n="vblex"/></l><r>obsequiar<s n="vblex"/></r></p></e>
     <e srl="give_back"><p><l>give<g><b/>back</g><s n="vblex"/><s n="sep"/></l><r>tornar<s n="vblex"/></r></p></e>
+    <e srl="return"><p><l>return<s n="vblex"/></l><r>tornar<s n="vblex"/></r></p></e>
+    <e srl="turn"><p><l>turn<s n="vblex"/></l><r>tornar<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>give<g><b/>up</g><s n="vblex"/><s n="sep"/></l><r>deixar<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>give<g><b/>up</g><s n="vblex"/><s n="sep"/></l><r>renunciar<g><b/>a</g><s n="vblex"/></r></p></e>
     <e><p><l>gladden<s n="vblex"/></l><r>alegrar<s n="vblex"/></r></p></e>
@@ -21944,7 +21452,8 @@
     <e><p><l>pressurise<s n="vblex"/></l><r>pressuritzar<s n="vblex"/></r></p></e>
     <e><p><l>prestress<s n="vblex"/></l><r>pretesar<s n="vblex"/></r></p></e>
     <e><p><l>presuppose<s n="vblex"/></l><r>pressuposar<s n="vblex"/></r></p></e>
-    <e><p><l>pretend<s n="vblex"/></l><r>pretendre<s n="vblex"/></r></p></e>
+    <e srl="pretend D"><p><l>pretend<s n="vblex"/></l><r>pretendre<s n="vblex"/></r></p></e>
+    <e srl="aim"><p><l>aim<s n="vblex"/></l><r>pretendre<s n="vblex"/></r></p></e>
     <e><p><l>prevail<s n="vblex"/></l><r>prevaler<s n="vblex"/></r></p></e>
     <e><p><l>prevaricate<s n="vblex"/></l><r>prevaricar<s n="vblex"/></r></p></e>
     <e><p><l>prevent<s n="vblex"/></l><r>impedir<s n="vblex"/></r></p></e>
@@ -22129,7 +21638,9 @@
     <e srl="replenish D"><p><l>replenish<s n="vblex"/></l><r>reomplir<s n="vblex"/></r></p></e>
     <e srl="fill"><p><l>fill<s n="vblex"/></l><r>reomplir<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>reply<s n="vblex"/></l><r>respondre<s n="vblex"/></r></p></e>
-    <e r="RL"><p><l>report<s n="vblex"/></l><r>denunciar<s n="vblex"/></r></p></e>
+    <e srl="denounce"><p><l>denounce<s n="vblex"/></l><r>denunciar<s n="vblex"/></r></p></e>
+    <e srl="condemn"><p><l>condemn<s n="vblex"/></l><r>denunciar<s n="vblex"/></r></p></e>
+    <e srl="report D"><p><l>report<s n="vblex"/></l><r>denunciar<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>report<s n="vblex"/></l><r>informar<s n="vblex"/></r></p></e>
     <e><p><l>reposition<s n="vblex"/></l><r>recol·locar<s n="vblex"/></r></p></e>
     <e><p><l>represent<s n="vblex"/></l><r>representar<s n="vblex"/></r></p></e>
@@ -27669,6 +27180,8 @@
     <e><p><l>Lancelot du Lac<s n="np"/></l><r>Lancelot du Lac<s n="np"/></r></p></e>
     <e><p><l>Lancelot of the Lake<s n="np"/></l><r>Lancelot of the Lake<s n="np"/></r></p></e>
     <e><p><l>Landelina<s n="np"/></l><r>Landelina<s n="np"/></r></p></e>
+    <e><p><l>Queensland<s n="np"/><s n="loc"/></l><r>Queensland<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+
     <e><p><l>Landelino<s n="np"/></l><r>Landelino<s n="np"/></r></p></e>
     <e><p><l>Landen<s n="np"/></l><r>Landen<s n="np"/></r></p></e>
     <e><p><l>Landolfo<s n="np"/></l><r>Landolfo<s n="np"/></r></p></e>
@@ -34500,6 +34013,14 @@
     <e><p><l>without<b/>notice<s n="adv"/></l><r>sense<b/>avisar<s n="adv"/></r></p></e>
     <e><p><l>without<b/>prejudice<s n="adv"/></l><r>sense<b/>causar<b/>cap<b/>perjudici<s n="adv"/></r></p></e>
     <e><p><l>without<b/>prior<b/>notice<s n="adv"/></l><r>sense<b/>previ<b/>avís<s n="adv"/></r></p></e>
+
+
+    <e r="LR"><p><l>a<s n="det"/><s n="ind"/></l><r>un<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>a<s n="det"/><s n="ind"/><s n="sg"/></l><r>un<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>a<s n="det"/><s n="ind"/><s n="sg"/></l><r>un<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>some<s n="det"/><s n="qnt"/><s n="pl"/></l><r>un<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>some<s n="det"/><s n="qnt"/><s n="pl"/></l><r>un<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
+
     <e r="LR"><p><l>both<s n="det"/><s n="ind"/></l><r>ambdós<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>both<s n="det"/></l><r>ambdós<s n="det"/></r></p></e>
     <e r="RL"><p><l>both<s n="det"/></l><r>tots<b/>dos<s n="det"/></r></p></e>

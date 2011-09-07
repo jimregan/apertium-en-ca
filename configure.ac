@@ -55,6 +55,17 @@ if test x$ac_cv_path_APERTIUMCOMP = xno
 then
   AC_MSG_ERROR([You don't have apertium-compiler installed.])
 fi
+
+AC_PATH_PROG(APERTIUMVM, apertium-vm, no)
+if test x$ac_cv_path_APERTIUMVM = x
+then
+  AC_MSG_ERROR([You don't have apertium-vm installed.])
+fi
+if test x$ac_cv_path_APERTIUMVM = xno
+then
+  AC_MSG_ERROR([You don't have apertium-vm installed.])
+fi
+ 
  
 AC_PATH_PROG(XSLTPROC, xsltproc, no)
 if test x$ac_cv_path_XSLTPROC = x

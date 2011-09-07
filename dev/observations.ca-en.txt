@@ -1,0 +1,243 @@
+MOR:
+
+receptar			vblex
+sinistre			noun
+Del Piero			np.cog
+Prestar				np.cog
+oceà Pacífic			np.top
+envers				prep
+
+TAG:
+
+* El líder comunista Luis Carlos Prestar va ser un gran >>>amic<<< i mentor en els seus últims anys.
+* I diuen que hi van maldar >>>set<<< anys i que no van aconseguir fer més que unes quantes canes de mina
+* Va aconseguir la majoria absoluta en ambdues càmeres, pel que no va haver de pactar amb els partits nacionalistes, com havia fet el 1996 i va poder desenvolupar la seva >>>política<<< sense interferències externes.
+* Els principals acords que duen a terme els càrtels són de la quantitat, repartiment del mercat o el preu de >>>venta<<< (competeixen en disseny, qualitat...).
+* Israel té la taxa d'alfabetització més alta del sud-est d'Àsia >>>segons<<< les Nacions Unides.
+* Si Lídia en va treure alguna aventatge no es conegut, i >>>podria<<< ser que la guerra no hagués estat tant favorable finalment o be que calgués assegurar aquesta frontera davant del perill dels medes.
+* Era a la via cap a Nablús, entre Jerusalem i Ramah i >>>podria<<< ser un lloc al oest de la moderna Jeba identificat com Tell al-Full.
+* Mountbatten, la princesa >>>Marina<<< de Grècia i la marquesa de Milford-Haven sapigueren guiar
+* Ja que es tracta de dones que viuen en una font, en són >>>set<<< o vuit, joves i precioses.
+* L'abril de 2009, Josep-Lluís Carod-Rovira va deixar via lliure a Joan Puigcercós en renunciar a tornar a repetir com a >>>cap<<< de llista d'ERC a les següents eleccions catalanes.
+* De llengües com l'italià i el lituà >>>en va<<< tenir coneixements bàsics.
+* Felip >>>duc<< d'Anjou tenia 17 anys en accedir a la Corona d’Espanya
+* Aquest conflicte acabà amb el domini del Shogunat d'Ashikaga i desembocaria en el Període Sengoku, un període de més de cent anys de guerres i aliances >>>polítiques<<< difícils.
+* La >>>casa<<< matriu de Bayer està a la ciutat alemanya de Leverkusen
+
+BID:
+
+força				power
+raça				origins						"de raça gitana"
+anunci				advert, message, advertising
+alliberament			liberation
+il·lícit			illegal
+bateria				drums
+arrel				foundation, base
+desencadenar			unleash
+sanitari			medical, healthcare, health
+dit				saying
+teixit				material
+patró				owner, boss, patron saint, captain, skipper
+pati				backyard, courtyard
+nau				vessel
+incapacitat			lack
+dipòsit				store, cache, consignment, dump
+consulta			
+segell				brand, mark
+forma				way
+persecució			prosecution
+vestit				costume
+sortida				release, showing, result, way# out, retirement, outcome, option, outing, leaving, withdrawl, departure, end, trip
+ocupació			job, occupancy
+càrrega				weight, cargo, position
+segons				according to
+al llarg de 			throughout
+a punt de			at the point of
+convertir-se			become
+tractar 			...
+fins a				up to
+a més				what's more, in addition
+ras i curt			long and short
+
+MWE:
+
+planta baixa			"ground floor"
+coneguda també com		"also known as"
+començar amb mal peu		"get off to a bad start", "start off on the wrong foot"
+anar arrossegant		"drag on"
+tauler d'anuncis		"notice board"
+anunci publicitari		
+arrel del problema		"root of the problem"
+perdre les arrels
+trencar d'arrel
+tallar d'arrel
+bany de sang			"blood bath", "bloodbath"
+cinta de vídeo			"video tape", "videotape"
+cobertura sanitària universal	"universal healthcare" (?)
+llibre de cuina			"cook book"
+estri de cuina			"cooking utensil"
+dit petit			"little finger", "little toe" (?)
+recepta mèdica			"prescription"
+ràbia i fúria			"rage and fury"
+vaca boja 			"mad cow"
+pati de butaques
+pati d'armes
+nau de treball
+nau de vela			"sailing ship"
+nau de guerra			"warship"
+incapacitat mental		"mental disability"
+helicòpter de combat		"combat helicopter", "attack helicopter"
+fer un dipòsit
+dipòsit de gasolina		"petrol tank"
+amenaça de bomba		"bomb threat"
+passar bomba			
+cotxe bomba			"car bomb"
+consulta social
+centre de consultes
+procés de consultes		"consultation process"
+volum de consulta
+període de consultes		"consultation period"
+consulta pública		"public consultation"
+roda de consultes
+sector sanitari			"healthcare sector"
+segell d'entrada		"seal of approval" (?)
+segell editorial
+segell de correus		"postal stamps"
+defensor del poble		"public defender"
+vestit espacial			"space suit"
+xoc sèptic			"septic shock"
+xoc hipovolemic			"hipovolemic shock"
+xoc endotòxic			"endotoxic shock"
+sortida a borsa
+preu de sortida
+caixa d'estalvis
+cua de sortida
+via de sortida
+full de la sortida
+sortida a l'americana
+línia de sortida		"starting line"
+port de sortida
+prendre la sortida
+sortida de socors 		"emergency exit"
+lluita de classes		"class war"
+vehicle de càrrega		"freight vehicle"
+vaixell de càrrega		"freight ship"
+tancs de càrrega		"cargo tanks"
+canal de la Mànega
+càrrega impositiva 
+desig sexual			"sexual desire"
+índex borsari			"exchange rate"
+índex del mercat		"market rates"
+antic règim			"ancienne regime"
+remor dels sabres		"saber rattling"
+cap de turc
+com a resposta a		"in response to"
+gent gran
+donar resposta			"respond"
+marca de començament
+farina de carn
+carta de llibertat
+superposició a la carta
+carta magna
+carta pastoral
+carta de presentació
+divisió de treball		"division of labour"
+preu de venta			"market price" (?)
+molt prop de			"very close to"
+esdeveniment bèl·lic		"war"(?)
+fer destrosso			"break"(?)
+donar pas			"give way"(?)
+sobre tot			"above all"
+espai en blanc			"space"
+barra invertida			"backslash"
+exercir de 			"practise as"
+bomba de pipa			"pipe bomb"
+atacs bèl·lics de bombes nuclears	nuclear attacks
+intercanviador de calor		"heat exchanger"
+escenari de batalles		"battleground"
+xarxa de comerç			"trade network"
+temperatura ambient		"room temperature"
+boxejador a puny lliure		"bareknuckle boxer"
+fusta a dues aigües
+avui en dia			"nowadays" (CN?)
+de molta importància		"very important"
+a començaments de		"at the start of"
+objectiu de major importància	"major objective"
+ja sigui			"be it"
+d'una manera tal que		"in such a way that"
+arribar a ser			"come to be"
+tractar de			"deal with"
+a l'actualitat			"currently"
+a sobre de 			"above" (?)
+al seu torn			"in turn"
+tantes vegades com 		"as many times as"
+via lliure			"free rein"
+en direcció a 			"in direction of"
+règim de pluges			"rainfall"
+règim de vents			"wind" (?)
+casa de la vila			"town hall" (CN?)
+a partir de finals de		"from the end of"
+a l'hora de			"when"
+portar a			"bring about" (?)
+fins avui dia			"to this day"
+al mateix temps			"at the same time"
+un temps després		"some time after"
+força aèria 			"airforce"
+atès que			"since, as, because, seeing as"
+pis franc			"safe house" (?)
+una manera de ser		"a way of being"
+comptar amb			"have"
+en funció de			"according to"
+professor convidat		"visiting professor"
+en tot el món			"all over the world"
+en resum
+
+
+LEX:
+
+"la dona del president"		dona + de + (NP-ANIM) -> wife
+"la seva dona"			(DET POS) + dona -> wife
+"el patró Nigel Burgess"	patró + (NP-ANIM) -> (NOT pattern)
+"porta incorporada de sortida"	("portar" + de sortida -> from the beginning/outset	[any movement verb?]
+"alinear de sortida"		("alinear" + de sortida -> from the beginning/outset
+"carn i ossos"			("carn" + i + ossos -> flesh and bones
+"a POSS retorn"			upon POSS return
+"victòria sobre"		victory over
+"researches" 			<-- this should never be generated
+
+
+XFR:
+
+es busca subratllar		"looks to underline" NOT "looks for  underline"
+el 1984				"in 1984" not "the 1984"
+el 216 aC			"in 216 BCE" 
+no X mai			"never X" not "did not X never"
+en Harry			en + NP-ANT-M -> NP-ANT-M
+els anys 80			els anys XX -> the XXs
+SUBJ + emotion verb		-> animate subject [ex. 'Admirava els aspectes anti-imperialistes']
+				(find a list of candidates by grepping a corpus for verbs that don't have 'it' before,
+				 but that do have 'he'/'she')
+overgen of defnes		segons les lleis internacionals -> according to international law
+				(corpus it. extract multiword NPs and look for cases where in SL it is always -- or 90% def
+				 and in TL it is only 10% def)
+				de l'homeopatia -> of homeopathy
+				(maybe not just MWEs)
+129 aC 				129 aC -> 129 BCE
+més resistents que		more resistant _THAN_
+més per necessitat que		more for need _THAN_
+
+en que el terreny és més petit i la xarxa més baixa.
+cosa que			this (dependent on syntax)
+es V (adv)? per			be X-pp by
+no van poder impedir		were not able to prevent
+que avui anomenaríem història	that today _WE_ would call history
+els anys 90 del segle XX	the 1990s
+Un viatge seu a València	A his voyage -> One of his voyages
+fer + INF 			make + INF
+fer + pron + INF 		make + pron + INF
+se'ls podia gastar		could save them
+tornar a + INF			INF + again (?)
+fer que X vblex.prs		make X INF
+data de + DATE			dates from + DATE
+permetre a NP INF 		allow NP to INF
+va poder demostrar		was able to demonstrate

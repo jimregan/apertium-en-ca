@@ -29,6 +29,7 @@
 /ca-en-unsupervised.make -text
 /ca-en.prob -text svneol=unset#unset
 /configure.ac -text
+dev/observations.ca-en.txt -text
 /empty.t1x -text
 /en-ca-supervised.make -text
 /en-ca-unsupervised.make -text
