@@ -23,7 +23,8 @@ TAG:
 * Felip >>>duc<< d'Anjou tenia 17 anys en accedir a la Corona d’Espanya
 * Aquest conflicte acabà amb el domini del Shogunat d'Ashikaga i desembocaria en el Període Sengoku, un període de més de cent anys de guerres i aliances >>>polítiques<<< difícils.
 * La >>>casa<<< matriu de Bayer està a la ciutat alemanya de Leverkusen
-
+* >>>Son pare<<< era cap d'Estació i músic aficionat, i Kodály va aprendre a tocar el violí des de ben menut.
+* Després d'uns anys reformant l'administració, la tasca va donar fruits i la prosperitat va retornar; 769 taxes menors foren abolides i tot i així la recaptació no va parar de crèixer; >>>les practiques<<< opresives foren eliminades.
 BID:
 
 força				power
@@ -47,7 +48,7 @@ segell				brand, mark
 forma				way
 persecució			prosecution
 vestit				costume
-sortida				release, showing, result, way# out, retirement, outcome, option, outing, leaving, withdrawl, departure, end, trip
+sortida				release, showing, result, way# out, retirement, outcome, option, outing, leaving, withdrawal, departure, end, trip
 ocupació			job, occupancy
 càrrega				weight, cargo, position
 segons				according to
@@ -215,6 +216,25 @@ estrella fugaç			"shooting star"
 en la pràctica			"in practice"
 comença per			"begin with"
 donar pas			"give way"
+per damunt de			"above"
+aprop de			"near"
+tocant a			"right next to", "next to"
+al mínim			"to a minimum"
+cap a				"towards"
+línia de fons			"goal line" (?)
+sortir fora del terreny de joc	"go out of play"
+d'una banda			"on one hand"
+a continuació			"next"
+teixit adipós			"body fat", "adipose tissue"
+no obstant			"notwithstanding" (?)
+taxa de bits			"bitrate"
+taxes de natalitat i mortalitat "birth and death rates"
+posar en moviment		"put into motion"
+tant per			"as well as"
+més enllà de			"far from" (?)
+igual que			"the same as"
+de manera conscient		"consciously"
+en aquest sentit		?
 
 LEX:
 
@@ -266,5 +286,6 @@ data de + DATE			dates from + DATE
 permetre a NP INF 		allow NP to INF
 va poder demostrar		was able to demonstrate
 va haver de tornar		had to return
+van haver de pagar		
 de setembre a novembre		from MONTH to MONTH (not 'of' / 'to')
 es van anar perfeccionant 	
