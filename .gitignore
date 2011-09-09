@@ -1,1 +1,15 @@
+/*.autobil.dix
 /*.bin
+/*.cache
+/*lextor.dix
+/.deps
+/Makefile
+/Makefile.in
+/aclocal.m4
+/config*
+/config.status
+/configure
+/install-sh
+/missing
+/modes
+/stamp-h1
