@@ -1,8 +1,10 @@
 /*.autobil.dix
 /*.bin
 /*.cache
+/*.mode
 /*lextor.dix
 /.deps
+/INSTALL
 /Makefile
 /Makefile.in
 /aclocal.m4
