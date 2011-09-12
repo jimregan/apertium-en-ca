@@ -762,6 +762,356 @@
   </pardefs>
   <section id="main" type="standard">
 
+    <e r="LR"><p><l>a<s n="det"/><s n="ind"/></l><r>un<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>a<s n="det"/><s n="ind"/><s n="sg"/></l><r>un<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>a<s n="det"/><s n="ind"/><s n="sg"/></l><r>un<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>a<b/>few<s n="det"/><s n="qnt"/></l><r>uns<b/>quants<s n="det"/><s n="qnt"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>a<b/>few<s n="det"/><s n="qnt"/><s n="pl"/></l><r>uns<b/>quants<s n="det"/><s n="qnt"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>a<b/>few<s n="det"/><s n="qnt"/><s n="pl"/></l><r>uns<b/>quants<s n="det"/><s n="qnt"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>a<b/>lot<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></l><r>molt<s n="det"/><s n="qnt"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>a<b/>lot<b/>of<s n="det"/></l><r>molt<s n="det"/></r></p></e>
+ <e r="LR"><p><l>a<b/>shitload<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></l><r>una<b/>pila<b/>de<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>more<b/>than<b/>half<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></l><r>més<b/>de<b/>la<b/>meitat<b/>de<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>another<s n="det"/><s n="ind"/></l><r>un<b/>altre<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>another<s n="det"/><s n="ind"/><s n="sg"/></l><r>un<b/>altre<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>another<s n="det"/><s n="ind"/><s n="sg"/></l><r>un<b/>altre<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
+    <e c="interrogatives, condicional" i="yes"><p><l>any<s n="det"/></l><r>algun<s n="det"/></r></p></e>
+    <e r="RL" c="frases negatives. EN-CA: per trànsfer"><p><l>any<s n="det"/><s n="ind"/></l><r>cap<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
+    <e r="RL"><p><l>any<s n="det"/><s n="ind"/></l><r>gens<b/>de<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
+    <e r="LR" c="afirmatives"><p><l>any<s n="det"/><s n="ind"/><s n="sp"/></l><r>qualsevol<s n="det"/><s n="ind"/><s n="mf"/><s n="ND"/></r></p></e>
+    <e r="RL" c="afirmatives"><p><l>any<s n="det"/><s n="ind"/><s n="sp"/></l><r>qualsevol<s n="det"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e r="RL" c="afirmatives"><p><l>any<s n="det"/><s n="ind"/><s n="sp"/></l><r>qualsevol<s n="det"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e r="LR" c="'as much time'. Cal afegir també 'as many'?"><p><l>as<b/>much<s n="det"/><s n="qnt"/></l><r>tant<s n="det"/><s n="qnt"/><s n="GD"/></r></p></e>
+    <e r="LR"><p><l>both<s n="det"/><s n="ind"/></l><r>ambdós<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>both<s n="det"/></l><r>ambdós<s n="det"/></r></p></e>
+    <e r="RL"><p><l>both<s n="det"/></l><r>tots<b/>dos<s n="det"/></r></p></e>
+    <e srl="each D"><p><l>each<s n="det"/><s n="ind"/></l><r>cada<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>eight<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>vuit-centè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>eight<b/>hundredth<s n="det"/></l><r>vuit-centè<s n="det"/></r></p></e>
+    <e r="LR"><p><l>eighteenth<s n="det"/><s n="ord"/><s n="sp"/></l><r>divuitè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>eighteenth<s n="det"/></l><r>divuitè<s n="det"/></r></p></e>
+    <e r="LR"><p><l>eighth<s n="det"/><s n="ord"/><s n="sp"/></l><r>vuitè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>eighth<s n="det"/></l><r>vuitè<s n="det"/></r></p></e>
+    <e r="LR"><p><l>eightieth<s n="det"/><s n="ord"/><s n="sp"/></l><r>vuitantè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>eightieth<s n="det"/></l><r>vuitantè<s n="det"/></r></p></e>
+    <e r="LR" c="frases negatives" i="yes"><p><l>either<s n="det"/><s n="ind"/></l><r>cap<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>either<s n="det"/><s n="ind"/></l><r>qualsevol<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>eleventh<s n="det"/><s n="ord"/><s n="sp"/></l><r>onzè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>eleventh<s n="det"/></l><r>onzè<s n="det"/></r></p></e>
+    <e><p><l>enough<s n="det"/><s n="qnt"/></l><r>prou<s n="det"/><s n="qnt"/><s n="mf"/></r></p></e>
+    <e srl="every"><p><l>every<s n="det"/><s n="ind"/></l><r>cada<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>few<s n="det"/><s n="qnt"/></l><r>poc<s n="det"/><s n="qnt"/><s n="GD"/></r></p></e>
+    <e r="RL" c="en plural"><p><l>few<s n="det"/><s n="qnt"/><s n="pl"/></l><r>poc<s n="det"/><s n="qnt"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL" c="en plural"><p><l>few<s n="det"/><s n="qnt"/><s n="pl"/></l><r>poc<s n="det"/><s n="qnt"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>fewer<s n="det"/><s n="qnt"/><s n="pl"/></l><r>menys<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>fifteenth<s n="det"/><s n="ord"/><s n="sp"/></l><r>quinzè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>fifteenth<s n="det"/></l><r>quinzè<s n="det"/></r></p></e>
+    <e r="LR"><p><l>fifth<s n="det"/><s n="ord"/><s n="sp"/></l><r>cinquè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>fifth<s n="det"/></l><r>cinquè<s n="det"/></r></p></e>
+    <e r="LR"><p><l>fiftieth<s n="det"/><s n="ord"/><s n="sp"/></l><r>cinquantè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>fiftieth<s n="det"/></l><r>cinquantè<s n="det"/></r></p></e>
+    <e r="LR"><p><l>first<s n="det"/><s n="ord"/><s n="sp"/></l><r>primer<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>first<s n="det"/></l><r>primer<s n="det"/></r></p></e>
+    <e r="LR"><p><l>five<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>cinc-centè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>five<b/>hundredth<s n="det"/></l><r>cinc-centè<s n="det"/></r></p></e>
+    <e r="LR"><p><l>fortieth<s n="det"/><s n="ord"/><s n="sp"/></l><r>quarantè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>fortieth<s n="det"/></l><r>quarantè<s n="det"/></r></p></e>
+    <e r="LR"><p><l>four<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>quatre-centè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>four<b/>hundredth<s n="det"/></l><r>quatre-centè<s n="det"/></r></p></e>
+    <e r="LR"><p><l>fourteenth<s n="det"/><s n="ord"/><s n="sp"/></l><r>catorzè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>fourteenth<s n="det"/></l><r>catorzè<s n="det"/></r></p></e>
+    <e r="LR"><p><l>fourth<s n="det"/><s n="ord"/><s n="sp"/></l><r>quart<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>fourth<s n="det"/></l><r>quart<s n="det"/></r></p></e>
+    <e r="LR" c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>her<s n="det"/><s n="pos"/><s n="sp"/></l><r>el<b/>seu<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="LR" c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>his<s n="det"/><s n="pos"/><s n="sp"/></l><r>el<b/>seu<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL" c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>his<s n="det"/></l><r>el<b/>seu<s n="det"/></r></p></e>
+    <e r="LR"><p><l>how<b/>many<s n="det"/><s n="itg"/></l><r>quant<s n="det"/><s n="itg"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>how<b/>many<s n="det"/><s n="itg"/><s n="pl"/></l><r>quant<s n="det"/><s n="itg"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>how<b/>many<s n="det"/><s n="itg"/><s n="pl"/></l><r>quant<s n="det"/><s n="itg"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>how<b/>much<s n="det"/><s n="itg"/></l><r>quant<s n="det"/><s n="itg"/><s n="GD"/></r></p></e>
+    <e r="RL" c="MG: de fet això s'hauria de fer pel transfer: si nom és incomptable, how much, si és plural, how many (quants inders : how much money)."><p><l>how<b/>much<s n="det"/><s n="itg"/><s n="sg"/></l><r>quant<s n="det"/><s n="itg"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>how<b/>much<s n="det"/><s n="itg"/><s n="sg"/></l><r>quant<s n="det"/><s n="itg"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>centè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>hundredth<s n="det"/></l><r>centè<s n="det"/></r></p></e>
+    <e r="LR"><p><l>its<s n="det"/><s n="pos"/><s n="sp"/></l><r>el<b/>seu<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="LR"><p><l>last<s n="det"/><s n="ord"/><s n="sp"/></l><r>últim<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>last<s n="det"/></l><r>últim<s n="det"/></r></p></e>
+    <e><p><l>less<s n="det"/><s n="qnt"/><s n="sg"/></l><r>menys<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>little<s n="det"/><s n="qnt"/></l><r>poc<s n="det"/><s n="qnt"/><s n="GD"/></r></p></e>
+    <e r="RL" c="en sg: little bread, little hope"><p><l>little<s n="det"/><s n="qnt"/><s n="sg"/></l><r>poc<s n="det"/><s n="qnt"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL" c="en sg: little bread, little hope"><p><l>little<s n="det"/><s n="qnt"/><s n="sg"/></l><r>poc<s n="det"/><s n="qnt"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>lots<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></l><r>molt<s n="det"/><s n="qnt"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL" c="frases negatives o interrogatives, comptable. EN-CA: per trànsfer"><p><l>many<s n="det"/><s n="qnt"/><s n="pl"/></l><r>gaire<s n="det"/><s n="qnt"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e r="LR" c="afirmatives"><p><l>many<s n="det"/><s n="qnt"/></l><r>molt<s n="det"/><s n="qnt"/><s n="GD"/></r></p></e>
+    <e r="LR"><p><l>millionth<s n="det"/><s n="ord"/><s n="sp"/></l><r>milionèsim<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>millionth<s n="det"/></l><r>milionèsim<s n="det"/></r></p></e>
+    <e><p><l>more<s n="det"/><s n="qnt"/><s n="sp"/></l><r>més<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>most<s n="det"/><s n="qnt"/><s n="sp"/></l><r>la<b/>majoria<b/>de<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>most<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></l><r>la<b/>majoria<b/>de<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="RL" c="frases interr i neg, incomptable. per ara hi ha restricció RL pq LR hauria de fer-se per trànsfer"><p><l>much<s n="det"/><s n="qnt"/><s n="sg"/></l><r>gaire<s n="det"/><s n="qnt"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e r="LR" c="afirmatives"><p><l>much<s n="det"/><s n="qnt"/></l><r>molt<s n="det"/><s n="qnt"/><s n="GD"/></r></p></e>
+    <e r="LR"><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>el<b/>meu<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>my<s n="det"/></l><r>el<b/>meu<s n="det"/></r></p></e>
+    <e r="LR"><p><l>nine<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>nou-centè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>nine<b/>hundredth<s n="det"/></l><r>nou-centè<s n="det"/></r></p></e>
+    <e r="LR"><p><l>nineteenth<s n="det"/><s n="ord"/><s n="sp"/></l><r>dinovè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>nineteenth<s n="det"/></l><r>dinovè<s n="det"/></r></p></e>
+    <e r="LR"><p><l>ninetieth<s n="det"/><s n="ord"/><s n="sp"/></l><r>norantè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ninetieth<s n="det"/></l><r>norantè<s n="det"/></r></p></e>
+    <e r="LR"><p><l>ninth<s n="det"/><s n="ord"/><s n="sp"/></l><r>novè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>ninth<s n="det"/></l><r>novè<s n="det"/></r></p></e>
+    <e r="LR"><p><l>no<s n="det"/><s n="ind"/><s n="sp"/></l><r>cap<s n="det"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>one<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>centèsim<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>one<b/>hundredth<s n="det"/></l><r>centèsim<s n="det"/></r></p></e>
+    <e r="RL"><p><l>other<s n="det"/><s n="ind"/><s n="pl"/></l><r>un<b/>altre<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>other<s n="det"/><s n="ind"/><s n="pl"/></l><r>un<b/>altre<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
+<!-- <e r="RL"><p><l>one's<s n="det"/></l><r>d'un<s n="det"/></r></p></e> (o adj? - canvi de posició) -->
+    <e r="LR"><p><l>other<s n="det"/><s n="ind"/><s n="sp"/></l><r>altre<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>other<s n="det"/></l><r>altre<s n="det"/></r></p></e>
+    <e r="LR"><p><l>our<s n="det"/><s n="pos"/><s n="sp"/></l><r>el<b/>nostre<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>our<s n="det"/></l><r>el<b/>nostre<s n="det"/></r></p></e>
+    <e r="LR"><p><l>quite<b/>a<b/>lot<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></l><r>bastant<s n="det"/><s n="qnt"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>quite<b/>a<b/>lot<b/>of<s n="det"/></l><r>bastant<s n="det"/></r></p></e>
+    <e r="LR"><p><l>second<s n="det"/><s n="ord"/><s n="sp"/></l><r>segon<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>second<s n="det"/></l><r>segon<s n="det"/></r></p></e>
+    <e r="LR"><p><l>seven<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>set-centè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>seven<b/>hundredth<s n="det"/></l><r>set-centè<s n="det"/></r></p></e>
+    <e r="LR"><p><l>seventeenth<s n="det"/><s n="ord"/><s n="sp"/></l><r>dissetè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>seventeenth<s n="det"/></l><r>dissetè<s n="det"/></r></p></e>
+    <e r="LR"><p><l>seventh<s n="det"/><s n="ord"/><s n="sp"/></l><r>setè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>seventh<s n="det"/></l><r>setè<s n="det"/></r></p></e>
+    <e r="LR"><p><l>seventieth<s n="det"/><s n="ord"/><s n="sp"/></l><r>setantè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>seventieth<s n="det"/></l><r>setantè<s n="det"/></r></p></e>
+    <e r="LR"><p><l>several<s n="det"/><s n="ind"/></l><r>divers<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>several<s n="det"/></l><r>divers<s n="det"/></r></p></e>
+    <e r="LR"><p><l>six<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>sis-centè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>six<b/>hundredth<s n="det"/></l><r>sis-centè<s n="det"/></r></p></e>
+    <e r="LR"><p><l>sixteenth<s n="det"/><s n="ord"/><s n="sp"/></l><r>setzè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>sixteenth<s n="det"/></l><r>setzè<s n="det"/></r></p></e>
+    <e r="LR"><p><l>sixth<s n="det"/><s n="ord"/><s n="sp"/></l><r>sisè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>sixth<s n="det"/></l><r>sisè<s n="det"/></r></p></e>
+    <e r="LR"><p><l>sixtieth<s n="det"/><s n="ord"/><s n="sp"/></l><r>seixantè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>sixtieth<s n="det"/></l><r>seixantè<s n="det"/></r></p></e>
+    <e r="LR"><p><l>so<b/>many<s n="det"/><s n="qnt"/></l><r>tant<s n="det"/><s n="qnt"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>so<b/>many<s n="det"/><s n="qnt"/><s n="pl"/></l><r>tant<s n="det"/><s n="qnt"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>so<b/>many<s n="det"/><s n="qnt"/><s n="pl"/></l><r>tant<s n="det"/><s n="qnt"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>so<b/>much<s n="det"/><s n="qnt"/></l><r>tant<s n="det"/><s n="qnt"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>so<b/>much<s n="det"/><s n="qnt"/><s n="sg"/></l><r>tant<s n="det"/><s n="qnt"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>so<b/>much<s n="det"/><s n="qnt"/><s n="sg"/></l><r>tant<s n="det"/><s n="qnt"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>some<s n="det"/><s n="qnt"/><s n="pl"/></l><r>un<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>some<s n="det"/><s n="qnt"/><s n="pl"/></l><r>un<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="LR" c="frases afirmatives"><p><l>some<s n="det"/><s n="qnt"/><s n="sp"/></l><r>algun<s n="det"/><s n="qnt"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL" c="frases afirmatives"><p><l>some<s n="det"/></l><r>algun<s n="det"/></r></p></e>
+    <e r="RL"><p><l>some<s n="det"/></l><r>una<b/>mica<b/>de<s n="det"/></r></p></e>
+    <e r="RL"><p><l>some<s n="det"/><s n="qnt"/></l><r>cert<s n="det"/></r></p></e>
+    <e r="LR"><p><l>such<s n="det"/><s n="ind"/><s n="sp"/></l><r>tal<s n="det"/><s n="ind"/><s n="mf"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>such<s n="det"/></l><r>tal<s n="det"/></r></p></e>
+    <e r="LR"><p><l>such<b/>a<s n="det"/><s n="ind"/></l><r>tal<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>tenth<s n="det"/><s n="ord"/><s n="sp"/></l><r>desè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>tenth<s n="det"/></l><r>desè<s n="det"/></r></p></e>
+<!-- <e r="LR" c="MG: Atenció: canvi d'etiqueta! s'ha de canviar mòdul perquè ho accepti?"><p><l>such<s n="prn"/></l><r>tal<s n="det"/></r></p></e> -->
+    <e r="LR"><p><l>that<s n="det"/><s n="dem"/></l><r>aquell<s n="det"/><s n="dem"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>that<s n="det"/></l><r>aquell<s n="det"/></r></p></e>
+    <e r="LR"><p><l>the<s n="det"/><s n="def"/><s n="sp"/></l><r>el<s n="det"/><s n="def"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>the<s n="det"/></l><r>el<s n="det"/></r></p></e>
+    <e r="LR"><p><l>the<b/>most<s n="det"/><s n="qnt"/><s n="sp"/></l><r>la<b/>majoria<b/>de<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>the<b/>other<s n="det"/><s n="ind"/><s n="sp"/></l><r>l'altre<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>the<b/>other<s n="det"/></l><r>l'altre<s n="det"/></r></p></e>
+<!--<e><p><l>the<b/>most<s n="det"/></l><r>el<b/>més<s n="det"/></r></p></e> -->
+    <e r="LR"><p><l>the<b/>same<s n="det"/><s n="ind"/><s n="sp"/></l><r>el<b/>mateix<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>the<b/>same<s n="det"/></l><r>el<b/>mateix<s n="det"/></r></p></e>
+    <e r="LR" c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>their<s n="det"/><s n="pos"/><s n="sp"/></l><r>el<b/>seu<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="LR"><p><l>third<s n="det"/><s n="ord"/><s n="sp"/></l><r>tercer<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>third<s n="det"/></l><r>tercer<s n="det"/></r></p></e>
+    <e r="LR"><p><l>thirteenth<s n="det"/><s n="ord"/><s n="sp"/></l><r>tretzè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>thirteenth<s n="det"/></l><r>tretzè<s n="det"/></r></p></e>
+    <e r="LR"><p><l>thirtieth<s n="det"/><s n="ord"/><s n="sp"/></l><r>trentè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>thirtieth<s n="det"/></l><r>trentè<s n="det"/></r></p></e>
+    <e r="LR"><p><l>this<s n="det"/><s n="dem"/></l><r>aquest<s n="det"/><s n="dem"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>this<s n="det"/><s n="dem"/></l><r>aquest<s n="det"/><s n="dem"/></r></p></e>
+    <e r="LR"><p><l>thousandth<s n="det"/><s n="ord"/><s n="sp"/></l><r>mil·lèsim<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>thousandth<s n="det"/></l><r>mil·lèsim<s n="det"/></r></p></e>
+    <e r="LR"><p><l>three<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>tres-centè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>three<b/>hundredth<s n="det"/></l><r>tres-centè<s n="det"/></r></p></e>
+    <e c="comptable, per tant, amb complement plural"><p><l>too<b/>many<s n="det"/><s n="qnt"/><s n="pl"/></l><r>massa<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="LR" c="incomptable, per tant, amb complement singular)"><p><l>too<b/>much<s n="det"/><s n="qnt"/><s n="sg"/></l><r>massa<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>twelfth<s n="det"/><s n="ord"/><s n="sp"/></l><r>dotzè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>twelfth<s n="det"/></l><r>dotzè<s n="det"/></r></p></e>
+    <e r="LR"><p><l>twentieth<s n="det"/><s n="ord"/><s n="sp"/></l><r>vintè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>twentieth<s n="det"/></l><r>vintè<s n="det"/></r></p></e>
+    <e r="LR"><p><l>two<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>dos-centè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>two<b/>hundredth<s n="det"/></l><r>dos-centè<s n="det"/></r></p></e>
+    <e r="LR"><p><l>various<s n="det"/><s n="ind"/></l><r>divers<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
+<!--<e r="RL"><p><l>too<b/>much<s n="det"/><s n="qnt"/><s n="sg"/></l><r>massa<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>-->
+    <e r="LR"><p><l>what<s n="det"/><s n="itg"/><s n="sp"/></l><r>quin<s n="det"/><s n="itg"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="LR"><p><l>whatever<s n="det"/><s n="ind"/></l><r>qualsevol<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>which<s n="det"/><s n="itg"/><s n="sp"/></l><r>quin<s n="det"/><s n="itg"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>which<s n="det"/></l><r>quin<s n="det"/></r></p></e>
+    <e r="LR" c="MG: a tractar pel trànsfer"><p><l>whose<s n="det"/><s n="itg"/></l><r>de<b/>qui<s n="det"/><s n="itg"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>your<s n="det"/><s n="pos"/><s n="sp"/></l><r>el<b/>vostre<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>your<s n="det"/></l><r>el<b/>vostre<s n="det"/></r></p></e>
+<!-- <e r="RL" c="traducció per defecte ca-en és per ara 'his'"><p><l>your<s n="det"/></l><r>el<b/>seu<s n="det"/></r></p></e> -->
+    <e r="RL" c="per ara de en-ca es genera només 'el vostre'"><p><l>your<s n="det"/></l><r>el<b/>teu<s n="det"/></r></p></e>
+<!-- <e r="LR"><p><l>such<s n="prn"/></l><r>tal<s n="det"/></r></p></e> -->
+
+
+    <e><p><l>Barcelona<s n="np"/><s n="loc"/></l><r>Barcelona<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+    <e><p><l>Berlin<s n="np"/><s n="loc"/></l><r>Berlín<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>Guernica<s n="np"/><s n="loc"/></l><r>Gernika<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+
+
+    <e><p><l>basic<s n="adj"/></l><r>bàsic<s n="adj"/></r></p></e>
+    <e><p><l>hydrographic<s n="adj"/></l><r>hidrogràfic<s n="adj"/></r></p></e>
+    <e><p><l>average<s n="adj"/></l><r>mitjà<s n="adj"/></r></p></e>
+
+
+
+    <e><p><l>industrious<s n="adj"/></l><r>treballador<s n="adj"/></r></p></e>
+
+    <e><p><l>arab<s n="adj"/></l><r>àrab<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>balearic<s n="adj"/></l><r>balear<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>bilingual<s n="adj"/></l><r>bilingüe<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>increasing<s n="adj"/></l><r>creixent<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>available<s n="adj"/></l><r>disponible<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>hostile<s n="adj"/></l><r>hostil<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>ideal<s n="adj"/></l><r>ideal<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>immortal<s n="adj"/></l><r>immortal<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>imperialist<s n="adj"/></l><r>imperialista<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>impossible<s n="adj"/></l><r>impossible<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="RL"><p><l>indispensable<s n="adj"/></l><r>imprescindible<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>impressive<s n="adj"/></l><r>impressionant<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>shocking<s n="adj"/></l><r>impressionant<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>independent<s n="adj"/></l><r>independent<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>industrial<s n="adj"/></l><r>industrial<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>bottom<s n="adj"/></l><r>inferior<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>inferior<s n="adj"/></l><r>inferior<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>back<s n="adj"/></l><r>posterior<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>posterior<s n="adj"/></l><r>posterior<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>attainable<s n="adj"/></l><r>realitzable<s n="adj"/><s n="mf"/></r></p></e>
+
+
+    <e><p><l>arcade<s n="n"/></l><r>arcada<s n="n"/><s n="f"/></r></p></e>
+    <e a="carmentano"><p><l>arch<s n="n"/></l><r>arc<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>blame<s n="n"/></l><r>culpa<s n="n"/><s n="f"/></r></p></e>
+    <e slr="culpa D"><p><l>fault<s n="n"/></l><r>culpa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>fate<s n="n"/></l><r>destí<s n="n"/><s n="m"/></r></p></e>
+    <e slr="empremta D"><p><l>print<s n="n"/></l><r>empremta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>federation<s n="n"/></l><r>federació<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>fermentation<s n="n"/></l><r>fermentació<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>profile<s n="n"/></l><r>perfil<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>feather<s n="n"/></l><r>ploma<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>award<s n="n"/></l><r>premi<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>prize<s n="n"/></l><r>premi<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>presence<s n="n"/></l><r>presència<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>presentation<s n="n"/></l><r>presentació<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>chairman<s n="n"/></l><r>president<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>president<s n="n"/></l><r>president<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>price<s n="n"/></l><r>preu<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>prevention<s n="n"/></l><r>prevenció<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>princess<s n="n"/></l><r>príncep<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>prince<s n="n"/></l><r>príncep<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>principle<s n="n"/></l><r>principi<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>problem<s n="n"/></l><r>problema<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>trouble<s n="n"/></l><r>problema<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>procedure<s n="n"/></l><r>procediment<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>process<s n="n"/></l><r>procés<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>processing<s n="n"/></l><r>processament<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>procession<s n="n"/></l><r>processó<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR" slr="producció"><p><l>output<s n="n"/></l><r>producció<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>production<s n="n"/></l><r>producció<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>produce<s n="n"/></l><r>producte<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>product<s n="n"/></l><r>producte<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>blueprint<s n="n"/></l><r>projecte<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>project<s n="n"/></l><r>projecte<s n="n"/><s n="m"/></r></p></e>
+    <e slr="sentiment D"><p><l>feeling<s n="n"/></l><r>sentiment<s n="n"/><s n="m"/></r></p></e>
+
+    <e><p><l>wrongly<s n="adv"/></l><r>erròniament<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>badly<s n="adv"/></l><r>malament<s n="adv"/></r></p></e>
+    <e><p><l>wrong<s n="adv"/></l><r>malament<s n="adv"/></r></p></e>
+    <e><p><l>yes<s n="adv"/></l><r>sí<s n="adv"/></r></p></e>
+
+
+    <e><p><l>camp<s n="vblex"/></l><r>acampar<s n="vblex"/></r></p></e>
+    <e slr="adjuntar"><p><l>attach<s n="vblex"/></l><r>adjuntar<s n="vblex"/></r></p></e>
+    <e><p><l>alternate<s n="vblex"/></l><r>alternar<s n="vblex"/></r></p></e>
+    <e><p><l>annex<s n="vblex"/></l><r>annexionar<s n="vblex"/></r></p></e>
+    <e slr="anomenar" c="(they call him Peter)"><p><l>call<s n="vblex"/></l><r>anomenar<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>name<s n="vblex"/></l><r>anomenar<s n="vblex"/></r></p></e>
+    <e slr="aparèixer D"><p><l>appear<s n="vblex"/></l><r>aparèixer<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>show<g><b/>up</g><s n="vblex"/></l><r>aparèixer<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>turn<g><b/>up</g><s n="vblex"/></l><r>aparèixer<s n="vblex"/></r></p></e>
+    <e><p><l>apply<s n="vblex"/></l><r>aplicar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="aplicar D"><p><l>enforce<s n="vblex"/></l><r>aplicar<s n="vblex"/></r></p></e>
+    <e><p><l>arm<s n="vblex"/></l><r>armar<s n="vblex"/></r></p></e>
+    <e><p><l>arrive<s n="vblex"/></l><r>arribar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="arribar"><p><l>get<s n="vblex"/></l><r>arribar<s n="vblex"/></r></p></e>
+    <e><p><l>asphalt<s n="vblex"/></l><r>asfaltar<s n="vblex"/></r></p></e>
+    <e><p><l>assign<s n="vblex"/></l><r>assignar<s n="vblex"/></r></p></e>
+    <e><p><l>attain<s n="vblex"/></l><r>assolir<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>reach<s n="vblex"/></l><r>assolir<s n="vblex"/></r></p></e>
+    <e><p><l>attack<s n="vblex"/></l><r>atacar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="atacar D"><p><l>blast<s n="vblex"/></l><r>atacar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="atacar"><p><l>strike<s n="vblex"/></l><r>atacar<s n="vblex"/></r></p></e>
+    <e><p><l>attract<s n="vblex"/></l><r>atreure<s n="vblex"/></r></p></e>
+    <e><p><l>attribute<s n="vblex"/></l><r>atribuir<s n="vblex"/></r></p></e>
+    <e><p><l>base<s n="vblex"/></l><r>basar<s n="vblex"/></r></p></e>
+    <e><p><l>baptise<s n="vblex"/></l><r>batejar<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>dub<s n="vblex"/></l><r>batejar<s n="vblex"/></r></p></e>
+    <e><p><l>benefit<s n="vblex"/></l><r>beneficiar<s n="vblex"/></r></p></e>
+    <e><p><l>armour<s n="vblex"/></l><r>blindar<s n="vblex"/></r></p></e>
+    <e><p><l>boil<s n="vblex"/></l><r>bullir<s n="vblex"/></r></p></e>
+    <e><p><l>calculate<s n="vblex"/></l><r>calcular<s n="vblex"/></r></p></e>
+    <e r="LR" a="doriua"><p><l>estimate<s n="vblex"/></l><r>calcular<s n="vblex"/></r></p></e>
+    <e r="LR" slr="calcular"><p><l>reckon<s n="vblex"/></l><r>calcular<s n="vblex"/></r></p></e>
+    <e><p><l>cause<s n="vblex"/></l><r>causar<s n="vblex"/></r></p></e>
+    <e><p><l>build<s n="vblex"/></l><r>construir<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>construct<s n="vblex"/></l><r>construir<s n="vblex"/></r></p></e>
+    <e><p><l>bake<s n="vblex"/></l><r>coure<s n="vblex"/></r></p></e>
+    <e><p><l>breed<s n="vblex"/></l><r>criar<s n="vblex"/></r></p></e>
+    <e r="LR" slr="criar"><p><l>raise<s n="vblex"/></l><r>criar<s n="vblex"/></r></p></e>
+    <e slr="demanar"><p><l>ask<s n="vblex"/></l><r>demanar<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>ask<g><b/>for</g><s n="vblex"/></l><r>demanar<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>call<g><b/>for</g><s n="vblex"/></l><r>demanar<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>request<s n="vblex"/></l><r>demanar<s n="vblex"/></r></p></e>
+    <e><p><l>carry<g><b/>out</g><s n="vblex"/><s n="sep"/></l><r>dur<g><b/>a<b/>terme</g><s n="vblex"/></r></p></e>
+    <e r="RL" srl="bring"><p><l>bring<s n="vblex"/></l><r>dur<s n="vblex"/></r></p></e>
+    <e r="RL" srl="carry D"><p><l>carry<s n="vblex"/></l><r>dur<s n="vblex"/></r></p></e>
+    <e><p><l>avoid<s n="vblex"/></l><r>evitar<s n="vblex"/></r></p></e>
+    <e><p><l>be<g><b/>missing</g><s n="vblex"/></l><r>faltar<s n="vblex"/></r></p></e>
+    <e r="RL" srl="bend D"><p><l>bend<s n="vblex"/></l><r>inclinar<s n="vblex"/></r></p></e>
+    <e slr="inclinar D" srl="bow"><p><l>bow<s n="vblex"/></l><r>inclinar<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>incline<s n="vblex"/></l><r>inclinar<s n="vblex"/></r></p></e>
+    <e slr="permetre D"><p><l>allow<s n="vblex"/></l><r>permetre<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>permit<s n="vblex"/></l><r>permetre<s n="vblex"/></r></p></e>
+    <e slr="permetre D"><p><l>allow<s n="vblex"/></l><r>permetre<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>permit<s n="vblex"/></l><r>permetre<s n="vblex"/></r></p></e>
+    <e slr="preguntar D"><p><l>ask<s n="vblex"/></l><r>preguntar<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>cause<s n="vblex"/></l><r>provocar<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>provoke<s n="vblex"/></l><r>provocar<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>trigger<s n="vblex"/></l><r>provocar<s n="vblex"/></r></p></e>
+    <e slr="recular"><p><l>back<s n="vblex"/></l><r>recular<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>answer<s n="vblex"/></l><r>respondre<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>reply<s n="vblex"/></l><r>respondre<s n="vblex"/></r></p></e>
+    <e><p><l>be<g><b/>used<b/>to</g><s n="vblex"/></l><r>soler<s n="vblex"/></r></p></e>
+    <e><p><l>arise<s n="vblex"/></l><r>sorgir<s n="vblex"/></r></p></e>
+    <e><p><l>bribe<s n="vblex"/></l><r>subornar<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>abide<s n="vblex"/></l><r>suportar<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>bear<s n="vblex"/></l><r>suportar<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>cope<s n="vblex"/></l><r>suportar<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>cope<g><b/>with</g><s n="vblex"/></l><r>suportar<s n="vblex"/></r></p></e>
+    <e><p><l>avenge<s n="vblex"/></l><r>venjar<s n="vblex"/></r></p></e>
+
+
+    <e srl="big D"><p><l>big<s n="adj"/><s n="sint"/></l><r>gran<s n="adj"/><s n="mf"/></r></p></e>
+    <e srl="large"><p><l>large<s n="adj"/><s n="sint"/></l><r>gran<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>elder<s n="adj"/></l><r>gran<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>great<s n="adj"/><s n="sint"/></l><r>gran<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>large<s n="adj"/><s n="sint"/></l><r>gran<s n="adj"/><s n="mf"/></r></p></e>
+    <e srl="carry_out D"><p><l>carry<g><b/>out</g><s n="vblex"/><s n="sep"/></l><r>portar<g><b/>a<b/>terme</g><s n="vblex"/></r></p></e>
+    <e srl="hold"><p><l>hold<s n="vblex"/></l><r>portar<g><b/>a<b/>terme</g><s n="vblex"/></r></p></e>
+    <e><p><l>Portugal<s n="np"/><s n="loc"/></l><r>Portugal<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+
+
     <e><p><l>that<s n="cnjsub"/></l><r>que<s n="cnjsub"/></r></p></e>
     <e a="greenbreen"><p><l>whenever<s n="cnjsub"/></l><r>sempre<b/>que<s n="cnjsub"/></r></p></e>
 
@@ -1050,6 +1400,7 @@
     <e><p><l>A/H1N1<s n="n"/><s n="acr"/></l><r>A/H1N1<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
     <e><p><l>A/H5N1<s n="n"/><s n="acr"/></l><r>A/H5N1<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
     <e><p><l>ADP<s n="n"/><s n="acr"/></l><r>ADP<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+    <e><p><l>ANC<s n="n"/><s n="acr"/></l><r>CNA<s n="n"/><s n="acr"/><s n="mf"/></r></p></e>
     <e><p><l>AFP<s n="n"/><s n="acr"/></l><r>AFP<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
     <e a="greenbreen"><p><l>ANSI<s n="n"/><s n="acr"/></l><r>ANSI<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
     <e><p><l>AT&amp;T<s n="n"/><s n="acr"/></l><r>AT&amp;T<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
@@ -11290,6 +11641,11 @@
     <e><p><l>parchment<s n="n"/></l><r>pergamí<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pardon<s n="n"/></l><r>perdó<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>parenchyma<s n="n"/></l><r>parènquima<s n="n"/><s n="m"/></r></p></e>
+
+
+    <e r="LR"><p><l>father<s n="n"/></l><r>pare<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>father<s n="n"/><s n="sg"/></l><r>pare<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+
     <e r="LR"><p><l>parent<s n="n"/></l><r>pare<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>parent<s n="n"/><s n="pl"/></l><r>pare<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e><p><l>paresis<s n="n"/></l><r>parèsia<s n="n"/><s n="f"/></r></p></e>
@@ -12676,9 +13032,11 @@
     <e><p><l>rat<s n="n"/></l><r>rata<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ratchet<s n="n"/></l><r>trinquet<s n="n"/><s n="m"/></r></p></e>
     <e slr="índex D" srl="rate"><p><l>rate<s n="n"/></l><r>índex<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL" srl="tax D"><p><l>tax<s n="n"/></l><r>taxa<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="tax D"><p><l>tax<s n="n"/><s n="sg"/></l><r>taxa<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="RL" srl="tax D"><p><l>tax<s n="n"/><s n="pl"/></l><r>taxa<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e r="RL" srl="taxation"><p><l>taxation<s n="n"/><s n="sg"/></l><r>taxa<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-    <e r="RL" srl="rate"><p><l>rate<s n="n"/></l><r>taxa<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="rate"><p><l>rate<s n="n"/><s n="sg"/></l><r>taxa<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="RL" srl="rate"><p><l>rate<s n="n"/><s n="pl"/></l><r>taxa<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e r="LR" slr="tarifa"><p><l>rate<s n="n"/></l><r>tarifa<s n="n"/><s n="f"/></r></p></e>
     <e slr="ritme" srl="rate"><p><l>rate<s n="n"/></l><r>ritme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rateen<s n="n"/></l><r>ratinatge<s n="n"/><s n="m"/></r></p></e>
@@ -17952,7 +18310,7 @@
     <e><p><l>joyous<s n="adj"/></l><r>joiós<s n="adj"/></r></p></e>
     <e><p><l>judaic<s n="adj"/></l><r>judaic<s n="adj"/></r></p></e>
     <e srl="judicial D"><p><l>judicial<s n="adj"/></l><r>judicial<s n="adj"/><s n="mf"/></r></p></e>
-    <e srl="legal"><p><l>judicial<s n="adj"/></l><r>judicial<s n="adj"/><s n="mf"/></r></p></e>
+    <e srl="legal"><p><l>legal<s n="adj"/></l><r>judicial<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>juridical<s n="adj"/></l><r>jurídic<s n="adj"/></r></p></e>
     <e><p><l>jurisprudential<s n="adj"/></l><r>jurisprudencial<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>just<s n="adj"/><s n="sint"/></l><r>just<s n="adj"/></r></p></e>
@@ -18009,7 +18367,8 @@
     <e r="LR"><p><l>left-hand<s n="adj"/></l><r>esquerre<s n="adj"/></r></p></e>
     <e><p><l>left-handed<s n="adj"/></l><r>esquerrà<s n="adj"/></r></p></e>
     <e r="LR"><p><l>lefthand<s n="adj"/></l><r>esquerre<s n="adj"/></r></p></e>
-    <e><p><l>legal<s n="adj"/></l><r>legal<s n="adj"/><s n="mf"/></r></p></e>
+    <e srl="legal D"><p><l>legal<s n="adj"/></l><r>legal<s n="adj"/><s n="mf"/></r></p></e>
+    <e srl="judicial"><p><l>judicial<s n="adj"/></l><r>legal<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>legislative<s n="adj"/></l><r>legislatiu<s n="adj"/></r></p></e>
     <e><p><l>legitimate<s n="adj"/></l><r>legítim<s n="adj"/></r></p></e>
     <e r="LR"><p><l>lengthy<s n="adj"/></l><r>llarg<s n="adj"/></r></p></e>
@@ -20015,6 +20374,8 @@
           group vblex_symbol
       ****************************** -->
     <e><p><l>abandon<s n="vblex"/></l><r>abandonar<s n="vblex"/></r></p></e>
+    <e><p><l>award<s n="vblex"/></l><r>atorgar<s n="vblex"/></r></p></e>
+
     <e><p><l>associate<s n="vblex"/></l><r>associar<s n="vblex"/></r></p></e>
     <e r="RL" c="això seria polisèmia en-ca?"><p><l>be<s n="vbser"/></l><r>estar<s n="vblex"/></r></p></e>
 
@@ -20237,7 +20598,7 @@
     <e><p><l>concatenate<s n="vblex"/></l><r>concatenar<s n="vblex"/></r></p></e>
     <e><p><l>conceal<s n="vblex"/></l><r>encobrir<s n="vblex"/></r></p></e>
     <e r="LR" slr="admetre D"><p><l>concede<s n="vblex"/></l><r>admetre<s n="vblex"/></r></p></e>
-    <e slr="concedir" slr="concede D"><p><l>concede<s n="vblex"/></l><r>concedir<s n="vblex"/></r></p></e>
+    <e slr="concedir" srl="concede D"><p><l>concede<s n="vblex"/></l><r>concedir<s n="vblex"/></r></p></e>
     <e a="doriua" slr="grant"><p><l>grant<s n="vblex"/></l><r>concedir<s n="vblex"/></r></p></e>
     <e><p><l>conceive<s n="vblex"/></l><r>concebre<s n="vblex"/></r></p></e>
     <e><p><l>concentrate<s n="vblex"/></l><r>concentrar<s n="vblex"/></r></p></e>
@@ -21345,6 +21706,7 @@
     <e><p><l>omit<s n="vblex"/></l><r>ometre<s n="vblex"/></r></p></e>
     <e><p><l>open<s n="vblex"/></l><r>obrir<s n="vblex"/></r></p></e>
     <e r="RL" srl="open"><p><l>open<s n="vblex"/></l><r>començar<s n="vblex"/></r></p></e>
+    <e r="RL" srl="begin"><p><l>begin<s n="vblex"/></l><r>començar<s n="vblex"/></r></p></e>
     <e r="LR" slr="funcionar"><p><l>operate<s n="vblex"/></l><r>funcionar<s n="vblex"/></r></p></e>
     <e r="LR" slr="manejar"><p><l>operate<s n="vblex"/></l><r>manejar<s n="vblex"/></r></p></e>
     <e slr="operar D"><p><l>operate<s n="vblex"/></l><r>operar<s n="vblex"/></r></p></e>
@@ -21966,6 +22328,7 @@
     <e r="LR" slr="plantejar"><p><l>state<s n="vblex"/></l><r>plantejar<s n="vblex"/></r></p></e>
     <e><p><l>staunch<s n="vblex"/></l><r>estroncar<s n="vblex"/></r></p></e>
     <e srl="stay"><p><l>stay<s n="vblex"/></l><r>quedar<s n="vblex"/></r></p></e>
+    <e srl="be_left"><p><l>be<g><b/>left</g><s n="vblex"/></l><r>quedar<s n="vblex"/></r></p></e>
     <e><p><l>steal<s n="vblex"/></l><r>robar<s n="vblex"/></r></p></e>
     <e><p><l>steel<s n="vblex"/></l><r>acerar<s n="vblex"/></r></p></e>
     <e><p><l>step<s n="vblex"/></l><r>fer<g><b/>un<b/>pas</g><s n="vblex"/></r></p></e>
@@ -28172,6 +28535,7 @@
     <e><p><l>Mikayla<s n="np"/></l><r>Mikayla<s n="np"/></r></p></e>
     <e><p><l>Mike<s n="np"/></l><r>Mike<s n="np"/></r></p></e>
     <e><p><l>Mikel<s n="np"/></l><r>Mikel<s n="np"/></r></p></e>
+    <e><p><l>Ramon<s n="np"/></l><r>Ramon<s n="np"/></r></p></e>
     <e><p><l>Mikhail<s n="np"/></l><r>Mikhail<s n="np"/></r></p></e>
     <e><p><l>Mikhail<b/>Gorbachev<s n="np"/></l><r>Mikhaïl<b/>Gorbatxov<s n="np"/></r></p></e>
     <e><p><l>Mikhail<b/>Sergeyevich<b/>Gorbachev<s n="np"/></l><r>Mikhaïl<b/>Serguèievitx<b/>Gorbatxov<s n="np"/></r></p></e>
@@ -34058,183 +34422,8 @@
     <e><p><l>without<b/>prior<b/>notice<s n="adv"/></l><r>sense<b/>previ<b/>avís<s n="adv"/></r></p></e>
 
 
-    <e r="LR"><p><l>a<s n="det"/><s n="ind"/></l><r>un<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>a<s n="det"/><s n="ind"/><s n="sg"/></l><r>un<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
-    <e r="RL"><p><l>a<s n="det"/><s n="ind"/><s n="sg"/></l><r>un<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
-    <e r="RL"><p><l>some<s n="det"/><s n="qnt"/><s n="pl"/></l><r>un<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
-    <e r="RL"><p><l>some<s n="det"/><s n="qnt"/><s n="pl"/></l><r>un<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
 
-    <e r="LR"><p><l>both<s n="det"/><s n="ind"/></l><r>ambdós<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>both<s n="det"/></l><r>ambdós<s n="det"/></r></p></e>
-    <e r="RL"><p><l>both<s n="det"/></l><r>tots<b/>dos<s n="det"/></r></p></e>
 <!-- AMBIG CA~EN, order by POS, Alphabet, Default on CA side -->
-    <e srl="each D"><p><l>each<s n="det"/><s n="ind"/></l><r>cada<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
-    <!--<e srl="every"><p><l>every<s n="det"/><s n="ind"/></l><r>cada<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>-->
-    <e r="LR"><p><l>eight<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>vuit-centè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>eight<b/>hundredth<s n="det"/></l><r>vuit-centè<s n="det"/></r></p></e>
-    <e r="LR"><p><l>eighteenth<s n="det"/><s n="ord"/><s n="sp"/></l><r>divuitè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>eighteenth<s n="det"/></l><r>divuitè<s n="det"/></r></p></e>
-    <e r="LR"><p><l>eighth<s n="det"/><s n="ord"/><s n="sp"/></l><r>vuitè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>eighth<s n="det"/></l><r>vuitè<s n="det"/></r></p></e>
-    <e r="LR"><p><l>eightieth<s n="det"/><s n="ord"/><s n="sp"/></l><r>vuitantè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>eightieth<s n="det"/></l><r>vuitantè<s n="det"/></r></p></e>
-    <e r="LR" c="frases negatives" i="yes"><p><l>either<s n="det"/><s n="ind"/></l><r>cap<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>either<s n="det"/><s n="ind"/></l><r>qualsevol<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>eleventh<s n="det"/><s n="ord"/><s n="sp"/></l><r>onzè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>eleventh<s n="det"/></l><r>onzè<s n="det"/></r></p></e>
-    <e><p><l>enough<s n="det"/><s n="qnt"/></l><r>prou<s n="det"/><s n="qnt"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>few<s n="det"/><s n="qnt"/></l><r>poc<s n="det"/><s n="qnt"/><s n="GD"/></r></p></e>
-    <e r="RL" c="en plural"><p><l>few<s n="det"/><s n="qnt"/><s n="pl"/></l><r>poc<s n="det"/><s n="qnt"/><s n="m"/><s n="pl"/></r></p></e>
-    <e r="RL" c="en plural"><p><l>few<s n="det"/><s n="qnt"/><s n="pl"/></l><r>poc<s n="det"/><s n="qnt"/><s n="f"/><s n="pl"/></r></p></e>
-    <e r="LR"><p><l>fewer<s n="det"/><s n="qnt"/><s n="pl"/></l><r>menys<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>fifteenth<s n="det"/><s n="ord"/><s n="sp"/></l><r>quinzè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>fifteenth<s n="det"/></l><r>quinzè<s n="det"/></r></p></e>
-    <e r="LR"><p><l>fifth<s n="det"/><s n="ord"/><s n="sp"/></l><r>cinquè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>fifth<s n="det"/></l><r>cinquè<s n="det"/></r></p></e>
-    <e r="LR"><p><l>fiftieth<s n="det"/><s n="ord"/><s n="sp"/></l><r>cinquantè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>fiftieth<s n="det"/></l><r>cinquantè<s n="det"/></r></p></e>
-    <e r="LR"><p><l>first<s n="det"/><s n="ord"/><s n="sp"/></l><r>primer<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>first<s n="det"/></l><r>primer<s n="det"/></r></p></e>
-    <e r="LR"><p><l>five<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>cinc-centè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>five<b/>hundredth<s n="det"/></l><r>cinc-centè<s n="det"/></r></p></e>
-    <e r="LR"><p><l>fortieth<s n="det"/><s n="ord"/><s n="sp"/></l><r>quarantè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>fortieth<s n="det"/></l><r>quarantè<s n="det"/></r></p></e>
-    <e r="LR"><p><l>four<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>quatre-centè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>four<b/>hundredth<s n="det"/></l><r>quatre-centè<s n="det"/></r></p></e>
-    <e r="LR"><p><l>fourteenth<s n="det"/><s n="ord"/><s n="sp"/></l><r>catorzè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>fourteenth<s n="det"/></l><r>catorzè<s n="det"/></r></p></e>
-    <e r="LR"><p><l>fourth<s n="det"/><s n="ord"/><s n="sp"/></l><r>quart<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>fourth<s n="det"/></l><r>quart<s n="det"/></r></p></e>
-    <e r="LR" c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>her<s n="det"/><s n="pos"/><s n="sp"/></l><r>el<b/>seu<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="LR" c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>his<s n="det"/><s n="pos"/><s n="sp"/></l><r>el<b/>seu<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL" c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>his<s n="det"/></l><r>el<b/>seu<s n="det"/></r></p></e>
-    <e r="LR"><p><l>how<b/>many<s n="det"/><s n="itg"/></l><r>quant<s n="det"/><s n="itg"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>how<b/>many<s n="det"/><s n="itg"/><s n="pl"/></l><r>quant<s n="det"/><s n="itg"/><s n="m"/><s n="pl"/></r></p></e>
-    <e r="RL"><p><l>how<b/>many<s n="det"/><s n="itg"/><s n="pl"/></l><r>quant<s n="det"/><s n="itg"/><s n="f"/><s n="pl"/></r></p></e>
-    <e r="LR"><p><l>how<b/>much<s n="det"/><s n="itg"/></l><r>quant<s n="det"/><s n="itg"/><s n="GD"/></r></p></e>
-    <e r="RL" c="MG: de fet això s'hauria de fer pel transfer: si nom és incomptable, how much, si és plural, how many (quants inders : how much money)."><p><l>how<b/>much<s n="det"/><s n="itg"/><s n="sg"/></l><r>quant<s n="det"/><s n="itg"/><s n="m"/><s n="sg"/></r></p></e>
-    <e r="RL"><p><l>how<b/>much<s n="det"/><s n="itg"/><s n="sg"/></l><r>quant<s n="det"/><s n="itg"/><s n="f"/><s n="sg"/></r></p></e>
-    <e r="LR"><p><l>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>centè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>hundredth<s n="det"/></l><r>centè<s n="det"/></r></p></e>
-    <e r="LR"><p><l>its<s n="det"/><s n="pos"/><s n="sp"/></l><r>el<b/>seu<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="LR"><p><l>last<s n="det"/><s n="ord"/><s n="sp"/></l><r>últim<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>last<s n="det"/></l><r>últim<s n="det"/></r></p></e>
-    <e><p><l>less<s n="det"/><s n="qnt"/><s n="sg"/></l><r>menys<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>little<s n="det"/><s n="qnt"/></l><r>poc<s n="det"/><s n="qnt"/><s n="GD"/></r></p></e>
-    <e r="RL" c="en sg: little bread, little hope"><p><l>little<s n="det"/><s n="qnt"/><s n="sg"/></l><r>poc<s n="det"/><s n="qnt"/><s n="m"/><s n="sg"/></r></p></e>
-    <e r="RL" c="en sg: little bread, little hope"><p><l>little<s n="det"/><s n="qnt"/><s n="sg"/></l><r>poc<s n="det"/><s n="qnt"/><s n="f"/><s n="sg"/></r></p></e>
-    <e r="LR"><p><l>lots<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></l><r>molt<s n="det"/><s n="qnt"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL" c="frases negatives o interrogatives, comptable. EN-CA: per trànsfer"><p><l>many<s n="det"/><s n="qnt"/><s n="pl"/></l><r>gaire<s n="det"/><s n="qnt"/><s n="mf"/><s n="pl"/></r></p></e>
-    <e r="LR" c="afirmatives"><p><l>many<s n="det"/><s n="qnt"/></l><r>molt<s n="det"/><s n="qnt"/><s n="GD"/></r></p></e>
-    <e r="LR"><p><l>millionth<s n="det"/><s n="ord"/><s n="sp"/></l><r>milionèsim<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>millionth<s n="det"/></l><r>milionèsim<s n="det"/></r></p></e>
-    <e><p><l>more<s n="det"/><s n="qnt"/><s n="sp"/></l><r>més<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>most<s n="det"/><s n="qnt"/><s n="sp"/></l><r>la<b/>majoria<b/>de<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e><p><l>most<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></l><r>la<b/>majoria<b/>de<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e r="RL" c="frases interr i neg, incomptable. per ara hi ha restricció RL pq LR hauria de fer-se per trànsfer"><p><l>much<s n="det"/><s n="qnt"/><s n="sg"/></l><r>gaire<s n="det"/><s n="qnt"/><s n="mf"/><s n="sg"/></r></p></e>
-    <e r="LR" c="afirmatives"><p><l>much<s n="det"/><s n="qnt"/></l><r>molt<s n="det"/><s n="qnt"/><s n="GD"/></r></p></e>
-    <e r="LR"><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>el<b/>meu<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>my<s n="det"/></l><r>el<b/>meu<s n="det"/></r></p></e>
-    <e r="LR"><p><l>nine<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>nou-centè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>nine<b/>hundredth<s n="det"/></l><r>nou-centè<s n="det"/></r></p></e>
-    <e r="LR"><p><l>nineteenth<s n="det"/><s n="ord"/><s n="sp"/></l><r>dinovè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>nineteenth<s n="det"/></l><r>dinovè<s n="det"/></r></p></e>
-    <e r="LR"><p><l>ninetieth<s n="det"/><s n="ord"/><s n="sp"/></l><r>norantè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>ninetieth<s n="det"/></l><r>norantè<s n="det"/></r></p></e>
-    <e r="LR"><p><l>ninth<s n="det"/><s n="ord"/><s n="sp"/></l><r>novè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>ninth<s n="det"/></l><r>novè<s n="det"/></r></p></e>
-    <e r="LR"><p><l>no<s n="det"/><s n="ind"/><s n="sp"/></l><r>cap<s n="det"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
-    <e r="LR"><p><l>one<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>centèsim<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>one<b/>hundredth<s n="det"/></l><r>centèsim<s n="det"/></r></p></e>
-    <e r="RL"><p><l>other<s n="det"/><s n="ind"/><s n="pl"/></l><r>un<b/>altre<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
-    <e r="RL"><p><l>other<s n="det"/><s n="ind"/><s n="pl"/></l><r>un<b/>altre<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
-<!-- <e r="RL"><p><l>one's<s n="det"/></l><r>d'un<s n="det"/></r></p></e> (o adj? - canvi de posició) -->
-    <e r="LR"><p><l>other<s n="det"/><s n="ind"/><s n="sp"/></l><r>altre<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>other<s n="det"/></l><r>altre<s n="det"/></r></p></e>
-    <e r="LR"><p><l>our<s n="det"/><s n="pos"/><s n="sp"/></l><r>el<b/>nostre<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>our<s n="det"/></l><r>el<b/>nostre<s n="det"/></r></p></e>
-    <e r="LR"><p><l>quite<b/>a<b/>lot<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></l><r>bastant<s n="det"/><s n="qnt"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>quite<b/>a<b/>lot<b/>of<s n="det"/></l><r>bastant<s n="det"/></r></p></e>
-    <e r="LR"><p><l>second<s n="det"/><s n="ord"/><s n="sp"/></l><r>segon<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>second<s n="det"/></l><r>segon<s n="det"/></r></p></e>
-    <e r="LR"><p><l>seven<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>set-centè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>seven<b/>hundredth<s n="det"/></l><r>set-centè<s n="det"/></r></p></e>
-    <e r="LR"><p><l>seventeenth<s n="det"/><s n="ord"/><s n="sp"/></l><r>dissetè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>seventeenth<s n="det"/></l><r>dissetè<s n="det"/></r></p></e>
-    <e r="LR"><p><l>seventh<s n="det"/><s n="ord"/><s n="sp"/></l><r>setè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>seventh<s n="det"/></l><r>setè<s n="det"/></r></p></e>
-    <e r="LR"><p><l>seventieth<s n="det"/><s n="ord"/><s n="sp"/></l><r>setantè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>seventieth<s n="det"/></l><r>setantè<s n="det"/></r></p></e>
-    <e r="LR"><p><l>several<s n="det"/><s n="ind"/></l><r>divers<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>several<s n="det"/></l><r>divers<s n="det"/></r></p></e>
-    <e r="LR"><p><l>six<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>sis-centè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>six<b/>hundredth<s n="det"/></l><r>sis-centè<s n="det"/></r></p></e>
-    <e r="LR"><p><l>sixteenth<s n="det"/><s n="ord"/><s n="sp"/></l><r>setzè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>sixteenth<s n="det"/></l><r>setzè<s n="det"/></r></p></e>
-    <e r="LR"><p><l>sixth<s n="det"/><s n="ord"/><s n="sp"/></l><r>sisè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>sixth<s n="det"/></l><r>sisè<s n="det"/></r></p></e>
-    <e r="LR"><p><l>sixtieth<s n="det"/><s n="ord"/><s n="sp"/></l><r>seixantè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>sixtieth<s n="det"/></l><r>seixantè<s n="det"/></r></p></e>
-    <e r="LR"><p><l>so<b/>many<s n="det"/><s n="qnt"/></l><r>tant<s n="det"/><s n="qnt"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>so<b/>many<s n="det"/><s n="qnt"/><s n="pl"/></l><r>tant<s n="det"/><s n="qnt"/><s n="m"/><s n="pl"/></r></p></e>
-    <e r="RL"><p><l>so<b/>many<s n="det"/><s n="qnt"/><s n="pl"/></l><r>tant<s n="det"/><s n="qnt"/><s n="f"/><s n="pl"/></r></p></e>
-    <e r="LR"><p><l>so<b/>much<s n="det"/><s n="qnt"/></l><r>tant<s n="det"/><s n="qnt"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>so<b/>much<s n="det"/><s n="qnt"/><s n="sg"/></l><r>tant<s n="det"/><s n="qnt"/><s n="m"/><s n="sg"/></r></p></e>
-    <e r="RL"><p><l>so<b/>much<s n="det"/><s n="qnt"/><s n="sg"/></l><r>tant<s n="det"/><s n="qnt"/><s n="f"/><s n="sg"/></r></p></e>
-    <e r="RL"><p><l>some<s n="det"/><s n="qnt"/><s n="pl"/></l><r>un<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
-    <e r="RL"><p><l>some<s n="det"/><s n="qnt"/><s n="pl"/></l><r>un<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
-    <e r="LR" c="frases afirmatives"><p><l>some<s n="det"/><s n="qnt"/><s n="sp"/></l><r>algun<s n="det"/><s n="qnt"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL" c="frases afirmatives"><p><l>some<s n="det"/></l><r>algun<s n="det"/></r></p></e>
-    <e r="RL"><p><l>some<s n="det"/></l><r>una<b/>mica<b/>de<s n="det"/></r></p></e>
-    <e r="RL"><p><l>some<s n="det"/><s n="qnt"/></l><r>cert<s n="det"/></r></p></e>
-    <e r="LR"><p><l>such<s n="det"/><s n="ind"/><s n="sp"/></l><r>tal<s n="det"/><s n="ind"/><s n="mf"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>such<s n="det"/></l><r>tal<s n="det"/></r></p></e>
-    <e r="LR"><p><l>such<b/>a<s n="det"/><s n="ind"/></l><r>tal<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>tenth<s n="det"/><s n="ord"/><s n="sp"/></l><r>desè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>tenth<s n="det"/></l><r>desè<s n="det"/></r></p></e>
-<!-- <e r="LR" c="MG: Atenció: canvi d'etiqueta! s'ha de canviar mòdul perquè ho accepti?"><p><l>such<s n="prn"/></l><r>tal<s n="det"/></r></p></e> -->
-    <e r="LR"><p><l>that<s n="det"/><s n="dem"/></l><r>aquell<s n="det"/><s n="dem"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>that<s n="det"/></l><r>aquell<s n="det"/></r></p></e>
-    <e r="LR"><p><l>the<s n="det"/><s n="def"/><s n="sp"/></l><r>el<s n="det"/><s n="def"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>the<s n="det"/></l><r>el<s n="det"/></r></p></e>
-    <e r="LR"><p><l>the<b/>most<s n="det"/><s n="qnt"/><s n="sp"/></l><r>la<b/>majoria<b/>de<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>the<b/>other<s n="det"/><s n="ind"/><s n="sp"/></l><r>l'altre<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>the<b/>other<s n="det"/></l><r>l'altre<s n="det"/></r></p></e>
-<!--<e><p><l>the<b/>most<s n="det"/></l><r>el<b/>més<s n="det"/></r></p></e> -->
-    <e r="LR"><p><l>the<b/>same<s n="det"/><s n="ind"/><s n="sp"/></l><r>el<b/>mateix<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>the<b/>same<s n="det"/></l><r>el<b/>mateix<s n="det"/></r></p></e>
-    <e r="LR" c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>their<s n="det"/><s n="pos"/><s n="sp"/></l><r>el<b/>seu<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="LR"><p><l>third<s n="det"/><s n="ord"/><s n="sp"/></l><r>tercer<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>third<s n="det"/></l><r>tercer<s n="det"/></r></p></e>
-    <e r="LR"><p><l>thirteenth<s n="det"/><s n="ord"/><s n="sp"/></l><r>tretzè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>thirteenth<s n="det"/></l><r>tretzè<s n="det"/></r></p></e>
-    <e r="LR"><p><l>thirtieth<s n="det"/><s n="ord"/><s n="sp"/></l><r>trentè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>thirtieth<s n="det"/></l><r>trentè<s n="det"/></r></p></e>
-    <e r="LR"><p><l>this<s n="det"/><s n="dem"/></l><r>aquest<s n="det"/><s n="dem"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>this<s n="det"/><s n="dem"/></l><r>aquest<s n="det"/><s n="dem"/></r></p></e>
-    <e r="LR"><p><l>thousandth<s n="det"/><s n="ord"/><s n="sp"/></l><r>mil·lèsim<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>thousandth<s n="det"/></l><r>mil·lèsim<s n="det"/></r></p></e>
-    <e r="LR"><p><l>three<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>tres-centè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>three<b/>hundredth<s n="det"/></l><r>tres-centè<s n="det"/></r></p></e>
-    <e c="comptable, per tant, amb complement plural"><p><l>too<b/>many<s n="det"/><s n="qnt"/><s n="pl"/></l><r>massa<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e r="LR" c="incomptable, per tant, amb complement singular)"><p><l>too<b/>much<s n="det"/><s n="qnt"/><s n="sg"/></l><r>massa<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>twelfth<s n="det"/><s n="ord"/><s n="sp"/></l><r>dotzè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>twelfth<s n="det"/></l><r>dotzè<s n="det"/></r></p></e>
-    <e r="LR"><p><l>twentieth<s n="det"/><s n="ord"/><s n="sp"/></l><r>vintè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>twentieth<s n="det"/></l><r>vintè<s n="det"/></r></p></e>
-    <e r="LR"><p><l>two<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>dos-centè<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>two<b/>hundredth<s n="det"/></l><r>dos-centè<s n="det"/></r></p></e>
-    <e r="LR"><p><l>various<s n="det"/><s n="ind"/></l><r>divers<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
-<!--<e r="RL"><p><l>too<b/>much<s n="det"/><s n="qnt"/><s n="sg"/></l><r>massa<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>-->
-    <e r="LR"><p><l>what<s n="det"/><s n="itg"/><s n="sp"/></l><r>quin<s n="det"/><s n="itg"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="LR"><p><l>whatever<s n="det"/><s n="ind"/></l><r>qualsevol<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>which<s n="det"/><s n="itg"/><s n="sp"/></l><r>quin<s n="det"/><s n="itg"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>which<s n="det"/></l><r>quin<s n="det"/></r></p></e>
-    <e r="LR" c="MG: a tractar pel trànsfer"><p><l>whose<s n="det"/><s n="itg"/></l><r>de<b/>qui<s n="det"/><s n="itg"/><s n="mf"/></r></p></e>
-    <e r="LR"><p><l>your<s n="det"/><s n="pos"/><s n="sp"/></l><r>el<b/>vostre<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>your<s n="det"/></l><r>el<b/>vostre<s n="det"/></r></p></e>
-<!-- <e r="RL" c="traducció per defecte ca-en és per ara 'his'"><p><l>your<s n="det"/></l><r>el<b/>seu<s n="det"/></r></p></e> -->
-    <e r="RL" c="per ara de en-ca es genera només 'el vostre'"><p><l>your<s n="det"/></l><r>el<b/>teu<s n="det"/></r></p></e>
     <!-- ******************************
           group prn_symbol
       ****************************** -->
@@ -34372,7 +34561,6 @@
     <e c="frases afirmatives"><p><l>somebody<s n="prn"/></l><r>algú<s n="prn"/></r></p></e>
     <e r="LR"><p><l>someone<s n="prn"/></l><r>algú<s n="prn"/></r></p></e>
     <e><p><l>something<s n="prn"/><s n="tn"/><s n="nt"/></l><r>alguna<b/>cosa<s n="prn"/><s n="tn"/><s n="f"/></r></p></e>
-<!-- <e r="LR"><p><l>such<s n="prn"/></l><r>tal<s n="det"/></r></p></e> -->
     <e><p><l>that<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></l><r>allò<s n="prn"/><s n="tn"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>that<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></l><r>aquell<s n="prn"/><s n="tn"/><s n="GD"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>that<s n="prn"/><s n="tn"/><s n="mf"/></l><r>aquell<s n="prn"/><s n="tn"/><s n="m"/></r></p></e>

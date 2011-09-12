@@ -3,6 +3,7 @@
   <sdefs>
     <sdef n="adj"/>
     <sdef n="adv"/>
+    <sdef n="cnjadv"/>
     <sdef n="comp"/>
     <sdef n="det"/>
     <sdef n="f"/>
@@ -761,5 +762,11 @@
     <e r="RL" srl="writing D"><p><l>writing<s n="n"/></l><r>redacció<s n="n"/><s n="f"/></r></p></e>
     <e vr="cat" r="RL" srl="snail D"><p><l>snail<s n="n"/></l><r>cargol<s n="n"/><s n="m"/></r></p></e>
     <e vr="val" r="RL" srl="snail D"><p><l>snail<s n="n"/></l><r>caragol<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" vl="en_GB" srl="autumn D"><p><l>autumn<s n="n"/></l><r>tardor<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="because D"><p><l>because<s n="cnjadv"/></l><r>perquè<s n="cnjadv"/></r></p></e>
+    <e r="RL" srl="communicate D"><p><l>communicate<s n="vblex"/></l><r>comunicar<s n="vblex"/></r></p></e>
+
+
+
   </section>
 </dictionary>
