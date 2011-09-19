@@ -25,6 +25,7 @@ TAG:
 * La >>>casa<<< matriu de Bayer està a la ciutat alemanya de Leverkusen
 * >>>Son pare<<< era cap d'Estació i músic aficionat, i Kodály va aprendre a tocar el violí des de ben menut.
 * Després d'uns anys reformant l'administració, la tasca va donar fruits i la prosperitat va retornar; 769 taxes menors foren abolides i tot i així la recaptació no va parar de crèixer; >>>les practiques<<< opresives foren eliminades.
+
 BID:
 
 força				power
@@ -62,9 +63,20 @@ ras i curt			long and short
 respecte a			compared to
 tercer				other
 amb aquest objectiu		with this objective, with this aim, to this end
+fòra				out with
+vers				around
+destacat			outstanding
+al costat de			alongside, at the side of
+quedar				be, be# still, become
+urgències			accident and emergency
+mot				word
+en privat			in private, privately
 
 MWE:
 
+a quin punt			at which point
+gos de mostra			"show dog" (?)
+execució en massa		"mass execution"
 planta baixa			"ground floor"
 coneguda també com		"also known as"
 coneguda com			"known as"
@@ -232,9 +244,86 @@ taxes de natalitat i mortalitat "birth and death rates"
 posar en moviment		"put into motion"
 tant per			"as well as"
 més enllà de			"far from" (?)
+més enllà			"beyond"
 igual que			"the same as"
 de manera conscient		"consciously"
 en aquest sentit		?
+de tall conservador		"conservative-leaning"
+punt de tall 			"cut-off point"
+velocitat de tall		"cutting speed"
+encendre la ira			"enrage"
+a voltes			"sometimes"
+símptomes d'advertència		"warning signs" (?)
+més proper a			"closer to"
+anar camí de ser		"be on the way to being"
+en una total certesa		"in all certainty"
+síndrome d'abstinència		"withdrawal"
+Divendres Sant			"Good Friday"
+al menys fins			"at least until"
+sota terra			"below ground", "underground"
+aprop de			"near to"
+quarter general			"headquarter"
+per la seva banda		"for its part"
+donar resposta			"respond"
+amb bons motius			"with good intentions"
+convenir destacar		"be worth noting"
+rellotge de cucut		"cuckoo clock"
+molt pocs			"very few"
+Casa Consistorial		"town hall"
+auge industrial			"rise of industry"
+a mesura que			"because" (?)
+tenir relació amb		"relate to"
+esperit de grup			"team spirit"
+que recorda la història de	"in the history of"
+en funció de			"depending on"
+medi ambient			"environment"
+tal vegada			"perhaps"
+recordant			"reminiscent of"
+si bé				"although"
+reconèixer com			"recognise as"
+arribar lluny			"go far"
+pais d'acollida		"new home country"
+conciliar el son		"fall asleep"
+crisi nerviosa			"nervous breakdown"
+fer un repàs			"revise"
+càlcul renal			"kidney stone"
+full de càlcul			"spreadsheet"
+regle de càlcul			"slide rule"
+poc sol·licitades		"less sought-after"
+lloc d'aprenentatge
+arribar a realitzar		"put into motion"
+acabar amb			"end"
+en especial			"especially"
+la qual cosa			"which"
+cap de municipi			"municipal centre" (?)
+alt forn			"blast furnace"
+univers en expansió		"expanding universe"
+com perquè			"such that"
+efecte secundari		"side effect"
+costar més			"take more effort"
+velocitat del llum 		"speed of light"
+fer el jurament			"take the oath"
+medalla de plata		"silver medal"
+cruïlla de camins		"crossroads"
+camp de batalla			"battlefield"
+pedra angular			"cornerstone"
+fer fora			"eject, throw out"
+en gran mesura			"greatly"
+com a màxim			"maximum"
+tasca de càlcul			"calculation"
+deixant de banda		"leaving aside"
+és clar				"obviously"
+a més de			"as well as"
+mitjançant l'ús de		"by the use of"
+company de classe		"classmate"
+a pesar de			"despite"
+sense parar			"constantly"
+a causa de			"due to"
+company d'equip			"teammate"
+en massa			"en masse"
+col·legi professional		"professional association"
+consell de guerra		"court martial"
+usuari proprietari		"owner"
 
 LEX:
 
@@ -248,10 +337,12 @@ LEX:
 "victòria sobre"		victory over
 "researches" 			<-- this should never be generated
 "photographies"			 <-- this should never be generated
+cada X {hora,any,dia}		"every" X ...
 
 
 XFR:
 
+per la (meva,seva,teva) banda	"for (my,...,your) part"
 es busca subratllar		"looks to underline" NOT "looks for  underline"
 el 1984				"in 1984" not "the 1984"
 el 216 aC			"in 216 BCE" 
@@ -289,3 +380,5 @@ va haver de tornar		had to return
 van haver de pagar		
 de setembre a novembre		from MONTH to MONTH (not 'of' / 'to')
 es van anar perfeccionant 	
+una àrea geogràfica delimitada i políticament independent det nom adj adj i adv adj
+les plantilles aquestes		det nom det.dem
