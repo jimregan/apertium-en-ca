@@ -12931,6 +12931,7 @@ del transfer i les regles. Potser seria necessari redefinir les regles.
 
     <!--************************************ ALTRES ************************************************ -->
 
+<!-- en_US
     <rule comment="fins el DIGITS de MESO (fins el 30 d'agost → until August 30th (en_US))">
       <pattern>
 	<pattern-item n="fins"/>
@@ -12972,7 +12973,7 @@ del transfer i les regles. Potser seria necessari redefinir les regles.
         </call-macro>
       </action>
     </rule>
-<!-- above is en_US, en_GB:
+-->
     <rule comment="fins el DIGITS de MESO (fins el 30 d'agost → until the 30th of August)">
       <pattern>
 	<pattern-item n="fins"/>
@@ -13014,8 +13015,7 @@ del transfer i les regles. Potser seria necessari redefinir les regles.
 	</out>  
       </action>
     </rule>
--->
-    <rule comment="NUM de MESO de NUM (23 de juliol de 2010 → July 23, 2010">
+    <rule comment="NUM de MESO de NUM (23 de juliol de 2010 → 23rd July, 2010">
       <pattern>
 	<pattern-item n="num"/>
 	<pattern-item n="de"/>
@@ -13033,11 +13033,12 @@ del transfer i les regles. Potser seria necessari redefinir les regles.
 	      <tag><clip pos="1" side="tl" part="a_adv"/></tag>	
 	    </tags>
 	    <lu>
-	      <clip pos="3" side="tl" part="whole"/>
+	      <clip pos="1" side="tl" part="lem"/>
+	      <lit-tag v="num.ord"/>
 	    </lu>
             <b pos="1"/>
 	    <lu>
-	      <clip pos="1" side="tl" part="whole"/>
+	      <clip pos="3" side="tl" part="whole"/>
 	    </lu>
 	    <lu>
 	      <lit v=","/>

@@ -71,6 +71,7 @@ quedar				be, be# still, become
 urgències			accident and emergency
 mot				word
 en privat			in private, privately
+actualment			currently
 
 MWE:
 
@@ -324,6 +325,28 @@ en massa			"en masse"
 col·legi professional		"professional association"
 consell de guerra		"court martial"
 usuari proprietari		"owner"
+tindre cura			"take care"
+enfront de			"before"
+radiació gamma			"gamma radiation"
+de forma independent		"independently"
+puny descobert			"bare knuckle"
+per tal de			"in order to", "with the aim of"
+mantenir activitats contra	
+tren amb destinació		"train to"
+molt poca consistència		"very inconsistent"
+assumir la direcció		"take charge"
+càrrec polític			"politician"
+de retorn			"on returning"
+de cap manera			"in no way"
+motor d'explosió		"internal combustion engine"
+de forma que			"such that"
+fins al moment			"so far"
+no cal dir			"needless to say"
+així com			"as well as"
+poc a poc			"little by little", "bit by bit"
+retre culte			?
+en la seva denominació		by name
+donar un cop d'ull		give a glance
 
 LEX:
 
@@ -338,7 +361,7 @@ LEX:
 "researches" 			<-- this should never be generated
 "photographies"			 <-- this should never be generated
 cada X {hora,any,dia}		"every" X ...
-
+gran X 				"great" X ...
 
 XFR:
 

@@ -1031,6 +1031,10 @@
     <e><p><l>yes<s n="adv"/></l><r>sí<s n="adv"/></r></p></e>
 
 
+    <e slr="assumir D"><p><l>assume<s n="vblex"/></l><r>assumir<s n="vblex"/></r></p></e>
+    <e><p><l>bequeath<s n="vblex"/></l><r>llegar<s n="vblex"/></r></p></e>
+
+
     <e><p><l>camp<s n="vblex"/></l><r>acampar<s n="vblex"/></r></p></e>
     <e slr="adjuntar"><p><l>attach<s n="vblex"/></l><r>adjuntar<s n="vblex"/></r></p></e>
     <e><p><l>alternate<s n="vblex"/></l><r>alternar<s n="vblex"/></r></p></e>
@@ -2469,7 +2473,8 @@
     <e srl="attraction"><p><l>attraction<s n="n"/></l><r>atractiu<s n="n"/><s n="m"/></r></p></e>
     <e srl="appearance"><p><l>appearance<s n="n"/></l><r>aspecte<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>appellant<s n="n"/></l><r>apel·lant<s n="n"/><s n="mf"/></r></p></e>
-    <e><p><l>appellative<s n="n"/></l><r>apel·latiu<s n="n"/><s n="m"/></r></p></e>
+    <e srl="appellative D"><p><l>appellative<s n="n"/></l><r>apel·latiu<s n="n"/><s n="m"/></r></p></e>
+    <e srl="name"><p><l>name<s n="n"/></l><r>apel·latiu<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>appendix<s n="n"/></l><r>apèndix<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>apperception<s n="n"/></l><r>apercepció<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>appetite<s n="n"/></l><r>apetit<s n="n"/><s n="m"/></r></p></e>
@@ -4322,7 +4327,6 @@
     <e><p><l>climosequence<s n="n"/></l><r>climoseqüència<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>cline<s n="n"/></l><r>clina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>clinic<s n="n"/></l><r>clínica<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>clinical<b/>trial<s n="n"/></l><r>assaig<b/>clínic<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>clinker<s n="n"/></l><r>cagaferro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>clinodactyly<s n="n"/></l><r>clinodactília<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>clinometer<s n="n"/></l><r>clinòmetre<s n="n"/><s n="m"/></r></p></e>
@@ -4660,8 +4664,13 @@
     <e srl="conduction D"><p><l>conduction<s n="n"/></l><r>conducció<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>conductivity<s n="n"/></l><r>conductivitat<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>conductometry<s n="n"/></l><r>conductometria<s n="n"/><s n="f"/></r></p></e>
+
+    <e r="LR"><p><l>manager<s n="n"/></l><r>director<s n="n"/><s n="GD"/></r></p></e>
+    <e r="LR"><p><l>director<s n="n"/></l><r>director<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL" srl="director D"><p><l>director<s n="n"/></l><r>director<s n="n"/></r></p></e>
     <e r="RL" srl="conductor" a="carmentano"><p><l>conductor<s n="n"/></l><r>director<s n="n"/></r></p></e>
     <e r="LR" a="carmentano"><p><l>conductor<s n="n"/></l><r>director<s n="n"/><s n="GD"/></r></p></e>
+
     <e><p><l>condyle<s n="n"/></l><r>còndil<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cone<s n="n"/></l><r>con<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>confectioner<s n="n"/></l><r>pastisser<s n="n"/><s n="GD"/></r></p></e>
@@ -5174,7 +5183,8 @@
     <e srl="cure"><p><l>cure<s n="n"/></l><r>cura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>curia<s n="n"/></l><r>cúria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>curie<s n="n"/></l><r>curie<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>curing<s n="n"/></l><r>curació<s n="n"/><s n="f"/></r></p></e>
+    <e srl="curing D"><p><l>curing<s n="n"/></l><r>curació<s n="n"/><s n="f"/></r></p></e>
+    <e srl="healing"><p><l>healing<s n="n"/></l><r>curació<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>curiosity<s n="n"/></l><r>curiositat<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>curium<s n="n"/></l><r>curi<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>curl<s n="n"/></l><r>rínxol<s n="n"/><s n="m"/></r></p></e>
@@ -5811,8 +5821,6 @@
 
     <e><p><l>directive<s n="n"/></l><r>directiva<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>directivity<s n="n"/></l><r>directivitat<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>director<s n="n"/></l><r>director<s n="n"/><s n="GD"/></r></p></e>
-    <e r="RL" srl="director D"><p><l>director<s n="n"/></l><r>director<s n="n"/></r></p></e>
     <e><p><l>directory<s n="n"/></l><r>directori<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>dirt<s n="n"/></l><r>brutícia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dirty<b/>clothes<s n="n"/><s n="pl"/></l><r>roba<b/>bruta<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
@@ -5904,7 +5912,18 @@
     <e r="LR" slr="pantalla D"><p><l>display<s n="n"/></l><r>pantalla<s n="n"/><s n="f"/></r></p></e>
     <e slr="visualitzador"><p><l>display<s n="n"/></l><r>visualitzador<s n="n"/><s n="m"/></r></p></e>
     <e r="LR" slr="eliminació D"><p><l>disposal<s n="n"/></l><r>eliminació<s n="n"/><s n="f"/></r></p></e>
+
+    <e r="RL" srl="distribution"><p><l>distribution<s n="n"/></l><r>disposició<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="resolution"><p><l>resolution<s n="n"/></l><r>disposició<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="arrangement"><p><l>arrangement<s n="n"/></l><r>disposició<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="layout"><p><l>layout<s n="n"/></l><r>disposició<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="provision"><p><l>provision<s n="n"/></l><r>disposició<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" srl="act"><p><l>act<s n="n"/></l><r>disposició<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>willingness<s n="n"/></l><r>disposició<s n="n"/><s n="f"/></r></p></e>
+    <e srl="willingness"><p><l>willingness<s n="n"/><s n="sg"/></l><r>disposició<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e srl="disposition"><p><l>disposition<s n="n"/><s n="sg"/></l><r>disposició<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e slr="disposició" srl="disposal D"><p><l>disposal<s n="n"/></l><r>disposició<s n="n"/><s n="f"/></r></p></e>
+
     <e><p><l>disposition<s n="n"/></l><r>tarannà<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>disprivatisation<s n="n"/></l><r>desprivatització<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>disproportion<s n="n"/></l><r>desproporció<s n="n"/><s n="f"/></r></p></e>
@@ -5941,7 +5960,6 @@
     <e r="LR"><p><l>distress<s n="n"/></l><r>aflicció<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>distribution<s n="n"/></l><r>distribució<s n="n"/><s n="f"/></r></p></e>
     <e r="RL" srl="distribution D"><p><l>distribution<s n="n"/></l><r>repartiment<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL" srl="distribution"><p><l>distribution<s n="n"/></l><r>disposició<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>distributionalism<s n="n"/></l><r>distribucionalisme<s n="n"/><s n="m"/></r></p></e>
     <e a="doriua"><p><l>distributor<s n="n"/></l><r>distribuïdor<s n="n"/><s n="m"/></r></p></e>
     <e r="RL" a="doriua"><p><l>distributor<s n="n"/></l><r>distribuïdor<s n="n"/><s n="f"/></r></p></e>
@@ -6034,7 +6052,8 @@
     <e vl="en_GB"><p><l>doughnut<s n="n"/></l><r>dònut<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>dovecot<s n="n"/></l><r>colomar<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>downfall<s n="n"/></l><r>ensulsiada<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>download<s n="n"/></l><r>descàrrega<s n="n"/><s n="f"/></r></p></e>
+    <e srl="download D"><p><l>download<s n="n"/></l><r>descàrrega<s n="n"/><s n="f"/></r></p></e>
+    <e srl="discharge"><p><l>discharge<s n="n"/></l><r>descàrrega<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>downpipe<s n="n"/></l><r>baixant<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>dowry<s n="n"/></l><r>dot<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>dozen<s n="n"/></l><r>dotzena<s n="n"/><s n="f"/></r></p></e>
@@ -6378,7 +6397,8 @@
     <e><p><l>embryology<s n="n"/></l><r>embriologia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>emerald<s n="n"/></l><r>maragda<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>emergence<s n="n"/></l><r>aparició<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>emergency<s n="n"/></l><r>emergència<s n="n"/><s n="f"/></r></p></e>
+    <e srl="emergency D"><p><l>emergency<s n="n"/></l><r>emergència<s n="n"/><s n="f"/></r></p></e>
+    <e srl="emergence"><p><l>emergence<s n="n"/></l><r>emergència<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>emery<s n="n"/></l><r>esmeril<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>emigrant<s n="n"/></l><r>emigrant<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>emigration<s n="n"/></l><r>emigració<s n="n"/><s n="f"/></r></p></e>
@@ -6614,7 +6634,6 @@
     <e><p><l>espadrille<s n="n"/></l><r>espardenya<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>esperantist<s n="n"/></l><r>esperantista<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>espionage<s n="n"/></l><r>espionatge<s n="n"/><s n="m"/></r></p></e>
-    <e srl="essay D"><p><l>essay<s n="n"/></l><r>assaig<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>essayist<s n="n"/></l><r>assagista<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>essence<s n="n"/></l><r>essència<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>establishment<s n="n"/></l><r>establiment<s n="n"/><s n="m"/></r></p></e>
@@ -7011,6 +7030,8 @@
     <e><p><l>fine<s n="n"/></l><r>multa<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>fine<b/>dust<s n="n"/></l><r>polsim<s n="n"/><s n="m"/></r></p></e>
     <e srl="finger D"><p><l>finger<s n="n"/></l><r>dit<s n="n"/><s n="m"/></r></p></e>
+    <e srl="toe"><p><l>toe<s n="n"/></l><r>dit<s n="n"/><s n="m"/></r></p></e>
+    <e srl="saying"><p><l>saying<s n="n"/></l><r>dit<s n="n"/><s n="m"/></r></p></e>
     <e slr="acabat"><p><l>finish<s n="n"/></l><r>acabat<s n="n"/><s n="m"/></r></p></e>
     <e slr="arribada D" srl="finish"><p><l>finish<s n="n"/></l><r>arribada<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>finishing<s n="n"/></l><r>acabament<s n="n"/><s n="m"/></r></p></e>
@@ -9876,7 +9897,6 @@
     <e><p><l>manacles<s n="n"/></l><r>esposes<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>management<s n="n"/></l><r>administració<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>management<s n="n"/><s n="sg"/></l><r>gestió<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-    <e r="LR"><p><l>manager<s n="n"/></l><r>director<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>manager<s n="n"/></l><r>responsable<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>mandate<s n="n"/></l><r>mandat<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>mandator<s n="n"/></l><r>mandatari<s n="n"/><s n="GD"/></r></p></e>
@@ -12029,7 +12049,8 @@
     <e><p><l>pharyngoplasty<s n="n"/></l><r>faringoplàstia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pharyngospasm<s n="n"/></l><r>faringospasme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pharyngotomy<s n="n"/></l><r>faringotomia<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>phase<s n="n"/></l><r>fase<s n="n"/><s n="f"/></r></p></e>
+    <e srl="phase D"><p><l>phase<s n="n"/></l><r>fase<s n="n"/><s n="f"/></r></p></e>
+    <e srl="state"><p><l>state<s n="n"/></l><r>fase<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>phasitron<s n="n"/></l><r>fasitró<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>phasor<s n="n"/></l><r>fasor<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pheasant<s n="n"/></l><r>faisà<s n="n"/><s n="m"/></r></p></e>
@@ -13291,7 +13312,9 @@
     <e r="LR"><p><l>regulation<s n="n"/></l><r>control<s n="n"/><s n="m"/></r></p></e>
     <e a="carmentano"><p><l>regulator<s n="n"/></l><r>regulador<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rehabilitation<s n="n"/></l><r>rehabilitació<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>clinical<b/>trial<s n="n"/></l><r>assaig<b/>clínic<s n="n"/><s n="m"/></r></p></e>
     <e srl="rehearsal" a="carmentano"><p><l>rehearsal<s n="n"/></l><r>assaig<s n="n"/><s n="m"/></r></p></e>
+    <e srl="essay D"><p><l>essay<s n="n"/></l><r>assaig<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>reification<s n="n"/></l><r>reificació<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>reign<s n="n"/></l><r>regnat<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>reimbursement<s n="n"/></l><r>reembors<s n="n"/><s n="m"/></r></p></e>
@@ -13437,7 +13460,6 @@
     <e><p><l>resistivity<s n="n"/></l><r>resistivitat<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>resistor<s n="n"/></l><r>resistor<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>resolution<s n="n"/></l><r>resolució<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL" srl="resolution"><p><l>resolution<s n="n"/></l><r>disposició<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>resolvent<s n="n"/></l><r>resolvent<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>resonance<s n="n"/></l><r>ressonància<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>resonator<s n="n"/></l><r>ressonador<s n="n"/><s n="m"/></r></p></e>
@@ -15739,7 +15761,6 @@
     <e><p><l>tobacco<s n="n"/></l><r>tabac<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tocology<s n="n"/></l><r>tocologia<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>toe<s n="n"/></l><r>dit<g><b/>del<b/>peu</g><s n="n"/><s n="m"/></r></p></e>
-    <e srl="toe"><p><l>toe<s n="n"/></l><r>dit<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>toenail<s n="n"/></l><r>ungla<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>toga<s n="n"/></l><r>toga<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>toilet<s n="n"/></l><r>lavabo<s n="n"/><s n="m"/></r></p></e>
@@ -16650,8 +16671,6 @@
     <e srl="effort"><p><l>effort<s n="n"/></l><r>voluntat<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>willemite<s n="n"/></l><r>wil·lemita<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>williamsite<s n="n"/></l><r>wil·liamsita<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>willingness<s n="n"/></l><r>disposició<s n="n"/><s n="f"/></r></p></e>
-    <e srl="willingness"><p><l>willingness<s n="n"/><s n="sg"/></l><r>disposició<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>wilting<s n="n"/></l><r>marciment<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>wilting<s n="n"/></l><r>pansiment<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>wind<s n="n"/></l><r>vent<s n="n"/><s n="m"/></r></p></e>
@@ -17620,6 +17639,10 @@
     <e><p><l>diurnal<s n="adj"/></l><r>diürn<s n="adj"/></r></p></e>
     <e><p><l>divergent<s n="adj"/></l><r>divergent<s n="adj"/><s n="mf"/></r></p></e>
     <e srl="diverse D"><p><l>diverse<s n="adj"/></l><r>divers<s n="adj"/></r></p></e>
+    <e srl="varied"><p><l>varied<s n="adj"/></l><r>divers<s n="adj"/></r></p></e>
+    <e srl="different"><p><l>different<s n="adj"/></l><r>divers<s n="adj"/></r></p></e>
+    <e srl="various"><p><l>various<s n="adj"/></l><r>divers<s n="adj"/></r></p></e>
+    <e srl="several"><p><l>several<s n="adj"/></l><r>divers<s n="adj"/></r></p></e>
     <e><p><l>divine<s n="adj"/></l><r>diví<s n="adj"/></r></p></e>
     <e><p><l>divisional<s n="adj"/></l><r>divisori<s n="adj"/></r></p></e>
     <e><p><l>divisive<s n="adj"/></l><r>divisiu<s n="adj"/></r></p></e>
@@ -17700,7 +17723,8 @@
     <e><p><l>elderly<s n="adj"/></l><r>ancià<s n="adj"/></r></p></e>
     <e><p><l>elect<s n="adj"/></l><r>electe<s n="adj"/></r></p></e>
     <e><p><l>electoral<s n="adj"/></l><r>electoral<s n="adj"/><s n="mf"/></r></p></e>
-    <e><p><l>electrical<s n="adj"/></l><r>elèctric<s n="adj"/></r></p></e>
+    <e srl="electrical D"><p><l>electrical<s n="adj"/></l><r>elèctric<s n="adj"/></r></p></e>
+    <e srl="electric"><p><l>electric<s n="adj"/></l><r>elèctric<s n="adj"/></r></p></e>
     <e><p><l>electrochemical<s n="adj"/></l><r>electroquímic<s n="adj"/></r></p></e>
     <e><p><l>electrodynamic<s n="adj"/></l><r>electrodinàmic<s n="adj"/></r></p></e>
     <e><p><l>electrolytic<s n="adj"/></l><r>electrolític<s n="adj"/></r></p></e>
@@ -18488,7 +18512,6 @@
     <e><p><l>lithologic<s n="adj"/></l><r>litològic<s n="adj"/></r></p></e>
     <e><p><l>lithuanian<s n="adj"/></l><r>lituà<s n="adj"/></r></p></e>
     <e><p><l>litigious<s n="adj"/></l><r>litigiós<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>little<s n="adj"/></l><r>petit<s n="adj"/></r></p></e>
     <e><p><l>littoral<s n="adj"/></l><r>litoral<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>liturgical<s n="adj"/></l><r>litúrgic<s n="adj"/></r></p></e>
     <e r="LR"><p><l>live<s n="adj"/></l><r>viu<s n="adj"/></r></p></e>
@@ -19753,7 +19776,8 @@
     <e><p><l>slim<s n="adj"/><s n="sint"/></l><r>esvelt<s n="adj"/></r></p></e>
     <e><p><l>slippery<s n="adj"/></l><r>relliscós<s n="adj"/></r></p></e>
     <e><p><l>slow<s n="adj"/><s n="sint"/></l><r>lent<s n="adj"/></r></p></e>
-    <e><p><l>small<s n="adj"/><s n="sint"/></l><r>petit<s n="adj"/></r></p></e>
+    <e srl="little"><p><l>little<s n="adj"/></l><r>petit<s n="adj"/></r></p></e>
+    <e srl="small D"><p><l>small<s n="adj"/><s n="sint"/></l><r>petit<s n="adj"/></r></p></e>
     <e r="RL"><p><l>small<s n="adj"/><s n="sint"/></l><r>xic<s n="adj"/></r></p></e>
     <e><p><l>smart<s n="adj"/><s n="sint"/></l><r>llest<s n="adj"/></r></p></e>
     <e><p><l>smooth<s n="adj"/><s n="sint"/></l><r>llis<s n="adj"/></r></p></e>
@@ -19941,7 +19965,8 @@
     <e><p><l>supersymmetric<s n="adj"/></l><r>supersimètric<s n="adj"/></r></p></e>
     <e r="LR"><p><l>supersymmetrical<s n="adj"/></l><r>supersimètric<s n="adj"/></r></p></e>
     <e><p><l>supervisory<s n="adj"/></l><r>supervisor<s n="adj"/></r></p></e>
-    <e><p><l>supplementary<s n="adj"/></l><r>suplementari<s n="adj"/></r></p></e>
+    <e srl="supplementary D"><p><l>supplementary<s n="adj"/></l><r>suplementari<s n="adj"/></r></p></e>
+    <e srl="extra"><p><l>supplementary<s n="adj"/></l><r>suplementari<s n="adj"/></r></p></e>
     <e><p><l>supplying<s n="adj"/></l><r>subministrador<s n="adj"/></r></p></e>
     <e><p><l>supported<s n="adj"/></l><r>suportat<s n="adj"/></r></p></e>
     <e><p><l>supposed<s n="adj"/></l><r>suposat<s n="adj"/></r></p></e>
@@ -20309,7 +20334,6 @@
     <e><p><l>vaporous<s n="adj"/></l><r>vaporós<s n="adj"/></r></p></e>
     <e><p><l>variable<s n="adj"/></l><r>variable<s n="adj"/><s n="mf"/></r></p></e>
     <e r="RL"><p><l>varied<s n="adj"/></l><r>variat<s n="adj"/></r></p></e>
-    <e srl="varied"><p><l>varied<s n="adj"/></l><r>divers<s n="adj"/></r></p></e>
     <e><p><l>variegated<s n="adj"/></l><r>bigarrat<s n="adj"/></r></p></e>
     <e r="LR"><p><l>varying<s n="adj"/></l><r>variable<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>vascular<s n="adj"/></l><r>vascular<s n="adj"/><s n="mf"/></r></p></e>
@@ -20928,7 +20952,6 @@
     <e><p><l>destroy<s n="vblex"/></l><r>destruir<s n="vblex"/></r></p></e>
     <e><p><l>desulphurise<s n="vblex"/></l><r>dessulfurar<s n="vblex"/></r></p></e>
     <e><p><l>detail<s n="vblex"/></l><r>detallar<s n="vblex"/></r></p></e>
-    <e srl="detain D"><p><l>detain<s n="vblex"/></l><r>detenir<s n="vblex"/></r></p></e>
     <e><p><l>detect<s n="vblex"/></l><r>detectar<s n="vblex"/></r></p></e>
     <e><p><l>deter<s n="vblex"/></l><r>dissuadir<s n="vblex"/></r></p></e>
     <e><p><l>determine<s n="vblex"/></l><r>determinar<s n="vblex"/></r></p></e>
@@ -20976,6 +20999,10 @@
     <e><p><l>discount<s n="vblex"/></l><r>descomptar<s n="vblex"/></r></p></e>
     <e><p><l>discourage<s n="vblex"/></l><r>descoratjar<s n="vblex"/></r></p></e>
     <e srl="discover D"><p><l>discover<s n="vblex"/></l><r>descobrir<s n="vblex"/></r></p></e>
+    <e srl="unveil"><p><l>unveil<s n="vblex"/></l><r>descobrir<s n="vblex"/></r></p></e>
+    <e srl="bare"><p><l>bare<s n="vblex"/></l><r>descobrir<s n="vblex"/></r></p></e>
+    <e r="RL" srl="find"><p><l>find<s n="vblex"/></l><r>descobrir<s n="vblex"/></r></p></e>
+    <e srl="find_out"><p><l>find<g><b/>out</g><s n="vblex"/></l><r>descobrir<s n="vblex"/></r></p></e>
     <e a="prompsit2cdl"><p><l>discriminate<s n="vblex"/></l><r>discriminar<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>discuss<s n="vblex"/></l><r>parlar<s n="vblex"/></r></p></e>
     <e><p><l>disdain<s n="vblex"/></l><r>desdenyar<s n="vblex"/></r></p></e>
@@ -21252,8 +21279,6 @@
     <e srl="finish"><p><l>finish<s n="vblex"/></l><r>finalitzar<s n="vblex"/></r></p></e>
     <e r="LR" a="doriua"><p><l>finance<s n="vblex"/></l><r>finançar<s n="vblex"/></r></p></e>
     <e><p><l>find<s n="vblex"/></l><r>trobar<s n="vblex"/></r></p></e>
-    <e r="RL" srl="find"><p><l>find<s n="vblex"/></l><r>descobrir<s n="vblex"/></r></p></e>
-    <e srl="find_out"><p><l>find<g><b/>out</g><s n="vblex"/></l><r>descobrir<s n="vblex"/></r></p></e>
     <e><p><l>fine<s n="vblex"/></l><r>multar<s n="vblex"/></r></p></e>
     <e><p><l>fine-tune<s n="vblex"/></l><r>afinar<s n="vblex"/></r></p></e>
     <e srl="finish D"><p><l>finish<s n="vblex"/></l><r>acabar<s n="vblex"/></r></p></e>
@@ -21371,7 +21396,6 @@
     <e srl="give_back"><p><l>give<g><b/>back</g><s n="vblex"/><s n="sep"/></l><r>tornar<s n="vblex"/></r></p></e>
     <e srl="return"><p><l>return<s n="vblex"/></l><r>tornar<s n="vblex"/></r></p></e>
     <e srl="turn"><p><l>turn<s n="vblex"/></l><r>tornar<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>give<g><b/>up</g><s n="vblex"/><s n="sep"/></l><r>deixar<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>give<g><b/>up</g><s n="vblex"/><s n="sep"/></l><r>renunciar<g><b/>a</g><s n="vblex"/></r></p></e>
     <e><p><l>gladden<s n="vblex"/></l><r>alegrar<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>glance<s n="vblex"/></l><r>mirar<s n="vblex"/></r></p></e>
@@ -21454,6 +21478,8 @@
     <e><p><l>hide<s n="vblex"/></l><r>amagar<s n="vblex"/></r></p></e>
     <e srl="highlight D"><p><l>highlight<s n="vblex"/></l><r>destacar<s n="vblex"/></r></p></e>
     <e srl="feature"><p><l>feature<s n="vblex"/></l><r>destacar<s n="vblex"/></r></p></e>
+    <e srl="emphasise"><p><l>emphasise<s n="vblex"/></l><r>destacar<s n="vblex"/></r></p></e>
+    <e srl="note"><p><l>note<s n="vblex"/></l><r>destacar<s n="vblex"/></r></p></e>
     <e srl="stand_out"><p><l>stand<g><b/>out</g><s n="vblex"/></l><r>destacar<s n="vblex"/></r></p></e>
     <e><p><l>hinder<s n="vblex"/></l><r>obstaculitzar<s n="vblex"/></r></p></e>
     <e><p><l>hire<s n="vblex"/></l><r>contractar<s n="vblex"/></r></p></e>
@@ -21543,7 +21569,8 @@
     <e><p><l>insist<s n="vblex"/></l><r>insistir<s n="vblex"/></r></p></e>
     <e><p><l>inspect<s n="vblex"/></l><r>inspeccionar<s n="vblex"/></r></p></e>
     <e><p><l>inspire<s n="vblex"/></l><r>inspirar<s n="vblex"/></r></p></e>
-    <e><p><l>install<s n="vblex"/></l><r>instal·lar<s n="vblex"/></r></p></e>
+    <e srl="install D"><p><l>install<s n="vblex"/></l><r>instal·lar<s n="vblex"/></r></p></e>
+    <e srl="move_into"><p><l>move<g><b/>into</g><s n="vblex"/></l><r>instal·lar<s n="vblex"/></r></p></e>
     <e><p><l>institutionalise<s n="vblex"/></l><r>institucionalitzar<s n="vblex"/></r></p></e>
     <e><p><l>instruct<s n="vblex"/></l><r>instruir<s n="vblex"/></r></p></e>
     <e><p><l>instrument<s n="vblex"/></l><r>equipar<s n="vblex"/></r></p></e>
@@ -21606,6 +21633,8 @@
     <e r="LR" slr="continuar" c="keep + ger (keep doing...) -> transfer?. En direcció ca-en tb s'hauria de detectar la construcció amb gerundi"><p><l>keep<s n="vblex"/></l><r>continuar<s n="vblex"/></r></p></e>
     <e slr="seguir" srl="keep" c="En direcció ca-en tb s'hauria de detectar la construcció amb gerundi (transfer?)" i="yes"><p><l>keep<s n="vblex"/></l><r>seguir<s n="vblex"/></r></p></e>
     <e slr="mantenir D" srl="keep D"><p><l>keep<s n="vblex"/></l><r>mantenir<s n="vblex"/></r></p></e>
+    <e srl="maintain"><p><l>maintain<s n="vblex"/></l><r>mantenir<s n="vblex"/></r></p></e>
+    <e srl="sustain"><p><l>sustain<s n="vblex"/></l><r>mantenir<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>keep<g><b/>on</g><s n="vblex"/></l><r>continuar<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>keep<g><b/>watch</g><s n="vblex"/></l><r>vigilar<s n="vblex"/></r></p></e>
     <e slr="donar una patada a D"><p><l>kick<s n="vblex"/></l><r>donar<g><b/>una<b/>patada<b/>a</g><s n="vblex"/></r></p></e>
@@ -21644,12 +21673,15 @@
     <e><p><l>learn<s n="vblex"/></l><r>aprendre<s n="vblex"/></r></p></e>
     <e><p><l>lease<s n="vblex"/></l><r>arrendar<s n="vblex"/></r></p></e>
     <e slr="marxar"><p><l>leave<s n="vblex"/></l><r>marxar<s n="vblex"/></r></p></e>
-    <e slr="deixar D" srl="leave D"><p><l>leave<s n="vblex"/></l><r>deixar<s n="vblex"/></r></p></e>
     <e><p><l>legalise<s n="vblex"/></l><r>legalitzar<s n="vblex"/></r></p></e>
     <e><p><l>legislate<s n="vblex"/></l><r>legislar<s n="vblex"/></r></p></e>
     <e><p><l>legitimate<s n="vblex"/></l><r>legitimar<s n="vblex"/></r></p></e>
+
+    <e slr="deixar D" srl="leave D"><p><l>leave<s n="vblex"/></l><r>deixar<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>give<g><b/>up</g><s n="vblex"/><s n="sep"/></l><r>deixar<s n="vblex"/></r></p></e>
     <e srl="lend"><p><l>lend<s n="vblex"/></l><r>deixar<s n="vblex"/></r></p></e>
     <e srl="let"><p><l>let<s n="vblex"/></l><r>deixar<s n="vblex"/></r></p></e>
+
     <e><p><l>level<s n="vblex"/></l><r>anivellar<s n="vblex"/></r></p></e>
     <e><p><l>liberalise<s n="vblex"/></l><r>liberalitzar<s n="vblex"/></r></p></e>
     <e><p><l>lick<s n="vblex"/></l><r>llepar<s n="vblex"/></r></p></e>
@@ -21698,7 +21730,6 @@
     <e><p><l>lynch<s n="vblex"/></l><r>linxar<s n="vblex"/></r></p></e>
     <e><p><l>madden<s n="vblex"/></l><r>embogir<s n="vblex"/></r></p></e>
     <e><p><l>magnetise<s n="vblex"/></l><r>imantar<s n="vblex"/></r></p></e>
-    <e srl="maintain"><p><l>maintain<s n="vblex"/></l><r>mantenir<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>make<s n="vblex"/></l><r>fer<s n="vblex"/></r></p></e>
     <e r="RL" a="eleka"><p><l>make<s n="vblex"/></l><r>confeccionar<s n="vblex"/></r></p></e>
     <e><p><l>make<g><b/>a<b/>mistake</g><s n="vblex"/></l><r>equivocar-se<s n="vblex"/><s n="pron"/></r></p></e>
@@ -22267,7 +22298,6 @@
     <e slr="guardar"><p><l>save<s n="vblex"/></l><r>guardar<s n="vblex"/></r></p></e>
     <e slr="salvar D"><p><l>save<s n="vblex"/></l><r>salvar<s n="vblex"/></r></p></e>
     <e><p><l>saw<s n="vblex"/></l><r>serrar<s n="vblex"/></r></p></e>
-    <e srl="say D"><p><l>say<s n="vblex"/></l><r>dir<s n="vblex"/></r></p></e>
     <e><p><l>scan<s n="vblex"/></l><r>escannejar<s n="vblex"/></r></p></e>
     <e><p><l>scandalise<s n="vblex"/></l><r>escandalitzar<s n="vblex"/></r></p></e>
     <e><p><l>scare<s n="vblex"/></l><r>espantar<s n="vblex"/></r></p></e>
@@ -22469,7 +22499,11 @@
     <e><p><l>stir<g><b/>up</g><s n="vblex"/><s n="sep"/></l><r>remoure<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>stop<s n="vblex"/></l><r>aturar<s n="vblex"/></r></p></e>
     <e c="MG: per al transfer: 'stop' + -ing = deixar de fer"><p><l>stop<s n="vblex"/></l><r>parar<s n="vblex"/></r></p></e>
+
     <e r="RL" srl="stop"><p><l>stop<s n="vblex"/></l><r>detenir<s n="vblex"/></r></p></e>
+    <e r="RL" srl="arrest"><p><l>arrest<s n="vblex"/></l><r>detenir<s n="vblex"/></r></p></e>
+    <e srl="detain D"><p><l>detain<s n="vblex"/></l><r>detenir<s n="vblex"/></r></p></e>
+
     <e><p><l>store<s n="vblex"/></l><r>emmagatzemar<s n="vblex"/></r></p></e>
     <e r="LR" slr="estirar D"><p><l>strain<s n="vblex"/></l><r>estirar<s n="vblex"/></r></p></e>
     <e slr="esforçar-se"><p><l>strain<s n="vblex"/></l><r>esforçar-se<s n="vblex"/><s n="pron"/></r></p></e>
@@ -22591,7 +22625,9 @@
     <e><p><l>tear<s n="vblex"/></l><r>estripar<s n="vblex"/></r></p></e>
     <e><p><l>telephone<s n="vblex"/></l><r>telefonar<s n="vblex"/></r></p></e>
     <e><p><l>televise<s n="vblex"/></l><r>televisar<s n="vblex"/></r></p></e>
+    <e srl="say D"><p><l>say<s n="vblex"/></l><r>dir<s n="vblex"/></r></p></e>
     <e srl="tell"><p><l>tell<s n="vblex"/></l><r>dir<s n="vblex"/></r></p></e>
+    <e srl="call"><p><l>call<s n="vblex"/></l><r>dir<s n="vblex"/></r></p></e>
     <e srl="mention"><p><l>mention<s n="vblex"/></l><r>dir<s n="vblex"/></r></p></e>
     <e><p><l>temper<s n="vblex"/></l><r>temperar<s n="vblex"/></r></p></e>
     <e><p><l>tempt<s n="vblex"/></l><r>temptar<s n="vblex"/></r></p></e>
@@ -22716,7 +22752,6 @@
     <e><p><l>unroll<s n="vblex"/></l><r>desenrotllar<s n="vblex"/></r></p></e>
     <e vr="cat"><p><l>unscrew<s n="vblex"/></l><r>descargolar<s n="vblex"/></r></p></e>
     <e vr="val"><p><l>unscrew<s n="vblex"/></l><r>descaragolar<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>unveil<s n="vblex"/></l><r>descobrir<s n="vblex"/></r></p></e>
     <e><p><l>update<s n="vblex"/></l><r>actualitzar<s n="vblex"/></r></p></e>
     <e><p><l>upholster<s n="vblex"/></l><r>entapissar<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>upset<s n="vblex"/></l><r>trastornar<s n="vblex"/></r></p></e>
@@ -23683,7 +23718,7 @@
     <e><p><l>Asad<s n="np"/></l><r>Asad<s n="np"/></r></p></e>
     <e><p><l>Asaf<s n="np"/></l><r>Asaf<s n="np"/></r></p></e>
     <e><p><l>Ascención<s n="np"/></l><r>Ascención<s n="np"/></r></p></e>
-    <e><p><l>Asdrúbal<s n="np"/></l><r>Asdrúbal<s n="np"/></r></p></e>
+    <e><p><l>Asdrúbal<s n="np"/></l><r>Hasdrubal<s n="np"/></r></p></e>
     <e><p><l>Aser<s n="np"/></l><r>Aser<s n="np"/></r></p></e>
     <e><p><l>Ashanti<s n="np"/></l><r>Ashanti<s n="np"/></r></p></e>
     <e><p><l>Asher<s n="np"/></l><r>Asher<s n="np"/></r></p></e>
@@ -32113,6 +32148,7 @@
     <e><p><l>digitally<s n="adv"/></l><r>digitalment<s n="adv"/></r></p></e>
     <e><p><l>diplomatically<s n="adv"/></l><r>diplomàticament<s n="adv"/></r></p></e>
     <e srl="directly D"><p><l>directly<s n="adv"/></l><r>directament<s n="adv"/></r></p></e>
+    <e srl="straight"><p><l>straight<s n="adv"/></l><r>directament<s n="adv"/></r></p></e>
     <e><p><l>disastrously<s n="adv"/></l><r>desastrosament<s n="adv"/></r></p></e>
     <e><p><l>disconcertingly<s n="adv"/></l><r>desconcertantment<s n="adv"/></r></p></e>
     <e><p><l>disproportionately<s n="adv"/></l><r>desproporcionadament<s n="adv"/></r></p></e>
@@ -34015,7 +34051,6 @@
     <e srl="still D"><p><l>still<s n="adv"/></l><r>encara<s n="adv"/></r></p></e>
     <e r="RL" srl="yet" c="frases negatives"><p><l>yet<s n="adv"/></l><r>encara<s n="adv"/></r></p></e>
     <e r="LR"><p><l>yet<s n="adv"/></l><r>encara<s n="adv"/></r></p></e>
-    <e srl="straight"><p><l>straight<s n="adv"/></l><r>directament<s n="adv"/></r></p></e>
     <e><p><l>straight<b/>after<b/>that<s n="adv"/></l><r>just<b/>després<b/>d'allò<s n="adv"/></r></p></e>
     <e c="cat"><p><l>straight<b/>after<b/>this<s n="adv"/></l><r>just<b/>després<b/>d'això<s n="adv"/></r></p></e>
     <e r="RL" c="val"><p><l>straight<b/>after<b/>this<s n="adv"/></l><r>just<b/>després<b/>d'açò<s n="adv"/></r></p></e>
