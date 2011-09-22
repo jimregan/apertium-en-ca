@@ -25,6 +25,8 @@ TAG:
 * La >>>casa<<< matriu de Bayer està a la ciutat alemanya de Leverkusen
 * >>>Son pare<<< era cap d'Estació i músic aficionat, i Kodály va aprendre a tocar el violí des de ben menut.
 * Després d'uns anys reformant l'administració, la tasca va donar fruits i la prosperitat va retornar; 769 taxes menors foren abolides i tot i així la recaptació no va parar de crèixer; >>>les practiques<<< opresives foren eliminades.
+* Frederic Montefeltro fou nomenat >>>duc<<< el 1474 pel Papa Sixte VI.
+* Tot i que les >>>proves<<< fòssils encara són incertes.
 
 BID:
 
@@ -347,6 +349,19 @@ poc a poc			"little by little", "bit by bit"
 retre culte			?
 en la seva denominació		by name
 donar un cop d'ull		give a glance
+neteja ètnica 			ethnic cleansing
+de fet				de facto
+comparació de gens		genetic comparison
+valor propi			eigenvalue
+vector propi			eigenvector
+pel vostre compte		by yourself
+fer il·lusió			to really like
+entrada de ventilació		vent
+en cap moment			at no point
+escala de temps			timescale
+d'operació contínua 		non-stop
+sense terra			landless
+preparar l'escenari		set the stage
 
 LEX:
 
