@@ -6,6 +6,7 @@ Del Piero			np.cog
 Prestar				np.cog
 oceà Pacífic			np.top
 envers				prep
+de nou				again
 
 TAG:
 
@@ -274,7 +275,7 @@ rellotge de cucut		"cuckoo clock"
 molt pocs			"very few"
 Casa Consistorial		"town hall"
 auge industrial			"rise of industry"
-a mesura que			"because" (?)
+a mesura que			"as", "because" (?)
 tenir relació amb		"relate to"
 esperit de grup			"team spirit"
 que recorda la història de	"in the history of"
@@ -362,6 +363,29 @@ escala de temps			timescale
 d'operació contínua 		non-stop
 sense terra			landless
 preparar l'escenari		set the stage
+segons la llegenda		according to legend
+Popular Republic China		People's Republic of China
+en el transcurs de		over the course of
+tacte rectal			rectal examination
+seguir sent			be still
+beril·liosi			beryllium disease
+sala d'exposicions		exhibition hall
+presentar acusacions		make accusations
+donar feina			employ
+de manera que			such that
+durant molts anys		for many years
+fer èmfasi			emphasise
+detalladament			in detail
+de forma espontània		spontaneously
+de forma acceptable		acceptably
+en directe			live
+país d'origen			home country
+de forma tenaç			tenaciously
+de forma més tenaç		more tenaciously
+guanyar renom			become well known, become popular
+un gran nombre de seguidors	a huge following
+per tot el país			all over the country
+
 
 LEX:
 
@@ -420,3 +444,11 @@ de setembre a novembre		from MONTH to MONTH (not 'of' / 'to')
 es van anar perfeccionant 	
 una àrea geogràfica delimitada i políticament independent det nom adj adj i adv adj
 les plantilles aquestes		det nom det.dem
+
+Wikipedia:
+
+en:Plasma (physics) -> ca
+
+Examples:
+
+Va impulsar la política exterior.
