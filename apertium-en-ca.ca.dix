@@ -8,7 +8,7 @@
 	Last processed by: apertium-dixtools fix -standard apertium-en-ca.ca.dix foo
 -->
 <dictionary>
-  <alphabet>·ÀÁÂÄÇÈÉÊËÌÍÎÏÑÒÓÔÖÙÚÛÜàáâäçèéêëìíîïñòóôöùúûüABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzŀlãÃẽẼõÕũŨĩĨążłşţ</alphabet>
+  <alphabet>·ÀÁÂÄÇÈÉÊËÌÍÎÏÑÒÓÔÖÙÚÛÜàáâäçèéêëìíîïñòóôöùúûüABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzŀlãÃẽẼõÕũŨĩĨążłşţő</alphabet>
   <sdefs>
     <sdef n="comp" /> 
     <sdef n="detnt" /> 

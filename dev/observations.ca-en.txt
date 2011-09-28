@@ -28,6 +28,7 @@ TAG:
 * Després d'uns anys reformant l'administració, la tasca va donar fruits i la prosperitat va retornar; 769 taxes menors foren abolides i tot i així la recaptació no va parar de crèixer; >>>les practiques<<< opresives foren eliminades.
 * Frederic Montefeltro fou nomenat >>>duc<<< el 1474 pel Papa Sixte VI.
 * Tot i que les >>>proves<<< fòssils encara són incertes.
+* En Natsu sembla ser un >>>mal<<< perdedor, que mai admet la seva derrota.
 
 BID:
 
@@ -381,10 +382,28 @@ de forma acceptable		acceptably
 en directe			live
 país d'origen			home country
 de forma tenaç			tenaciously
+de forma permanent		permanently
 de forma més tenaç		more tenaciously
 guanyar renom			become well known, become popular
 un gran nombre de seguidors	a huge following
 per tot el país			all over the country
+línia primitiva			primitive streak
+canviar d'idea			change POS mind
+atac al cor			heart attack
+seguir les passes		follow in the footsteps
+obert a interpretacions		open to interpretation
+assaig i error			trial and error
+amb èxit			successful
+autoexiliar-se			go into self-exile
+passar a ser			become
+punt de pas			stepping stone
+com poden ser			as for example
+primer pla			close up
+punt de partida			starting point
+al començament			at the beginning
+anar a la seua			do your own thing
+malgrat que			although
+caixa de canvis			gear box
 
 
 LEX:
@@ -404,6 +423,7 @@ gran X 				"great" X ...
 
 XFR:
 
+als X anys			at the age of X
 per la (meva,seva,teva) banda	"for (my,...,your) part"
 es busca subratllar		"looks to underline" NOT "looks for  underline"
 el 1984				"in 1984" not "the 1984"
