@@ -411,6 +411,7 @@ home llop			werewolf
 de caràcter divulgatiu		informative
 tot i això 			even though
 de forma similar		similarly
+en desacord amb			against
 
 
 LEX:

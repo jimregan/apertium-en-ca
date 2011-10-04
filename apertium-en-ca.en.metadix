@@ -27875,6 +27875,7 @@
     <e lm="pentode"><i>pentode</i><par n="house__n"/></e>
     <e lm="pentose"><i>pentose</i><par n="house__n"/></e>
     <e lm="peoples" a="greenbreen"><i>peoples</i><par n="alms__n"/></e>
+    <e lm="people" a="fmt"><i>people</i><par n="house__n"/></e>
     <e lm="pepper"><i>pepper</i><par n="house__n"/></e>
     <e lm="pepsin"><i>pepsin</i><par n="house__n"/></e>
     <e lm="peptization"><i>pepti</i><par n="globali/sation__n"/></e>
