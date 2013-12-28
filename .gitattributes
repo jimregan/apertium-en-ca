@@ -33,6 +33,7 @@
 /ca-en.prob -text svneol=unset#unset
 ca-tagger-data/README -text
 /configure.ac -text
+dev/html-texts/README -text
 dev/html-texts/file1.html -text
 dev/html-texts/file2.html -text
 dev/odt-tests/README -text
