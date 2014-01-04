@@ -34,7 +34,6 @@
 ca-tagger-data/README -text
 /configure.ac -text
 dev/html-texts/README -text
-dev/html-texts/file1.html -text
 dev/odt-tests/README -text
 dev/odt-tests/file1.odt -text
 dev/odt-tests/file2.odt -text
