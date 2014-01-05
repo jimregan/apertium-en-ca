@@ -41,7 +41,6 @@ dev/odt-tests/file3.odt -text
 dev/odt-tests/file4.odt -text
 dev/odt-tests/file5.odt -text
 dev/odt-tests/file6.odt -text
-dev/odt-tests/file7.odt -text
 dev/odt-tests/file8.odt -text
 dev/odt-tests/file9.odt -text
 /empty.t1x -text
