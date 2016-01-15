@@ -34,6 +34,8 @@
 ca-tagger-data/README -text
 /configure.ac -text
 dev/html-texts/README -text
+dev/html-texts/darkgaia-example1.html -text
+dev/html-texts/darkgaia-example2.html -text
 dev/mariola/detokenizer.perl -text
 dev/mariola/lowercase.perl -text
 dev/mariola/nonbreaking_prefixes/nonbreaking_prefix.de -text
