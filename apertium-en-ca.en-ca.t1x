@@ -5,6 +5,10 @@
     <def-cat n="to"><!--BCN-->
       <cat-item lemma="to" tags="pr"/>
     </def-cat>
+    
+    <def-cat n="in">
+      <cat-item lemma="in" tags="adv"/>
+    </def-cat>
 
     <def-cat n="interj">
       <cat-item tags="ij"/>
@@ -5405,6 +5409,95 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	</out>
       </action>
     </rule>
+    
+    
+    <rule comment="REGLA: IN NUM PERIODE  (In 4 years → en 4 anys)">
+      <pattern>
+	    <pattern-item n="in"/>
+    	<pattern-item n="num"/>
+        <pattern-item n="periode"/>
+      </pattern>
+      <action>    
+	    <call-macro n="firstWord">
+	      <with-param pos="1"/>
+	    </call-macro>
+	      <out>
+            <chunk name="det_num" case="caseFirstWord">
+	           <tags>
+	                <tag><var n="neg"/></tag>
+	           </tags>
+                <lu>
+                    <lit v="en"/>
+                    <lit-tag v="pr"/>
+                </lu>
+                <b />
+                <lu>
+                    <clip pos="2" side="tl" part="whole"/>
+                </lu>
+                <b />
+                <lu>
+                    <clip pos="3" side="tl" part="whole"/>
+                </lu>
+            </chunk>
+          </out>
+      </action>
+    </rule>
+    
+    
+    <rule comment="REGLA: IN YEAR  (In 2010 → el 2010)">
+      <pattern>
+	    <pattern-item n="in"/>
+    	<pattern-item n="num"/>
+      </pattern>
+      <action>    
+	    <call-macro n="firstWord">
+	      <with-param pos="1"/>
+	    </call-macro>
+	      <out>
+            <chunk name="det_num" case="caseFirstWord">
+	           <tags>
+	                <tag><var n="neg"/></tag>
+	           </tags>
+                <lu>
+                    <lit v="el"/>
+                    <lit-tag v="det.def.m.sg"/>
+                </lu>
+                <b />
+                <lu>
+                    <clip pos="2" side="tl" part="whole"/>
+                </lu>
+            </chunk>
+          </out>
+      </action>
+    </rule>
+    
+    
+    <rule comment="REGLA: IN LOC  (In Barcelona → a Barcelona)">
+      <pattern>
+	    <pattern-item n="in"/>
+    	<pattern-item n="nploc"/>
+      </pattern>
+      <action>    
+	    <call-macro n="firstWord">
+	      <with-param pos="1"/>
+	    </call-macro>
+	      <out>
+            <chunk name="pr_loc" case="caseFirstWord">
+	           <tags>
+	                <tag><var n="neg"/></tag>
+	           </tags>
+                <lu>
+                    <lit v="a"/>
+                    <lit-tag v="pr"/>
+                </lu>
+                <b />
+                <lu>
+                    <clip pos="2" side="tl" part="whole"/>
+                </lu>
+            </chunk>
+          </out>
+      </action>
+    </rule>
 
 
 
@@ -6564,10 +6657,10 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
     </rule>
 
 
-    <rule comment="REGLA: DET ADV (incl preadv) ADJ NOM">
+    <rule comment="REGLA: DET PREADV ADJ NOM">
       <pattern>
 	<pattern-item n="det"/>
-	<pattern-item n="adv_preadv"/>
+	<pattern-item n="preadv"/>
 	<pattern-item n="adj"/>
 	<pattern-item n="nom"/>
       </pattern>
@@ -6635,6 +6728,78 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	</out>
       </action>
     </rule>
+    
+    <rule comment="REGLA: DET ADV ADJ NOM">
+      <pattern>
+	<pattern-item n="det"/>
+	<pattern-item n="adv"/>
+	<pattern-item n="adj"/>
+	<pattern-item n="nom"/>
+      </pattern>
+      <action>
+	<call-macro n="det_no">
+	  <with-param pos="1"/>
+	  <with-param pos="4"/>
+	</call-macro>
+	<call-macro n="firstWord">
+	  <with-param pos="1"/>
+	</call-macro>
+	<call-macro n="f_concord3">
+	  <with-param pos="4"/>
+	  <with-param pos="3"/>
+	  <with-param pos="1"/>
+	</call-macro>
+	<call-macro n="comparatiu_adj1">
+	  <with-param pos="3"/>
+	</call-macro> 
+	<call-macro n="determiner">
+	  <with-param pos="1"/>
+	</call-macro> 
+	<out> 
+	  <chunk name="det_nom_adj_adv" case="caseFirstWord">
+	    <tags>
+	      <tag><lit-tag v="SN"/></tag>
+		  <tag><var n="tipus_det"/></tag>
+	      <tag><var n="gen_chunk"/></tag>
+	      <tag><var n="nbr_chunk"/></tag>
+	    </tags>
+	    <lu>   
+	      <clip pos="1" side="tl" part="lem"/> 
+	      <clip pos="1" side="tl" part="a_det"/>
+	      <clip pos="1" side="tl" part="gen_sense_mf" link-to="3"/>
+	      <clip pos="1" side="tl" part="gen_mf"/>
+	      <clip pos="1" side="tl" part="nbr_sense_sp" link-to="4"/>
+	      <clip pos="1" side="tl" part="nbr_sp"/>
+	    </lu> 
+	    <b pos="1"/>	    
+	    <lu>   
+	      <clip pos="4" side="tl" part="lemh"/> 
+	      <clip pos="4" side="tl" part="a_nom"/>
+	      <clip pos="4" side="tl" part="gen_sense_mf" link-to="3"/>
+	      <clip pos="4" side="tl" part="gen_mf"/>
+	      <clip pos="4" side="tl" part="nbr_sense_sp" link-to="4"/>
+	      <clip pos="4" side="tl" part="nbr_sp"/>
+	      <clip pos="4" side="tl" part="lemq"/> 
+	    </lu> 
+	    <b pos="2"/>
+	    <lu> 
+	      <var n="adjectiu1"/>   
+	      <clip pos="3" side="tl" part="lemh"/> 
+	      <clip pos="3" side="tl" part="a_adj"/>
+	      <clip pos="3" side="tl" part="gen_sense_mf" link-to="3"/>
+	      <clip pos="3" side="tl" part="gen_mf"/>
+	      <clip pos="3" side="tl" part="nbr_sense_sp" link-to="4"/>
+	      <clip pos="3" side="tl" part="nbr_sp"/>
+	      <clip pos="3" side="tl" part="lemq"/> 
+	    </lu> 
+	    <b pos="3"/>
+	    <lu>   
+	      <clip pos="2" side="tl" part="whole"/> 
+	    </lu> 
+	  </chunk>
+	</out>
+      </action>
+    </rule>
 
     <rule comment="REGLA: NUM ADV (incl preadv) ADJ NOM">
       <pattern>
@@ -6663,7 +6828,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	  <with-param pos="3"/>
 	</call-macro> 
 	<out> 
-	  <chunk name="num_nom_adv_adj" case="caseFirstWord">
+	  <chunk name="num_nom_adj_adv" case="caseFirstWord">
 	    <tags>
 	      <tag><lit-tag v="SN.NUM"/></tag>
 	      <tag><var n="gen_chunk"/></tag>
@@ -6688,10 +6853,6 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <clip pos="4" side="tl" part="lemq"/> 
 	    </lu> 
 	    <b pos="2"/>
-	    <lu>   
-	      <clip pos="2" side="tl" part="whole"/> 
-	    </lu> 
-	    <b pos="3"/>
 	    <lu> 
 	      <var n="adjectiu1"/>   
 	      <clip pos="3" side="tl" part="lemh"/> 
@@ -6701,6 +6862,10 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <clip pos="3" side="tl" part="nbr_sense_sp" link-to="4"/>
 	      <clip pos="3" side="tl" part="nbr_sp"/>
 	      <clip pos="3" side="tl" part="lemq"/> 
+	    </lu> 
+	    <b pos="3"/>
+	    <lu>   
+	      <clip pos="2" side="tl" part="whole"/> 
 	    </lu> 
 	  </chunk>
 	</out>
@@ -25415,6 +25580,70 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <clip pos="4" side="tl" part="a_pp"/>
 	      <lit-tag v="m.sg"/>
 	      <clip pos="4" side="tl" part="lemq"/> 
+	    </lu>
+	  </chunk>
+	</out>
+      </action>
+    </rule>
+    
+    
+    <rule comment="ADV + AND + ADV + INF">
+      <pattern>
+	<pattern-item n="adv"/>
+	<pattern-item n="cnjcoo"/>
+	<pattern-item n="adv"/>
+    <pattern-item n="infpres"/>
+      </pattern>
+      <action>
+	<call-macro n="firstWord">
+	  <with-param pos="1"/>
+	</call-macro>
+	<out>
+	  <chunk name="verb_adv" case="caseFirstWord">
+	    <tags>
+	      <tag><var n="neg"/></tag>		
+	    </tags>
+	    <lu>
+	      <clip pos="4" side="tl" part="whole"/>
+	    </lu>
+        <b/>
+        <lu>
+	      <clip pos="1" side="tl" part="whole"/>
+	    </lu>
+        <b/>
+        <lu>
+	      <clip pos="2" side="tl" part="whole"/>
+	    </lu>
+        <b/>
+        <lu>
+	      <clip pos="3" side="tl" part="whole"/>
+	    </lu>
+	  </chunk>
+	</out>
+      </action>
+    </rule>
+        
+    
+    <rule comment="ADV + INF">
+      <pattern>
+	<pattern-item n="adv"/>
+    <pattern-item n="infpres"/>
+      </pattern>
+      <action>
+	<call-macro n="firstWord">
+	  <with-param pos="1"/>
+	</call-macro>
+	<out>
+	  <chunk name="verb_adv" case="caseFirstWord">
+	    <tags>
+	      <tag><var n="neg"/></tag>		
+	    </tags>
+	    <lu>
+	      <clip pos="2" side="tl" part="whole"/>
+	    </lu>
+        <b/>
+        <lu>
+	      <clip pos="1" side="tl" part="whole"/>
 	    </lu>
 	  </chunk>
 	</out>
